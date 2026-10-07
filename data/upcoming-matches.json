@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T12:45:21.790Z",
+  "generatedAt": "2026-10-07T20:59:43.522Z",
   "matches": [
     {
       "id": 448683,
@@ -3305,19 +3305,33 @@
         "phaseName": "Kreisklasse Frauen Mitte",
         "competition": "Kreisklasse Frauen",
         "season": {
-          "games": 2,
-          "wins": 1,
+          "games": 3,
+          "wins": 2,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 54,
-          "goalsAgainst": 47,
-          "goalDifference": 7,
-          "winRate": 50,
-          "goalsForAvg": 27,
-          "goalsAgainstAvg": 23.5,
-          "goalDifferenceAvg": 3.5
+          "goalsFor": 92,
+          "goalsAgainst": 58,
+          "goalDifference": 34,
+          "winRate": 66.7,
+          "goalsForAvg": 30.67,
+          "goalsAgainstAvg": 19.33,
+          "goalDifferenceAvg": 11.33
         },
         "recent": [
+          {
+            "id": 514275,
+            "date": "2026-10-07",
+            "time": "20:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81897,
+              "name": "TV TRAPPENKAMP",
+              "clubId": "02z7nh5"
+            },
+            "goalsFor": 38,
+            "goalsAgainst": 11,
+            "result": "W"
+          },
           {
             "id": 514280,
             "date": "2026-10-03",
@@ -3352,33 +3366,33 @@
             "playerId": "1kaysfw",
             "name": "Vanessa Kück",
             "number": 27,
-            "games": 2,
-            "goals": 16,
+            "games": 3,
+            "goals": 25,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 8,
+            "goalsPerGame": 8.33,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "12i7hic",
             "name": "Lina Reichardt",
             "number": 33,
-            "games": 2,
-            "goals": 8,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 4,
+            "games": 3,
+            "goals": 17,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 5.67,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1d6jsfu",
             "name": "Leonie Peukert",
             "number": 12,
-            "games": 2,
-            "goals": 7,
+            "games": 3,
+            "goals": 15,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 3.5,
+            "goalsPerGame": 5,
             "sevenMeterPercentage": 100
           },
           {
@@ -3396,17 +3410,17 @@
             "playerId": "0f2sisv",
             "name": "Sandra Reichardt",
             "number": 3,
-            "games": 2,
+            "games": 3,
             "goals": 6,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
+          "finishedMatches": 3,
+          "lineupMatches": 3,
           "percentage": 100
         }
       }
@@ -10717,19 +10731,33 @@
         "phaseName": "mD-KK-Hin",
         "competition": "Kreisklasse mD Neumünster",
         "season": {
-          "games": 3,
-          "wins": 3,
+          "games": 4,
+          "wins": 4,
           "draws": 0,
           "losses": 0,
-          "goalsFor": 85,
-          "goalsAgainst": 47,
-          "goalDifference": 38,
+          "goalsFor": 103,
+          "goalsAgainst": 59,
+          "goalDifference": 44,
           "winRate": 100,
-          "goalsForAvg": 28.33,
-          "goalsAgainstAvg": 15.67,
-          "goalDifferenceAvg": 12.67
+          "goalsForAvg": 25.75,
+          "goalsAgainstAvg": 14.75,
+          "goalDifferenceAvg": 11
         },
         "recent": [
+          {
+            "id": 532840,
+            "date": "2026-10-07",
+            "time": "17:30",
+            "isHome": true,
+            "opponent": {
+              "id": 82507,
+              "name": "TUS HARTENHOLM",
+              "clubId": "11bbz3c"
+            },
+            "goalsFor": 18,
+            "goalsAgainst": 12,
+            "result": "W"
+          },
           {
             "id": 532855,
             "date": "2026-10-03",
@@ -10778,44 +10806,44 @@
             "playerId": "0nqu192",
             "name": "Jakob Voß",
             "number": 10,
-            "games": 3,
-            "goals": 28,
+            "games": 4,
+            "goals": 30,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 9.33,
+            "goalsPerGame": 7.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0cyuiqb",
             "name": "Leonidas Pantelis Kuhnke",
             "number": 8,
-            "games": 3,
-            "goals": 26,
+            "games": 4,
+            "goals": 29,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 8.67,
+            "goalsPerGame": 7.25,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1sykrvr",
             "name": "Mats Baudewig",
             "number": 14,
-            "games": 3,
-            "goals": 13,
-            "sevenMeterGoals": 5,
-            "sevenMeterAttempts": 5,
-            "goalsPerGame": 4.33,
+            "games": 4,
+            "goals": 24,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 9,
+            "goalsPerGame": 6,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1g1sks5",
             "name": "Kjell Fischer",
             "number": 3,
-            "games": 3,
+            "games": 4,
             "goals": 11,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.67,
+            "goalsPerGame": 2.75,
             "sevenMeterPercentage": null
           },
           {
@@ -10831,8 +10859,8 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -17152,19 +17180,33 @@
         "phaseName": "Kreisklasse Frauen Mitte",
         "competition": "Kreisklasse Frauen",
         "season": {
-          "games": 2,
-          "wins": 1,
+          "games": 3,
+          "wins": 2,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 54,
-          "goalsAgainst": 47,
-          "goalDifference": 7,
-          "winRate": 50,
-          "goalsForAvg": 27,
-          "goalsAgainstAvg": 23.5,
-          "goalDifferenceAvg": 3.5
+          "goalsFor": 92,
+          "goalsAgainst": 58,
+          "goalDifference": 34,
+          "winRate": 66.7,
+          "goalsForAvg": 30.67,
+          "goalsAgainstAvg": 19.33,
+          "goalDifferenceAvg": 11.33
         },
         "recent": [
+          {
+            "id": 514275,
+            "date": "2026-10-07",
+            "time": "20:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81897,
+              "name": "TV TRAPPENKAMP",
+              "clubId": "02z7nh5"
+            },
+            "goalsFor": 38,
+            "goalsAgainst": 11,
+            "result": "W"
+          },
           {
             "id": 514280,
             "date": "2026-10-03",
@@ -17199,33 +17241,33 @@
             "playerId": "1kaysfw",
             "name": "Vanessa Kück",
             "number": 27,
-            "games": 2,
-            "goals": 16,
+            "games": 3,
+            "goals": 25,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 8,
+            "goalsPerGame": 8.33,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "12i7hic",
             "name": "Lina Reichardt",
             "number": 33,
-            "games": 2,
-            "goals": 8,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 4,
+            "games": 3,
+            "goals": 17,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 5.67,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1d6jsfu",
             "name": "Leonie Peukert",
             "number": 12,
-            "games": 2,
-            "goals": 7,
+            "games": 3,
+            "goals": 15,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 3.5,
+            "goalsPerGame": 5,
             "sevenMeterPercentage": 100
           },
           {
@@ -17243,17 +17285,17 @@
             "playerId": "0f2sisv",
             "name": "Sandra Reichardt",
             "number": 3,
-            "games": 2,
+            "games": 3,
             "goals": 6,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
+          "finishedMatches": 3,
+          "lineupMatches": 3,
           "percentage": 100
         }
       }
