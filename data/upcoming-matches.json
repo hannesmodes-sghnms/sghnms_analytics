@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:45:54.277Z",
+  "generatedAt": "2026-10-08T18:42:44.109Z",
   "matches": [
     {
       "id": 448683,
@@ -6183,19 +6183,33 @@
         "phaseName": "mD-KK-Hin",
         "competition": "Kreisklasse mD Neumünster",
         "season": {
-          "games": 2,
-          "wins": 2,
+          "games": 3,
+          "wins": 3,
           "draws": 0,
           "losses": 0,
-          "goalsFor": 48,
-          "goalsAgainst": 9,
-          "goalDifference": 39,
+          "goalsFor": 70,
+          "goalsAgainst": 16,
+          "goalDifference": 54,
           "winRate": 100,
-          "goalsForAvg": 24,
-          "goalsAgainstAvg": 4.5,
-          "goalDifferenceAvg": 19.5
+          "goalsForAvg": 23.33,
+          "goalsAgainstAvg": 5.33,
+          "goalDifferenceAvg": 18
         },
         "recent": [
+          {
+            "id": 532847,
+            "date": "2026-10-08",
+            "time": "17:45",
+            "isHome": false,
+            "opponent": {
+              "id": 82515,
+              "name": "TV TRAPPENKAMP",
+              "clubId": "02z7nh5"
+            },
+            "goalsFor": 22,
+            "goalsAgainst": 7,
+            "result": "W"
+          },
           {
             "id": 532842,
             "date": "2026-09-27",
@@ -6230,61 +6244,61 @@
             "playerId": "12rgs2z",
             "name": "Tristan Alexander Schulz",
             "number": 6,
-            "games": 2,
-            "goals": 18,
+            "games": 3,
+            "goals": 23,
             "sevenMeterGoals": 3,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 9,
+            "goalsPerGame": 7.67,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1lkp9cr",
             "name": "Fynn Luca Rothhardt",
             "number": 5,
-            "games": 2,
-            "goals": 13,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6.5,
-            "sevenMeterPercentage": null
+            "games": 3,
+            "goals": 20,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 6.67,
+            "sevenMeterPercentage": 100
           },
           {
             "playerId": "01mhuca",
             "name": "Nicklas Uhlemann",
             "number": 10,
-            "games": 2,
-            "goals": 7,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": null
+            "games": 3,
+            "goals": 10,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3.33,
+            "sevenMeterPercentage": 100
           },
           {
             "playerId": "03gbyc7",
             "name": "Henry Schütze",
             "number": 4,
-            "games": 2,
-            "goals": 6,
+            "games": 3,
+            "goals": 8,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.67,
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "130cmgx",
-            "name": "Henry Johann Doubleday",
-            "number": 15,
+            "playerId": "022hng8",
+            "name": "Linus Laukien",
+            "number": 16,
             "games": 2,
-            "goals": 2,
+            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1,
+            "goalsPerGame": 1.5,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
+          "finishedMatches": 3,
+          "lineupMatches": 3,
           "percentage": 100
         }
       }

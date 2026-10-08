@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:45:54.314Z",
+  "generatedAt": "2026-10-08T18:42:44.132Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1546,7 +1546,7 @@
             },
             {
               "round": 2,
-              "position": 2,
+              "position": 3,
               "played": 2,
               "won": 2,
               "drawn": 0,
@@ -1669,18 +1669,22 @@
                   "name": "Mixed"
                 }
               },
-              "played": 2,
-              "won": 2,
+              "played": 3,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 48,
-              "goalsAgainst": 9,
-              "goalDifference": 39,
-              "points": 4,
+              "goalsFor": 70,
+              "goalsAgainst": 16,
+              "goalDifference": 54,
+              "points": 6,
               "qualifies": true,
               "form": [
                 {
                   "matchId": 532842,
+                  "result": "W"
+                },
+                {
+                  "matchId": 532847,
                   "result": "W"
                 },
                 {
@@ -1985,18 +1989,22 @@
                   "name": "Mixed"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "goalsFor": 53,
-              "goalsAgainst": 89,
-              "goalDifference": -36,
+              "lost": 5,
+              "goalsFor": 60,
+              "goalsAgainst": 111,
+              "goalDifference": -51,
               "points": 0,
               "qualifies": true,
               "form": [
                 {
                   "matchId": 532843,
+                  "result": "L"
+                },
+                {
+                  "matchId": 532847,
                   "result": "L"
                 },
                 {
