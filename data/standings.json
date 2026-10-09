@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T18:42:44.132Z",
+  "generatedAt": "2026-10-09T00:50:52.835Z",
   "teams": [
     {
       "teamId": "86801",
@@ -9727,10 +9727,10 @@
           "competition": "Kreisklasse Frauen",
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
-          "currentRound": 4,
+          "currentRound": 6,
           "teamCount": 10,
           "current": {
-            "round": 4,
+            "round": 6,
             "position": 5,
             "played": 1,
             "won": 1,
@@ -9784,6 +9784,19 @@
             },
             {
               "round": 4,
+              "position": 5,
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 20,
+              "goalsAgainst": 9,
+              "goalDifference": 11,
+              "points": 2,
+              "qualifies": true
+            },
+            {
+              "round": 6,
               "position": 5,
               "played": 1,
               "won": 1,
@@ -9855,14 +9868,14 @@
                   "name": "Female"
                 }
               },
-              "played": 2,
+              "played": 3,
               "won": 2,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "goalsFor": 76,
-              "goalsAgainst": 50,
+              "goalsFor": 97,
+              "goalsAgainst": 71,
               "goalDifference": 26,
-              "points": 4,
+              "points": 5,
               "qualifies": true,
               "form": [
                 {
@@ -9872,6 +9885,10 @@
                 {
                   "matchId": 514274,
                   "result": "W"
+                },
+                {
+                  "matchId": 514288,
+                  "result": "D"
                 }
               ]
             },
@@ -9929,19 +9946,23 @@
                   "name": "Female"
                 }
               },
-              "played": 1,
+              "played": 2,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "goalsFor": 32,
-              "goalsAgainst": 15,
+              "goalsFor": 53,
+              "goalsAgainst": 36,
               "goalDifference": 17,
-              "points": 2,
+              "points": 3,
               "qualifies": true,
               "form": [
                 {
                   "matchId": 514272,
                   "result": "W"
+                },
+                {
+                  "matchId": 514288,
+                  "result": "D"
                 }
               ]
             },
