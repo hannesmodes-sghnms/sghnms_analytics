@@ -1402,14 +1402,15 @@ function renderClubDiscipline() {
       b.warnings - a.warnings ||
       b.blueCards - a.blueCards ||
       a.name.localeCompare(b.name, "de")
-    );
+    )
+    .slice(0, 20);
 
   const note = $("#club-discipline-note");
   if (note) {
     const contextualFilterActive = state.clubPeriod !== "all" || state.clubVenue !== "all";
     note.textContent = contextualFilterActive
-      ? "Spieler-Saisonwerte · Zeitraum/Spielort gelten nicht für Disziplinwerte"
-      : "Spieler-Saisonwerte · Standard: 2 Min. absteigend";
+      ? "Top 20 · Spieler-Saisonwerte · Zeitraum/Spielort gelten nicht für Disziplinwerte"
+      : "Top 20 · Spieler-Saisonwerte · Standard: 2 Min. absteigend";
   }
 
   $("#club-discipline-table-body").innerHTML = players.map(player => `
