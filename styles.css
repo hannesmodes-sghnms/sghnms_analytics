@@ -1076,3 +1076,47 @@ select {
     line-height: 1.2;
   }
 }
+
+
+/* v7.4 developer disclaimer */
+.developer-disclaimer {
+  margin-top: 26px;
+  padding: 0 4px;
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.developer-disclaimer summary {
+  cursor: pointer;
+  width: fit-content;
+  font-weight: 750;
+  color: #8b96a6;
+}
+
+.developer-disclaimer[open] {
+  padding: 12px 14px 14px;
+  border: 1px dashed var(--line);
+  border-radius: 12px;
+  background: rgba(255,255,255,.5);
+}
+
+.developer-disclaimer .coverage-grid {
+  padding: 14px 0 6px;
+}
+
+.developer-disclaimer .coverage-note,
+.developer-disclaimer .warning-row {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.player-game-bar-value {
+  pointer-events: none;
+  user-select: none;
+}
+
+@media (max-width: 760px) {
+  .developer-disclaimer {
+    font-size: 11px;
+  }
+}

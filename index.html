@@ -13,7 +13,7 @@
   <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
   <link rel="icon" type="image/png" sizes="48x48" href="./assets/app/favicon-48.png">
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/app/apple-touch-icon.png">
-  <link rel="stylesheet" href="./styles.css?v=7.3">
+  <link rel="stylesheet" href="./styles.css?v=7.4">
 </head>
 <body>
   <header class="topbar">
@@ -84,7 +84,7 @@
 
       <section class="kpi-grid" id="club-kpis"></section>
 
-      <section class="content-grid content-grid--main">
+      <section class="content-grid">
         <article class="panel chart-panel">
           <div class="panel-head">
             <div>
@@ -94,16 +94,6 @@
             <div class="legend"><span class="legend-line"></span> nach Spieltag</div>
           </div>
           <div id="trend-chart" class="chart" aria-label="Kumulative Siegquote"></div>
-        </article>
-
-        <article class="panel quality-panel">
-          <div class="panel-head">
-            <div>
-              <span class="section-eyebrow">DATENBASIS</span>
-              <h2>Abdeckung & Qualität</h2>
-            </div>
-          </div>
-          <div id="coverage-content"></div>
         </article>
       </section>
 
@@ -125,7 +115,7 @@
               <span class="section-eyebrow">VERGLEICH</span>
               <h2>Mannschaften</h2>
             </div>
-            <span class="panel-note">sortiert nach Siegquote</span>
+            <span class="panel-note">Siegquote · bei Gleichstand aktuelle Serie</span>
           </div>
           <div class="table-wrap">
             <table class="data-table" id="club-team-table">
@@ -241,15 +231,16 @@
         <div class="panel-head">
           <div>
             <span class="section-eyebrow">DISZIPLIN</span>
-            <h2>Verwarnungen & Strafen</h2>
+            <h2>Spieler · Verwarnungen & Strafen</h2>
           </div>
-          <span class="panel-note" id="club-discipline-note">Saisonwerte · Standard: 2 Min. absteigend</span>
+          <span class="panel-note" id="club-discipline-note">Spieler-Saisonwerte · Standard: 2 Min. absteigend</span>
         </div>
         <div class="table-wrap">
-          <table class="data-table" id="club-discipline-table" data-default-sort-column="2" data-default-sort-dir="desc">
+          <table class="data-table" id="club-discipline-table" data-default-sort-column="3" data-default-sort-dir="desc">
             <thead>
               <tr>
-                <th>Team</th>
+                <th>Spieler</th>
+                <th>Eins.</th>
                 <th>Verwarnungen</th>
                 <th>2 Min.</th>
                 <th>Rot</th>
@@ -408,7 +399,8 @@
                   <th>Anteil</th>
                   <th>7m</th>
                   <th>2 Min.</th>
-                  <th>Verlauf</th>
+                  <th>Rot</th>
+                  <th data-no-sort>Verlauf</th>
                 </tr>
               </thead>
               <tbody id="team-player-table"></tbody>
@@ -436,6 +428,11 @@
         </section>
       </section>
     </section>
+
+    <details class="developer-disclaimer">
+      <summary>Datenbasis & Qualität</summary>
+      <div id="coverage-content"></div>
+    </details>
   </main>
 
   <footer class="footer">
@@ -443,7 +440,7 @@
     <span>Interne Auswertung · Datenquelle handball.net</span>
   </footer>
 
-  <script type="module" src="./app.js?v=7.3"></script>
+  <script type="module" src="./app.js?v=7.4"></script>
   <script type="module" src="./pwa.js"></script>
 </body>
 </html>

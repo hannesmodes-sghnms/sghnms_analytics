@@ -507,10 +507,15 @@ function standingChartSvg(phase) {
 }
 
 function standingsTableHtml(phase, teamId) {
-  const rows = Array.isArray(phase?.table) ? phase.table : [];
+  const rows = Array.isArray(phase?.table)
+    ? phase.table.slice().sort((a, b) =>
+        Number(a.position ?? 999) - Number(b.position ?? 999) ||
+        String(a.team?.name || "").localeCompare(String(b.team?.name || ""), "de")
+      )
+    : [];
   if (!rows.length) return `<div class="chart-empty">Keine aktuelle Tabelle verfügbar.</div>`;
 
-  return `<div class="standings-table-scroll"><table class="data-table standings-table">
+  return `<div class="standings-table-scroll"><table class="data-table standings-table" data-default-sort-column="0" data-default-sort-dir="asc">
     <thead><tr><th>Pl.</th><th>Team</th><th>Sp.</th><th>S-U-N</th><th>Tore</th><th>TD</th><th>Pkt.</th></tr></thead>
     <tbody>${rows.map(row => {
       const own = String(row.team?.id ?? "") === String(teamId);
@@ -554,16 +559,23 @@ function renderClubStandings() {
     return;
   }
 
-  const cards = scopeTeams().map(team => {
-    const phase = currentStandingPhase(team.id);
-    if (!phase?.current) return null;
-    return `<div class="standing-overview-card">
+  const cards = scopeTeams()
+    .map(team => {
+      const phase = currentStandingPhase(team.id);
+      return phase?.current ? { team, phase } : null;
+    })
+    .filter(Boolean)
+    .sort((a, b) =>
+      Number(a.phase.current.position ?? 999) - Number(b.phase.current.position ?? 999) ||
+      Number(b.phase.current.points ?? 0) - Number(a.phase.current.points ?? 0) ||
+      a.team.name.localeCompare(b.team.name, "de")
+    )
+    .map(({ team, phase }) => `<div class="standing-overview-card">
       <span>${team.name}</span>
       <strong>${phase.current.position}. / ${phase.teamCount}</strong>
       <em>${phase.current.points} Pkt. · ${phase.current.played} Sp.</em>
       <small>${phase.phaseName || phase.competition || "Liga"}</small>
-    </div>`;
-  }).filter(Boolean);
+    </div>`);
 
   note.textContent = "Mannschaft wählen für Verlauf";
   root.innerHTML = cards.length
@@ -602,6 +614,27 @@ function renderKpis(target, summary) {
   ].join("");
 }
 
+function resultStreaksForTeam(teamId) {
+  const results = filteredMatchesForTeam(teamId)
+    .slice()
+    .sort((a, b) => `${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`))
+    .map(match => perspective(match).result);
+
+  const latest = results.at(-1);
+  let streak = 0;
+
+  for (let index = results.length - 1; index >= 0; index -= 1) {
+    if (results[index] !== latest) break;
+    streak += 1;
+  }
+
+  return {
+    winStreak: latest === "W" ? streak : 0,
+    lossStreak: latest === "L" ? streak : 0,
+    drawStreak: latest === "D" ? streak : 0
+  };
+}
+
 function formForTeam(teamId, limit = 5) {
   return filteredMatchesForTeam(teamId)
     .slice()
@@ -617,13 +650,23 @@ function formHtml(form) {
 
 function renderTeamTable() {
   const teams = scopeTeams()
-    .map(team => ({ ...team, ...summarize(filteredMatchesForTeam(team.id)) }))
+    .map(team => ({
+      ...team,
+      ...summarize(filteredMatchesForTeam(team.id)),
+      ...resultStreaksForTeam(team.id)
+    }))
     .filter(team => team.games > 0 || Boolean(state.clubTeamId))
-    .sort((a, b) => b.winRate - a.winRate || b.goalDifference - a.goalDifference || a.name.localeCompare(b.name, "de"));
+    .sort((a, b) =>
+      b.winRate - a.winRate ||
+      b.winStreak - a.winStreak ||
+      a.lossStreak - b.lossStreak ||
+      b.goalDifference - a.goalDifference ||
+      a.name.localeCompare(b.name, "de")
+    );
 
   $("#team-table-body").innerHTML = teams.map(team => {
     const gdAvg = team.games ? team.goalDifference / team.games : 0;
-    return `<tr>
+    return `<tr data-win-streak="${team.winStreak || 0}" data-loss-streak="${team.lossStreak || 0}">
       <td class="team-cell"><strong>${team.name}</strong><span>${team.label}</span></td>
       <td>${team.games}</td>
       <td>${team.wins}-${team.draws}-${team.losses}</td>
@@ -693,12 +736,16 @@ function playerScoringChartHtml(history) {
   const innerW = w - left - right;
   const innerH = h - top - bottom;
   const cumulativeMax = Math.max(1, totalGoals);
-  const gameGoalsMax = Math.max(1, ...points.map(point => Number(point.match.goals || 0)));
+  const gameGoalsMax = Math.max(0, ...points.map(point => Number(point.match.goals || 0)));
+  const gameAxisMax = Math.max(1, Math.ceil(gameGoalsMax * 1.15));
   const x = index => left + (points.length === 1 ? innerW / 2 : (index / (points.length - 1)) * innerW);
   const y = value => top + ((cumulativeMax - Number(value || 0)) / cumulativeMax) * innerH;
-  const yGame = value => top + ((gameGoalsMax - Number(value || 0)) / gameGoalsMax) * innerH;
+  const yGame = value => top + ((gameAxisMax - Number(value || 0)) / gameAxisMax) * innerH;
   const gridValues = Array.from({ length: 5 }, (_, i) => Math.round((cumulativeMax * (4 - i)) / 4));
-  const gameTicks = [...new Set(Array.from({ length: 5 }, (_, i) => Math.round((gameGoalsMax * i) / 4)))].sort((a, b) => a - b);
+  const tickStep = gameAxisMax <= 12 ? 1 : Math.ceil(gameAxisMax / 8);
+  const gameTicks = [];
+  for (let value = 0; value <= gameAxisMax; value += tickStep) gameTicks.push(value);
+  if (gameTicks.at(-1) !== gameAxisMax) gameTicks.push(gameAxisMax);
 
   const lowerByTeam = {};
   let runningLower = points.map(() => 0);
@@ -712,7 +759,7 @@ function playerScoringChartHtml(history) {
   svg += `<text x="${left}" y="${top-9}" font-size="${axisFont}" font-weight="700" fill="#7a8798">kumuliert</text>`;
   svg += `<line x1="${w-right}" x2="${w-right}" y1="${top}" y2="${top+innerH}" stroke="#bf0b0f" stroke-width="1" opacity="0.35"/>`;
   svg += gameTicks.map(value => `<text x="${w-right+8}" y="${yGame(value)+4}" text-anchor="start" font-size="${axisFont}" fill="#bf0b0f">${value}</text>`).join("");
-  svg += `<text x="${w-right+8}" y="${top-9}" font-size="${axisFont}" font-weight="700" fill="#bf0b0f">Tore/Sp.</text>`;
+  svg += `<text x="${w-right}" y="${top-9}" text-anchor="end" font-size="${axisFont}" font-weight="700" fill="#bf0b0f">Tore im Spiel</text>`;
 
   teamOrder.forEach((teamId, teamIndex) => {
     const lower = lowerByTeam[teamId];
@@ -729,6 +776,7 @@ function playerScoringChartHtml(history) {
     const naturalHeight = goals ? (top + innerH) - yGame(goals) : 0;
     const barHeight = goals ? Math.max(2, naturalHeight) : 3;
     const barY = goals ? yGame(goals) : top + innerH - barHeight;
+    const labelY = Math.max(top + axisFont, barY - 5);
     return `<rect
       class="player-game-bar"
       x="${x(index) - barWidth / 2}"
@@ -748,7 +796,8 @@ function playerScoringChartHtml(history) {
       data-team-name="${encodeURIComponent(match.teamName || "")}"
       data-opponent="${encodeURIComponent(match.opponent || "")}"
       data-is-home="${match.isHome ? "1" : "0"}"
-    ><title>${dateLong(match.date)} · ${goals} Tore</title></rect>`;
+    ><title>${dateLong(match.date)} · ${goals} Tore</title></rect>
+      <text class="player-game-bar-value" x="${x(index)}" y="${labelY}" text-anchor="middle" font-size="${compact ? 12 : 9}" font-weight="800" fill="#bf0b0f">${goals}</text>`;
   }).join("");
 
   const totalPoints = points.map((point, index) => {
@@ -775,7 +824,7 @@ function playerScoringChartHtml(history) {
     <div class="scoring-history-chart">${svg}</div>
     <div class="scoring-history-legend">
       ${legend}
-      <span class="scoring-history-legend-item scoring-history-bar-legend"><i></i>Tore/Spiel <strong>rechte Achse</strong></span>
+      <span class="scoring-history-legend-item scoring-history-bar-legend"><i></i>Tore im jeweiligen Spiel <strong>rechte Achse</strong></span>
     </div>
     <div class="scoring-history-game-detail" aria-live="polite">
       <span>Balken anklicken: Spiel, Gegner und Tore werden hier angezeigt.</span>
@@ -862,6 +911,10 @@ function scopePlayers() {
         goals: 0,
         sevenMeterGoals: 0,
         sevenMeterAttempts: 0,
+        warnings: 0,
+        twoMinutes: 0,
+        redCards: 0,
+        blueCards: 0,
         teamNames: new Set()
       });
     }
@@ -870,6 +923,10 @@ function scopePlayers() {
     player.goals += Number(row.goals || 0);
     player.sevenMeterGoals += Number(row.sevenMeters?.goals || 0);
     player.sevenMeterAttempts += Number(row.sevenMeters?.attempts || 0);
+    player.warnings += Number(row.warnings || 0);
+    player.twoMinutes += Number(row.twoMinutes || 0);
+    player.redCards += Number(row.redCards ?? row.disqualifications ?? 0);
+    player.blueCards += Number(row.blueCards || 0);
     if (row.teamName) player.teamNames.add(row.teamName);
   }
 
@@ -1003,11 +1060,30 @@ function sortDomTable(table, columnIndex, direction = "asc") {
     return;
   }
 
-  groups.sort((a, b) => compareDomTableCells(
-    a[0].cells[columnIndex],
-    b[0].cells[columnIndex],
-    direction
-  ));
+  groups.sort((a, b) => {
+    const primary = compareDomTableCells(
+      a[0].cells[columnIndex],
+      b[0].cells[columnIndex],
+      direction
+    );
+
+    if (primary !== 0) return primary;
+
+    if (table.id === "club-team-table" && columnIndex === 4) {
+      const aWin = Number(a[0].dataset.winStreak || 0);
+      const bWin = Number(b[0].dataset.winStreak || 0);
+      const aLoss = Number(a[0].dataset.lossStreak || 0);
+      const bLoss = Number(b[0].dataset.lossStreak || 0);
+
+      if (direction === "desc") {
+        return bWin - aWin || aLoss - bLoss;
+      }
+
+      return bLoss - aLoss || aWin - bWin;
+    }
+
+    return 0;
+  });
 
   const fragment = document.createDocumentFragment();
   for (const group of groups) {
@@ -1312,46 +1388,51 @@ function renderTrend(target, matches, { trainer = false } = {}) {
   root.innerHTML = body;
 }
 function renderClubDiscipline() {
-  const rows = scopeTeams().map(team => {
-    const analytics = teamAnalytics(team.id);
-    const sanctions = analytics?.sanctions || {};
-    return {
-      team,
-      analyticsMatches: Number(analytics?.analyticsMatches || 0),
-      warnings: Number(sanctions.warnings || 0),
-      twoMinutes: Number(sanctions.twoMinutes || 0),
-      redCards: Number(sanctions.redCards ?? sanctions.disqualifications ?? 0),
-      blueCards: Number(sanctions.blueCards || 0)
-    };
-  });
+  const players = scopePlayers()
+    .filter(player =>
+      player.warnings ||
+      player.twoMinutes ||
+      player.redCards ||
+      player.blueCards ||
+      player.appearances
+    )
+    .sort((a, b) =>
+      b.twoMinutes - a.twoMinutes ||
+      b.redCards - a.redCards ||
+      b.warnings - a.warnings ||
+      b.blueCards - a.blueCards ||
+      a.name.localeCompare(b.name, "de")
+    );
 
   const note = $("#club-discipline-note");
   if (note) {
     const contextualFilterActive = state.clubPeriod !== "all" || state.clubVenue !== "all";
     note.textContent = contextualFilterActive
-      ? "Saisonwerte · Zeitraum/Spielort gelten nicht für Disziplinwerte"
-      : "Saisonwerte · Standard: 2 Min. absteigend";
+      ? "Spieler-Saisonwerte · Zeitraum/Spielort gelten nicht für Disziplinwerte"
+      : "Spieler-Saisonwerte · Standard: 2 Min. absteigend";
   }
 
-  $("#club-discipline-table-body").innerHTML = rows.map(item => `
+  $("#club-discipline-table-body").innerHTML = players.map(player => `
     <tr>
-      <td class="team-cell"><strong>${item.team.name}</strong><span>${item.analyticsMatches} Event-Spiele</span></td>
-      <td>${item.warnings}</td>
-      <td class="rate">${item.twoMinutes}</td>
-      <td>${item.redCards}</td>
-      <td>${item.blueCards}</td>
+      <td class="team-cell"><strong>${player.name}</strong><span>${player.teamNames.join(" · ") || "–"}</span></td>
+      <td>${player.appearances || 0}</td>
+      <td>${player.warnings || 0}</td>
+      <td class="rate">${player.twoMinutes || 0}</td>
+      <td>${player.redCards || 0}</td>
+      <td>${player.blueCards || 0}</td>
     </tr>`
-  ).join("") || `<tr><td colspan="5">Keine Disziplinwerte im gewählten Bereich.</td></tr>`;
+  ).join("") || `<tr><td colspan="6">Keine Disziplinwerte im gewählten Bereich.</td></tr>`;
 
   const table = $("#club-discipline-table");
   if (table && table.dataset.sortEnhanced === "1") {
     if (!table.dataset.sortColumn) {
-      table.dataset.sortColumn = "2";
+      table.dataset.sortColumn = "3";
       table.dataset.sortDir = "desc";
     }
     reapplyDomTableSort(table);
   }
 }
+
 
 function renderClub() {
   const matches = scopeMatches();
@@ -1489,7 +1570,7 @@ function renderTeamRuns(team) {
 function renderTeamPlayers(team) {
   const players = team?.players || [];
   $("#team-player-table").innerHTML = players.map((player, index) => {
-    const history = playerHistoryRows(player, index, 9, "team-player");
+    const history = playerHistoryRows(player, index, 10, "team-player");
     return `<tr>
       <td>${player.number ?? "–"}</td>
       <td class="team-cell"><strong>${player.name}</strong><span>${player.playerId}</span></td>
@@ -1499,6 +1580,7 @@ function renderTeamPlayers(team) {
       <td>${percent(player.goalSharePercent || 0)}</td>
       <td>${player.sevenMeters?.attempts ? `${player.sevenMeters.goals}/${player.sevenMeters.attempts} · ${percent(player.sevenMeters.percentage)}` : "–"}</td>
       <td>${player.twoMinutes || 0}</td>
+      <td>${player.redCards ?? player.disqualifications ?? 0}</td>
       <td class="player-history-toggle-cell">${history.button}</td>
     </tr>${history.row}`;
   }).join("") || `<tr><td colspan="9">Keine Spielerstatistiken vorhanden.</td></tr>`;
