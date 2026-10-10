@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:54:43.888Z",
+  "generatedAt": "2026-10-10T13:16:58.101Z",
   "teams": [
     {
       "id": "86801",
@@ -20,7 +20,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 8,
-        "disqualifications": 1
+        "disqualifications": 1,
+        "redCards": 1,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -249,7 +251,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04xdzd6",
@@ -267,7 +271,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1mgbveb",
@@ -285,7 +291,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 1
+          "disqualifications": 1,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ulundt",
@@ -303,7 +311,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "17enfwp",
@@ -321,7 +331,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0q2chk9",
@@ -339,7 +351,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0nxmg2n",
@@ -357,7 +371,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1t8y838",
@@ -375,7 +391,9 @@
           },
           "warnings": 0,
           "twoMinutes": 4,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0gsrsgk",
@@ -393,7 +411,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "13czq1v",
@@ -411,7 +431,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1so4d6h",
@@ -429,7 +451,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0yeky8i",
@@ -447,7 +471,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0m4yjq7",
@@ -465,7 +491,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1kcz9rl",
@@ -483,7 +511,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1uli77x",
@@ -501,7 +531,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0w14tpp",
@@ -519,7 +551,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "06pa1vu",
@@ -537,7 +571,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1bwno16",
@@ -555,7 +591,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03pohni",
@@ -573,7 +611,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1dke1nh",
@@ -591,7 +631,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0oy4h71",
@@ -609,7 +651,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -632,7 +676,9 @@
       "sanctions": {
         "warnings": 5,
         "twoMinutes": 7,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -861,7 +907,9 @@
           },
           "warnings": 2,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0tooyml",
@@ -879,7 +927,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0s2pgfl",
@@ -897,7 +947,9 @@
           },
           "warnings": 1,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ysvzvo",
@@ -915,7 +967,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04x44aa",
@@ -933,7 +987,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1jrnqbk",
@@ -951,7 +1007,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0j29e9h",
@@ -969,7 +1027,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "12lryvb",
@@ -987,7 +1047,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "002ztgg",
@@ -1005,7 +1067,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1u6hfvn",
@@ -1023,7 +1087,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1azghcr",
@@ -1041,7 +1107,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1eajsjy",
@@ -1059,7 +1127,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0luyc2n",
@@ -1077,7 +1147,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0py2kbh",
@@ -1095,7 +1167,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ewrb52",
@@ -1113,7 +1187,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0tf0590",
@@ -1131,7 +1207,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1jpz31a",
@@ -1149,7 +1227,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -1174,7 +1254,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 2,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -1355,7 +1437,9 @@
           },
           "warnings": 2,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1sjtbh0",
@@ -1373,7 +1457,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "12tasze",
@@ -1391,7 +1477,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0popg38",
@@ -1409,7 +1497,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1k59ybk",
@@ -1427,7 +1517,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1hd7oax",
@@ -1445,7 +1537,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "06ntphq",
@@ -1463,7 +1557,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09b3llv",
@@ -1481,7 +1577,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0rwvd0q",
@@ -1499,7 +1597,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "167evvc",
@@ -1517,7 +1617,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "10iwmej",
@@ -1535,7 +1637,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -1560,7 +1664,9 @@
       "sanctions": {
         "warnings": 3,
         "twoMinutes": 2,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -1741,7 +1847,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1q0drs8",
@@ -1759,7 +1867,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1bwncfo",
@@ -1777,7 +1887,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0hnfhvg",
@@ -1795,7 +1907,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1hwqb0j",
@@ -1813,7 +1927,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "15udh2p",
@@ -1831,7 +1947,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09b3llv",
@@ -1849,7 +1967,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ahtrit",
@@ -1867,7 +1987,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0uo2hnc",
@@ -1885,7 +2007,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "025p3cy",
@@ -1903,7 +2027,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0vp6a8b",
@@ -1921,7 +2047,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "06xox3n",
@@ -1939,7 +2067,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1v1q1c0",
@@ -1957,7 +2087,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04whfyo",
@@ -1975,7 +2107,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1oq21er",
@@ -1993,7 +2127,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -2018,7 +2154,9 @@
       "sanctions": {
         "warnings": 3,
         "twoMinutes": 2,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -2199,7 +2337,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1j750tl",
@@ -2217,7 +2357,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1tvusq0",
@@ -2235,7 +2377,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1i08w84",
@@ -2253,7 +2397,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0v231oa",
@@ -2271,7 +2417,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1f9mi7y",
@@ -2289,7 +2437,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "19ig51u",
@@ -2307,7 +2457,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "043mucy",
@@ -2325,7 +2477,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ro66ie",
@@ -2343,7 +2497,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1q8mcov",
@@ -2361,7 +2517,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ukv4e5",
@@ -2379,7 +2537,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "10q969m",
@@ -2397,7 +2557,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1yjw79b",
@@ -2415,7 +2577,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ww7zl4",
@@ -2433,7 +2597,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "07cgu0k",
@@ -2451,7 +2617,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1pfew6i",
@@ -2469,7 +2637,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1cu5lq5",
@@ -2487,7 +2657,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -2512,7 +2684,9 @@
       "sanctions": {
         "warnings": 0,
         "twoMinutes": 0,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -2722,7 +2896,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03olhtz",
@@ -2740,7 +2916,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "032bhz7",
@@ -2758,7 +2936,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04hzbjg",
@@ -2776,7 +2956,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0lhzaiu",
@@ -2794,7 +2976,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0rwvd0q",
@@ -2812,7 +2996,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "13fusx6",
@@ -2830,7 +3016,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0mcjoqo",
@@ -2848,7 +3036,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0psznnb",
@@ -2866,7 +3056,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1h9bu3u",
@@ -2884,7 +3076,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0nkhfij",
@@ -2902,7 +3096,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09r8cs4",
@@ -2920,7 +3116,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04zb91m",
@@ -2938,7 +3136,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0l5vr2b",
@@ -2956,7 +3156,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0kkjncp",
@@ -2974,7 +3176,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -2999,7 +3203,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 5,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -3209,7 +3415,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0rwvd0q",
@@ -3227,7 +3435,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0l5vr2b",
@@ -3245,7 +3455,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0u627w4",
@@ -3263,7 +3475,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1o40ila",
@@ -3281,7 +3495,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1h9bu3u",
@@ -3299,7 +3515,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0s63ryj",
@@ -3317,7 +3535,9 @@
           },
           "warnings": 1,
           "twoMinutes": 3,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ex1sw7",
@@ -3335,7 +3555,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1gzdbzt",
@@ -3353,7 +3575,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0kgn2pr",
@@ -3371,7 +3595,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0kkjncp",
@@ -3389,7 +3615,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "19hxopz",
@@ -3407,7 +3635,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -3432,7 +3662,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 0,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -3642,7 +3874,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1phawzg",
@@ -3660,7 +3894,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1aidwd7",
@@ -3678,7 +3914,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "08t1k2s",
@@ -3696,7 +3934,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0u5zwfb",
@@ -3714,7 +3954,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1vvtw54",
@@ -3732,7 +3974,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "094ncoy",
@@ -3750,7 +3994,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0fs9mty",
@@ -3768,7 +4014,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0bi35de",
@@ -3786,7 +4034,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1gea7v4",
@@ -3804,7 +4054,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0me88v5",
@@ -3822,7 +4074,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1mw1zr2",
@@ -3840,7 +4094,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04rtg5x",
@@ -3858,7 +4114,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -3883,7 +4141,9 @@
       "sanctions": {
         "warnings": 0,
         "twoMinutes": 0,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -4093,7 +4353,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1mw1zr2",
@@ -4111,7 +4373,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04rtg5x",
@@ -4129,7 +4393,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0boqkew",
@@ -4147,7 +4413,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0m9bohy",
@@ -4165,7 +4433,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0u5zwfb",
@@ -4183,7 +4453,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "17ioco3",
@@ -4201,7 +4473,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0czt2ox",
@@ -4219,7 +4493,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ibhue7",
@@ -4237,7 +4513,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1olouie",
@@ -4255,7 +4533,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0crst1a",
@@ -4273,7 +4553,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0jwvmfq",
@@ -4291,7 +4573,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1shgizy",
@@ -4309,7 +4593,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0j7dlm0",
@@ -4327,7 +4613,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0me88v5",
@@ -4345,7 +4633,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -4368,7 +4658,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 12,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -4573,7 +4865,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ikcuuk",
@@ -4591,7 +4885,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1tts887",
@@ -4609,7 +4905,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "15bvao4",
@@ -4627,7 +4925,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "081pfz6",
@@ -4645,7 +4945,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1rn7e28",
@@ -4663,7 +4965,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1wl78w9",
@@ -4681,7 +4985,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ngjlpf",
@@ -4699,7 +5005,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0d1i8mt",
@@ -4717,7 +5025,9 @@
           },
           "warnings": 0,
           "twoMinutes": 4,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1xbga1g",
@@ -4735,7 +5045,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1sbl9ad",
@@ -4753,7 +5065,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09x1tce",
@@ -4771,7 +5085,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ipfrnm",
@@ -4789,7 +5105,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ucq8bs",
@@ -4807,7 +5125,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03vel0h",
@@ -4825,7 +5145,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "06et15q",
@@ -4843,7 +5165,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -4866,7 +5190,9 @@
       "sanctions": {
         "warnings": 3,
         "twoMinutes": 8,
-        "disqualifications": 1
+        "disqualifications": 1,
+        "redCards": 1,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -5071,7 +5397,9 @@
           },
           "warnings": 0,
           "twoMinutes": 3,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "16ztfh8",
@@ -5089,7 +5417,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1pbc7g9",
@@ -5107,7 +5437,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1s9nx5a",
@@ -5125,7 +5457,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03uyvba",
@@ -5143,7 +5477,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "11tszv0",
@@ -5161,7 +5497,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04enfvp",
@@ -5179,7 +5517,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1kox15v",
@@ -5197,7 +5537,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1d02ysp",
@@ -5215,7 +5557,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0aceu5w",
@@ -5233,7 +5577,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1uu9xc8",
@@ -5251,7 +5597,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "199o4ev",
@@ -5269,7 +5617,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1v2ssu5",
@@ -5287,7 +5637,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0dj0k6g",
@@ -5305,7 +5657,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "07a03we",
@@ -5323,7 +5677,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 1
+          "disqualifications": 1,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0pv0x83",
@@ -5341,7 +5697,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -5364,7 +5722,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 10,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -5569,7 +5929,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0hfs5mt",
@@ -5587,7 +5949,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1npxv0f",
@@ -5605,7 +5969,9 @@
           },
           "warnings": 1,
           "twoMinutes": 3,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0el3feu",
@@ -5623,7 +5989,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "05vzgcz",
@@ -5641,7 +6009,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1nc9arv",
@@ -5659,7 +6029,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0t9jtet",
@@ -5677,7 +6049,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1rfgfwu",
@@ -5695,7 +6069,9 @@
           },
           "warnings": 0,
           "twoMinutes": 3,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1n16wdz",
@@ -5713,7 +6089,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "051cr6n",
@@ -5731,7 +6109,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "01f7c1u",
@@ -5749,7 +6129,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1rcttyd",
@@ -5767,7 +6149,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03vel0h",
@@ -5785,7 +6169,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1g8w6vz",
@@ -5803,7 +6189,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0rmg0qe",
@@ -5821,7 +6209,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "01ayxs1",
@@ -5839,7 +6229,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -5862,7 +6254,9 @@
       "sanctions": {
         "warnings": 4,
         "twoMinutes": 4,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -6091,7 +6485,9 @@
           },
           "warnings": 2,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0sgwha5",
@@ -6109,7 +6505,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0qu20d9",
@@ -6127,7 +6525,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "002koog",
@@ -6145,7 +6545,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1u2fzg3",
@@ -6163,7 +6565,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1xypytj",
@@ -6181,7 +6585,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1qt7439",
@@ -6199,7 +6605,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1qbcl4q",
@@ -6217,7 +6625,9 @@
           },
           "warnings": 0,
           "twoMinutes": 3,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0dxc1na",
@@ -6235,7 +6645,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "15bvao4",
@@ -6253,7 +6665,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1csh8j5",
@@ -6271,7 +6685,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03grfrn",
@@ -6289,7 +6705,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1wl78w9",
@@ -6307,7 +6725,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -6330,7 +6750,9 @@
       "sanctions": {
         "warnings": 4,
         "twoMinutes": 5,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -6559,7 +6981,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0tstlih",
@@ -6577,7 +7001,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1yf9xq9",
@@ -6595,7 +7021,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1xn6g99",
@@ -6613,7 +7041,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "19jt45h",
@@ -6631,7 +7061,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0al7qqd",
@@ -6649,7 +7081,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1cwda29",
@@ -6667,7 +7101,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0j4med1",
@@ -6685,7 +7121,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1lg8fti",
@@ -6703,7 +7141,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "171imem",
@@ -6721,7 +7161,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "13j5x3z",
@@ -6739,7 +7181,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ev13av",
@@ -6757,7 +7201,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ceoq5u",
@@ -6775,7 +7221,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "061og58",
@@ -6793,7 +7241,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09c0rlj",
@@ -6811,7 +7261,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0rpy5cx",
@@ -6829,7 +7281,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -6852,7 +7306,9 @@
       "sanctions": {
         "warnings": 4,
         "twoMinutes": 15,
-        "disqualifications": 1
+        "disqualifications": 1,
+        "redCards": 1,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -7057,7 +7513,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03fy4yx",
@@ -7075,7 +7533,9 @@
           },
           "warnings": 1,
           "twoMinutes": 4,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "06hxabp",
@@ -7093,7 +7553,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "10aya8s",
@@ -7111,7 +7573,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "122ruin",
@@ -7129,7 +7593,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0xr87cw",
@@ -7147,7 +7613,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1domq71",
@@ -7165,7 +7633,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1tfcl6j",
@@ -7183,7 +7653,9 @@
           },
           "warnings": 2,
           "twoMinutes": 3,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1dondaj",
@@ -7201,7 +7673,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0x36n13",
@@ -7219,7 +7693,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1tj7k5c",
@@ -7237,7 +7713,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0vn5aos",
@@ -7255,7 +7733,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0nh4yg6",
@@ -7273,7 +7753,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 1
+          "disqualifications": 1,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0k8crce",
@@ -7291,7 +7773,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0e2rn7q",
@@ -7309,7 +7793,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ff52yd",
@@ -7327,7 +7813,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "03ki0uh",
@@ -7345,7 +7833,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ouoy9j",
@@ -7363,7 +7853,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "04jdiiu",
@@ -7381,7 +7873,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1mhdxer",
@@ -7399,7 +7893,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -7422,7 +7918,9 @@
       "sanctions": {
         "warnings": 3,
         "twoMinutes": 3,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -7627,7 +8125,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ceoq5u",
@@ -7645,7 +8145,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "18w742e",
@@ -7663,7 +8165,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "17cbyrp",
@@ -7681,7 +8185,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1vk83v2",
@@ -7699,7 +8205,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1cwda29",
@@ -7717,7 +8225,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1dsd3jy",
@@ -7735,7 +8245,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "112xbdh",
@@ -7753,7 +8265,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0audvy3",
@@ -7771,7 +8285,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1feql7b",
@@ -7789,7 +8305,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1od4ijp",
@@ -7807,7 +8325,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "17ap9av",
@@ -7825,7 +8345,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0rd9wvi",
@@ -7843,7 +8365,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1g8w6vz",
@@ -7861,7 +8385,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -7884,7 +8410,9 @@
       "sanctions": {
         "warnings": 5,
         "twoMinutes": 2,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -8089,7 +8617,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1vo8zia",
@@ -8107,7 +8637,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1yeih8j",
@@ -8125,7 +8657,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "199o4ev",
@@ -8143,7 +8677,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1d54cd9",
@@ -8161,7 +8697,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0n9r7pq",
@@ -8179,7 +8717,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1u4xeci",
@@ -8197,7 +8737,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "18q9e8a",
@@ -8215,7 +8757,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "15jvpar",
@@ -8233,7 +8777,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0aj6hf4",
@@ -8251,7 +8797,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0bzp386",
@@ -8269,7 +8817,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1aa3vsl",
@@ -8287,7 +8837,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0boll4i",
@@ -8305,7 +8857,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -8328,7 +8882,9 @@
       "sanctions": {
         "warnings": 5,
         "twoMinutes": 8,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -8533,7 +9089,9 @@
           },
           "warnings": 2,
           "twoMinutes": 3,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0c5z9gz",
@@ -8551,7 +9109,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ezr4rw",
@@ -8569,7 +9129,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "13kwerx",
@@ -8587,7 +9149,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1uo5zhz",
@@ -8605,7 +9169,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "06cvbpv",
@@ -8623,7 +9189,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ndkgfn",
@@ -8641,7 +9209,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1p76fbj",
@@ -8659,7 +9229,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1f7f0b1",
@@ -8677,7 +9249,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ein8ma",
@@ -8695,7 +9269,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0y5xahf",
@@ -8713,7 +9289,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "15y6j0k",
@@ -8731,7 +9309,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "10l9z9l",
@@ -8749,7 +9329,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "14m4hy3",
@@ -8767,7 +9349,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ltrd7p",
@@ -8785,7 +9369,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0jb8mjj",
@@ -8803,7 +9389,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -8826,7 +9414,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 7,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -9055,7 +9645,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1mgbveb",
@@ -9073,7 +9665,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0yeky8i",
@@ -9091,7 +9685,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1m0y4rs",
@@ -9109,7 +9705,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "13k8or3",
@@ -9127,7 +9725,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0hffjww",
@@ -9145,7 +9745,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "00e09q6",
@@ -9163,7 +9765,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0x0cojg",
@@ -9181,7 +9785,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1xjyb8c",
@@ -9199,7 +9805,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "02juoc1",
@@ -9217,7 +9825,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1xosiwa",
@@ -9235,7 +9845,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1e8yssh",
@@ -9253,7 +9865,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0wfo341",
@@ -9271,7 +9885,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1as5tab",
@@ -9289,7 +9905,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0l9isoy",
@@ -9307,7 +9925,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ef2ln3",
@@ -9325,7 +9945,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0m4yjq7",
@@ -9343,7 +9965,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1cbdbxy",
@@ -9361,7 +9985,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1fpz1p5",
@@ -9379,7 +10005,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -9402,7 +10030,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 0,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -9631,7 +10261,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0v1v5ls",
@@ -9649,7 +10281,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1xypytj",
@@ -9667,7 +10301,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1rwm55o",
@@ -9685,7 +10321,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "119f0zo",
@@ -9703,7 +10341,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "11akj44",
@@ -9721,7 +10361,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "07hu9ja",
@@ -9739,7 +10381,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1xv36ly",
@@ -9757,7 +10401,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1suwys2",
@@ -9775,7 +10421,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1atvkth",
@@ -9793,7 +10441,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1nunh9z",
@@ -9811,7 +10461,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1m7ora9",
@@ -9829,7 +10481,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1weos3v",
@@ -9847,7 +10501,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0hhsmw8",
@@ -9865,7 +10521,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1ha9j2y",
@@ -9883,7 +10541,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "048wubu",
@@ -9901,7 +10561,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "17tw3vw",
@@ -9919,7 +10581,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -9942,7 +10606,9 @@
       "sanctions": {
         "warnings": 3,
         "twoMinutes": 3,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -10171,7 +10837,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ar9tue",
@@ -10189,7 +10857,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "111i9tz",
@@ -10207,7 +10877,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ixk7f3",
@@ -10225,7 +10897,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1t85ecq",
@@ -10243,7 +10917,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1gtcyy2",
@@ -10261,7 +10937,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "10efqs3",
@@ -10279,7 +10957,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1g2q2eh",
@@ -10297,7 +10977,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0f8v51y",
@@ -10315,7 +10997,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "12jtqun",
@@ -10333,7 +11017,9 @@
           },
           "warnings": 1,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -10356,7 +11042,9 @@
       "sanctions": {
         "warnings": 2,
         "twoMinutes": 4,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -10585,7 +11273,9 @@
           },
           "warnings": 1,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0cob12a",
@@ -10603,7 +11293,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "16soyyk",
@@ -10621,7 +11313,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0cic3ru",
@@ -10639,7 +11333,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0pkifkr",
@@ -10657,7 +11353,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "19ornoa",
@@ -10675,7 +11373,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "17wpvvq",
@@ -10693,7 +11393,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1m9uid6",
@@ -10711,7 +11413,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0lejmsv",
@@ -10729,7 +11433,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0yoj799",
@@ -10747,7 +11453,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09o5bp5",
@@ -10765,7 +11473,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "00m56ow",
@@ -10783,7 +11493,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0n3ci24",
@@ -10801,7 +11513,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1rybqhq",
@@ -10819,7 +11533,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0bnatiq",
@@ -10837,7 +11553,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09bl33k",
@@ -10855,7 +11573,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1w0nkkw",
@@ -10873,7 +11593,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0xk67e4",
@@ -10891,7 +11613,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     },
@@ -10914,7 +11638,9 @@
       "sanctions": {
         "warnings": 3,
         "twoMinutes": 7,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "timeouts": {
         "own": {
@@ -11143,7 +11869,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0ba83d9",
@@ -11161,7 +11889,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0vvg95p",
@@ -11179,7 +11909,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1bsra1x",
@@ -11197,7 +11929,9 @@
           },
           "warnings": 0,
           "twoMinutes": 2,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0yoj799",
@@ -11215,7 +11949,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1kagx2v",
@@ -11233,7 +11969,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1qb9nrj",
@@ -11251,7 +11989,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1blps00",
@@ -11269,7 +12009,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "09ljgol",
@@ -11287,7 +12029,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0xk67e4",
@@ -11305,7 +12049,9 @@
           },
           "warnings": 1,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0wg9gbh",
@@ -11323,7 +12069,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0yfpp2h",
@@ -11341,7 +12089,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "02qcmgu",
@@ -11359,7 +12109,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1nxtmos",
@@ -11377,7 +12129,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1jpz31a",
@@ -11395,7 +12149,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "08vqrfp",
@@ -11413,7 +12169,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "16gbugs",
@@ -11431,7 +12189,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "1m8rgyl",
@@ -11449,7 +12209,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0vfgths",
@@ -11467,7 +12229,9 @@
           },
           "warnings": 0,
           "twoMinutes": 0,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         },
         {
           "playerId": "0znkpe8",
@@ -11485,7 +12249,9 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
         }
       ]
     }

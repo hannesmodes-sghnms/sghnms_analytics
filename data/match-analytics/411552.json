@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:54:43.852Z",
+  "generatedAt": "2026-10-10T13:16:58.033Z",
   "match": {
     "id": 411552,
     "date": "2026-09-12",
@@ -1251,12 +1251,16 @@
       "own": {
         "warnings": 0,
         "twoMinutes": 1,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       },
       "opponent": {
         "warnings": 0,
         "twoMinutes": 3,
-        "disqualifications": 0
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
       }
     },
     "longestRuns": {
