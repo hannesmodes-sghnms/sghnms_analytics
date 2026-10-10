@@ -840,3 +840,141 @@ select {
   .match-player-table th:nth-child(1),
   .match-player-table td:nth-child(1) { display: none; }
 }
+
+
+/* v7.2 timeout comparison + per-match scoring bars */
+.timeout-context {
+  min-width: 0;
+}
+
+.timeout-windows {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(118px, 1fr));
+  gap: 8px;
+  min-width: 278px;
+}
+
+.timeout-window {
+  padding: 8px 10px;
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  background: #fff;
+  text-align: right;
+}
+
+.timeout-window span,
+.timeout-window strong,
+.timeout-window em {
+  display: block;
+}
+
+.timeout-window span {
+  margin: 0;
+  color: var(--muted);
+  font-size: 9px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+
+.timeout-window strong {
+  margin-top: 3px;
+  color: var(--navy);
+  font-size: 18px;
+}
+
+.timeout-window em {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 800;
+}
+
+.timeout-window--before {
+  box-shadow: inset 3px 0 0 var(--blue);
+}
+
+.timeout-window--after {
+  box-shadow: inset 3px 0 0 var(--red);
+}
+
+.player-game-bar {
+  cursor: pointer;
+  opacity: .58;
+  transition: opacity .15s ease, stroke-width .15s ease;
+}
+
+.player-game-bar:hover,
+.player-game-bar:focus,
+.player-game-bar.is-selected {
+  opacity: .96;
+  stroke: #7c070b;
+  stroke-width: 1.5;
+  outline: none;
+}
+
+.scoring-history-bar-legend i {
+  background: var(--red);
+  border-radius: 2px;
+}
+
+.scoring-history-game-detail {
+  display: flex;
+  align-items: baseline;
+  gap: 9px;
+  margin-top: 10px;
+  padding: 9px 11px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #fff;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.4;
+}
+
+.scoring-history-game-detail strong {
+  flex: 0 0 auto;
+  color: var(--red);
+  font-size: 13px;
+}
+
+@media (max-width: 760px) {
+  .timeout-windows {
+    min-width: 0;
+  }
+
+  .timeout-window span {
+    font-size: 11px;
+  }
+
+  .timeout-window strong {
+    font-size: 19px;
+  }
+
+  .timeout-window em {
+    font-size: 11px;
+  }
+
+  .scoring-history-game-detail {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 2px;
+    font-size: 12px;
+  }
+
+  .scoring-history-game-detail strong {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 600px) {
+  .timeout-windows {
+    width: 100%;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .timeout-window {
+    text-align: left;
+  }
+}

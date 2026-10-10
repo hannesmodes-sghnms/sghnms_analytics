@@ -659,39 +659,45 @@ function playerScoringChartHtml(history) {
 
   const teamOrder = scoringTeams.map(team => String(team.teamId));
   const teamById = new Map(scoringTeams.map(team => [String(team.teamId), team]));
-  const byDate = new Map();
-  for (const match of history.matches.slice().sort((a, b) => `${a.date}T${a.time || ""}`.localeCompare(`${b.date}T${b.time || ""}`))) {
-    if (!byDate.has(match.date)) byDate.set(match.date, []);
-    byDate.get(match.date).push(match);
-  }
+  const matches = history.matches
+    .slice()
+    .sort((a, b) => `${a.date}T${a.time || ""}`.localeCompare(`${b.date}T${b.time || ""}`));
 
   const cumulative = Object.fromEntries(teamOrder.map(teamId => [teamId, 0]));
-  const points = [...byDate.entries()].map(([date, matches]) => {
-    for (const match of matches) {
-      const teamId = String(match.teamId);
-      if (teamId in cumulative) cumulative[teamId] += Number(match.goals || 0);
-    }
-    return { date, values: { ...cumulative } };
+  const points = matches.map(match => {
+    const teamId = String(match.teamId);
+    if (teamId in cumulative) cumulative[teamId] += Number(match.goals || 0);
+    return {
+      date: match.date,
+      time: match.time || "",
+      match,
+      values: { ...cumulative }
+    };
   });
 
-  const totalGoals = points.length ? teamOrder.reduce((sum, teamId) => sum + Number(points.at(-1).values[teamId] || 0), 0) : 0;
+  const totalGoals = points.length
+    ? teamOrder.reduce((sum, teamId) => sum + Number(points.at(-1).values[teamId] || 0), 0)
+    : 0;
   if (!totalGoals) return `<div class="chart-empty">Noch keine Tore in den verifizierten Eventdaten.</div>`;
 
   const palette = ["#001f44", "#bf0b0f", "#0d4d8e", "#0f7a49", "#9a6500", "#6f42c1", "#5c6b7a"];
   const compact = compactChartMode();
-  const w = compact ? 460 : 900;
-  const h = compact ? 300 : 270;
-  const left = compact ? 48 : 44;
-  const right = compact ? 14 : 20;
-  const top = compact ? 24 : 18;
-  const bottom = compact ? 46 : 38;
-  const axisFont = compact ? 15 : 11;
+  const w = compact ? 520 : 920;
+  const h = compact ? 320 : 290;
+  const left = compact ? 50 : 46;
+  const right = compact ? 54 : 58;
+  const top = compact ? 30 : 24;
+  const bottom = compact ? 50 : 42;
+  const axisFont = compact ? 14 : 11;
   const innerW = w - left - right;
   const innerH = h - top - bottom;
-  const yMax = Math.max(1, totalGoals);
+  const cumulativeMax = Math.max(1, totalGoals);
+  const gameGoalsMax = Math.max(1, ...points.map(point => Number(point.match.goals || 0)));
   const x = index => left + (points.length === 1 ? innerW / 2 : (index / (points.length - 1)) * innerW);
-  const y = value => top + ((yMax - Number(value || 0)) / yMax) * innerH;
-  const gridValues = Array.from({ length: 5 }, (_, i) => Math.round((yMax * (4 - i)) / 4));
+  const y = value => top + ((cumulativeMax - Number(value || 0)) / cumulativeMax) * innerH;
+  const yGame = value => top + ((gameGoalsMax - Number(value || 0)) / gameGoalsMax) * innerH;
+  const gridValues = Array.from({ length: 5 }, (_, i) => Math.round((cumulativeMax * (4 - i)) / 4));
+  const gameTicks = [...new Set(Array.from({ length: 5 }, (_, i) => Math.round((gameGoalsMax * i) / 4)))].sort((a, b) => a - b);
 
   const lowerByTeam = {};
   let runningLower = points.map(() => 0);
@@ -700,16 +706,49 @@ function playerScoringChartHtml(history) {
     runningLower = runningLower.map((base, index) => base + Number(points[index].values[teamId] || 0));
   });
 
-  let svg = `<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="Kumulierte Tore im Saisonverlauf nach Mannschaft">`;
+  let svg = `<svg viewBox="0 0 ${w} ${h}" role="img" aria-label="Kumulierte Tore und Tore pro Spiel">`;
   svg += gridValues.map(value => `<line x1="${left}" x2="${w-right}" y1="${y(value)}" y2="${y(value)}" stroke="#e7ecf3" stroke-width="1"/><text x="${left-8}" y="${y(value)+4}" text-anchor="end" font-size="${axisFont}" fill="#7a8798">${value}</text>`).join("");
+  svg += `<text x="${left}" y="${top-9}" font-size="${axisFont}" font-weight="700" fill="#7a8798">kumuliert</text>`;
+  svg += `<line x1="${w-right}" x2="${w-right}" y1="${top}" y2="${top+innerH}" stroke="#bf0b0f" stroke-width="1" opacity="0.35"/>`;
+  svg += gameTicks.map(value => `<text x="${w-right+8}" y="${yGame(value)+4}" text-anchor="start" font-size="${axisFont}" fill="#bf0b0f">${value}</text>`).join("");
+  svg += `<text x="${w-right+8}" y="${top-9}" font-size="${axisFont}" font-weight="700" fill="#bf0b0f">Tore/Sp.</text>`;
 
   teamOrder.forEach((teamId, teamIndex) => {
     const lower = lowerByTeam[teamId];
     const upper = points.map((point, index) => lower[index] + Number(point.values[teamId] || 0));
     const forward = upper.map((value, index) => `${index === 0 ? "M" : "L"} ${x(index)} ${y(value)}`).join(" ");
     const backward = lower.map((value, index) => ({ value, index })).reverse().map(item => `L ${x(item.index)} ${y(item.value)}`).join(" ");
-    svg += `<path d="${forward} ${backward} Z" fill="${palette[teamIndex % palette.length]}" opacity="0.72"/>`;
+    svg += `<path d="${forward} ${backward} Z" fill="${palette[teamIndex % palette.length]}" opacity="0.66"/>`;
   });
+
+  const barWidth = Math.max(4, Math.min(compact ? 18 : 24, (innerW / Math.max(points.length, 1)) * 0.58));
+  svg += points.map((point, index) => {
+    const match = point.match;
+    const goals = Number(match.goals || 0);
+    const naturalHeight = goals ? (top + innerH) - yGame(goals) : 0;
+    const barHeight = goals ? Math.max(2, naturalHeight) : 3;
+    const barY = goals ? yGame(goals) : top + innerH - barHeight;
+    return `<rect
+      class="player-game-bar"
+      x="${x(index) - barWidth / 2}"
+      y="${barY}"
+      width="${barWidth}"
+      height="${barHeight}"
+      rx="2"
+      fill="#bf0b0f"
+      tabindex="0"
+      role="button"
+      aria-label="${dateShort(match.date)}: ${goals} Tore"
+      data-player-game-bar="1"
+      data-match-id="${match.matchId ?? ""}"
+      data-goals="${goals}"
+      data-date="${match.date || ""}"
+      data-time="${match.time || ""}"
+      data-team-name="${encodeURIComponent(match.teamName || "")}"
+      data-opponent="${encodeURIComponent(match.opponent || "")}"
+      data-is-home="${match.isHome ? "1" : "0"}"
+    ><title>${dateLong(match.date)} · ${goals} Tore</title></rect>`;
+  }).join("");
 
   const totalPoints = points.map((point, index) => {
     const total = teamOrder.reduce((sum, teamId) => sum + Number(point.values[teamId] || 0), 0);
@@ -721,16 +760,63 @@ function playerScoringChartHtml(history) {
     return `<circle cx="${x(item.index)}" cy="${y(item.total)}" r="3.3" fill="#fff" stroke="#17243a" stroke-width="1.5"><title>${dateLong(item.point.date)} · ${item.total} Tore · ${breakdown}</title></circle>`;
   }).join("");
 
-  const labelIndices = [0, Math.floor((points.length - 1) / 2), points.length - 1].filter((value, index, array) => array.indexOf(value) === index);
-  svg += labelIndices.map(index => `<text x="${x(index)}" y="${h-11}" text-anchor="middle" font-size="${axisFont}" fill="#7a8798">${dateShort(points[index].date)}</text>`).join("");
+  const labelIndices = [0, Math.floor((points.length - 1) / 2), points.length - 1]
+    .filter((value, index, array) => array.indexOf(value) === index);
+  svg += labelIndices.map(index => `<text x="${x(index)}" y="${h-12}" text-anchor="middle" font-size="${axisFont}" fill="#7a8798">${dateShort(points[index].date)}</text>`).join("");
   svg += `</svg>`;
 
-  const legend = scoringTeams.map((team, index) => `<span class="scoring-history-legend-item"><i style="background:${palette[index % palette.length]}"></i>${team.teamName} <strong>${team.goals}</strong></span>`).join("");
+  const legend = scoringTeams
+    .map((team, index) => `<span class="scoring-history-legend-item"><i style="background:${palette[index % palette.length]}"></i>${team.teamName} <strong>${team.goals}</strong></span>`)
+    .join("");
+
   return `<div class="scoring-history-wrap">
-    <div class="scoring-history-head"><div><strong>${history.name}</strong><span>Kumulierte Tore · alle SG-Mannschaften</span></div><div class="scoring-history-total">${totalGoals} Tore</div></div>
+    <div class="scoring-history-head"><div><strong>${history.name}</strong><span>Kumulierte Tore + Tore je Spiel · alle SG-Mannschaften</span></div><div class="scoring-history-total">${totalGoals} Tore</div></div>
     <div class="scoring-history-chart">${svg}</div>
-    <div class="scoring-history-legend">${legend}</div>
+    <div class="scoring-history-legend">
+      ${legend}
+      <span class="scoring-history-legend-item scoring-history-bar-legend"><i></i>Tore/Spiel <strong>rechte Achse</strong></span>
+    </div>
+    <div class="scoring-history-game-detail" aria-live="polite">
+      <span>Balken anklicken: Spiel, Gegner und Tore werden hier angezeigt.</span>
+    </div>
   </div>`;
+}
+
+function selectPlayerGameBar(bar) {
+  const wrap = bar.closest(".scoring-history-wrap");
+  if (!wrap) return;
+
+  $$("[data-player-game-bar]", wrap).forEach(item => {
+    item.classList.toggle("is-selected", item === bar);
+  });
+
+  const detail = $(".scoring-history-game-detail", wrap);
+  if (!detail) return;
+
+  const goals = Number(bar.dataset.goals || 0);
+  const date = bar.dataset.date || "";
+  const time = bar.dataset.time || "";
+  const teamName = decodeURIComponent(bar.dataset.teamName || "");
+  const opponent = decodeURIComponent(bar.dataset.opponent || "");
+  const isHome = bar.dataset.isHome === "1";
+  const match = state.matches.find(item => String(item.id) === String(bar.dataset.matchId || ""));
+  const matchPerspective = match ? perspective(match) : null;
+
+  detail.replaceChildren();
+
+  const strong = document.createElement("strong");
+  strong.textContent = `${goals} ${goals === 1 ? "Tor" : "Tore"}`;
+
+  const span = document.createElement("span");
+  const parts = [
+    dateLong(date) + (time ? ` · ${time} Uhr` : ""),
+    teamName,
+    opponent ? `${isHome ? "Heim" : "Auswärts"} gegen ${opponent}` : "",
+    matchPerspective ? `Ergebnis ${matchPerspective.own}:${matchPerspective.opp}` : ""
+  ].filter(Boolean);
+  span.textContent = parts.join(" · ");
+
+  detail.append(strong, span);
 }
 
 function playerHistoryRows(player, index, columnCount, prefix) {
@@ -1158,12 +1244,14 @@ function renderTeamSpecialStats(team) {
 }
 
 function timeoutCard(label, item) {
-  const diff = Number(item?.goalDifferenceAfter || 0);
+  const beforeDiff = Number(item?.goalDifferenceBefore || 0);
+  const afterDiff = Number(item?.goalDifferenceAfter || 0);
   return `<div class="split-card">
     <h3>${label}</h3>
     <div class="split-record">${item?.count || 0}×</div>
-    <div class="split-caption">3-Min-Fenster: ${item?.goalsForAfter || 0}:${item?.goalsAgainstAfter || 0} · TD ${signed(diff)}</div>
-    <div class="split-caption">Ø ${deNumber(item?.goalsForPerTimeout || 0, 2)}:${deNumber(item?.goalsAgainstPerTimeout || 0, 2)} Tore</div>
+    <div class="split-caption">3 Min. davor: ${item?.goalsForBefore || 0}:${item?.goalsAgainstBefore || 0} · TD ${signed(beforeDiff)}</div>
+    <div class="split-caption">3 Min. danach: ${item?.goalsForAfter || 0}:${item?.goalsAgainstAfter || 0} · TD ${signed(afterDiff)}</div>
+    <div class="split-caption">Ø davor ${deNumber(item?.goalsForBeforePerTimeout || 0, 2)}:${deNumber(item?.goalsAgainstBeforePerTimeout || 0, 2)} · danach ${deNumber(item?.goalsForPerTimeout || 0, 2)}:${deNumber(item?.goalsAgainstPerTimeout || 0, 2)}</div>
   </div>`;
 }
 
@@ -1363,11 +1451,43 @@ function runCard(label, run) {
 function renderTimeoutList(analytics) {
   const timeouts = analytics?.timeouts || [];
   if (!timeouts.length) return `<div class="chart-empty">Keine Auszeiten im Eventlog.</div>`;
-  return `<div class="timeout-list">${timeouts.map(item => `
-    <div class="timeout-item">
-      <div><strong>${item.side === "own" ? "Eigene Auszeit" : "Gegnerische Auszeit"}</strong><span>${item.clock} · Stand ${item.score.own}:${item.score.opponent}</span></div>
-      <div class="timeout-after"><span>nächste 3 Min.</span><strong>${item.goalsAfter.own}:${item.goalsAfter.opponent}</strong></div>
-    </div>`).join("")}</div>`;
+
+  return `<div class="timeout-list">${timeouts.map(item => {
+    const beforeOwn = Number(item.goalsBefore?.own || 0);
+    const beforeOpponent = Number(item.goalsBefore?.opponent || 0);
+    const afterOwn = Number(item.goalsAfter?.own || 0);
+    const afterOpponent = Number(item.goalsAfter?.opponent || 0);
+    const beforeDiff = beforeOwn - beforeOpponent;
+    const afterDiff = afterOwn - afterOpponent;
+    const beforeSeconds = Number(item.windowBeforeSeconds);
+    const afterSeconds = Number(item.windowSeconds);
+    const beforeLabel = Number.isFinite(beforeSeconds) && beforeSeconds < 180
+      ? `${clockFromSeconds(beforeSeconds)} davor`
+      : "3 Min. davor";
+    const afterLabel = Number.isFinite(afterSeconds) && afterSeconds < 180
+      ? `${clockFromSeconds(afterSeconds)} danach`
+      : "3 Min. danach";
+
+    return `
+      <div class="timeout-item">
+        <div class="timeout-context">
+          <strong>${item.side === "own" ? "Eigene Auszeit" : "Gegnerische Auszeit"}</strong>
+          <span>${item.clock} · Stand ${item.score.own}:${item.score.opponent}</span>
+        </div>
+        <div class="timeout-windows">
+          <div class="timeout-window timeout-window--before">
+            <span>${beforeLabel}</span>
+            <strong>${beforeOwn}:${beforeOpponent}</strong>
+            <em>TD ${signed(beforeDiff)}</em>
+          </div>
+          <div class="timeout-window timeout-window--after">
+            <span>${afterLabel}</span>
+            <strong>${afterOwn}:${afterOpponent}</strong>
+            <em>TD ${signed(afterDiff)}</em>
+          </div>
+        </div>
+      </div>`;
+  }).join("")}</div>`;
 }
 
 function situationCard(label, item) {
@@ -1446,7 +1566,7 @@ function renderMatchDetail(detail) {
     </section>
 
     <section class="content-grid content-grid--main">
-      <article class="panel"><div class="panel-head"><div><span class="section-eyebrow">AUSZEITEN</span><h2>Was passiert danach?</h2></div><span class="panel-note">3-Minuten-Fenster</span></div>${renderTimeoutList(analytics)}</article>
+      <article class="panel"><div class="panel-head"><div><span class="section-eyebrow">AUSZEITEN</span><h2>Was passiert davor & danach?</h2></div><span class="panel-note">je 3-Minuten-Fenster</span></div>${renderTimeoutList(analytics)}</article>
       <article class="panel"><div class="panel-head"><div><span class="section-eyebrow">ÜBER-/UNTERZAHL</span><h2>Numerische Situationen</h2></div></div><div class="split-stats ${numeric.suspensionsAffectPlayerCount === false ? "" : "split-stats--three"}">
         ${situationCard("Gleichzahl", numeric.even)}
         ${numeric.suspensionsAffectPlayerCount === false
@@ -1610,14 +1730,36 @@ function bindEvents() {
   }));
 
   $("#club-player-table-body").addEventListener("click", event => {
+    const bar = event.target.closest("[data-player-game-bar]");
+    if (bar) {
+      selectPlayerGameBar(bar);
+      return;
+    }
+
     const button = event.target.closest("[data-history-target]");
     if (button) togglePlayerHistory(button);
   });
 
   $("#team-player-table").addEventListener("click", event => {
+    const bar = event.target.closest("[data-player-game-bar]");
+    if (bar) {
+      selectPlayerGameBar(bar);
+      return;
+    }
+
     const button = event.target.closest("[data-history-target]");
     if (button) togglePlayerHistory(button);
   });
+
+  for (const table of [$("#club-player-table-body"), $("#team-player-table")]) {
+    table.addEventListener("keydown", event => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      const bar = event.target.closest("[data-player-game-bar]");
+      if (!bar) return;
+      event.preventDefault();
+      selectPlayerGameBar(bar);
+    });
+  }
 
   $("#trainer-matches").addEventListener("click", event => {
     const row = event.target.closest("[data-match-id]");
