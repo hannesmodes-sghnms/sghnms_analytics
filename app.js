@@ -632,6 +632,7 @@ function renderTeamTable() {
       <td>${formHtml(formForTeam(team.id))}</td>
     </tr>`;
   }).join("") || `<tr><td colspan="6">Keine Spiele im gewählten Filter.</td></tr>`;
+  reapplyDomTableSort($("#club-team-table"));
 }
 
 function scopedTeamIds() {
@@ -921,6 +922,168 @@ function compareSortValue(a, b, key, dir) {
   return dir === "asc" ? result : -result;
 }
 
+function domTableSortValue(cell) {
+  if (!cell) return { missing: true, number: null, text: "" };
+
+  const raw = String(cell.dataset.sortValue ?? cell.textContent ?? "")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!raw || raw === "–" || raw === "-") {
+    return { missing: true, number: null, text: "" };
+  }
+
+  const normalized = raw
+    .replace(/−/g, "-")
+    .replace(/\./g, "")
+    .replace(",", ".");
+
+  const numeric = normalized.match(/^[+\-]?\d+(?:\.\d+)?/);
+  return {
+    missing: false,
+    number: numeric ? Number(numeric[0]) : null,
+    text: raw.toLocaleLowerCase("de-DE")
+  };
+}
+
+function compareDomTableCells(aCell, bCell, direction) {
+  const a = domTableSortValue(aCell);
+  const b = domTableSortValue(bCell);
+
+  if (a.missing || b.missing) {
+    if (a.missing && b.missing) return 0;
+    return a.missing ? 1 : -1;
+  }
+
+  let result;
+  if (a.number !== null && b.number !== null) {
+    result = a.number - b.number;
+    if (result === 0) result = a.text.localeCompare(b.text, "de", { numeric: true });
+  } else {
+    result = a.text.localeCompare(b.text, "de", { numeric: true });
+  }
+
+  return direction === "asc" ? result : -result;
+}
+
+function domTableRowGroups(tbody) {
+  const groups = [];
+  for (const row of [...tbody.rows]) {
+    if (row.classList.contains("player-history-row") && groups.length) {
+      groups.at(-1).push(row);
+    } else {
+      groups.push([row]);
+    }
+  }
+  return groups;
+}
+
+function updateDomTableSortHeader(table, columnIndex, direction) {
+  const row = table.tHead?.rows?.[0];
+  if (!row) return;
+
+  [...row.cells].forEach((th, index) => {
+    const button = th.querySelector("[data-dom-sort-column]");
+    const active = index === columnIndex;
+    th.setAttribute("aria-sort", active ? (direction === "asc" ? "ascending" : "descending") : "none");
+    if (button) {
+      button.classList.toggle("is-active", active);
+      button.dataset.sortDir = active ? direction : "";
+    }
+  });
+}
+
+function sortDomTable(table, columnIndex, direction = "asc") {
+  const tbody = table.tBodies?.[0];
+  if (!tbody || !tbody.rows.length) return;
+
+  const groups = domTableRowGroups(tbody);
+  if (groups.length < 2) {
+    updateDomTableSortHeader(table, columnIndex, direction);
+    return;
+  }
+
+  groups.sort((a, b) => compareDomTableCells(
+    a[0].cells[columnIndex],
+    b[0].cells[columnIndex],
+    direction
+  ));
+
+  const fragment = document.createDocumentFragment();
+  for (const group of groups) {
+    for (const row of group) fragment.appendChild(row);
+  }
+  tbody.appendChild(fragment);
+
+  table.dataset.sortColumn = String(columnIndex);
+  table.dataset.sortDir = direction;
+  updateDomTableSortHeader(table, columnIndex, direction);
+}
+
+function reapplyDomTableSort(table) {
+  if (!table || table.classList.contains("data-table--sortable")) return;
+  const column = Number(table.dataset.sortColumn);
+  if (!Number.isInteger(column)) return;
+  sortDomTable(table, column, table.dataset.sortDir || "asc");
+}
+
+function enhanceSortableTables(root = document) {
+  const tables = root.matches?.("table") ? [root] : [...root.querySelectorAll("table")];
+
+  for (const table of tables) {
+    if (table.classList.contains("data-table--sortable")) continue;
+    if (table.dataset.sortEnhanced === "1") continue;
+
+    const headerRow = table.tHead?.rows?.[0];
+    if (!headerRow) continue;
+
+    table.dataset.sortEnhanced = "1";
+
+    [...headerRow.cells].forEach((th, index) => {
+      if (th.hasAttribute("data-no-sort")) return;
+      if (th.querySelector("button")) return;
+
+      const label = th.textContent.trim();
+      if (!label) return;
+
+      const button = document.createElement("button");
+      button.type = "button";
+      button.className = "table-sort-button";
+      button.dataset.domSortColumn = String(index);
+      button.textContent = label;
+      button.addEventListener("click", () => {
+        const currentColumn = Number(table.dataset.sortColumn);
+        const currentDirection = table.dataset.sortDir || "asc";
+        const direction = currentColumn === index && currentDirection === "asc" ? "desc" : "asc";
+        sortDomTable(table, index, direction);
+      });
+
+      th.replaceChildren(button);
+    });
+
+    const defaultColumn = Number(table.dataset.defaultSortColumn);
+    if (Number.isInteger(defaultColumn)) {
+      sortDomTable(table, defaultColumn, table.dataset.defaultSortDir || "asc");
+    }
+  }
+}
+
+function observeSortableTables() {
+  enhanceSortableTables();
+
+  const observer = new MutationObserver(mutations => {
+    for (const mutation of mutations) {
+      for (const node of mutation.addedNodes) {
+        if (!(node instanceof Element)) continue;
+        if (node.matches("table")) enhanceSortableTables(node);
+        else if (node.querySelector("table")) enhanceSortableTables(node);
+      }
+    }
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+}
+
 function updateSortIndicators(tableName) {
   const spec = state.clubSort[tableName];
   $$(`[data-sort-table="${tableName}"]`).forEach(button => {
@@ -1148,6 +1311,48 @@ function renderTrend(target, matches, { trainer = false } = {}) {
   body += `</svg>`;
   root.innerHTML = body;
 }
+function renderClubDiscipline() {
+  const rows = scopeTeams().map(team => {
+    const analytics = teamAnalytics(team.id);
+    const sanctions = analytics?.sanctions || {};
+    return {
+      team,
+      analyticsMatches: Number(analytics?.analyticsMatches || 0),
+      warnings: Number(sanctions.warnings || 0),
+      twoMinutes: Number(sanctions.twoMinutes || 0),
+      redCards: Number(sanctions.redCards ?? sanctions.disqualifications ?? 0),
+      blueCards: Number(sanctions.blueCards || 0)
+    };
+  });
+
+  const note = $("#club-discipline-note");
+  if (note) {
+    const contextualFilterActive = state.clubPeriod !== "all" || state.clubVenue !== "all";
+    note.textContent = contextualFilterActive
+      ? "Saisonwerte · Zeitraum/Spielort gelten nicht für Disziplinwerte"
+      : "Saisonwerte · Standard: 2 Min. absteigend";
+  }
+
+  $("#club-discipline-table-body").innerHTML = rows.map(item => `
+    <tr>
+      <td class="team-cell"><strong>${item.team.name}</strong><span>${item.analyticsMatches} Event-Spiele</span></td>
+      <td>${item.warnings}</td>
+      <td class="rate">${item.twoMinutes}</td>
+      <td>${item.redCards}</td>
+      <td>${item.blueCards}</td>
+    </tr>`
+  ).join("") || `<tr><td colspan="5">Keine Disziplinwerte im gewählten Bereich.</td></tr>`;
+
+  const table = $("#club-discipline-table");
+  if (table && table.dataset.sortEnhanced === "1") {
+    if (!table.dataset.sortColumn) {
+      table.dataset.sortColumn = "2";
+      table.dataset.sortDir = "desc";
+    }
+    reapplyDomTableSort(table);
+  }
+}
+
 function renderClub() {
   const matches = scopeMatches();
   const summary = summarize(matches);
@@ -1167,6 +1372,7 @@ function renderClub() {
   renderClubStandings();
   renderClubPlayers();
   renderClubTeamRankings();
+  renderClubDiscipline();
 }
 
 function homeAwayStats(matches) {
@@ -1238,7 +1444,8 @@ function renderTeamSpecialStats(team) {
     <div class="stat-row"><span>7 Meter</span><strong>${seven.goals || 0}/${seven.attempts || 0}</strong><em>${percent(seven.percentage)}</em></div>
     <div class="stat-row"><span>Verwarnungen</span><strong>${sanc.warnings || 0}</strong><em>Saison</em></div>
     <div class="stat-row"><span>2-Minuten</span><strong>${sanc.twoMinutes || 0}</strong><em>Saison</em></div>
-    <div class="stat-row"><span>Disqualifikationen</span><strong>${sanc.disqualifications || 0}</strong><em>Saison</em></div>
+    <div class="stat-row"><span>Rote Karten</span><strong>${sanc.redCards ?? sanc.disqualifications ?? 0}</strong><em>Saison</em></div>
+    <div class="stat-row"><span>Blaue Karten</span><strong>${sanc.blueCards || 0}</strong><em>separat im Eventfeed</em></div>
     ${numericRows}
   `;
 }
@@ -1295,6 +1502,7 @@ function renderTeamPlayers(team) {
       <td class="player-history-toggle-cell">${history.button}</td>
     </tr>${history.row}`;
   }).join("") || `<tr><td colspan="9">Keine Spielerstatistiken vorhanden.</td></tr>`;
+  reapplyDomTableSort($("#trainer-player-table"));
 }
 
 function renderTrainerMatches(matches) {
@@ -1827,6 +2035,7 @@ async function init() {
     if (overview.season?.label) $("#season-label").textContent = overview.season.label;
 
     bindEvents();
+    observeSortableTables();
     renderClub();
     renderTrainer();
   } catch (error) {

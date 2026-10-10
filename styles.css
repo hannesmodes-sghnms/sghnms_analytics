@@ -978,3 +978,101 @@ select {
     text-align: left;
   }
 }
+
+
+/* v7.3 sortable tables + discipline dashboard */
+.table-sort-button {
+  width: 100%;
+  padding: 10px;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  text-align: left;
+  font: inherit;
+  font-size: inherit;
+  font-weight: 750;
+  text-transform: inherit;
+  letter-spacing: inherit;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.table-sort-button::after {
+  content: "↕";
+  margin-left: 5px;
+  color: #b0bac7;
+  font-size: 9px;
+}
+
+.table-sort-button:hover {
+  color: var(--navy);
+  background: #f7f9fb;
+}
+
+.table-sort-button.is-active {
+  color: var(--navy);
+}
+
+.table-sort-button.is-active[data-sort-dir="asc"]::after {
+  content: "↑";
+  color: var(--red);
+}
+
+.table-sort-button.is-active[data-sort-dir="desc"]::after {
+  content: "↓";
+  color: var(--red);
+}
+
+.data-table th:has(.table-sort-button),
+.standings-table th:has(.table-sort-button),
+.preview-comparison-table th:has(.table-sort-button),
+.preview-scorer-table th:has(.table-sort-button) {
+  padding: 0;
+}
+
+.preview-comparison-table .table-sort-button,
+.preview-scorer-table .table-sort-button {
+  padding: 7px 6px;
+  font-size: 8px;
+}
+
+.standings-table .table-sort-button {
+  padding: 9px 10px;
+  font-size: 10px;
+}
+
+.discipline-note {
+  padding: 0 20px 18px;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.45;
+}
+
+#club-discipline-table {
+  min-width: 560px;
+}
+
+#club-discipline-table td:not(:first-child),
+#club-discipline-table th:not(:first-child) {
+  text-align: right;
+}
+
+#club-discipline-table th:not(:first-child) .table-sort-button {
+  text-align: right;
+}
+
+@media (max-width: 760px) {
+  .discipline-note {
+    padding: 0 14px 16px;
+    font-size: 12px;
+  }
+
+  #club-discipline-table {
+    min-width: 0;
+  }
+
+  #club-discipline-table .table-sort-button {
+    white-space: normal;
+    line-height: 1.2;
+  }
+}
