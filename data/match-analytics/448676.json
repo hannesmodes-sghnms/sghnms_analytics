@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:41:26.398Z",
+  "generatedAt": "2026-10-10T12:54:43.829Z",
   "match": {
     "id": 448676,
     "date": "2026-09-04",
@@ -1222,6 +1222,15 @@
           "own": 11,
           "opponent": 11
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 10,
+          "opponent": 10
+        },
+        "goalsBefore": {
+          "own": 1,
+          "opponent": 1
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 13,
@@ -1239,6 +1248,15 @@
         "score": {
           "own": 15,
           "opponent": 15
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 13,
+          "opponent": 14
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 1
         },
         "windowSeconds": 180,
         "scoreAfterWindow": {
@@ -1258,6 +1276,15 @@
           "own": 18,
           "opponent": 23
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 18,
+          "opponent": 21
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 2
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 21,
@@ -1276,6 +1303,15 @@
           "own": 24,
           "opponent": 24
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 21,
+          "opponent": 23
+        },
+        "goalsBefore": {
+          "own": 3,
+          "opponent": 1
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 26,
@@ -1293,6 +1329,15 @@
         "score": {
           "own": 29,
           "opponent": 29
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 27,
+          "opponent": 28
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 1
         },
         "windowSeconds": 180,
         "scoreAfterWindow": {

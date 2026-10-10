@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:41:26.396Z",
+  "generatedAt": "2026-10-10T12:54:43.827Z",
   "match": {
     "id": 450659,
     "date": "2026-08-30",
@@ -942,6 +942,15 @@
           "own": 6,
           "opponent": 8
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 6,
+          "opponent": 6
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 2
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 8,
@@ -959,6 +968,15 @@
         "score": {
           "own": 9,
           "opponent": 11
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 7,
+          "opponent": 10
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 1
         },
         "windowSeconds": 180,
         "scoreAfterWindow": {
@@ -978,6 +996,15 @@
           "own": 13,
           "opponent": 19
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 12,
+          "opponent": 16
+        },
+        "goalsBefore": {
+          "own": 1,
+          "opponent": 3
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 14,
@@ -996,6 +1023,15 @@
           "own": 18,
           "opponent": 20
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 15,
+          "opponent": 19
+        },
+        "goalsBefore": {
+          "own": 3,
+          "opponent": 1
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 20,
@@ -1013,6 +1049,15 @@
         "score": {
           "own": 23,
           "opponent": 21
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 21,
+          "opponent": 21
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 0
         },
         "windowSeconds": 40,
         "scoreAfterWindow": {

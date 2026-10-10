@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:41:26.455Z",
+  "generatedAt": "2026-10-10T12:54:43.888Z",
   "teams": [
     {
       "id": "86801",
@@ -25,17 +25,27 @@
       "timeouts": {
         "own": {
           "count": 9,
+          "goalsForBefore": 8,
+          "goalsAgainstBefore": 16,
           "goalsForAfter": 14,
           "goalsAgainstAfter": 18,
+          "goalDifferenceBefore": -8,
           "goalDifferenceAfter": -4,
+          "goalsForBeforePerTimeout": 0.89,
+          "goalsAgainstBeforePerTimeout": 1.78,
           "goalsForPerTimeout": 1.56,
           "goalsAgainstPerTimeout": 2
         },
         "opponent": {
           "count": 8,
+          "goalsForBefore": 19,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 13,
           "goalsAgainstAfter": 9,
+          "goalDifferenceBefore": 13,
           "goalDifferenceAfter": 4,
+          "goalsForBeforePerTimeout": 2.38,
+          "goalsAgainstBeforePerTimeout": 0.75,
           "goalsForPerTimeout": 1.63,
           "goalsAgainstPerTimeout": 1.13
         }
@@ -627,17 +637,27 @@
       "timeouts": {
         "own": {
           "count": 4,
+          "goalsForBefore": 4,
+          "goalsAgainstBefore": 8,
           "goalsForAfter": 5,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": -4,
           "goalDifferenceAfter": 0,
+          "goalsForBeforePerTimeout": 1,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 1.25,
           "goalsAgainstPerTimeout": 1.25
         },
         "opponent": {
           "count": 5,
+          "goalsForBefore": 16,
+          "goalsAgainstBefore": 3,
           "goalsForAfter": 7,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": 13,
           "goalDifferenceAfter": 2,
+          "goalsForBeforePerTimeout": 3.2,
+          "goalsAgainstBeforePerTimeout": 0.6,
           "goalsForPerTimeout": 1.4,
           "goalsAgainstPerTimeout": 1
         }
@@ -1159,17 +1179,27 @@
       "timeouts": {
         "own": {
           "count": 4,
+          "goalsForBefore": 10,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 10,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": 4,
           "goalDifferenceAfter": 5,
+          "goalsForBeforePerTimeout": 2.5,
+          "goalsAgainstBeforePerTimeout": 1.5,
           "goalsForPerTimeout": 2.5,
           "goalsAgainstPerTimeout": 1.25
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 7,
+          "goalsAgainstBefore": 4,
           "goalsForAfter": 7,
           "goalsAgainstAfter": 3,
+          "goalDifferenceBefore": 3,
           "goalDifferenceAfter": 4,
+          "goalsForBeforePerTimeout": 2.33,
+          "goalsAgainstBeforePerTimeout": 1.33,
           "goalsForPerTimeout": 2.33,
           "goalsAgainstPerTimeout": 1
         }
@@ -1535,17 +1565,27 @@
       "timeouts": {
         "own": {
           "count": 4,
+          "goalsForBefore": 3,
+          "goalsAgainstBefore": 4,
           "goalsForAfter": 4,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": -1,
           "goalDifferenceAfter": -1,
+          "goalsForBeforePerTimeout": 0.75,
+          "goalsAgainstBeforePerTimeout": 1,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 1.25
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 6,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 5,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": 0,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 1.67,
           "goalsAgainstPerTimeout": 1.67
         }
@@ -1983,17 +2023,27 @@
       "timeouts": {
         "own": {
           "count": 1,
+          "goalsForBefore": 3,
+          "goalsAgainstBefore": 0,
           "goalsForAfter": 3,
           "goalsAgainstAfter": 1,
+          "goalDifferenceBefore": 3,
           "goalDifferenceAfter": 2,
+          "goalsForBeforePerTimeout": 3,
+          "goalsAgainstBeforePerTimeout": 0,
           "goalsForPerTimeout": 3,
           "goalsAgainstPerTimeout": 1
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 6,
+          "goalsAgainstBefore": 2,
           "goalsForAfter": 7,
           "goalsAgainstAfter": 3,
+          "goalDifferenceBefore": 4,
           "goalDifferenceAfter": 4,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 0.67,
           "goalsForPerTimeout": 2.33,
           "goalsAgainstPerTimeout": 1
         }
@@ -2467,17 +2517,27 @@
       "timeouts": {
         "own": {
           "count": 1,
+          "goalsForBefore": 2,
+          "goalsAgainstBefore": 2,
           "goalsForAfter": 2,
           "goalsAgainstAfter": 2,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": 0,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 2,
           "goalsAgainstPerTimeout": 2
         },
         "opponent": {
           "count": 5,
+          "goalsForBefore": 13,
+          "goalsAgainstBefore": 3,
           "goalsForAfter": 11,
           "goalsAgainstAfter": 6,
+          "goalDifferenceBefore": 10,
           "goalDifferenceAfter": 5,
+          "goalsForBeforePerTimeout": 2.6,
+          "goalsAgainstBeforePerTimeout": 0.6,
           "goalsForPerTimeout": 2.2,
           "goalsAgainstPerTimeout": 1.2
         }
@@ -2944,17 +3004,27 @@
       "timeouts": {
         "own": {
           "count": 3,
+          "goalsForBefore": 4,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 2,
           "goalsAgainstAfter": 8,
+          "goalDifferenceBefore": -2,
           "goalDifferenceAfter": -6,
+          "goalsForBeforePerTimeout": 1.33,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 0.67,
           "goalsAgainstPerTimeout": 2.67
         },
         "opponent": {
           "count": 2,
+          "goalsForBefore": 4,
+          "goalsAgainstBefore": 0,
           "goalsForAfter": 7,
           "goalsAgainstAfter": 0,
+          "goalDifferenceBefore": 4,
           "goalDifferenceAfter": 7,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 0,
           "goalsForPerTimeout": 3.5,
           "goalsAgainstPerTimeout": 0
         }
@@ -3367,17 +3437,27 @@
       "timeouts": {
         "own": {
           "count": 3,
+          "goalsForBefore": 3,
+          "goalsAgainstBefore": 3,
           "goalsForAfter": 6,
           "goalsAgainstAfter": 0,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": 6,
+          "goalsForBeforePerTimeout": 1,
+          "goalsAgainstBeforePerTimeout": 1,
           "goalsForPerTimeout": 2,
           "goalsAgainstPerTimeout": 0
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 4,
+          "goalsAgainstBefore": 1,
           "goalsForAfter": 3,
           "goalsAgainstAfter": 3,
+          "goalDifferenceBefore": 3,
           "goalDifferenceAfter": 0,
+          "goalsForBeforePerTimeout": 1.33,
+          "goalsAgainstBeforePerTimeout": 0.33,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 1
         }
@@ -3808,17 +3888,27 @@
       "timeouts": {
         "own": {
           "count": 2,
+          "goalsForBefore": 0,
+          "goalsAgainstBefore": 4,
           "goalsForAfter": 2,
           "goalsAgainstAfter": 1,
+          "goalDifferenceBefore": -4,
           "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 0,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 0.5
         },
         "opponent": {
           "count": 5,
+          "goalsForBefore": 2,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 2,
           "goalsAgainstAfter": 8,
+          "goalDifferenceBefore": -4,
           "goalDifferenceAfter": -6,
+          "goalsForBeforePerTimeout": 0.4,
+          "goalsAgainstBeforePerTimeout": 1.2,
           "goalsForPerTimeout": 0.4,
           "goalsAgainstPerTimeout": 1.6
         }
@@ -4283,17 +4373,27 @@
       "timeouts": {
         "own": {
           "count": 8,
+          "goalsForBefore": 9,
+          "goalsAgainstBefore": 15,
           "goalsForAfter": 7,
           "goalsAgainstAfter": 9,
+          "goalDifferenceBefore": -6,
           "goalDifferenceAfter": -2,
+          "goalsForBeforePerTimeout": 1.13,
+          "goalsAgainstBeforePerTimeout": 1.88,
           "goalsForPerTimeout": 0.88,
           "goalsAgainstPerTimeout": 1.13
         },
         "opponent": {
           "count": 11,
+          "goalsForBefore": 14,
+          "goalsAgainstBefore": 19,
           "goalsForAfter": 14,
           "goalsAgainstAfter": 20,
+          "goalDifferenceBefore": -5,
           "goalDifferenceAfter": -6,
+          "goalsForBeforePerTimeout": 1.27,
+          "goalsAgainstBeforePerTimeout": 1.73,
           "goalsForPerTimeout": 1.27,
           "goalsAgainstPerTimeout": 1.82
         }
@@ -4771,17 +4871,27 @@
       "timeouts": {
         "own": {
           "count": 8,
+          "goalsForBefore": 11,
+          "goalsAgainstBefore": 19,
           "goalsForAfter": 12,
           "goalsAgainstAfter": 10,
+          "goalDifferenceBefore": -8,
           "goalDifferenceAfter": 2,
+          "goalsForBeforePerTimeout": 1.38,
+          "goalsAgainstBeforePerTimeout": 2.38,
           "goalsForPerTimeout": 1.5,
           "goalsAgainstPerTimeout": 1.25
         },
         "opponent": {
           "count": 8,
+          "goalsForBefore": 22,
+          "goalsAgainstBefore": 12,
           "goalsForAfter": 13,
           "goalsAgainstAfter": 23,
+          "goalDifferenceBefore": 10,
           "goalDifferenceAfter": -10,
+          "goalsForBeforePerTimeout": 2.75,
+          "goalsAgainstBeforePerTimeout": 1.5,
           "goalsForPerTimeout": 1.63,
           "goalsAgainstPerTimeout": 2.88
         }
@@ -5259,17 +5369,27 @@
       "timeouts": {
         "own": {
           "count": 5,
+          "goalsForBefore": 10,
+          "goalsAgainstBefore": 5,
           "goalsForAfter": 13,
           "goalsAgainstAfter": 2,
+          "goalDifferenceBefore": 5,
           "goalDifferenceAfter": 11,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 1,
           "goalsForPerTimeout": 2.6,
           "goalsAgainstPerTimeout": 0.4
         },
         "opponent": {
           "count": 8,
+          "goalsForBefore": 24,
+          "goalsAgainstBefore": 7,
           "goalsForAfter": 15,
           "goalsAgainstAfter": 7,
+          "goalDifferenceBefore": 17,
           "goalDifferenceAfter": 8,
+          "goalsForBeforePerTimeout": 3,
+          "goalsAgainstBeforePerTimeout": 0.88,
           "goalsForPerTimeout": 1.88,
           "goalsAgainstPerTimeout": 0.88
         }
@@ -5747,17 +5867,27 @@
       "timeouts": {
         "own": {
           "count": 6,
+          "goalsForBefore": 6,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 9,
           "goalsAgainstAfter": 3,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": 6,
+          "goalsForBeforePerTimeout": 1,
+          "goalsAgainstBeforePerTimeout": 1,
           "goalsForPerTimeout": 1.5,
           "goalsAgainstPerTimeout": 0.5
         },
         "opponent": {
           "count": 2,
+          "goalsForBefore": 6,
+          "goalsAgainstBefore": 0,
           "goalsForAfter": 3,
           "goalsAgainstAfter": 2,
+          "goalDifferenceBefore": 6,
           "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 3,
+          "goalsAgainstBeforePerTimeout": 0,
           "goalsForPerTimeout": 1.5,
           "goalsAgainstPerTimeout": 1
         }
@@ -6205,17 +6335,27 @@
       "timeouts": {
         "own": {
           "count": 3,
+          "goalsForBefore": 5,
+          "goalsAgainstBefore": 7,
           "goalsForAfter": 2,
           "goalsAgainstAfter": 4,
+          "goalDifferenceBefore": -2,
           "goalDifferenceAfter": -2,
+          "goalsForBeforePerTimeout": 1.67,
+          "goalsAgainstBeforePerTimeout": 2.33,
           "goalsForPerTimeout": 0.67,
           "goalsAgainstPerTimeout": 1.33
         },
         "opponent": {
           "count": 4,
+          "goalsForBefore": 2,
+          "goalsAgainstBefore": 3,
           "goalsForAfter": 3,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": -1,
           "goalDifferenceAfter": -2,
+          "goalsForBeforePerTimeout": 0.5,
+          "goalsAgainstBeforePerTimeout": 0.75,
           "goalsForPerTimeout": 0.75,
           "goalsAgainstPerTimeout": 1.25
         }
@@ -6717,17 +6857,27 @@
       "timeouts": {
         "own": {
           "count": 7,
+          "goalsForBefore": 11,
+          "goalsAgainstBefore": 11,
           "goalsForAfter": 12,
           "goalsAgainstAfter": 11,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 1.57,
+          "goalsAgainstBeforePerTimeout": 1.57,
           "goalsForPerTimeout": 1.71,
           "goalsAgainstPerTimeout": 1.57
         },
         "opponent": {
           "count": 7,
+          "goalsForBefore": 15,
+          "goalsAgainstBefore": 11,
           "goalsForAfter": 10,
           "goalsAgainstAfter": 9,
+          "goalDifferenceBefore": 4,
           "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 2.14,
+          "goalsAgainstBeforePerTimeout": 1.57,
           "goalsForPerTimeout": 1.43,
           "goalsAgainstPerTimeout": 1.29
         }
@@ -7277,17 +7427,27 @@
       "timeouts": {
         "own": {
           "count": 3,
+          "goalsForBefore": 6,
+          "goalsAgainstBefore": 4,
           "goalsForAfter": 4,
           "goalsAgainstAfter": 2,
+          "goalDifferenceBefore": 2,
           "goalDifferenceAfter": 2,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 1.33,
           "goalsForPerTimeout": 1.33,
           "goalsAgainstPerTimeout": 0.67
         },
         "opponent": {
           "count": 6,
+          "goalsForBefore": 7,
+          "goalsAgainstBefore": 7,
           "goalsForAfter": 11,
           "goalsAgainstAfter": 4,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": 7,
+          "goalsForBeforePerTimeout": 1.17,
+          "goalsAgainstBeforePerTimeout": 1.17,
           "goalsForPerTimeout": 1.83,
           "goalsAgainstPerTimeout": 0.67
         }
@@ -7729,17 +7889,27 @@
       "timeouts": {
         "own": {
           "count": 4,
+          "goalsForBefore": 8,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 6,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": 2,
           "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 1.5,
           "goalsForPerTimeout": 1.5,
           "goalsAgainstPerTimeout": 1.25
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 6,
+          "goalsAgainstBefore": 1,
           "goalsForAfter": 6,
           "goalsAgainstAfter": 9,
+          "goalDifferenceBefore": 5,
           "goalDifferenceAfter": -3,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 0.33,
           "goalsForPerTimeout": 2,
           "goalsAgainstPerTimeout": 3
         }
@@ -8163,17 +8333,27 @@
       "timeouts": {
         "own": {
           "count": 3,
+          "goalsForBefore": 2,
+          "goalsAgainstBefore": 7,
           "goalsForAfter": 2,
           "goalsAgainstAfter": 7,
+          "goalDifferenceBefore": -5,
           "goalDifferenceAfter": -5,
+          "goalsForBeforePerTimeout": 0.67,
+          "goalsAgainstBeforePerTimeout": 2.33,
           "goalsForPerTimeout": 0.67,
           "goalsAgainstPerTimeout": 2.33
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 2,
+          "goalsAgainstBefore": 2,
           "goalsForAfter": 2,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": -3,
+          "goalsForBeforePerTimeout": 0.67,
+          "goalsAgainstBeforePerTimeout": 0.67,
           "goalsForPerTimeout": 0.67,
           "goalsAgainstPerTimeout": 1.67
         }
@@ -8651,17 +8831,27 @@
       "timeouts": {
         "own": {
           "count": 6,
+          "goalsForBefore": 7,
+          "goalsAgainstBefore": 18,
           "goalsForAfter": 10,
           "goalsAgainstAfter": 10,
+          "goalDifferenceBefore": -11,
           "goalDifferenceAfter": 0,
+          "goalsForBeforePerTimeout": 1.17,
+          "goalsAgainstBeforePerTimeout": 3,
           "goalsForPerTimeout": 1.67,
           "goalsAgainstPerTimeout": 1.67
         },
         "opponent": {
           "count": 1,
+          "goalsForBefore": 0,
+          "goalsAgainstBefore": 2,
           "goalsForAfter": 1,
           "goalsAgainstAfter": 3,
+          "goalDifferenceBefore": -2,
           "goalDifferenceAfter": -2,
+          "goalsForBeforePerTimeout": 0,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 3
         }
@@ -9217,17 +9407,27 @@
       "timeouts": {
         "own": {
           "count": 3,
+          "goalsForBefore": 2,
+          "goalsAgainstBefore": 6,
           "goalsForAfter": 6,
           "goalsAgainstAfter": 1,
+          "goalDifferenceBefore": -4,
           "goalDifferenceAfter": 5,
+          "goalsForBeforePerTimeout": 0.67,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 2,
           "goalsAgainstPerTimeout": 0.33
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 4,
+          "goalsAgainstBefore": 2,
           "goalsForAfter": 3,
           "goalsAgainstAfter": 2,
+          "goalDifferenceBefore": 2,
           "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 1.33,
+          "goalsAgainstBeforePerTimeout": 0.67,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 0.67
         }
@@ -9747,17 +9947,27 @@
       "timeouts": {
         "own": {
           "count": 2,
+          "goalsForBefore": 1,
+          "goalsAgainstBefore": 1,
           "goalsForAfter": 1,
           "goalsAgainstAfter": 0,
+          "goalDifferenceBefore": 0,
           "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 0.5,
+          "goalsAgainstBeforePerTimeout": 0.5,
           "goalsForPerTimeout": 0.5,
           "goalsAgainstPerTimeout": 0
         },
         "opponent": {
           "count": 1,
+          "goalsForBefore": 2,
+          "goalsAgainstBefore": 0,
           "goalsForAfter": 0,
           "goalsAgainstAfter": 1,
+          "goalDifferenceBefore": 2,
           "goalDifferenceAfter": -1,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 0,
           "goalsForPerTimeout": 0,
           "goalsAgainstPerTimeout": 1
         }
@@ -10151,17 +10361,27 @@
       "timeouts": {
         "own": {
           "count": 1,
+          "goalsForBefore": 0,
+          "goalsAgainstBefore": 3,
           "goalsForAfter": 1,
           "goalsAgainstAfter": 2,
+          "goalDifferenceBefore": -3,
           "goalDifferenceAfter": -1,
+          "goalsForBeforePerTimeout": 0,
+          "goalsAgainstBeforePerTimeout": 3,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 2
         },
         "opponent": {
           "count": 2,
+          "goalsForBefore": 3,
+          "goalsAgainstBefore": 2,
           "goalsForAfter": 4,
           "goalsAgainstAfter": 2,
+          "goalDifferenceBefore": 1,
           "goalDifferenceAfter": 2,
+          "goalsForBeforePerTimeout": 1.5,
+          "goalsAgainstBeforePerTimeout": 1,
           "goalsForPerTimeout": 2,
           "goalsAgainstPerTimeout": 1
         }
@@ -10699,17 +10919,27 @@
       "timeouts": {
         "own": {
           "count": 5,
+          "goalsForBefore": 3,
+          "goalsAgainstBefore": 10,
           "goalsForAfter": 5,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": -7,
           "goalDifferenceAfter": 0,
+          "goalsForBeforePerTimeout": 0.6,
+          "goalsAgainstBeforePerTimeout": 2,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 1
         },
         "opponent": {
           "count": 3,
+          "goalsForBefore": 9,
+          "goalsAgainstBefore": 4,
           "goalsForAfter": 3,
           "goalsAgainstAfter": 5,
+          "goalDifferenceBefore": 5,
           "goalDifferenceAfter": -2,
+          "goalsForBeforePerTimeout": 3,
+          "goalsAgainstBeforePerTimeout": 1.33,
           "goalsForPerTimeout": 1,
           "goalsAgainstPerTimeout": 1.67
         }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:41:26.442Z",
+  "generatedAt": "2026-10-10T12:54:43.875Z",
   "match": {
     "id": 509812,
     "date": "2026-09-27",
@@ -689,6 +689,15 @@
           "own": 0,
           "opponent": 6
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 0,
+          "opponent": 4
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 2
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 2,
@@ -706,6 +715,15 @@
         "score": {
           "own": 5,
           "opponent": 15
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 5,
+          "opponent": 12
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 3
         },
         "windowSeconds": 180,
         "scoreAfterWindow": {

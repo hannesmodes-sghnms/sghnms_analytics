@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:41:26.414Z",
+  "generatedAt": "2026-10-10T12:54:43.845Z",
   "match": {
     "id": 508079,
     "date": "2026-09-06",
@@ -717,6 +717,15 @@
         "score": {
           "own": 6,
           "opponent": 6
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 6,
+          "opponent": 5
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 1
         },
         "windowSeconds": 180,
         "scoreAfterWindow": {

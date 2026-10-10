@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:41:26.401Z",
+  "generatedAt": "2026-10-10T12:54:43.832Z",
   "match": {
     "id": 450750,
     "date": "2026-09-05",
@@ -1334,6 +1334,15 @@
           "own": 8,
           "opponent": 4
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 3,
+          "opponent": 3
+        },
+        "goalsBefore": {
+          "own": 5,
+          "opponent": 1
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 8,
@@ -1351,6 +1360,15 @@
         "score": {
           "own": 10,
           "opponent": 12
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 8,
+          "opponent": 10
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 2
         },
         "windowSeconds": 180,
         "scoreAfterWindow": {
@@ -1370,6 +1388,15 @@
           "own": 25,
           "opponent": 28
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 22,
+          "opponent": 28
+        },
+        "goalsBefore": {
+          "own": 3,
+          "opponent": 0
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 28,
@@ -1387,6 +1414,15 @@
         "score": {
           "own": 29,
           "opponent": 29
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 27,
+          "opponent": 29
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 0
         },
         "windowSeconds": 180,
         "scoreAfterWindow": {
@@ -1406,6 +1442,15 @@
           "own": 32,
           "opponent": 30
         },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 29,
+          "opponent": 29
+        },
+        "goalsBefore": {
+          "own": 3,
+          "opponent": 1
+        },
         "windowSeconds": 180,
         "scoreAfterWindow": {
           "own": 33,
@@ -1423,6 +1468,15 @@
         "score": {
           "own": 34,
           "opponent": 35
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 33,
+          "opponent": 32
+        },
+        "goalsBefore": {
+          "own": 1,
+          "opponent": 3
         },
         "windowSeconds": 91,
         "scoreAfterWindow": {
