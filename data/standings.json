@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:43:00.396Z",
+  "generatedAt": "2026-10-11T18:39:54.069Z",
   "teams": [
     {
       "teamId": "86801",
@@ -10244,6 +10244,19 @@
               "qualifies": true
             },
             {
+              "round": 2,
+              "position": 3,
+              "played": 1,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 31,
+              "goalsAgainst": 26,
+              "goalDifference": 5,
+              "points": 2,
+              "qualifies": true
+            },
+            {
               "round": 3,
               "position": 2,
               "played": 2,
@@ -10400,6 +10413,45 @@
             {
               "position": 4,
               "team": {
+                "id": 81764,
+                "name": "FT ADLER KIEL II",
+                "club": {
+                  "id": "11s2uqh",
+                  "name": "FT Adler Kiel",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5724/square_6e6b6c6c61366c79366d.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 3,
+              "won": 1,
+              "drawn": 1,
+              "lost": 1,
+              "goalsFor": 89,
+              "goalsAgainst": 90,
+              "goalDifference": -1,
+              "points": 3,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 505397,
+                  "result": "L"
+                },
+                {
+                  "matchId": 505402,
+                  "result": "W"
+                },
+                {
+                  "matchId": 505416,
+                  "result": "D"
+                }
+              ]
+            },
+            {
+              "position": 5,
+              "team": {
                 "id": 81775,
                 "name": "SC KIELER FÖRDE II",
                 "club": {
@@ -10437,7 +10489,7 @@
               ]
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 81772,
                 "name": "SC FORTUNA WELLSEE",
@@ -10468,41 +10520,6 @@
                 {
                   "matchId": 505410,
                   "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 6,
-              "team": {
-                "id": 81764,
-                "name": "FT ADLER KIEL II",
-                "club": {
-                  "id": "11s2uqh",
-                  "name": "FT Adler Kiel",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5724/square_6e6b6c6c61366c79366d.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 2,
-              "won": 0,
-              "drawn": 1,
-              "lost": 1,
-              "goalsFor": 61,
-              "goalsAgainst": 70,
-              "goalDifference": -9,
-              "points": 1,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 505397,
-                  "result": "L"
-                },
-                {
-                  "matchId": 505416,
-                  "result": "D"
                 }
               ]
             },
@@ -10578,18 +10595,22 @@
                   "name": "Male"
                 }
               },
-              "played": 2,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 37,
-              "goalsAgainst": 47,
-              "goalDifference": -10,
+              "lost": 3,
+              "goalsFor": 57,
+              "goalsAgainst": 75,
+              "goalDifference": -18,
               "points": 0,
               "qualifies": true,
               "form": [
                 {
                   "matchId": 505399,
+                  "result": "L"
+                },
+                {
+                  "matchId": 505402,
                   "result": "L"
                 },
                 {
