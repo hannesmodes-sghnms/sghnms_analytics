@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:39:53.771Z",
+  "generatedAt": "2026-10-12T00:50:19.331Z",
   "matches": [
     {
       "id": 504541,
@@ -5165,6 +5165,82 @@
       "analyticsPath": "match-analytics/505408.json"
     },
     {
+      "id": 561265,
+      "date": "2026-09-27",
+      "time": "18:00",
+      "home": {
+        "id": 81691,
+        "name": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+        "clubId": "1w9jsx8"
+      },
+      "away": {
+        "id": 94484,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 35,
+        "away": 19
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competition": "Kreisliga Männer",
+      "phase": {
+        "id": 12973,
+        "name": "Kreisliga Männer - Staffel E"
+      },
+      "venue": {
+        "name": "JACOB-STRUVE-SCHULE",
+        "address": "HEISTERENDER WEG 19, 25358 HORST"
+      },
+      "ownTeamId": "94484",
+      "ownTeam": {
+        "label": "HERREN 3",
+        "name": "3. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 35,
+          "away": 19
+        },
+        "eventFinalScore": {
+          "home": 35,
+          "away": 19
+        },
+        "lineupGoalTotals": {
+          "home": 35,
+          "away": 19
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 54,
+          "goalEventsWithPlayer": 54,
+          "matchedGoalEvents": 54,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/561265.json"
+    },
+    {
       "id": 509816,
       "date": "2026-10-03",
       "time": "10:00",
@@ -5317,82 +5393,6 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/504568.json"
-    },
-    {
-      "id": 561265,
-      "date": "2026-10-03",
-      "time": "18:00",
-      "home": {
-        "id": 81691,
-        "name": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-        "clubId": "1w9jsx8"
-      },
-      "away": {
-        "id": 94484,
-        "name": "SG Handball Neumünster III",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": 35,
-        "away": 19
-      },
-      "status": {
-        "finished": true,
-        "live": false
-      },
-      "competition": "Kreisliga Männer",
-      "phase": {
-        "id": 12973,
-        "name": "Kreisliga Männer - Staffel E"
-      },
-      "venue": {
-        "name": "JACOB-STRUVE-SCHULE",
-        "address": "HEISTERENDER WEG 19, 25358 HORST"
-      },
-      "ownTeamId": "94484",
-      "ownTeam": {
-        "label": "HERREN 3",
-        "name": "3. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      },
-      "quality": {
-        "status": "verified",
-        "eventsAvailable": true,
-        "lineupsAvailable": true,
-        "officialScore": {
-          "home": 35,
-          "away": 19
-        },
-        "eventFinalScore": {
-          "home": 35,
-          "away": 19
-        },
-        "lineupGoalTotals": {
-          "home": 35,
-          "away": 19
-        },
-        "eventScoreMatchesOfficial": true,
-        "lineupScoreMatchesOfficial": true,
-        "scorerLineupCoverage": {
-          "goalEvents": 54,
-          "goalEventsWithPlayer": 54,
-          "matchedGoalEvents": 54,
-          "percentage": 100
-        },
-        "halftimeAvailable": true,
-        "halftimeSource": "event",
-        "expectedDurationSeconds": 3600,
-        "eventDurationSeconds": 3600,
-        "durationDeltaSeconds": 0,
-        "durationMatchesExpected": true,
-        "analyticsEligible": true,
-        "lineupEligible": true,
-        "warnings": []
-      },
-      "analyticsAvailable": true,
-      "analyticsPath": "match-analytics/561265.json"
     },
     {
       "id": 448689,

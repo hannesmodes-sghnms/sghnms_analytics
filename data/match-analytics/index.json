@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:39:54.456Z",
+  "generatedAt": "2026-10-12T00:50:20.035Z",
   "matches": [
     {
       "id": 504541,
@@ -672,6 +672,16 @@
       "path": "match-analytics/505408.json"
     },
     {
+      "id": 561265,
+      "date": "2026-09-27",
+      "time": "18:00",
+      "ownTeamId": "94484",
+      "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+      "analyticsEligible": true,
+      "qualityStatus": "verified",
+      "path": "match-analytics/561265.json"
+    },
+    {
       "id": 509816,
       "date": "2026-10-03",
       "time": "10:00",
@@ -690,16 +700,6 @@
       "analyticsEligible": true,
       "qualityStatus": "verified",
       "path": "match-analytics/504568.json"
-    },
-    {
-      "id": 561265,
-      "date": "2026-10-03",
-      "time": "18:00",
-      "ownTeamId": "94484",
-      "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-      "analyticsEligible": true,
-      "qualityStatus": "verified",
-      "path": "match-analytics/561265.json"
     },
     {
       "id": 448689,

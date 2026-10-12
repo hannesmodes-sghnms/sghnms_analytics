@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T18:39:53.770Z",
+  "generatedAt": "2026-10-12T00:50:19.330Z",
   "matches": [
     {
       "id": 504541,
@@ -3155,6 +3155,52 @@
       }
     },
     {
+      "id": 561265,
+      "date": "2026-09-27",
+      "ownTeamId": "94484",
+      "ownTeam": {
+        "label": "HERREN 3",
+        "name": "3. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 35,
+          "away": 19
+        },
+        "eventFinalScore": {
+          "home": 35,
+          "away": 19
+        },
+        "lineupGoalTotals": {
+          "home": 35,
+          "away": 19
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 54,
+          "goalEventsWithPlayer": 54,
+          "matchedGoalEvents": 54,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
       "id": 509816,
       "date": "2026-10-03",
       "ownTeamId": "87110",
@@ -3235,52 +3281,6 @@
           "goalEvents": 73,
           "goalEventsWithPlayer": 73,
           "matchedGoalEvents": 73,
-          "percentage": 100
-        },
-        "halftimeAvailable": true,
-        "halftimeSource": "event",
-        "expectedDurationSeconds": 3600,
-        "eventDurationSeconds": 3600,
-        "durationDeltaSeconds": 0,
-        "durationMatchesExpected": true,
-        "analyticsEligible": true,
-        "lineupEligible": true,
-        "warnings": []
-      }
-    },
-    {
-      "id": 561265,
-      "date": "2026-10-03",
-      "ownTeamId": "94484",
-      "ownTeam": {
-        "label": "HERREN 3",
-        "name": "3. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      },
-      "quality": {
-        "status": "verified",
-        "eventsAvailable": true,
-        "lineupsAvailable": true,
-        "officialScore": {
-          "home": 35,
-          "away": 19
-        },
-        "eventFinalScore": {
-          "home": 35,
-          "away": 19
-        },
-        "lineupGoalTotals": {
-          "home": 35,
-          "away": 19
-        },
-        "eventScoreMatchesOfficial": true,
-        "lineupScoreMatchesOfficial": true,
-        "scorerLineupCoverage": {
-          "goalEvents": 54,
-          "goalEventsWithPlayer": 54,
-          "matchedGoalEvents": 54,
           "percentage": 100
         },
         "halftimeAvailable": true,
