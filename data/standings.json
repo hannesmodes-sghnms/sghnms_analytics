@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:00:33.653Z",
+  "generatedAt": "2026-10-16T01:00:54.297Z",
   "teams": [
     {
       "teamId": "86801",
@@ -619,7 +619,7 @@
           "teamCount": 12,
           "current": {
             "round": 5,
-            "position": 6,
+            "position": 7,
             "played": 3,
             "won": 2,
             "drawn": 0,
@@ -659,7 +659,7 @@
             },
             {
               "round": 3,
-              "position": 2,
+              "position": 1,
               "played": 2,
               "won": 2,
               "drawn": 0,
@@ -672,7 +672,7 @@
             },
             {
               "round": 4,
-              "position": 2,
+              "position": 4,
               "played": 2,
               "won": 2,
               "drawn": 0,
@@ -685,7 +685,7 @@
             },
             {
               "round": 5,
-              "position": 6,
+              "position": 7,
               "played": 3,
               "won": 2,
               "drawn": 0,
@@ -700,6 +700,53 @@
           "table": [
             {
               "position": 1,
+              "team": {
+                "id": 81684,
+                "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+                "club": {
+                  "id": "16gum8r",
+                  "name": "HSG Kremperheide/Münsterdorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 155,
+              "goalsAgainst": 135,
+              "goalDifference": 20,
+              "points": 8,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 504544,
+                  "result": "W"
+                },
+                {
+                  "matchId": 504549,
+                  "result": "W"
+                },
+                {
+                  "matchId": 504555,
+                  "result": "L"
+                },
+                {
+                  "matchId": 504558,
+                  "result": "W"
+                },
+                {
+                  "matchId": 504565,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 2,
               "team": {
                 "id": 81720,
                 "name": "HSG KALKBERG 06",
@@ -746,14 +793,14 @@
               ]
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
-                "id": 81684,
-                "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+                "id": 81692,
+                "name": "SG DITHMARSCHEN SÜD",
                 "club": {
-                  "id": "16gum8r",
-                  "name": "HSG Kremperheide/Münsterdorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
+                  "id": "0v7ucet",
+                  "name": "SG Dithmarschen Süd",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5835/square_39393635376637373034393930633837.jpg"
                 },
                 "gender": {
                   "id": "M",
@@ -764,32 +811,32 @@
               "won": 3,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 123,
-              "goalsAgainst": 109,
-              "goalDifference": 14,
+              "goalsFor": 114,
+              "goalsAgainst": 112,
+              "goalDifference": 2,
               "points": 6,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 504544,
+                  "matchId": 504545,
                   "result": "W"
                 },
                 {
-                  "matchId": 504549,
+                  "matchId": 504550,
                   "result": "W"
                 },
                 {
-                  "matchId": 504555,
+                  "matchId": 504556,
                   "result": "L"
                 },
                 {
-                  "matchId": 504565,
+                  "matchId": 504561,
                   "result": "W"
                 }
               ]
             },
             {
-              "position": 3,
+              "position": 4,
               "team": {
                 "id": 81682,
                 "name": "SG Kollmar/Neuendorf",
@@ -836,7 +883,7 @@
               ]
             },
             {
-              "position": 4,
+              "position": 5,
               "team": {
                 "id": 81693,
                 "name": "TSV Weddingstedt II",
@@ -879,7 +926,7 @@
               ]
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 81719,
                 "name": "TSV Ellerau",
@@ -926,7 +973,7 @@
               ]
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 86805,
                 "name": "SG Handball Neumünster",
@@ -961,45 +1008,6 @@
                 {
                   "matchId": 504568,
                   "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 7,
-              "team": {
-                "id": 81692,
-                "name": "SG DITHMARSCHEN SÜD",
-                "club": {
-                  "id": "0v7ucet",
-                  "name": "SG Dithmarschen Süd",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5835/square_39393635376637373034393930633837.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 84,
-              "goalsAgainst": 86,
-              "goalDifference": -2,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 504545,
-                  "result": "W"
-                },
-                {
-                  "matchId": 504556,
-                  "result": "L"
-                },
-                {
-                  "matchId": 504561,
-                  "result": "W"
                 }
               ]
             },
@@ -1135,13 +1143,13 @@
                   "name": "Male"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "goalsFor": 69,
-              "goalsAgainst": 89,
-              "goalDifference": -20,
+              "lost": 4,
+              "goalsFor": 95,
+              "goalsAgainst": 121,
+              "goalDifference": -26,
               "points": 0,
               "qualifies": true,
               "form": [
@@ -1155,6 +1163,10 @@
                 },
                 {
                   "matchId": 504552,
+                  "result": "L"
+                },
+                {
+                  "matchId": 504558,
                   "result": "L"
                 }
               ]
@@ -1174,18 +1186,22 @@
                   "name": "Male"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "goalsFor": 66,
-              "goalsAgainst": 94,
-              "goalDifference": -28,
+              "lost": 4,
+              "goalsFor": 92,
+              "goalsAgainst": 124,
+              "goalDifference": -32,
               "points": 0,
               "qualifies": true,
               "form": [
                 {
                   "matchId": 504544,
+                  "result": "L"
+                },
+                {
+                  "matchId": 504550,
                   "result": "L"
                 },
                 {

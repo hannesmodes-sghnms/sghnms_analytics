@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T19:00:33.616Z",
+  "generatedAt": "2026-10-16T01:00:54.246Z",
   "matches": [
     {
       "id": 448683,
@@ -1500,19 +1500,33 @@
         "phaseName": "Kreisoberliga Männer West",
         "competition": "Kreisoberliga Männer",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 0,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 69,
-          "goalsAgainst": 89,
-          "goalDifference": -20,
+          "losses": 4,
+          "goalsFor": 95,
+          "goalsAgainst": 121,
+          "goalDifference": -26,
           "winRate": 0,
-          "goalsForAvg": 23,
-          "goalsAgainstAvg": 29.67,
-          "goalDifferenceAvg": -6.67
+          "goalsForAvg": 23.75,
+          "goalsAgainstAvg": 30.25,
+          "goalDifferenceAvg": -6.5
         },
         "recent": [
+          {
+            "id": 504558,
+            "date": "2026-10-15",
+            "time": "20:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81684,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 26,
+            "goalsAgainst": 32,
+            "result": "L"
+          },
           {
             "id": 504540,
             "date": "2026-09-19",
@@ -1561,12 +1575,12 @@
             "playerId": "1j0j5iu",
             "name": "Tom Philip Radzio",
             "number": 16,
-            "games": 3,
-            "goals": 19,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6.33,
-            "sevenMeterPercentage": null
+            "games": 4,
+            "goals": 28,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 7,
+            "sevenMeterPercentage": 66.7
           },
           {
             "playerId": "0sl3xuy",
@@ -1580,6 +1594,17 @@
             "sevenMeterPercentage": null
           },
           {
+            "playerId": "1bp9uxl",
+            "name": "Julian Böteführ",
+            "number": 28,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": 0
+          },
+          {
             "playerId": "1wejdhz",
             "name": "Florian Wilschewski",
             "number": 10,
@@ -1591,31 +1616,20 @@
             "sevenMeterPercentage": 100
           },
           {
-            "playerId": "1ueakv8",
-            "name": "Jannik Zessin",
-            "number": 4,
-            "games": 3,
-            "goals": 6,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1bp9uxl",
-            "name": "Julian Böteführ",
-            "number": 77,
-            "games": 1,
-            "goals": 5,
+            "playerId": "1jx6bx4",
+            "name": "Jonas Wulf",
+            "number": 22,
+            "games": 2,
+            "goals": 7,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": 0
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -19637,19 +19651,33 @@
         "phaseName": "Kreisoberliga Männer West",
         "competition": "Kreisoberliga Männer",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 0,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 69,
-          "goalsAgainst": 89,
-          "goalDifference": -20,
+          "losses": 4,
+          "goalsFor": 95,
+          "goalsAgainst": 121,
+          "goalDifference": -26,
           "winRate": 0,
-          "goalsForAvg": 23,
-          "goalsAgainstAvg": 29.67,
-          "goalDifferenceAvg": -6.67
+          "goalsForAvg": 23.75,
+          "goalsAgainstAvg": 30.25,
+          "goalDifferenceAvg": -6.5
         },
         "recent": [
+          {
+            "id": 504558,
+            "date": "2026-10-15",
+            "time": "20:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81684,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 26,
+            "goalsAgainst": 32,
+            "result": "L"
+          },
           {
             "id": 504540,
             "date": "2026-09-19",
@@ -19698,12 +19726,12 @@
             "playerId": "1j0j5iu",
             "name": "Tom Philip Radzio",
             "number": 16,
-            "games": 3,
-            "goals": 19,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6.33,
-            "sevenMeterPercentage": null
+            "games": 4,
+            "goals": 28,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 7,
+            "sevenMeterPercentage": 66.7
           },
           {
             "playerId": "0sl3xuy",
@@ -19717,6 +19745,17 @@
             "sevenMeterPercentage": null
           },
           {
+            "playerId": "1bp9uxl",
+            "name": "Julian Böteführ",
+            "number": 28,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": 0
+          },
+          {
             "playerId": "1wejdhz",
             "name": "Florian Wilschewski",
             "number": 10,
@@ -19728,31 +19767,20 @@
             "sevenMeterPercentage": 100
           },
           {
-            "playerId": "1ueakv8",
-            "name": "Jannik Zessin",
-            "number": 4,
-            "games": 3,
-            "goals": 6,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1bp9uxl",
-            "name": "Julian Böteführ",
-            "number": 77,
-            "games": 1,
-            "goals": 5,
+            "playerId": "1jx6bx4",
+            "name": "Jonas Wulf",
+            "number": 22,
+            "games": 2,
+            "goals": 7,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": 0
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
