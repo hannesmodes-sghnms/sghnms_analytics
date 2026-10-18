@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:59:25.176Z",
+  "generatedAt": "2026-10-18T12:55:42.870Z",
   "matches": [
     {
       "id": 448683,
@@ -14338,46 +14338,6 @@
       }
     },
     {
-      "id": 514379,
-      "date": "2026-12-30",
-      "time": "16:00",
-      "home": {
-        "id": 81853,
-        "name": "HSG Herzhorn/Kollmar/Neuendorf II",
-        "clubId": "0crfeig"
-      },
-      "away": {
-        "id": 94480,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competition": "Kreisoberliga Frauen",
-      "phase": {
-        "id": 12967,
-        "name": "Kreisoberliga Frauen West"
-      },
-      "venue": {
-        "name": "SPORTHALLE KOLLMAR",
-        "address": "SCHULSTRAßE 97, 25377 KOLLMAR"
-      },
-      "ownTeamId": "94480",
-      "ownTeam": {
-        "label": "FRAUEN 2",
-        "name": "2. Frauen",
-        "ageGroup": "senior",
-        "gender": "female",
-        "matchMinutes": 60
-      }
-    },
-    {
       "id": 677908,
       "date": "2026-12-31",
       "time": "10:30",
@@ -14454,6 +14414,46 @@
         "name": "1. Herren",
         "ageGroup": "senior",
         "gender": "male",
+        "matchMinutes": 60
+      }
+    },
+    {
+      "id": 514379,
+      "date": "2026-12-31",
+      "time": "16:00",
+      "home": {
+        "id": 81853,
+        "name": "HSG Herzhorn/Kollmar/Neuendorf II",
+        "clubId": "0crfeig"
+      },
+      "away": {
+        "id": 94480,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competition": "Kreisoberliga Frauen",
+      "phase": {
+        "id": 12967,
+        "name": "Kreisoberliga Frauen West"
+      },
+      "venue": {
+        "name": "SPORTHALLE KOLLMAR",
+        "address": "SCHULSTRAßE 97, 25377 KOLLMAR"
+      },
+      "ownTeamId": "94480",
+      "ownTeam": {
+        "label": "FRAUEN 2",
+        "name": "2. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
         "matchMinutes": 60
       }
     },
