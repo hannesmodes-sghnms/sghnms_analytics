@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T07:04:07.243Z",
+  "generatedAt": "2026-10-21T01:05:36.981Z",
   "matches": [
     {
       "id": 448683,
@@ -46,6 +46,213 @@
         "phaseId": "14062",
         "phaseName": "Meisterrunde",
         "competition": "Oberliga Schleswig-Holstein Frauen",
+        "season": {
+          "games": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 0,
+          "goalDifference": 0,
+          "winRate": null,
+          "goalsForAvg": null,
+          "goalsAgainstAvg": null,
+          "goalDifferenceAvg": null
+        },
+        "recent": [],
+        "topScorers": [],
+        "scoringCoverage": {
+          "finishedMatches": 0,
+          "lineupMatches": 0,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "id": 693380,
+      "date": "2026-10-24",
+      "time": "13:40",
+      "home": {
+        "id": 81617,
+        "name": "Ägypten",
+        "clubId": "0xo2eha"
+      },
+      "away": {
+        "id": 87103,
+        "name": "Saudi-Arabien",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+      "phase": {
+        "id": 17624,
+        "name": "Gruppe B"
+      },
+      "venue": {
+        "name": "GRöNAU-HALLE",
+        "address": "AM TORFMOOR, 23627 GROß-GRöNAU"
+      },
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "opponentProfile": {
+        "teamId": "81617",
+        "name": "Ägypten",
+        "phaseId": "17624",
+        "phaseName": "Gruppe B",
+        "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+        "season": {
+          "games": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 0,
+          "goalDifference": 0,
+          "winRate": null,
+          "goalsForAvg": null,
+          "goalsAgainstAvg": null,
+          "goalDifferenceAvg": null
+        },
+        "recent": [],
+        "topScorers": [],
+        "scoringCoverage": {
+          "finishedMatches": 0,
+          "lineupMatches": 0,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "id": 693382,
+      "date": "2026-10-24",
+      "time": "15:10",
+      "home": {
+        "id": 82705,
+        "name": "Italien",
+        "clubId": "0dx5pgi"
+      },
+      "away": {
+        "id": 87103,
+        "name": "Saudi-Arabien",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+      "phase": {
+        "id": 17624,
+        "name": "Gruppe B"
+      },
+      "venue": {
+        "name": "GRöNAU-HALLE",
+        "address": "AM TORFMOOR, 23627 GROß-GRöNAU"
+      },
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "opponentProfile": {
+        "teamId": "82705",
+        "name": "Italien",
+        "phaseId": "17624",
+        "phaseName": "Gruppe B",
+        "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+        "season": {
+          "games": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "goalsFor": 0,
+          "goalsAgainst": 0,
+          "goalDifference": 0,
+          "winRate": null,
+          "goalsForAvg": null,
+          "goalsAgainstAvg": null,
+          "goalDifferenceAvg": null
+        },
+        "recent": [],
+        "topScorers": [],
+        "scoringCoverage": {
+          "finishedMatches": 0,
+          "lineupMatches": 0,
+          "percentage": 0
+        }
+      }
+    },
+    {
+      "id": 693383,
+      "date": "2026-10-24",
+      "time": "16:00",
+      "home": {
+        "id": 87103,
+        "name": "Saudi-Arabien",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 82707,
+        "name": "Kap Verde",
+        "clubId": "0dg1xxv"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+      "phase": {
+        "id": 17624,
+        "name": "Gruppe B"
+      },
+      "venue": {
+        "name": "",
+        "address": ""
+      },
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "opponentProfile": {
+        "teamId": "82707",
+        "name": "Kap Verde",
+        "phaseId": "17624",
+        "phaseName": "Gruppe B",
+        "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
         "season": {
           "games": 0,
           "wins": 0,
@@ -230,6 +437,186 @@
         "scoringCoverage": {
           "finishedMatches": 3,
           "lineupMatches": 3,
+          "percentage": 100
+        }
+      }
+    },
+    {
+      "id": 504562,
+      "date": "2026-10-26",
+      "time": "20:00",
+      "home": {
+        "id": 86805,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81693,
+        "name": "TSV Weddingstedt II",
+        "clubId": "1ehf4g9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competition": "Kreisoberliga Männer",
+      "phase": {
+        "id": 12963,
+        "name": "Kreisoberliga Männer West"
+      },
+      "venue": {
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
+      },
+      "ownTeamId": "86805",
+      "ownTeam": {
+        "label": "HERREN 1",
+        "name": "1. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81693",
+        "name": "TSV Weddingstedt II",
+        "phaseId": "12963",
+        "phaseName": "Kreisoberliga Männer West",
+        "competition": "Kreisoberliga Männer",
+        "season": {
+          "games": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 121,
+          "goalsAgainst": 123,
+          "goalDifference": -2,
+          "winRate": 50,
+          "goalsForAvg": 30.25,
+          "goalsAgainstAvg": 30.75,
+          "goalDifferenceAvg": -0.5
+        },
+        "recent": [
+          {
+            "id": 504569,
+            "date": "2026-10-03",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81719,
+              "name": "TSV Ellerau",
+              "clubId": "1u01tx2"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 30,
+            "result": "D"
+          },
+          {
+            "id": 504556,
+            "date": "2026-09-19",
+            "time": "13:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81692,
+              "name": "SG DITHMARSCHEN SÜD",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 33,
+            "goalsAgainst": 25,
+            "result": "W"
+          },
+          {
+            "id": 504549,
+            "date": "2026-09-05",
+            "time": "19:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81684,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 39,
+            "result": "L"
+          },
+          {
+            "id": 504543,
+            "date": "2026-08-30",
+            "time": "15:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81720,
+              "name": "HSG KALKBERG 06",
+              "clubId": "03erpv1"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 29,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1q3onmr",
+            "name": "Janne Finn von der Heyde",
+            "number": 79,
+            "games": 4,
+            "goals": 24,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1yn2sie",
+            "name": "Paul Ohlen",
+            "number": 75,
+            "games": 4,
+            "goals": 24,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1vs9i5o",
+            "name": "Emil Julius Wartenberg",
+            "number": 23,
+            "games": 4,
+            "goals": 20,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 7,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 71.4
+          },
+          {
+            "playerId": "0jx8ctk",
+            "name": "Magnus Miguel Neeve",
+            "number": 2,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 12,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "1yojvqx",
+            "name": "Tom Belke",
+            "number": 21,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -2618,7 +3005,7 @@
       },
       "away": {
         "id": 87103,
-        "name": "SG Handball Neumünster",
+        "name": "Saudi-Arabien",
         "clubId": "1yrb3n9"
       },
       "result": {
@@ -14378,46 +14765,6 @@
       }
     },
     {
-      "id": 504562,
-      "date": "2026-12-31",
-      "time": "15:00",
-      "home": {
-        "id": 86805,
-        "name": "SG Handball Neumünster",
-        "clubId": "1yrb3n9"
-      },
-      "away": {
-        "id": 81693,
-        "name": "TSV Weddingstedt II",
-        "clubId": "1ehf4g9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competition": "Kreisoberliga Männer",
-      "phase": {
-        "id": 12963,
-        "name": "Kreisoberliga Männer West"
-      },
-      "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
-      },
-      "ownTeamId": "86805",
-      "ownTeam": {
-        "label": "HERREN 1",
-        "name": "1. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      }
-    },
-    {
       "id": 514379,
       "date": "2026-12-31",
       "time": "16:00",
@@ -16694,6 +17041,146 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81693",
+        "name": "TSV Weddingstedt II",
+        "phaseId": "12963",
+        "phaseName": "Kreisoberliga Männer West",
+        "competition": "Kreisoberliga Männer",
+        "season": {
+          "games": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 121,
+          "goalsAgainst": 123,
+          "goalDifference": -2,
+          "winRate": 50,
+          "goalsForAvg": 30.25,
+          "goalsAgainstAvg": 30.75,
+          "goalDifferenceAvg": -0.5
+        },
+        "recent": [
+          {
+            "id": 504569,
+            "date": "2026-10-03",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81719,
+              "name": "TSV Ellerau",
+              "clubId": "1u01tx2"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 30,
+            "result": "D"
+          },
+          {
+            "id": 504556,
+            "date": "2026-09-19",
+            "time": "13:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81692,
+              "name": "SG DITHMARSCHEN SÜD",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 33,
+            "goalsAgainst": 25,
+            "result": "W"
+          },
+          {
+            "id": 504549,
+            "date": "2026-09-05",
+            "time": "19:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81684,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 39,
+            "result": "L"
+          },
+          {
+            "id": 504543,
+            "date": "2026-08-30",
+            "time": "15:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81720,
+              "name": "HSG KALKBERG 06",
+              "clubId": "03erpv1"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 29,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1q3onmr",
+            "name": "Janne Finn von der Heyde",
+            "number": 79,
+            "games": 4,
+            "goals": 24,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1yn2sie",
+            "name": "Paul Ohlen",
+            "number": 75,
+            "games": 4,
+            "goals": 24,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1vs9i5o",
+            "name": "Emil Julius Wartenberg",
+            "number": 23,
+            "games": 4,
+            "goals": 20,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 7,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 71.4
+          },
+          {
+            "playerId": "0jx8ctk",
+            "name": "Magnus Miguel Neeve",
+            "number": 2,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 12,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "1yojvqx",
+            "name": "Tom Belke",
+            "number": 21,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {

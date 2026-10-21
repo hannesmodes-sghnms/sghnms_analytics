@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T07:04:07.307Z",
+  "generatedAt": "2026-10-21T01:05:37.026Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1506,6 +1506,149 @@
                   "result": "L"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "phaseId": "17624",
+          "phaseName": "Gruppe B",
+          "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+          "firstDate": "2026-10-24",
+          "lastDate": "2026-10-24",
+          "currentRound": 1,
+          "teamCount": 4,
+          "current": {
+            "round": 1,
+            "position": null,
+            "played": 0,
+            "won": 0,
+            "drawn": 0,
+            "lost": 0,
+            "goalsFor": 0,
+            "goalsAgainst": 0,
+            "goalDifference": 0,
+            "points": 0,
+            "qualifies": true
+          },
+          "history": [
+            {
+              "round": 1,
+              "position": null,
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": true
+            }
+          ],
+          "table": [
+            {
+              "position": null,
+              "team": {
+                "id": 81617,
+                "name": "Ägypten",
+                "club": {
+                  "id": "0xo2eha",
+                  "name": "ATSV Stockelsdorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5628/square_897f80b6d04bce65.jpeg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": true,
+              "form": []
+            },
+            {
+              "position": null,
+              "team": {
+                "id": 82705,
+                "name": "Italien",
+                "club": {
+                  "id": "0dx5pgi",
+                  "name": "Lübecker SV Gut Heil v. 1876",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5647/square_63376166666531633936323664396565.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": true,
+              "form": []
+            },
+            {
+              "position": null,
+              "team": {
+                "id": 82707,
+                "name": "Kap Verde",
+                "club": {
+                  "id": "0dg1xxv",
+                  "name": "TSV Groß Grönau",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5886/square_7272676f387534723134.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": true,
+              "form": []
+            },
+            {
+              "position": null,
+              "team": {
+                "id": 87103,
+                "name": "Saudi-Arabien",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": true,
+              "form": []
             }
           ]
         }
