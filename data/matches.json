@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:04:47.591Z",
+  "generatedAt": "2026-10-22T19:01:13.477Z",
   "matches": [
     {
       "id": 504541,
@@ -6007,6 +6007,82 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/677910.json"
+    },
+    {
+      "id": 448683,
+      "date": "2026-10-22",
+      "time": "18:30",
+      "home": {
+        "id": 86801,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81547,
+        "name": "DIE HAIE I HSG Horst/Kiebitzreihe",
+        "clubId": "1w9jsx8"
+      },
+      "result": {
+        "home": 38,
+        "away": 31
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competition": "Oberliga Schleswig-Holstein Frauen",
+      "phase": {
+        "id": 14062,
+        "name": "Meisterrunde"
+      },
+      "venue": {
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
+      },
+      "ownTeamId": "86801",
+      "ownTeam": {
+        "label": "FRAUEN 1",
+        "name": "1. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 38,
+          "away": 31
+        },
+        "eventFinalScore": {
+          "home": 38,
+          "away": 31
+        },
+        "lineupGoalTotals": {
+          "home": 38,
+          "away": 31
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 69,
+          "goalEventsWithPlayer": 69,
+          "matchedGoalEvents": 69,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/448683.json"
     }
   ]
 }

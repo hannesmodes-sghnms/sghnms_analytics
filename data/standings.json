@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T13:04:47.841Z",
+  "generatedAt": "2026-10-22T19:01:13.649Z",
   "teams": [
     {
       "teamId": "86801",
@@ -19,19 +19,19 @@
           "competition": "Oberliga Schleswig-Holstein Frauen",
           "firstDate": "2026-09-04",
           "lastDate": "2027-04-17",
-          "currentRound": 5,
+          "currentRound": 7,
           "teamCount": 12,
           "current": {
-            "round": 5,
-            "position": 8,
-            "played": 4,
-            "won": 1,
+            "round": 7,
+            "position": 6,
+            "played": 5,
+            "won": 2,
             "drawn": 0,
             "lost": 3,
-            "goalsFor": 117,
-            "goalsAgainst": 108,
-            "goalDifference": 9,
-            "points": 2,
+            "goalsFor": 155,
+            "goalsAgainst": 139,
+            "goalDifference": 16,
+            "points": 4,
             "qualifies": true
           },
           "history": [
@@ -63,32 +63,45 @@
             },
             {
               "round": 3,
-              "position": 5,
-              "played": 2,
-              "won": 1,
+              "position": 3,
+              "played": 3,
+              "won": 2,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 63,
-              "goalsAgainst": 51,
-              "goalDifference": 12,
-              "points": 2,
+              "goalsFor": 101,
+              "goalsAgainst": 82,
+              "goalDifference": 19,
+              "points": 4,
               "qualifies": true
             },
             {
               "round": 4,
-              "position": 7,
-              "played": 3,
-              "won": 1,
+              "position": 5,
+              "played": 4,
+              "won": 2,
               "drawn": 0,
               "lost": 2,
-              "goalsFor": 93,
-              "goalsAgainst": 83,
-              "goalDifference": 10,
-              "points": 2,
+              "goalsFor": 131,
+              "goalsAgainst": 114,
+              "goalDifference": 17,
+              "points": 4,
               "qualifies": true
             },
             {
               "round": 5,
+              "position": 6,
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 155,
+              "goalsAgainst": 139,
+              "goalDifference": 16,
+              "points": 4,
+              "qualifies": true
+            },
+            {
+              "round": 6,
               "position": 8,
               "played": 4,
               "won": 1,
@@ -98,6 +111,19 @@
               "goalsAgainst": 108,
               "goalDifference": 9,
               "points": 2,
+              "qualifies": true
+            },
+            {
+              "round": 7,
+              "position": 6,
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 155,
+              "goalsAgainst": 139,
+              "goalDifference": 16,
+              "points": 4,
               "qualifies": true
             }
           ],
@@ -312,6 +338,53 @@
             {
               "position": 6,
               "team": {
+                "id": 86801,
+                "name": "SG HANDBALL NEUMÜNSTER",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 155,
+              "goalsAgainst": 139,
+              "goalDifference": 16,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 448670,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448676,
+                  "result": "L"
+                },
+                {
+                  "matchId": 448683,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448689,
+                  "result": "L"
+                },
+                {
+                  "matchId": 448696,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 7,
+              "team": {
                 "id": 81550,
                 "name": "SV TODESFELDE II",
                 "club": {
@@ -357,7 +430,7 @@
               ]
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 81545,
                 "name": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT",
@@ -391,49 +464,6 @@
                 },
                 {
                   "matchId": 448693,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 8,
-              "team": {
-                "id": 86801,
-                "name": "SG HANDBALL NEUMÜNSTER",
-                "club": {
-                  "id": "1yrb3n9",
-                  "name": "SG Handball Neumünster",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 4,
-              "won": 1,
-              "drawn": 0,
-              "lost": 3,
-              "goalsFor": 117,
-              "goalsAgainst": 108,
-              "goalDifference": 9,
-              "points": 2,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 448670,
-                  "result": "W"
-                },
-                {
-                  "matchId": 448676,
-                  "result": "L"
-                },
-                {
-                  "matchId": 448689,
-                  "result": "L"
-                },
-                {
-                  "matchId": 448696,
                   "result": "L"
                 }
               ]
@@ -543,16 +573,21 @@
                   "name": "Female"
                 }
               },
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
+              "lost": 1,
+              "goalsFor": 31,
+              "goalsAgainst": 38,
+              "goalDifference": -7,
               "points": 0,
               "qualifies": true,
-              "form": []
+              "form": [
+                {
+                  "matchId": 448683,
+                  "result": "L"
+                }
+              ]
             },
             {
               "position": 12,

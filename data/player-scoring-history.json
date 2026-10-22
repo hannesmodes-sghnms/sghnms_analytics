@@ -1,6 +1,105 @@
 {
-  "generatedAt": "2026-10-22T13:04:48.212Z",
+  "generatedAt": "2026-10-22T19:01:13.867Z",
   "players": [
+    {
+      "key": "id:1c64ci9",
+      "playerId": "1c64ci9",
+      "name": "Kristin Bahde",
+      "totalAppearances": 5,
+      "totalGoals": 41,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 5,
+          "goals": 41,
+          "sevenMeterGoals": 6,
+          "sevenMeterAttempts": 9
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448676,
+          "date": "2026-09-04",
+          "time": "20:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "ATSV STOCKELSDORF II",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 448670,
+          "date": "2026-09-17",
+          "time": "20:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "SV Henstedt-Ulzburg II",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 2
+        },
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeterGoals": 3,
+          "sevenMeterAttempts": 4
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 11,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 12,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        }
+      ]
+    },
     {
       "key": "id:19jt45h",
       "playerId": "19jt45h",
@@ -386,89 +485,6 @@
           "goals": 5,
           "sevenMeterGoals": 4,
           "sevenMeterAttempts": 4
-        }
-      ]
-    },
-    {
-      "key": "id:1c64ci9",
-      "playerId": "1c64ci9",
-      "name": "Kristin Bahde",
-      "totalAppearances": 4,
-      "totalGoals": 29,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 4,
-          "goals": 29,
-          "sevenMeterGoals": 5,
-          "sevenMeterAttempts": 8
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448676,
-          "date": "2026-09-04",
-          "time": "20:30",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "ATSV STOCKELSDORF II",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        },
-        {
-          "matchId": 448670,
-          "date": "2026-09-17",
-          "time": "20:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "SV Henstedt-Ulzburg II",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 2
-        },
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 8,
-          "sevenMeterGoals": 3,
-          "sevenMeterAttempts": 4
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 11,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 1
         }
       ]
     },
@@ -1172,6 +1188,244 @@
       ]
     },
     {
+      "key": "id:04xdzd6",
+      "playerId": "04xdzd6",
+      "name": "Johanna Jochims",
+      "totalAppearances": 5,
+      "totalGoals": 23,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 5,
+          "goals": 23,
+          "sevenMeterGoals": 5,
+          "sevenMeterAttempts": 5
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448676,
+          "date": "2026-09-04",
+          "time": "20:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "ATSV STOCKELSDORF II",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 2
+        },
+        {
+          "matchId": 448670,
+          "date": "2026-09-17",
+          "time": "20:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "SV Henstedt-Ulzburg II",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 2
+        },
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
+      "key": "id:1mgbveb",
+      "playerId": "1mgbveb",
+      "name": "Lena Frauke Siebken",
+      "totalAppearances": 7,
+      "totalGoals": 23,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 5,
+          "goals": 14,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "teamId": "94480",
+          "teamName": "2. Frauen",
+          "appearances": 2,
+          "goals": 9,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448676,
+          "date": "2026-09-04",
+          "time": "20:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "ATSV STOCKELSDORF II",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 514352,
+          "date": "2026-09-08",
+          "time": "20:30",
+          "teamId": "94480",
+          "teamName": "2. Frauen",
+          "opponent": "TURA MELDORF",
+          "isHome": false,
+          "competition": "Kreisoberliga Frauen",
+          "phaseId": "12967",
+          "phaseName": "Kreisoberliga Frauen West",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 514368,
+          "date": "2026-09-13",
+          "time": "14:00",
+          "teamId": "94480",
+          "teamName": "2. Frauen",
+          "opponent": "HSG SCHÜLP/WESTERRÖNFELD/RENDSBURG II",
+          "isHome": false,
+          "competition": "Kreisoberliga Frauen",
+          "phaseId": "12967",
+          "phaseName": "Kreisoberliga Frauen West",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448670,
+          "date": "2026-09-17",
+          "time": "20:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "SV Henstedt-Ulzburg II",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1ceoq5u",
       "playerId": "1ceoq5u",
       "name": "* *",
@@ -1544,129 +1798,6 @@
       ]
     },
     {
-      "key": "id:1mgbveb",
-      "playerId": "1mgbveb",
-      "name": "Lena Frauke Siebken",
-      "totalAppearances": 6,
-      "totalGoals": 21,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 4,
-          "goals": 12,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "teamId": "94480",
-          "teamName": "2. Frauen",
-          "appearances": 2,
-          "goals": 9,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448676,
-          "date": "2026-09-04",
-          "time": "20:30",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "ATSV STOCKELSDORF II",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 514352,
-          "date": "2026-09-08",
-          "time": "20:30",
-          "teamId": "94480",
-          "teamName": "2. Frauen",
-          "opponent": "TURA MELDORF",
-          "isHome": false,
-          "competition": "Kreisoberliga Frauen",
-          "phaseId": "12967",
-          "phaseName": "Kreisoberliga Frauen West",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 514368,
-          "date": "2026-09-13",
-          "time": "14:00",
-          "teamId": "94480",
-          "teamName": "2. Frauen",
-          "opponent": "HSG SCHÜLP/WESTERRÖNFELD/RENDSBURG II",
-          "isHome": false,
-          "competition": "Kreisoberliga Frauen",
-          "phaseId": "12967",
-          "phaseName": "Kreisoberliga Frauen West",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448670,
-          "date": "2026-09-17",
-          "time": "20:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "SV Henstedt-Ulzburg II",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:1jn5bvq",
       "playerId": "1jn5bvq",
       "name": "Lena Stegelmann",
@@ -1969,89 +2100,6 @@
           "phaseName": "Kreisliga Männer - Staffel E",
           "inLineup": true,
           "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:04xdzd6",
-      "playerId": "04xdzd6",
-      "name": "Johanna Jochims",
-      "totalAppearances": 4,
-      "totalGoals": 20,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 4,
-          "goals": 20,
-          "sevenMeterGoals": 4,
-          "sevenMeterAttempts": 4
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448676,
-          "date": "2026-09-04",
-          "time": "20:30",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "ATSV STOCKELSDORF II",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 7,
-          "sevenMeterGoals": 2,
-          "sevenMeterAttempts": 2
-        },
-        {
-          "matchId": 448670,
-          "date": "2026-09-17",
-          "time": "20:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "SV Henstedt-Ulzburg II",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 2,
-          "sevenMeterAttempts": 2
-        },
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 5,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -3464,6 +3512,105 @@
       ]
     },
     {
+      "key": "id:0ulundt",
+      "playerId": "0ulundt",
+      "name": "Caithlin Zeidler",
+      "totalAppearances": 5,
+      "totalGoals": 14,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 5,
+          "goals": 14,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448676,
+          "date": "2026-09-04",
+          "time": "20:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "ATSV STOCKELSDORF II",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448670,
+          "date": "2026-09-17",
+          "time": "20:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "SV Henstedt-Ulzburg II",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1j750tl",
       "playerId": "1j750tl",
       "name": "Madita Sophie Fieback",
@@ -3677,6 +3824,105 @@
           "goals": 3,
           "sevenMeterGoals": 2,
           "sevenMeterAttempts": 2
+        }
+      ]
+    },
+    {
+      "key": "id:17enfwp",
+      "playerId": "17enfwp",
+      "name": "Aviella Nickels",
+      "totalAppearances": 5,
+      "totalGoals": 13,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 5,
+          "goals": 13,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448676,
+          "date": "2026-09-04",
+          "time": "20:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "ATSV STOCKELSDORF II",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448670,
+          "date": "2026-09-17",
+          "time": "20:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "SV Henstedt-Ulzburg II",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -4937,7 +5183,7 @@
       "key": "id:0yeky8i",
       "playerId": "0yeky8i",
       "name": "Miya Lynn Rose",
-      "totalAppearances": 5,
+      "totalAppearances": 6,
       "totalGoals": 11,
       "teams": [
         {
@@ -4951,7 +5197,7 @@
         {
           "teamId": "86801",
           "teamName": "1. Frauen",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 2,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
@@ -5037,6 +5283,22 @@
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -5086,6 +5348,156 @@
           "phaseName": "Kreisliga Frauen - Staffel C",
           "inLineup": true,
           "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:0gsrsgk",
+      "playerId": "0gsrsgk",
+      "name": "Celina Kortum",
+      "totalAppearances": 4,
+      "totalGoals": 10,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 4,
+          "goals": 10,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448676,
+          "date": "2026-09-04",
+          "time": "20:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "ATSV STOCKELSDORF II",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1t8y838",
+      "playerId": "1t8y838",
+      "name": "Dorothee Arthaus",
+      "totalAppearances": 3,
+      "totalGoals": 10,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 3,
+          "goals": 10,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 4,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -6040,89 +6452,6 @@
       ]
     },
     {
-      "key": "id:0ulundt",
-      "playerId": "0ulundt",
-      "name": "Caithlin Zeidler",
-      "totalAppearances": 4,
-      "totalGoals": 9,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 4,
-          "goals": 9,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448676,
-          "date": "2026-09-04",
-          "time": "20:30",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "ATSV STOCKELSDORF II",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448670,
-          "date": "2026-09-17",
-          "time": "20:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "SV Henstedt-Ulzburg II",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:1ysvzvo",
       "playerId": "1ysvzvo",
       "name": "Clemens Brimm",
@@ -6655,89 +6984,6 @@
           "goals": 7,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 1
-        }
-      ]
-    },
-    {
-      "key": "id:17enfwp",
-      "playerId": "17enfwp",
-      "name": "Aviella Nickels",
-      "totalAppearances": 4,
-      "totalGoals": 8,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 4,
-          "goals": 8,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448676,
-          "date": "2026-09-04",
-          "time": "20:30",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "ATSV STOCKELSDORF II",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448670,
-          "date": "2026-09-17",
-          "time": "20:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "SV Henstedt-Ulzburg II",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -7369,13 +7615,13 @@
       "key": "id:0q2chk9",
       "playerId": "0q2chk9",
       "name": "Sina Retelstorf",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "totalGoals": 8,
       "teams": [
         {
           "teamId": "86801",
           "teamName": "1. Frauen",
-          "appearances": 4,
+          "appearances": 5,
           "goals": 8,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -7443,6 +7689,22 @@
           "phaseName": "Meisterrunde",
           "inLineup": true,
           "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -8561,57 +8823,6 @@
       ]
     },
     {
-      "key": "id:1t8y838",
-      "playerId": "1t8y838",
-      "name": "Dorothee Arthaus",
-      "totalAppearances": 2,
-      "totalGoals": 6,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 2,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:01f7c1u",
       "playerId": "01f7c1u",
       "name": "Felina Gebel",
@@ -9533,73 +9744,6 @@
           "phaseName": "Kreisoberliga Männer West",
           "inLineup": true,
           "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0gsrsgk",
-      "playerId": "0gsrsgk",
-      "name": "Celina Kortum",
-      "totalAppearances": 3,
-      "totalGoals": 5,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 3,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448676,
-          "date": "2026-09-04",
-          "time": "20:30",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "ATSV STOCKELSDORF II",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -14373,6 +14517,89 @@
       ]
     },
     {
+      "key": "id:03pohni",
+      "playerId": "03pohni",
+      "name": "Tessa Clasen",
+      "totalAppearances": 4,
+      "totalGoals": 2,
+      "teams": [
+        {
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "appearances": 4,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 448670,
+          "date": "2026-09-17",
+          "time": "20:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "SV Henstedt-Ulzburg II",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448696,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448689,
+          "date": "2026-10-03",
+          "time": "19:00",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+          "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:002ztgg",
       "playerId": "002ztgg",
       "name": "Tim Mauersberger",
@@ -15948,13 +16175,13 @@
       "key": "id:1kcz9rl",
       "playerId": "1kcz9rl",
       "name": "Shari Malin Albers",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 1,
       "teams": [
         {
           "teamId": "86801",
           "teamName": "1. Frauen",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 1,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
@@ -16008,6 +16235,22 @@
           "goals": 1,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -16793,13 +17036,13 @@
       "key": "id:0w14tpp",
       "playerId": "0w14tpp",
       "name": "Annkatrin Lütt",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86801",
           "teamName": "1. Frauen",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -16846,6 +17089,22 @@
           "teamName": "1. Frauen",
           "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
           "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
           "competition": "Oberliga Schleswig-Holstein Frauen",
           "phaseId": "14062",
           "phaseName": "Meisterrunde",
@@ -18196,13 +18455,13 @@
       "key": "id:1uli77x",
       "playerId": "1uli77x",
       "name": "Inga Hennings",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86801",
           "teamName": "1. Frauen",
-          "appearances": 4,
+          "appearances": 5,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -18265,6 +18524,22 @@
           "teamName": "1. Frauen",
           "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
           "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
           "competition": "Oberliga Schleswig-Holstein Frauen",
           "phaseId": "14062",
           "phaseName": "Meisterrunde",
@@ -18837,13 +19112,13 @@
       "key": "id:1bwno16",
       "playerId": "1bwno16",
       "name": "Julia Jolanta Rozek",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86801",
           "teamName": "1. Frauen",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -18890,6 +19165,22 @@
           "teamName": "1. Frauen",
           "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
           "isHome": false,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
+          "isHome": true,
           "competition": "Oberliga Schleswig-Holstein Frauen",
           "phaseId": "14062",
           "phaseName": "Meisterrunde",
@@ -19287,13 +19578,13 @@
       "key": "id:1dke1nh",
       "playerId": "1dke1nh",
       "name": "Lena Vossbeck",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86801",
           "teamName": "1. Frauen",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -19323,6 +19614,22 @@
           "teamId": "86801",
           "teamName": "1. Frauen",
           "opponent": "HSG Holsteinische Schweiz",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein Frauen",
+          "phaseId": "14062",
+          "phaseName": "Meisterrunde",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 448683,
+          "date": "2026-10-22",
+          "time": "18:30",
+          "teamId": "86801",
+          "teamName": "1. Frauen",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
           "isHome": true,
           "competition": "Oberliga Schleswig-Holstein Frauen",
           "phaseId": "14062",
@@ -21555,73 +21862,6 @@
           "competition": "Kreisklasse Frauen",
           "phaseId": "12993",
           "phaseName": "Kreisklasse Frauen Mitte",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:03pohni",
-      "playerId": "03pohni",
-      "name": "Tessa Clasen",
-      "totalAppearances": 3,
-      "totalGoals": 0,
-      "teams": [
-        {
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "appearances": 3,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 448670,
-          "date": "2026-09-17",
-          "time": "20:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "SV Henstedt-Ulzburg II",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448696,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG Holsteinische Schweiz",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 448689,
-          "date": "2026-10-03",
-          "time": "19:00",
-          "teamId": "86801",
-          "teamName": "1. Frauen",
-          "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-          "isHome": false,
-          "competition": "Oberliga Schleswig-Holstein Frauen",
-          "phaseId": "14062",
-          "phaseName": "Meisterrunde",
           "inLineup": true,
           "goals": 0,
           "sevenMeterGoals": 0,
