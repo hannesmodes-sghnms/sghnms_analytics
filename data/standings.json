@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T19:01:13.649Z",
+  "generatedAt": "2026-10-23T01:07:22.742Z",
   "teams": [
     {
       "teamId": "86801",
@@ -19,10 +19,10 @@
           "competition": "Oberliga Schleswig-Holstein Frauen",
           "firstDate": "2026-09-04",
           "lastDate": "2027-04-17",
-          "currentRound": 7,
+          "currentRound": 5,
           "teamCount": 12,
           "current": {
-            "round": 7,
+            "round": 5,
             "position": 6,
             "played": 5,
             "won": 2,
@@ -89,32 +89,6 @@
             },
             {
               "round": 5,
-              "position": 6,
-              "played": 5,
-              "won": 2,
-              "drawn": 0,
-              "lost": 3,
-              "goalsFor": 155,
-              "goalsAgainst": 139,
-              "goalDifference": 16,
-              "points": 4,
-              "qualifies": true
-            },
-            {
-              "round": 6,
-              "position": 8,
-              "played": 4,
-              "won": 1,
-              "drawn": 0,
-              "lost": 3,
-              "goalsFor": 117,
-              "goalsAgainst": 108,
-              "goalDifference": 9,
-              "points": 2,
-              "qualifies": true
-            },
-            {
-              "round": 7,
               "position": 6,
               "played": 5,
               "won": 2,
