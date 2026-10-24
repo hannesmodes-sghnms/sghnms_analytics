@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:02:29.404Z",
+  "generatedAt": "2026-10-24T13:00:16.083Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1528,35 +1528,35 @@
           "teamCount": 4,
           "current": {
             "round": 1,
-            "position": null,
-            "played": 0,
+            "position": 4,
+            "played": 1,
             "won": 0,
             "drawn": 0,
-            "lost": 0,
-            "goalsFor": 0,
-            "goalsAgainst": 0,
-            "goalDifference": 0,
+            "lost": 1,
+            "goalsFor": 22,
+            "goalsAgainst": 30,
+            "goalDifference": -8,
             "points": 0,
             "qualifies": true
           },
           "history": [
             {
               "round": 1,
-              "position": null,
-              "played": 0,
+              "position": 4,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
+              "lost": 1,
+              "goalsFor": 22,
+              "goalsAgainst": 30,
+              "goalDifference": -8,
               "points": 0,
               "qualifies": true
             }
           ],
           "table": [
             {
-              "position": null,
+              "position": 1,
               "team": {
                 "id": 81617,
                 "name": "Ägypten",
@@ -1570,19 +1570,24 @@
                   "name": "Male"
                 }
               },
-              "played": 0,
-              "won": 0,
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
-              "points": 0,
+              "goalsFor": 30,
+              "goalsAgainst": 22,
+              "goalDifference": 8,
+              "points": 2,
               "qualifies": true,
-              "form": []
+              "form": [
+                {
+                  "matchId": 693380,
+                  "result": "W"
+                }
+              ]
             },
             {
-              "position": null,
+              "position": 2,
               "team": {
                 "id": 82705,
                 "name": "Italien",
@@ -1596,19 +1601,24 @@
                   "name": "Male"
                 }
               },
-              "played": 0,
-              "won": 0,
+              "played": 1,
+              "won": 1,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
-              "points": 0,
+              "goalsFor": 18,
+              "goalsAgainst": 17,
+              "goalDifference": 1,
+              "points": 2,
               "qualifies": true,
-              "form": []
+              "form": [
+                {
+                  "matchId": 693379,
+                  "result": "W"
+                }
+              ]
             },
             {
-              "position": null,
+              "position": 3,
               "team": {
                 "id": 82707,
                 "name": "Kap Verde",
@@ -1622,19 +1632,24 @@
                   "name": "Mixed"
                 }
               },
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
+              "lost": 1,
+              "goalsFor": 17,
+              "goalsAgainst": 18,
+              "goalDifference": -1,
               "points": 0,
               "qualifies": true,
-              "form": []
+              "form": [
+                {
+                  "matchId": 693379,
+                  "result": "L"
+                }
+              ]
             },
             {
-              "position": null,
+              "position": 4,
               "team": {
                 "id": 87103,
                 "name": "Saudi-Arabien",
@@ -1648,16 +1663,21 @@
                   "name": "Mixed"
                 }
               },
-              "played": 0,
+              "played": 1,
               "won": 0,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
+              "lost": 1,
+              "goalsFor": 22,
+              "goalsAgainst": 30,
+              "goalDifference": -8,
               "points": 0,
               "qualifies": true,
-              "form": []
+              "form": [
+                {
+                  "matchId": 693380,
+                  "result": "L"
+                }
+              ]
             }
           ]
         }
@@ -8884,7 +8904,7 @@
           "teamCount": 12,
           "current": {
             "round": 5,
-            "position": 11,
+            "position": 10,
             "played": 3,
             "won": 0,
             "drawn": 0,
@@ -8911,7 +8931,7 @@
             },
             {
               "round": 2,
-              "position": 9,
+              "position": 8,
               "played": 1,
               "won": 0,
               "drawn": 0,
@@ -8924,7 +8944,7 @@
             },
             {
               "round": 3,
-              "position": 10,
+              "position": 9,
               "played": 2,
               "won": 0,
               "drawn": 0,
@@ -8937,7 +8957,7 @@
             },
             {
               "round": 4,
-              "position": 11,
+              "position": 10,
               "played": 3,
               "won": 0,
               "drawn": 0,
@@ -8950,7 +8970,7 @@
             },
             {
               "round": 5,
-              "position": 11,
+              "position": 10,
               "played": 3,
               "won": 0,
               "drawn": 0,
@@ -9153,84 +9173,6 @@
             {
               "position": 6,
               "team": {
-                "id": 81860,
-                "name": "TURA MELDORF",
-                "club": {
-                  "id": "1gz2zvt",
-                  "name": "TuRa Meldorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5587/square_6c366633696d34633937.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 117,
-              "goalsAgainst": 126,
-              "goalDifference": -9,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514352,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514358,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514365,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514371,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 7,
-              "team": {
-                "id": 81888,
-                "name": "TSV Ellerau II",
-                "club": {
-                  "id": "1u01tx2",
-                  "name": "TSV Ellerau",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5746/square_6c7130636e333437786c.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 2,
-              "won": 1,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 65,
-              "goalsAgainst": 55,
-              "goalDifference": 10,
-              "points": 2,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514356,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514365,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 8,
-              "team": {
                 "id": 81840,
                 "name": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT II",
                 "club": {
@@ -9264,7 +9206,7 @@
               ]
             },
             {
-              "position": 9,
+              "position": 7,
               "team": {
                 "id": 81837,
                 "name": "HSG 91 NORTORF",
@@ -9303,7 +9245,50 @@
               ]
             },
             {
-              "position": 10,
+              "position": 8,
+              "team": {
+                "id": 81860,
+                "name": "TURA MELDORF",
+                "club": {
+                  "id": "1gz2zvt",
+                  "name": "TuRa Meldorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5587/square_6c366633696d34633937.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 86,
+              "goalsAgainst": 97,
+              "goalDifference": -11,
+              "points": 2,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514352,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514358,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514365,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514371,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 9,
               "team": {
                 "id": 81850,
                 "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
@@ -9342,7 +9327,7 @@
               ]
             },
             {
-              "position": 11,
+              "position": 10,
               "team": {
                 "id": 94480,
                 "name": "SG Handball Neumünster II",
@@ -9381,7 +9366,7 @@
               ]
             },
             {
-              "position": 12,
+              "position": 11,
               "team": {
                 "id": 81859,
                 "name": "SG DITHMARSCHEN SÜD II",
@@ -9395,13 +9380,13 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
+              "played": 3,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "goalsFor": 89,
-              "goalsAgainst": 124,
-              "goalDifference": -35,
+              "lost": 3,
+              "goalsFor": 65,
+              "goalsAgainst": 88,
+              "goalDifference": -23,
               "points": 0,
               "qualifies": true,
               "form": [
@@ -9419,6 +9404,41 @@
                 },
                 {
                   "matchId": 514372,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 12,
+              "team": {
+                "id": 81888,
+                "name": "TSV Ellerau II",
+                "club": {
+                  "id": "1u01tx2",
+                  "name": "TSV Ellerau",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5746/square_6c7130636e333437786c.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 0,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514356,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514365,
                   "result": "L"
                 }
               ]

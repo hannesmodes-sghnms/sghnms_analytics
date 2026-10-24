@@ -1,75 +1,6 @@
 {
-  "generatedAt": "2026-10-24T07:02:29.355Z",
+  "generatedAt": "2026-10-24T13:00:16.033Z",
   "matches": [
-    {
-      "id": 693380,
-      "date": "2026-10-24",
-      "time": "13:40",
-      "home": {
-        "id": 81617,
-        "name": "Ägypten",
-        "clubId": "0xo2eha"
-      },
-      "away": {
-        "id": 87103,
-        "name": "Saudi-Arabien",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
-      "phase": {
-        "id": 17624,
-        "name": "Gruppe B"
-      },
-      "venue": {
-        "name": "GRöNAU-HALLE",
-        "address": "AM TORFMOOR, 23627 GROß-GRöNAU"
-      },
-      "ownTeamId": "87103",
-      "ownTeam": {
-        "label": "MJD 1",
-        "name": "mJD 1",
-        "ageGroup": "youth",
-        "gender": "male",
-        "youthClass": "D",
-        "matchMinutes": 40,
-        "twoMinutePlayerReduction": false
-      },
-      "opponentProfile": {
-        "teamId": "81617",
-        "name": "Ägypten",
-        "phaseId": "17624",
-        "phaseName": "Gruppe B",
-        "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
-        "season": {
-          "games": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "goalsFor": 0,
-          "goalsAgainst": 0,
-          "goalDifference": 0,
-          "winRate": null,
-          "goalsForAvg": null,
-          "goalsAgainstAvg": null,
-          "goalDifferenceAvg": null
-        },
-        "recent": [],
-        "topScorers": [],
-        "scoringCoverage": {
-          "finishedMatches": 0,
-          "lineupMatches": 0,
-          "percentage": 0
-        }
-      }
-    },
     {
       "id": 693382,
       "date": "2026-10-24",
@@ -6666,158 +6597,6 @@
       }
     },
     {
-      "id": 677889,
-      "date": "2026-11-08",
-      "time": "11:00",
-      "home": {
-        "id": 82214,
-        "name": "SV Weede",
-        "clubId": "1kccyht"
-      },
-      "away": {
-        "id": 87276,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competition": "Regionsliga MÄNNLICH",
-      "phase": {
-        "id": 14617,
-        "name": "MJC-RL-2"
-      },
-      "venue": {
-        "name": "MANFRED-FRANK SPORTHALLE",
-        "address": "SCHULSTRAßE 1, 23823 SCHLAMERSDORF"
-      },
-      "ownTeamId": "87276",
-      "ownTeam": {
-        "label": "MJC 2",
-        "name": "mJC 2",
-        "ageGroup": "youth",
-        "gender": "male",
-        "matchMinutes": 50
-      },
-      "opponentProfile": {
-        "teamId": "82214",
-        "name": "SV Weede",
-        "phaseId": "14617",
-        "phaseName": "MJC-RL-2",
-        "competition": "Regionsliga MÄNNLICH",
-        "season": {
-          "games": 2,
-          "wins": 0,
-          "draws": 0,
-          "losses": 2,
-          "goalsFor": 36,
-          "goalsAgainst": 74,
-          "goalDifference": -38,
-          "winRate": 0,
-          "goalsForAvg": 18,
-          "goalsAgainstAvg": 37,
-          "goalDifferenceAvg": -19
-        },
-        "recent": [
-          {
-            "id": 677913,
-            "date": "2026-10-04",
-            "time": "10:45",
-            "isHome": true,
-            "opponent": {
-              "id": 94455,
-              "name": "SG BORDESHOLM/BRÜGGE II",
-              "clubId": "0mjcjfn"
-            },
-            "goalsFor": 12,
-            "goalsAgainst": 36,
-            "result": "L"
-          },
-          {
-            "id": 677904,
-            "date": "2026-09-26",
-            "time": "16:00",
-            "isHome": false,
-            "opponent": {
-              "id": 82195,
-              "name": "TURA MELDORF II",
-              "clubId": "1gz2zvt"
-            },
-            "goalsFor": 24,
-            "goalsAgainst": 38,
-            "result": "L"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1azox52",
-            "name": "Henning Alexander Frank",
-            "number": 15,
-            "games": 2,
-            "goals": 11,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.5,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1sehzss",
-            "name": "Ferdinand Johannes Ludwig Frank",
-            "number": 29,
-            "games": 2,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.5,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1dr93ko",
-            "name": "Noa Langholf",
-            "number": 10,
-            "games": 2,
-            "goals": 8,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0sdgxcl",
-            "name": "Tajo Springmann",
-            "number": 5,
-            "games": 1,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1rgsw70",
-            "name": "Lian Matti Paesler",
-            "number": 2,
-            "games": 1,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 1,
-            "sevenMeterPercentage": null
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
-          "percentage": 100
-        }
-      }
-    },
-    {
       "id": 419773,
       "date": "2026-11-08",
       "time": "12:15",
@@ -9821,6 +9600,146 @@
         "ageGroup": "youth",
         "gender": "male",
         "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "82205",
+        "name": "HSG HOHE GEEST",
+        "phaseId": "14617",
+        "phaseName": "MJC-RL-2",
+        "competition": "Regionsliga MÄNNLICH",
+        "season": {
+          "games": 4,
+          "wins": 0,
+          "draws": 0,
+          "losses": 4,
+          "goalsFor": 118,
+          "goalsAgainst": 159,
+          "goalDifference": -41,
+          "winRate": 0,
+          "goalsForAvg": 29.5,
+          "goalsAgainstAvg": 39.75,
+          "goalDifferenceAvg": -10.25
+        },
+        "recent": [
+          {
+            "id": 677905,
+            "date": "2026-09-27",
+            "time": "13:00",
+            "isHome": false,
+            "opponent": {
+              "id": 94455,
+              "name": "SG BORDESHOLM/BRÜGGE II",
+              "clubId": "0mjcjfn"
+            },
+            "goalsFor": 34,
+            "goalsAgainst": 41,
+            "result": "L"
+          },
+          {
+            "id": 677935,
+            "date": "2026-09-14",
+            "time": "17:30",
+            "isHome": true,
+            "opponent": {
+              "id": 82102,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 43,
+            "result": "L"
+          },
+          {
+            "id": 677895,
+            "date": "2026-09-13",
+            "time": "13:10",
+            "isHome": true,
+            "opponent": {
+              "id": 82195,
+              "name": "TURA MELDORF II",
+              "clubId": "1gz2zvt"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 33,
+            "result": "L"
+          },
+          {
+            "id": 677891,
+            "date": "2026-09-06",
+            "time": "13:30",
+            "isHome": false,
+            "opponent": {
+              "id": 82193,
+              "name": "SG PAHLHUDE/TELLINGSTEDT",
+              "clubId": "0odgr6l"
+            },
+            "goalsFor": 29,
+            "goalsAgainst": 42,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "106lrfo",
+            "name": "Jan-Tinus Holling",
+            "number": 15,
+            "games": 3,
+            "goals": 35,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 11.67,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "0ongb4i",
+            "name": "Falk Georg Niemeyer",
+            "number": 8,
+            "games": 4,
+            "goals": 32,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 8,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "14f75t0",
+            "name": "Klaas Jens Niemeyer",
+            "number": 14,
+            "games": 3,
+            "goals": 22,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 7.33,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "1i5rbtw",
+            "name": "Arek Ehlert",
+            "number": 6,
+            "games": 4,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1818m5f",
+            "name": "Leon Maurice Hansen",
+            "number": 4,
+            "games": 3,
+            "goals": 7,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.33,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {
@@ -14840,6 +14759,158 @@
       }
     },
     {
+      "id": 677889,
+      "date": "2026-12-18",
+      "time": "17:00",
+      "home": {
+        "id": 82214,
+        "name": "SV Weede",
+        "clubId": "1kccyht"
+      },
+      "away": {
+        "id": 87276,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competition": "Regionsliga MÄNNLICH",
+      "phase": {
+        "id": 14617,
+        "name": "MJC-RL-2"
+      },
+      "venue": {
+        "name": "SPORTHALLE OST",
+        "address": "DORFSTRAßE 1, 23815 GESCHENDORF"
+      },
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "82214",
+        "name": "SV Weede",
+        "phaseId": "14617",
+        "phaseName": "MJC-RL-2",
+        "competition": "Regionsliga MÄNNLICH",
+        "season": {
+          "games": 2,
+          "wins": 0,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 36,
+          "goalsAgainst": 74,
+          "goalDifference": -38,
+          "winRate": 0,
+          "goalsForAvg": 18,
+          "goalsAgainstAvg": 37,
+          "goalDifferenceAvg": -19
+        },
+        "recent": [
+          {
+            "id": 677913,
+            "date": "2026-10-04",
+            "time": "10:45",
+            "isHome": true,
+            "opponent": {
+              "id": 94455,
+              "name": "SG BORDESHOLM/BRÜGGE II",
+              "clubId": "0mjcjfn"
+            },
+            "goalsFor": 12,
+            "goalsAgainst": 36,
+            "result": "L"
+          },
+          {
+            "id": 677904,
+            "date": "2026-09-26",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82195,
+              "name": "TURA MELDORF II",
+              "clubId": "1gz2zvt"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 38,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1azox52",
+            "name": "Henning Alexander Frank",
+            "number": 15,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1sehzss",
+            "name": "Ferdinand Johannes Ludwig Frank",
+            "number": 29,
+            "games": 2,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1dr93ko",
+            "name": "Noa Langholf",
+            "number": 10,
+            "games": 2,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0sdgxcl",
+            "name": "Tajo Springmann",
+            "number": 5,
+            "games": 1,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1rgsw70",
+            "name": "Lian Matti Paesler",
+            "number": 2,
+            "games": 1,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 1,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 2,
+          "lineupMatches": 2,
+          "percentage": 100
+        }
+      }
+    },
+    {
       "id": 677908,
       "date": "2026-12-31",
       "time": "10:30",
@@ -16258,7 +16329,7 @@
         "away": null
       },
       "status": {
-        "finished": false,
+        "finished": true,
         "live": false
       },
       "competition": "Kreisoberliga Frauen",

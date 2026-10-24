@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:02:29.693Z",
+  "generatedAt": "2026-10-24T13:00:16.401Z",
   "matches": [
     {
       "id": 504541,
@@ -790,6 +790,16 @@
       "analyticsEligible": true,
       "qualityStatus": "verified",
       "path": "match-analytics/448683.json"
+    },
+    {
+      "id": 693380,
+      "date": "2026-10-24",
+      "time": "13:40",
+      "ownTeamId": "87103",
+      "opponent": "Ägypten",
+      "analyticsEligible": true,
+      "qualityStatus": "warning",
+      "path": "match-analytics/693380.json"
     }
   ]
 }

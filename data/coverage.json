@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-24T07:02:29.082Z",
-  "finishedMatches": 79,
-  "analysesAvailable": 79,
+  "generatedAt": "2026-10-24T13:00:15.743Z",
+  "finishedMatches": 80,
+  "analysesAvailable": 80,
   "endpointCoverage": {
-    "eventsAvailable": 79,
+    "eventsAvailable": 80,
     "eventsPercent": 100,
-    "lineupsAvailable": 79,
+    "lineupsAvailable": 80,
     "lineupsPercent": 100,
-    "bothAvailable": 79,
+    "bothAvailable": 80,
     "bothPercent": 100
   },
   "verifiedAnalytics": {
-    "eligibleMatches": 78,
+    "eligibleMatches": 79,
     "excludedMatches": 1,
-    "percent": 98.7
+    "percent": 98.8
   },
   "verification": {
-    "eventScoreMatchesOfficial": 78,
-    "lineupScoreMatchesOfficial": 78,
-    "halftimeAvailable": 79,
-    "halftimeEvent": 52,
+    "eventScoreMatchesOfficial": 79,
+    "lineupScoreMatchesOfficial": 79,
+    "halftimeAvailable": 80,
+    "halftimeEvent": 53,
     "halftimeDerived": 27,
     "durationMatchesExpected": 75,
-    "scorerLineupCoverage100": 79,
-    "eventScorePercent": 98.7,
-    "lineupScorePercent": 98.7,
+    "scorerLineupCoverage100": 80,
+    "eventScorePercent": 98.8,
+    "lineupScorePercent": 98.8,
     "halftimePercent": 100,
-    "durationPercent": 94.9,
+    "durationPercent": 93.8,
     "scorerLineupCoverage100Percent": 100
   },
   "warningSummary": [
     {
       "code": "DURATION_MISMATCH",
       "severity": "warning",
-      "count": 4
+      "count": 5
     },
     {
       "code": "EVENT_SCORE_MISMATCH",
@@ -88,14 +88,14 @@
       "youthClass": "D",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "finishedMatches": 3,
-      "eventsAvailable": 3,
-      "lineupsAvailable": 3,
-      "bothAvailable": 3,
-      "analyticsEligible": 3,
+      "finishedMatches": 4,
+      "eventsAvailable": 4,
+      "lineupsAvailable": 4,
+      "bothAvailable": 4,
+      "analyticsEligible": 4,
       "analyticsExcluded": 0,
       "analyticsPercent": 100,
-      "warnings": 0
+      "warnings": 1
     },
     {
       "id": "87104",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:02:29.085Z",
+  "generatedAt": "2026-10-24T13:00:15.746Z",
   "matches": [
     {
       "id": 504541,
@@ -3712,6 +3712,60 @@
         "analyticsEligible": true,
         "lineupEligible": true,
         "warnings": []
+      }
+    },
+    {
+      "id": 693380,
+      "date": "2026-10-24",
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "warning",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 30,
+          "away": 22
+        },
+        "eventFinalScore": {
+          "home": 30,
+          "away": 22
+        },
+        "lineupGoalTotals": {
+          "home": 30,
+          "away": 22
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 1440,
+        "durationDeltaSeconds": -960,
+        "durationMatchesExpected": false,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 1440s differs from expected duration 2400s by -960s."
+          }
+        ]
       }
     }
   ]
