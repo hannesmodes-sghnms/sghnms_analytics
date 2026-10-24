@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:08:08.045Z",
+  "generatedAt": "2026-10-24T14:45:38.525Z",
   "matches": [
     {
       "id": 504541,
@@ -972,6 +972,18 @@
       "competitionScope": "nonLeague",
       "qualityStatus": "warning",
       "path": "match-analytics/693382.json"
+    },
+    {
+      "id": 693383,
+      "date": "2026-10-24",
+      "time": "16:00",
+      "ownTeamId": "87103",
+      "opponent": "Kap Verde",
+      "analyticsEligible": true,
+      "statsRelevant": false,
+      "competitionScope": "nonLeague",
+      "qualityStatus": "warning",
+      "path": "match-analytics/693383.json"
     }
   ]
 }

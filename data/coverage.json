@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-24T14:08:07.322Z",
-  "finishedMatches": 81,
-  "analysesAvailable": 81,
+  "generatedAt": "2026-10-24T14:45:38.089Z",
+  "finishedMatches": 82,
+  "analysesAvailable": 82,
   "endpointCoverage": {
-    "eventsAvailable": 81,
+    "eventsAvailable": 82,
     "eventsPercent": 100,
-    "lineupsAvailable": 81,
+    "lineupsAvailable": 82,
     "lineupsPercent": 100,
-    "bothAvailable": 81,
+    "bothAvailable": 82,
     "bothPercent": 100
   },
   "verifiedAnalytics": {
-    "eligibleMatches": 80,
+    "eligibleMatches": 81,
     "excludedMatches": 1,
     "percent": 98.8
   },
   "verification": {
-    "eventScoreMatchesOfficial": 80,
-    "lineupScoreMatchesOfficial": 80,
-    "halftimeAvailable": 81,
-    "halftimeEvent": 54,
+    "eventScoreMatchesOfficial": 81,
+    "lineupScoreMatchesOfficial": 81,
+    "halftimeAvailable": 82,
+    "halftimeEvent": 55,
     "halftimeDerived": 27,
     "durationMatchesExpected": 75,
-    "scorerLineupCoverage100": 81,
+    "scorerLineupCoverage100": 82,
     "eventScorePercent": 98.8,
     "lineupScorePercent": 98.8,
     "halftimePercent": 100,
-    "durationPercent": 92.6,
+    "durationPercent": 91.5,
     "scorerLineupCoverage100Percent": 100
   },
   "warningSummary": [
     {
       "code": "DURATION_MISMATCH",
       "severity": "warning",
-      "count": 6
+      "count": 7
     },
     {
       "code": "EVENT_SCORE_MISMATCH",

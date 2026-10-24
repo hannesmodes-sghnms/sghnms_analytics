@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:08:07.326Z",
+  "generatedAt": "2026-10-24T14:45:38.092Z",
   "matches": [
     {
       "id": 504541,
@@ -6494,6 +6494,93 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/693382.json"
+    },
+    {
+      "id": 693383,
+      "date": "2026-10-24",
+      "time": "16:00",
+      "home": {
+        "id": 87103,
+        "name": "Saudi-Arabien",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 82707,
+        "name": "Kap Verde",
+        "clubId": "0dg1xxv"
+      },
+      "result": {
+        "home": 5,
+        "away": 15
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 10528,
+      "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+      "competitionScope": "nonLeague",
+      "statsRelevant": false,
+      "phase": {
+        "id": 17624,
+        "name": "Gruppe B"
+      },
+      "venue": {
+        "name": "GRöNAU-HALLE",
+        "address": "AM TORFMOOR, 23627 GROß-GRöNAU"
+      },
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "warning",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 5,
+          "away": 15
+        },
+        "eventFinalScore": {
+          "home": 5,
+          "away": 15
+        },
+        "lineupGoalTotals": {
+          "home": 5,
+          "away": 15
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 20,
+          "goalEventsWithPlayer": 20,
+          "matchedGoalEvents": 20,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 1440,
+        "durationDeltaSeconds": -960,
+        "durationMatchesExpected": false,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 1440s differs from expected duration 2400s by -960s."
+          }
+        ]
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/693383.json"
     }
   ]
 }

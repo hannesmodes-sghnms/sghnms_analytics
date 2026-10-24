@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:08:07.655Z",
+  "generatedAt": "2026-10-24T14:45:38.265Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1537,28 +1537,28 @@
           "current": {
             "round": 1,
             "position": 3,
-            "played": 1,
+            "played": 2,
             "won": 0,
-            "drawn": 0,
+            "drawn": 1,
             "lost": 1,
-            "goalsFor": 22,
-            "goalsAgainst": 30,
+            "goalsFor": 42,
+            "goalsAgainst": 50,
             "goalDifference": -8,
-            "points": 0,
+            "points": 1,
             "qualifies": true
           },
           "history": [
             {
               "round": 1,
               "position": 3,
-              "played": 1,
+              "played": 2,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "goalsFor": 22,
-              "goalsAgainst": 30,
+              "goalsFor": 42,
+              "goalsAgainst": 50,
               "goalDifference": -8,
-              "points": 0,
+              "points": 1,
               "qualifies": true
             }
           ],
@@ -1609,19 +1609,19 @@
                   "name": "Male"
                 }
               },
-              "played": 1,
+              "played": 2,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 0,
-              "goalsFor": 18,
-              "goalsAgainst": 17,
+              "goalsFor": 38,
+              "goalsAgainst": 37,
               "goalDifference": 1,
-              "points": 2,
+              "points": 3,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 693379,
-                  "result": "W"
+                  "matchId": 693382,
+                  "result": "D"
                 }
               ]
             },
@@ -1640,19 +1640,19 @@
                   "name": "Mixed"
                 }
               },
-              "played": 1,
+              "played": 2,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "goalsFor": 22,
-              "goalsAgainst": 30,
+              "goalsFor": 42,
+              "goalsAgainst": 50,
               "goalDifference": -8,
-              "points": 0,
+              "points": 1,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 693380,
-                  "result": "L"
+                  "matchId": 693382,
+                  "result": "D"
                 }
               ]
             },
