@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.323Z",
+  "generatedAt": "2026-10-24T14:08:07.952Z",
   "match": {
     "id": 514262,
     "date": "2026-09-06",
     "time": "15:15",
+    "competitionId": 7950,
     "competition": "Kreisklasse Frauen",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 12993,
       "name": "Kreisklasse Frauen Mitte"

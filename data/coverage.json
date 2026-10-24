@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-10-24T13:00:15.743Z",
-  "finishedMatches": 80,
-  "analysesAvailable": 80,
+  "generatedAt": "2026-10-24T14:08:07.322Z",
+  "finishedMatches": 81,
+  "analysesAvailable": 81,
   "endpointCoverage": {
-    "eventsAvailable": 80,
+    "eventsAvailable": 81,
     "eventsPercent": 100,
-    "lineupsAvailable": 80,
+    "lineupsAvailable": 81,
     "lineupsPercent": 100,
-    "bothAvailable": 80,
+    "bothAvailable": 81,
     "bothPercent": 100
   },
   "verifiedAnalytics": {
-    "eligibleMatches": 79,
+    "eligibleMatches": 80,
     "excludedMatches": 1,
     "percent": 98.8
   },
   "verification": {
-    "eventScoreMatchesOfficial": 79,
-    "lineupScoreMatchesOfficial": 79,
-    "halftimeAvailable": 80,
-    "halftimeEvent": 53,
+    "eventScoreMatchesOfficial": 80,
+    "lineupScoreMatchesOfficial": 80,
+    "halftimeAvailable": 81,
+    "halftimeEvent": 54,
     "halftimeDerived": 27,
     "durationMatchesExpected": 75,
-    "scorerLineupCoverage100": 80,
+    "scorerLineupCoverage100": 81,
     "eventScorePercent": 98.8,
     "lineupScorePercent": 98.8,
     "halftimePercent": 100,
-    "durationPercent": 93.8,
+    "durationPercent": 92.6,
     "scorerLineupCoverage100Percent": 100
   },
   "warningSummary": [
     {
       "code": "DURATION_MISMATCH",
       "severity": "warning",
-      "count": 5
+      "count": 6
     },
     {
       "code": "EVENT_SCORE_MISMATCH",
@@ -88,14 +88,14 @@
       "youthClass": "D",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "finishedMatches": 4,
-      "eventsAvailable": 4,
-      "lineupsAvailable": 4,
-      "bothAvailable": 4,
-      "analyticsEligible": 4,
+      "finishedMatches": 3,
+      "eventsAvailable": 3,
+      "lineupsAvailable": 3,
+      "bothAvailable": 3,
+      "analyticsEligible": 3,
       "analyticsExcluded": 0,
       "analyticsPercent": 100,
-      "warnings": 1
+      "warnings": 0
     },
     {
       "id": "87104",

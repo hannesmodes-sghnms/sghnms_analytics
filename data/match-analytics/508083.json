@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.361Z",
+  "generatedAt": "2026-10-24T14:08:07.996Z",
   "match": {
     "id": 508083,
     "date": "2026-09-20",
     "time": "16:00",
+    "competitionId": 7188,
     "competition": "wJA-Regionsoberliga",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 13873,
       "name": "wJA-ROL-4"

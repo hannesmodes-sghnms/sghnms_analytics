@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.083Z",
+  "generatedAt": "2026-10-24T14:08:07.655Z",
   "teams": [
     {
       "teamId": "86801",
@@ -17,6 +17,8 @@
           "phaseId": "14062",
           "phaseName": "Meisterrunde",
           "competition": "Oberliga Schleswig-Holstein Frauen",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-04",
           "lastDate": "2027-04-17",
           "currentRound": 5,
@@ -622,6 +624,8 @@
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
           "competition": "Kreisoberliga Männer",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-08-29",
           "lastDate": "2027-05-02",
           "currentRound": 5,
@@ -1239,12 +1243,14 @@
         "matchMinutes": 40,
         "twoMinutePlayerReduction": false
       },
-      "currentPhaseId": "17624",
+      "currentPhaseId": "15492",
       "phases": [
         {
           "phaseId": "15492",
           "phaseName": "mD-KL-Hin",
           "competition": "Kreisliga mD Neumünster",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2026-12-12",
           "currentRound": 4,
@@ -1522,13 +1528,15 @@
           "phaseId": "17624",
           "phaseName": "Gruppe B",
           "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+          "competitionScope": "nonLeague",
+          "statsRelevant": false,
           "firstDate": "2026-10-24",
           "lastDate": "2026-10-24",
           "currentRound": 1,
           "teamCount": 4,
           "current": {
             "round": 1,
-            "position": 4,
+            "position": 3,
             "played": 1,
             "won": 0,
             "drawn": 0,
@@ -1542,7 +1550,7 @@
           "history": [
             {
               "round": 1,
-              "position": 4,
+              "position": 3,
               "played": 1,
               "won": 0,
               "drawn": 0,
@@ -1570,18 +1578,18 @@
                   "name": "Male"
                 }
               },
-              "played": 1,
-              "won": 1,
+              "played": 2,
+              "won": 2,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 30,
-              "goalsAgainst": 22,
-              "goalDifference": 8,
-              "points": 2,
+              "goalsFor": 55,
+              "goalsAgainst": 40,
+              "goalDifference": 15,
+              "points": 4,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 693380,
+                  "matchId": 693381,
                   "result": "W"
                 }
               ]
@@ -1620,37 +1628,6 @@
             {
               "position": 3,
               "team": {
-                "id": 82707,
-                "name": "Kap Verde",
-                "club": {
-                  "id": "0dg1xxv",
-                  "name": "TSV Groß Grönau",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5886/square_7272676f387534723134.jpg"
-                },
-                "gender": {
-                  "id": "X",
-                  "name": "Mixed"
-                }
-              },
-              "played": 1,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 17,
-              "goalsAgainst": 18,
-              "goalDifference": -1,
-              "points": 0,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 693379,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 4,
-              "team": {
                 "id": 87103,
                 "name": "Saudi-Arabien",
                 "club": {
@@ -1678,6 +1655,37 @@
                   "result": "L"
                 }
               ]
+            },
+            {
+              "position": 4,
+              "team": {
+                "id": 82707,
+                "name": "Kap Verde",
+                "club": {
+                  "id": "0dg1xxv",
+                  "name": "TSV Groß Grönau",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5886/square_7272676f387534723134.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 2,
+              "won": 0,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 35,
+              "goalsAgainst": 43,
+              "goalDifference": -8,
+              "points": 0,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 693381,
+                  "result": "L"
+                }
+              ]
             }
           ]
         }
@@ -1701,6 +1709,8 @@
           "phaseId": "15702",
           "phaseName": "mD-KK-Hin",
           "competition": "Kreisklasse mD Neumünster",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2026-12-13",
           "currentRound": 11,
@@ -2270,6 +2280,8 @@
           "phaseId": "15531",
           "phaseName": "wD-KK",
           "competition": "Kreisklasse wD Neumünster",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-01-09",
           "currentRound": 4,
@@ -2797,6 +2809,8 @@
           "phaseId": "15496",
           "phaseName": "mE-KL-West",
           "competition": "Kreisoberliga mE Neumünster",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2026-12-05",
           "currentRound": 4,
@@ -3262,6 +3276,8 @@
           "phaseId": "15499",
           "phaseName": "mE-KL-Ost",
           "competition": "Kreisoberliga mE Neumünster",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2026-11-29",
           "currentRound": 6,
@@ -3676,6 +3692,8 @@
           "phaseId": "15509",
           "phaseName": "wE-KL-West",
           "competition": "Kreisoberliga wE Neumünster",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-13",
           "lastDate": "2026-12-05",
           "currentRound": 4,
@@ -4176,6 +4194,8 @@
           "phaseId": "15510",
           "phaseName": "wE-KL-Ost",
           "competition": "Kreisoberliga wE Neumünster",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2026-12-06",
           "currentRound": 4,
@@ -4615,6 +4635,8 @@
           "phaseId": "14073",
           "phaseName": "Vorrunde A",
           "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2026-12-06",
           "currentRound": 5,
@@ -4994,6 +5016,8 @@
           "phaseId": "14076",
           "phaseName": "Vorrunde B",
           "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2026-12-06",
           "currentRound": 5,
@@ -5373,6 +5397,8 @@
           "phaseId": "14637",
           "phaseName": "WJC-ROL-2",
           "competition": "Regionsoberliga WEIBLICH",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-04-24",
           "currentRound": 5,
@@ -5959,6 +5985,8 @@
           "phaseId": "13872",
           "phaseName": "wJA-ROL-3",
           "competition": "wJA-Regionsoberliga",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-04-17",
           "currentRound": 5,
@@ -6349,6 +6377,8 @@
           "phaseId": "13873",
           "phaseName": "wJA-ROL-4",
           "competition": "wJA-Regionsoberliga",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-07",
           "currentRound": 12,
@@ -6753,6 +6783,8 @@
           "phaseId": "14694",
           "phaseName": "mJB-ROL-2",
           "competition": "Regionsoberliga MÄNNLICH",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2027-04-24",
           "currentRound": 6,
@@ -7431,6 +7463,8 @@
           "phaseId": "14688",
           "phaseName": "wJB-RL-2",
           "competition": "Regionsliga WEIBLICH",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-04-24",
           "currentRound": 9,
@@ -7854,6 +7888,8 @@
           "phaseId": "14617",
           "phaseName": "MJC-RL-2",
           "competition": "Regionsliga MÄNNLICH",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2026-12-31",
           "currentRound": 11,
@@ -8400,6 +8436,8 @@
           "phaseId": "14626",
           "phaseName": "WJC-RL-4",
           "competition": "Regionsliga WEIBLICH",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2026-12-13",
           "currentRound": 4,
@@ -8898,6 +8936,8 @@
           "phaseId": "12967",
           "phaseName": "Kreisoberliga Frauen West",
           "competition": "Kreisoberliga Frauen",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-08",
           "lastDate": "2027-05-02",
           "currentRound": 5,
@@ -9064,6 +9104,45 @@
             {
               "position": 3,
               "team": {
+                "id": 81836,
+                "name": "Bramstedter TS",
+                "club": {
+                  "id": "030n5ma",
+                  "name": "Bramstedter TS",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5575/square_39747868336261687670.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 4,
+              "won": 2,
+              "drawn": 1,
+              "lost": 1,
+              "goalsFor": 95,
+              "goalsAgainst": 85,
+              "goalDifference": 10,
+              "points": 5,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514357,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514371,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514377,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "team": {
                 "id": 81851,
                 "name": "HSG Störtal Hummeln",
                 "club": {
@@ -9097,7 +9176,7 @@
               ]
             },
             {
-              "position": 4,
+              "position": 5,
               "team": {
                 "id": 81853,
                 "name": "HSG Herzhorn/Kollmar/Neuendorf II",
@@ -9132,45 +9211,6 @@
               ]
             },
             {
-              "position": 5,
-              "team": {
-                "id": 81836,
-                "name": "Bramstedter TS",
-                "club": {
-                  "id": "030n5ma",
-                  "name": "Bramstedter TS",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5575/square_39747868336261687670.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 93,
-              "goalsAgainst": 83,
-              "goalDifference": 10,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514357,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514371,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514377,
-                  "result": "W"
-                }
-              ]
-            },
-            {
               "position": 6,
               "team": {
                 "id": 81840,
@@ -9185,14 +9225,14 @@
                   "name": "Female"
                 }
               },
-              "played": 2,
+              "played": 3,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "goalsFor": 52,
-              "goalsAgainst": 47,
+              "goalsFor": 54,
+              "goalsAgainst": 49,
               "goalDifference": 5,
-              "points": 2,
+              "points": 3,
               "qualifies": true,
               "form": [
                 {
@@ -9463,6 +9503,8 @@
           "phaseId": "12978",
           "phaseName": "Kreisliga Frauen - Staffel C",
           "competition": "Kreisliga Frauen",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
           "currentRound": 4,
@@ -9913,6 +9955,8 @@
           "phaseId": "12993",
           "phaseName": "Kreisklasse Frauen Mitte",
           "competition": "Kreisklasse Frauen",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
           "currentRound": 6,
@@ -10400,6 +10444,8 @@
           "phaseId": "12972",
           "phaseName": "Kreisliga Männer - Staffel D",
           "competition": "Kreisliga Männer",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-03-21",
           "currentRound": 5,
@@ -10827,6 +10873,8 @@
           "phaseId": "12973",
           "phaseName": "Kreisliga Männer - Staffel E",
           "competition": "Kreisliga Männer",
+          "competitionScope": "league",
+          "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
           "currentRound": 4,

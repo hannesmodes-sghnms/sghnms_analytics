@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.374Z",
+  "generatedAt": "2026-10-24T14:08:08.012Z",
   "match": {
     "id": 514373,
     "date": "2026-09-26",
     "time": "16:30",
+    "competitionId": 7948,
     "competition": "Kreisoberliga Frauen",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 12967,
       "name": "Kreisoberliga Frauen West"

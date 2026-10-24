@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:00:15.747Z",
+  "generatedAt": "2026-10-24T14:08:07.326Z",
   "matches": [
     {
       "id": 504541,
@@ -23,7 +23,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7945,
       "competition": "Kreisoberliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12963,
         "name": "Kreisoberliga Männer West"
@@ -105,7 +108,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7194,
       "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14617,
         "name": "MJC-RL-2"
@@ -187,7 +193,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9528,
       "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14073,
         "name": "Vorrunde A"
@@ -263,7 +272,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9529,
       "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14076,
         "name": "Vorrunde B"
@@ -345,7 +357,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7189,
       "competition": "Regionsoberliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14694,
         "name": "mJB-ROL-2"
@@ -421,7 +436,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 6689,
       "competition": "Oberliga Schleswig-Holstein Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14062,
         "name": "Meisterrunde"
@@ -497,7 +515,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7242,
       "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15510,
         "name": "wE-KL-Ost"
@@ -575,7 +596,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7195,
       "competition": "Regionsoberliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14637,
         "name": "WJC-ROL-2"
@@ -651,7 +675,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7241,
       "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15499,
         "name": "mE-KL-Ost"
@@ -740,7 +767,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9529,
       "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14076,
         "name": "Vorrunde B"
@@ -816,7 +846,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9981,
       "competition": "Kreisklasse mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15702,
         "name": "mD-KK-Hin"
@@ -894,7 +927,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7188,
       "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 13872,
         "name": "wJA-ROL-3"
@@ -970,7 +1006,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9955,
       "competition": "Kreisklasse wD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15531,
         "name": "wD-KK"
@@ -1048,7 +1087,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7192,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14688,
         "name": "wJB-RL-2"
@@ -1124,7 +1166,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7946,
       "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12972,
         "name": "Kreisliga Männer - Staffel D"
@@ -1200,7 +1245,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7241,
       "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15496,
         "name": "mE-KL-West"
@@ -1278,7 +1326,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7196,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14626,
         "name": "WJC-RL-4"
@@ -1360,7 +1411,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7239,
       "competition": "Kreisliga mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15492,
         "name": "mD-KL-Hin"
@@ -1438,7 +1492,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7188,
       "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 13873,
         "name": "wJA-ROL-4"
@@ -1514,7 +1571,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7946,
       "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12973,
         "name": "Kreisliga Männer - Staffel E"
@@ -1590,7 +1650,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7950,
       "competition": "Kreisklasse Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12993,
         "name": "Kreisklasse Frauen Mitte"
@@ -1666,7 +1729,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7189,
       "competition": "Regionsoberliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14694,
         "name": "mJB-ROL-2"
@@ -1742,7 +1808,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7945,
       "competition": "Kreisoberliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12963,
         "name": "Kreisoberliga Männer West"
@@ -1818,7 +1887,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7949,
       "competition": "Kreisliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12978,
         "name": "Kreisliga Frauen - Staffel C"
@@ -1894,7 +1966,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9528,
       "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14073,
         "name": "Vorrunde A"
@@ -1970,7 +2045,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7948,
       "competition": "Kreisoberliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12967,
         "name": "Kreisoberliga Frauen West"
@@ -2046,7 +2124,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9981,
       "competition": "Kreisklasse mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15702,
         "name": "mD-KK-Hin"
@@ -2124,7 +2205,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7192,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14688,
         "name": "wJB-RL-2"
@@ -2200,7 +2284,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7242,
       "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15510,
         "name": "wE-KL-Ost"
@@ -2278,7 +2365,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7195,
       "competition": "Regionsoberliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14637,
         "name": "WJC-ROL-2"
@@ -2354,7 +2444,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7946,
       "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12973,
         "name": "Kreisliga Männer - Staffel E"
@@ -2430,7 +2523,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7241,
       "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15499,
         "name": "mE-KL-Ost"
@@ -2508,7 +2604,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9955,
       "competition": "Kreisklasse wD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15531,
         "name": "wD-KK"
@@ -2586,7 +2685,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7242,
       "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15509,
         "name": "wE-KL-West"
@@ -2664,7 +2766,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7948,
       "competition": "Kreisoberliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12967,
         "name": "Kreisoberliga Frauen West"
@@ -2740,7 +2845,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7239,
       "competition": "Kreisliga mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15492,
         "name": "mD-KL-Hin"
@@ -2818,7 +2926,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7188,
       "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 13872,
         "name": "wJA-ROL-3"
@@ -2894,7 +3005,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7241,
       "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15496,
         "name": "mE-KL-West"
@@ -2972,7 +3086,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9529,
       "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14076,
         "name": "Vorrunde B"
@@ -3048,7 +3165,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7189,
       "competition": "Regionsoberliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14694,
         "name": "mJB-ROL-2"
@@ -3124,7 +3244,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 6689,
       "competition": "Oberliga Schleswig-Holstein Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14062,
         "name": "Meisterrunde"
@@ -3200,7 +3323,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7188,
       "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 13872,
         "name": "wJA-ROL-3"
@@ -3276,7 +3402,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9528,
       "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14073,
         "name": "Vorrunde A"
@@ -3352,7 +3481,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7195,
       "competition": "Regionsoberliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14637,
         "name": "WJC-ROL-2"
@@ -3428,7 +3560,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7241,
       "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15496,
         "name": "mE-KL-West"
@@ -3506,7 +3641,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7242,
       "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15509,
         "name": "wE-KL-West"
@@ -3584,7 +3722,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7192,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14688,
         "name": "wJB-RL-2"
@@ -3660,7 +3801,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9981,
       "competition": "Kreisklasse mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15702,
         "name": "mD-KK-Hin"
@@ -3738,7 +3882,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7194,
       "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14617,
         "name": "MJC-RL-2"
@@ -3814,7 +3961,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7196,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14626,
         "name": "WJC-RL-4"
@@ -3890,7 +4040,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7188,
       "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 13873,
         "name": "wJA-ROL-4"
@@ -3966,7 +4119,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7949,
       "competition": "Kreisliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12978,
         "name": "Kreisliga Frauen - Staffel C"
@@ -4042,7 +4198,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7189,
       "competition": "Regionsoberliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14694,
         "name": "mJB-ROL-2"
@@ -4118,7 +4277,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7946,
       "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12973,
         "name": "Kreisliga Männer - Staffel E"
@@ -4194,7 +4356,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9528,
       "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14073,
         "name": "Vorrunde A"
@@ -4270,7 +4435,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7192,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14688,
         "name": "wJB-RL-2"
@@ -4346,7 +4514,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9528,
       "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14073,
         "name": "Vorrunde A"
@@ -4422,7 +4593,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9529,
       "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14076,
         "name": "Vorrunde B"
@@ -4498,7 +4672,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7189,
       "competition": "Regionsoberliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14694,
         "name": "mJB-ROL-2"
@@ -4574,7 +4751,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7948,
       "competition": "Kreisoberliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12967,
         "name": "Kreisoberliga Frauen West"
@@ -4650,7 +4830,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7242,
       "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15510,
         "name": "wE-KL-Ost"
@@ -4728,7 +4911,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7188,
       "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 13873,
         "name": "wJA-ROL-4"
@@ -4804,7 +4990,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7241,
       "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15499,
         "name": "mE-KL-Ost"
@@ -4882,7 +5071,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7196,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14626,
         "name": "WJC-RL-4"
@@ -4958,7 +5150,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7195,
       "competition": "Regionsoberliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14637,
         "name": "WJC-ROL-2"
@@ -5034,7 +5229,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 6689,
       "competition": "Oberliga Schleswig-Holstein Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14062,
         "name": "Meisterrunde"
@@ -5110,7 +5308,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7946,
       "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12972,
         "name": "Kreisliga Männer - Staffel D"
@@ -5186,7 +5387,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7946,
       "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12973,
         "name": "Kreisliga Männer - Staffel E"
@@ -5262,7 +5466,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7242,
       "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15510,
         "name": "wE-KL-Ost"
@@ -5340,7 +5547,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7945,
       "competition": "Kreisoberliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 12963,
         "name": "Kreisoberliga Männer West"
@@ -5416,7 +5626,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 6689,
       "competition": "Oberliga Schleswig-Holstein Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14062,
         "name": "Meisterrunde"
@@ -5492,7 +5705,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7242,
       "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15509,
         "name": "wE-KL-West"
@@ -5570,7 +5786,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 9981,
       "competition": "Kreisklasse mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15702,
         "name": "mD-KK-Hin"
@@ -5648,7 +5867,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7196,
       "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14626,
         "name": "WJC-RL-4"
@@ -5724,7 +5946,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7239,
       "competition": "Kreisliga mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 15492,
         "name": "mD-KL-Hin"
@@ -5802,7 +6027,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7195,
       "competition": "Regionsoberliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14637,
         "name": "WJC-ROL-2"
@@ -5878,7 +6106,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7189,
       "competition": "Regionsoberliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14694,
         "name": "mJB-ROL-2"
@@ -5954,7 +6185,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 7194,
       "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14617,
         "name": "MJC-RL-2"
@@ -6030,7 +6264,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 6689,
       "competition": "Oberliga Schleswig-Holstein Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
       "phase": {
         "id": 14062,
         "name": "Meisterrunde"
@@ -6106,7 +6343,10 @@
         "finished": true,
         "live": false
       },
+      "competitionId": 10528,
       "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+      "competitionScope": "nonLeague",
+      "statsRelevant": false,
       "phase": {
         "id": 17624,
         "name": "Gruppe B"
@@ -6167,6 +6407,93 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/693380.json"
+    },
+    {
+      "id": 693382,
+      "date": "2026-10-24",
+      "time": "15:10",
+      "home": {
+        "id": 82705,
+        "name": "Italien",
+        "clubId": "0dx5pgi"
+      },
+      "away": {
+        "id": 87103,
+        "name": "Saudi-Arabien",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 20,
+        "away": 20
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 10528,
+      "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+      "competitionScope": "nonLeague",
+      "statsRelevant": false,
+      "phase": {
+        "id": 17624,
+        "name": "Gruppe B"
+      },
+      "venue": {
+        "name": "GRöNAU-HALLE",
+        "address": "AM TORFMOOR, 23627 GROß-GRöNAU"
+      },
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "warning",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 20,
+          "away": 20
+        },
+        "eventFinalScore": {
+          "home": 20,
+          "away": 20
+        },
+        "lineupGoalTotals": {
+          "home": 20,
+          "away": 20
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 40,
+          "goalEventsWithPlayer": 40,
+          "matchedGoalEvents": 40,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 1440,
+        "durationDeltaSeconds": -960,
+        "durationMatchesExpected": false,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 1440s differs from expected duration 2400s by -960s."
+          }
+        ]
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/693382.json"
     }
   ]
 }

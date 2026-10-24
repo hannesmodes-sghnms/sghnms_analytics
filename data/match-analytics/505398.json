@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.315Z",
+  "generatedAt": "2026-10-24T14:08:07.942Z",
   "match": {
     "id": 505398,
     "date": "2026-09-05",
     "time": "18:15",
+    "competitionId": 7946,
     "competition": "Kreisliga Männer",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 12972,
       "name": "Kreisliga Männer - Staffel D"

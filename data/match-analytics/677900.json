@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.359Z",
+  "generatedAt": "2026-10-24T14:08:07.993Z",
   "match": {
     "id": 677900,
     "date": "2026-09-20",
     "time": "15:15",
+    "competitionId": 7194,
     "competition": "Regionsliga MÄNNLICH",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 14617,
       "name": "MJC-RL-2"

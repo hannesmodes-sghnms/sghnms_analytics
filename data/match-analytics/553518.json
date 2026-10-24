@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.379Z",
+  "generatedAt": "2026-10-24T14:08:08.018Z",
   "match": {
     "id": 553518,
     "date": "2026-09-27",
     "time": "13:30",
+    "competitionId": 7196,
     "competition": "Regionsliga WEIBLICH",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 14626,
       "name": "WJC-RL-4"

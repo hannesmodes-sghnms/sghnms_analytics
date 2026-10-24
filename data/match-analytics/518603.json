@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.354Z",
+  "generatedAt": "2026-10-24T14:08:07.989Z",
   "match": {
     "id": 518603,
     "date": "2026-09-20",
     "time": "10:30",
+    "competitionId": 7241,
     "competition": "Kreisoberliga mE Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 15496,
       "name": "mE-KL-West"

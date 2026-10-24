@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.298Z",
+  "generatedAt": "2026-10-24T14:08:07.920Z",
   "match": {
     "id": 450750,
     "date": "2026-09-05",
     "time": "14:00",
+    "competitionId": 9529,
     "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 14076,
       "name": "Vorrunde B"

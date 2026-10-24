@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.366Z",
+  "generatedAt": "2026-10-24T14:08:08.001Z",
   "match": {
     "id": 561260,
     "date": "2026-09-20",
     "time": "18:00",
+    "competitionId": 7946,
     "competition": "Kreisliga Männer",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 12973,
       "name": "Kreisliga Männer - Staffel E"

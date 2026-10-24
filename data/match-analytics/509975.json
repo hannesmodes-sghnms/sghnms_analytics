@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.339Z",
+  "generatedAt": "2026-10-24T14:08:07.970Z",
   "match": {
     "id": 509975,
     "date": "2026-09-13",
     "time": "14:00",
+    "competitionId": 7242,
     "competition": "Kreisoberliga wE Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 15509,
       "name": "wE-KL-West"

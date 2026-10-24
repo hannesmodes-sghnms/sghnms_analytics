@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.401Z",
+  "generatedAt": "2026-10-24T14:08:08.045Z",
   "matches": [
     {
       "id": 504541,
@@ -8,6 +8,8 @@
       "ownTeamId": "86805",
       "opponent": "TuRa Meldorf",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "warning",
       "path": "match-analytics/504541.json"
     },
@@ -18,6 +20,8 @@
       "ownTeamId": "87276",
       "opponent": "TURA MELDORF II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "warning",
       "path": "match-analytics/677884.json"
     },
@@ -28,6 +32,8 @@
       "ownTeamId": "87175",
       "opponent": "HSG Schülp/Westerrönfeld/Rendsburg",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450659.json"
     },
@@ -38,6 +44,8 @@
       "ownTeamId": "87187",
       "opponent": "VFL Lübeck-SCHWARTAU",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "warning",
       "path": "match-analytics/450747.json"
     },
@@ -48,6 +56,8 @@
       "ownTeamId": "87274",
       "opponent": "HSG OSTSEE NEUSTADT/GRÖMITZ",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/417841.json"
     },
@@ -58,6 +68,8 @@
       "ownTeamId": "86801",
       "opponent": "ATSV STOCKELSDORF II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/448676.json"
     },
@@ -68,6 +80,8 @@
       "ownTeamId": "87110",
       "opponent": "TV TRAPPENKAMP",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509803.json"
     },
@@ -78,6 +92,8 @@
       "ownTeamId": "87265",
       "opponent": "HSG OHLAU",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/411544.json"
     },
@@ -88,6 +104,8 @@
       "ownTeamId": "87108",
       "opponent": "SG Bordesholm/Brügge II",
       "analyticsEligible": false,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "invalid",
       "path": "match-analytics/518566.json"
     },
@@ -98,6 +116,8 @@
       "ownTeamId": "87187",
       "opponent": "MTV Lübeck II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450750.json"
     },
@@ -108,6 +128,8 @@
       "ownTeamId": "87104",
       "opponent": "TV TRAPPENKAMP",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532843.json"
     },
@@ -118,6 +140,8 @@
       "ownTeamId": "87271",
       "opponent": "SG BORDESHOLM/BRÜGGE",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/598474.json"
     },
@@ -128,6 +152,8 @@
       "ownTeamId": "87105",
       "opponent": "SC NAHE 08",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/510174.json"
     },
@@ -138,6 +164,8 @@
       "ownTeamId": "87275",
       "opponent": "HSG GETTORF/OSDORF",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/419755.json"
     },
@@ -148,6 +176,8 @@
       "ownTeamId": "94483",
       "opponent": "SG HANDBALL EIDERTAL",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/505398.json"
     },
@@ -158,6 +188,8 @@
       "ownTeamId": "87107",
       "opponent": "SV Weede v. 1949 e.V. II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/518595.json"
     },
@@ -168,6 +200,8 @@
       "ownTeamId": "87277",
       "opponent": "HSG HOHE GEEST",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "warning",
       "path": "match-analytics/553507.json"
     },
@@ -178,6 +212,8 @@
       "ownTeamId": "87103",
       "opponent": "SV HENSTEDT-ULZBURG II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532821.json"
     },
@@ -188,6 +224,8 @@
       "ownTeamId": "87272",
       "opponent": "BOIZENBURGER HV",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/508079.json"
     },
@@ -198,6 +236,8 @@
       "ownTeamId": "94484",
       "opponent": "HSG OHLAU",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/561249.json"
     },
@@ -208,6 +248,8 @@
       "ownTeamId": "94482",
       "opponent": "TV TRAPPENKAMP",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/514262.json"
     },
@@ -218,6 +260,8 @@
       "ownTeamId": "87274",
       "opponent": "HSG OHLAU",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/417847.json"
     },
@@ -228,6 +272,8 @@
       "ownTeamId": "86805",
       "opponent": "TSV Ellerau",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/504551.json"
     },
@@ -238,6 +284,8 @@
       "ownTeamId": "94481",
       "opponent": "SUCHSDORFER SV III",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/506405.json"
     },
@@ -248,6 +296,8 @@
       "ownTeamId": "87175",
       "opponent": "SG BORDESHOLM/BRÜGGE",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450662.json"
     },
@@ -258,6 +308,8 @@
       "ownTeamId": "94480",
       "opponent": "TURA MELDORF",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/514352.json"
     },
@@ -268,6 +320,8 @@
       "ownTeamId": "87104",
       "opponent": "SV WAHLSTEDT",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532848.json"
     },
@@ -278,6 +332,8 @@
       "ownTeamId": "87275",
       "opponent": "SG HANDBALL EIDERTAL",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/419759.json"
     },
@@ -288,6 +344,8 @@
       "ownTeamId": "87110",
       "opponent": "SG TODESFELDE/LEEZEN",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509807.json"
     },
@@ -298,6 +356,8 @@
       "ownTeamId": "87265",
       "opponent": "Suchsdorfer SV",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/411552.json"
     },
@@ -308,6 +368,8 @@
       "ownTeamId": "94484",
       "opponent": "SG Kollmar/Neuendorf II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/561254.json"
     },
@@ -318,6 +380,8 @@
       "ownTeamId": "87108",
       "opponent": "SV HENSTEDT-ULZBURG II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/518571.json"
     },
@@ -328,6 +392,8 @@
       "ownTeamId": "87105",
       "opponent": "HSG OHLAU II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/510180.json"
     },
@@ -338,6 +404,8 @@
       "ownTeamId": "87109",
       "opponent": "TUS HARTENHOLM",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509975.json"
     },
@@ -348,6 +416,8 @@
       "ownTeamId": "94480",
       "opponent": "HSG SCHÜLP/WESTERRÖNFELD/RENDSBURG II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/514368.json"
     },
@@ -358,6 +428,8 @@
       "ownTeamId": "87103",
       "opponent": "Bramstedter TS II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532823.json"
     },
@@ -368,6 +440,8 @@
       "ownTeamId": "87271",
       "opponent": "HSG Störtal Hummeln",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/598477.json"
     },
@@ -378,6 +452,8 @@
       "ownTeamId": "87107",
       "opponent": "Bramstedter TS",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/518598.json"
     },
@@ -388,6 +464,8 @@
       "ownTeamId": "87187",
       "opponent": "TSV BARGTEHEIDE",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450753.json"
     },
@@ -398,6 +476,8 @@
       "ownTeamId": "87274",
       "opponent": "HSG Lübecker Bucht",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/417854.json"
     },
@@ -408,6 +488,8 @@
       "ownTeamId": "86801",
       "opponent": "SV Henstedt-Ulzburg II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/448670.json"
     },
@@ -418,6 +500,8 @@
       "ownTeamId": "87271",
       "opponent": "WJA",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/598481.json"
     },
@@ -428,6 +512,8 @@
       "ownTeamId": "87175",
       "opponent": "TSV Nord Harrislee",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450666.json"
     },
@@ -438,6 +524,8 @@
       "ownTeamId": "87265",
       "opponent": "HSG MÖNKEBERG-SCHÖNKIRCHEN II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/411559.json"
     },
@@ -448,6 +536,8 @@
       "ownTeamId": "87107",
       "opponent": "SG BORDESHOLM/BRÜGGE",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/518603.json"
     },
@@ -458,6 +548,8 @@
       "ownTeamId": "87109",
       "opponent": "HSG KALKBERG 06",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509981.json"
     },
@@ -468,6 +560,8 @@
       "ownTeamId": "87275",
       "opponent": "MTV Dänischenhagen II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/419786.json"
     },
@@ -478,6 +572,8 @@
       "ownTeamId": "87104",
       "opponent": "HSG OHLAU a.K.",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532854.json"
     },
@@ -488,6 +584,8 @@
       "ownTeamId": "87276",
       "opponent": "SG BORDESHOLM/BRÜGGE II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/677900.json"
     },
@@ -498,6 +596,8 @@
       "ownTeamId": "87277",
       "opponent": "TSV WACKEN",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/553512.json"
     },
@@ -508,6 +608,8 @@
       "ownTeamId": "87272",
       "opponent": "HSG OHLAU",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/508083.json"
     },
@@ -518,6 +620,8 @@
       "ownTeamId": "94481",
       "opponent": "HSG GETTORF/OSDORF II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/506416.json"
     },
@@ -528,6 +632,8 @@
       "ownTeamId": "87274",
       "opponent": "SG GLINDE-REINBEK",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/417860.json"
     },
@@ -538,6 +644,8 @@
       "ownTeamId": "94484",
       "opponent": "SV HENSTEDT-ULZBURG II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/561260.json"
     },
@@ -548,6 +656,8 @@
       "ownTeamId": "87175",
       "opponent": "Bramstedter TS",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450665.json"
     },
@@ -558,6 +668,8 @@
       "ownTeamId": "87275",
       "opponent": "HSG WABO 2011",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/419764.json"
     },
@@ -568,6 +680,8 @@
       "ownTeamId": "87175",
       "opponent": "HSG SZOWW",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450670.json"
     },
@@ -578,6 +692,8 @@
       "ownTeamId": "87187",
       "opponent": "SG GLINDE-REINBEK",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450759.json"
     },
@@ -588,6 +704,8 @@
       "ownTeamId": "87274",
       "opponent": "ATSV STOCKELSDORF",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/417867.json"
     },
@@ -598,6 +716,8 @@
       "ownTeamId": "94480",
       "opponent": "SV Henstedt-Ulzburg III",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/514373.json"
     },
@@ -608,6 +728,8 @@
       "ownTeamId": "87110",
       "opponent": "SV Weede",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509812.json"
     },
@@ -618,6 +740,8 @@
       "ownTeamId": "87272",
       "opponent": "DHG Sandesneben",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/508088.json"
     },
@@ -628,6 +752,8 @@
       "ownTeamId": "87108",
       "opponent": "HSG WaBo 2011",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/518575.json"
     },
@@ -638,6 +764,8 @@
       "ownTeamId": "87277",
       "opponent": "TSV Ellerau",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/553518.json"
     },
@@ -648,6 +776,8 @@
       "ownTeamId": "87265",
       "opponent": "HSG GETTORF/OSDORF",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/411564.json"
     },
@@ -658,6 +788,8 @@
       "ownTeamId": "86801",
       "opponent": "HSG Holsteinische Schweiz",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/448696.json"
     },
@@ -668,6 +800,8 @@
       "ownTeamId": "94483",
       "opponent": "SC FORTUNA WELLSEE",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/505408.json"
     },
@@ -678,6 +812,8 @@
       "ownTeamId": "94484",
       "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/561265.json"
     },
@@ -688,6 +824,8 @@
       "ownTeamId": "87110",
       "opponent": "Bramstedter TS II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509816.json"
     },
@@ -698,6 +836,8 @@
       "ownTeamId": "86805",
       "opponent": "SG Kollmar/Neuendorf",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/504568.json"
     },
@@ -708,6 +848,8 @@
       "ownTeamId": "86801",
       "opponent": "HSG HOLSTEIN KIEL/KRONSHAGEN",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/448689.json"
     },
@@ -718,6 +860,8 @@
       "ownTeamId": "87109",
       "opponent": "SV Henstedt-Ulzburg II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509986.json"
     },
@@ -728,6 +872,8 @@
       "ownTeamId": "87104",
       "opponent": "SG BORDESHOLM/BRÜGGE II",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532859.json"
     },
@@ -738,6 +884,8 @@
       "ownTeamId": "87277",
       "opponent": "SV Henstedt-Ulzburg IV",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/553523.json"
     },
@@ -748,6 +896,8 @@
       "ownTeamId": "87103",
       "opponent": "HSG KALKBERG 06",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532826.json"
     },
@@ -758,6 +908,8 @@
       "ownTeamId": "87265",
       "opponent": "SG BORDESHOLM/BRÜGGE",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/411572.json"
     },
@@ -768,6 +920,8 @@
       "ownTeamId": "87274",
       "opponent": "VFL GEESTHACHT",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/417873.json"
     },
@@ -778,6 +932,8 @@
       "ownTeamId": "87276",
       "opponent": "HSG 91 NORTORF",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/677910.json"
     },
@@ -788,6 +944,8 @@
       "ownTeamId": "86801",
       "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe",
       "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/448683.json"
     },
@@ -798,8 +956,22 @@
       "ownTeamId": "87103",
       "opponent": "Ägypten",
       "analyticsEligible": true,
+      "statsRelevant": false,
+      "competitionScope": "nonLeague",
       "qualityStatus": "warning",
       "path": "match-analytics/693380.json"
+    },
+    {
+      "id": 693382,
+      "date": "2026-10-24",
+      "time": "15:10",
+      "ownTeamId": "87103",
+      "opponent": "Italien",
+      "analyticsEligible": true,
+      "statsRelevant": false,
+      "competitionScope": "nonLeague",
+      "qualityStatus": "warning",
+      "path": "match-analytics/693382.json"
     }
   ]
 }

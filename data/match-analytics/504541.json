@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.282Z",
+  "generatedAt": "2026-10-24T14:08:07.901Z",
   "match": {
     "id": 504541,
     "date": "2026-08-29",
     "time": "19:00",
+    "competitionId": 7945,
     "competition": "Kreisoberliga Männer",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 12963,
       "name": "Kreisoberliga Männer West"

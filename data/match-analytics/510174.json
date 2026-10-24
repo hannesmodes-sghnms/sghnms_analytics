@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.309Z",
+  "generatedAt": "2026-10-24T14:08:07.937Z",
   "match": {
     "id": 510174,
     "date": "2026-09-05",
     "time": "16:00",
+    "competitionId": 9955,
     "competition": "Kreisklasse wD Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 15531,
       "name": "wD-KK"

@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.365Z",
+  "generatedAt": "2026-10-24T14:08:08.000Z",
   "match": {
     "id": 417860,
     "date": "2026-09-20",
     "time": "17:30",
+    "competitionId": 7189,
     "competition": "Regionsoberliga MÄNNLICH",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 14694,
       "name": "mJB-ROL-2"

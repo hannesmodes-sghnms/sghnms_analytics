@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.358Z",
+  "generatedAt": "2026-10-24T14:08:07.992Z",
   "match": {
     "id": 532854,
     "date": "2026-09-20",
     "time": "12:30",
+    "competitionId": 9981,
     "competition": "Kreisklasse mD Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 15702,
       "name": "mD-KK-Hin"

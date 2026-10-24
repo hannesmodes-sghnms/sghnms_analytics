@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.398Z",
+  "generatedAt": "2026-10-24T14:08:08.039Z",
   "match": {
     "id": 693380,
     "date": "2026-10-24",
     "time": "13:40",
+    "competitionId": 10528,
     "competition": "DHB-Mini-WM 2026/2027 (HVSH)",
+    "competitionScope": "nonLeague",
+    "statsRelevant": false,
     "phase": {
       "id": 17624,
       "name": "Gruppe B"

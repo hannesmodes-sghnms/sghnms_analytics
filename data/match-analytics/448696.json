@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.381Z",
+  "generatedAt": "2026-10-24T14:08:08.020Z",
   "match": {
     "id": 448696,
     "date": "2026-09-27",
     "time": "17:00",
+    "competitionId": 6689,
     "competition": "Oberliga Schleswig-Holstein Frauen",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 14062,
       "name": "Meisterrunde"

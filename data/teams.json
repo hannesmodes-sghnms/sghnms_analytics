@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:00:15.745Z",
+  "generatedAt": "2026-10-24T14:08:07.324Z",
   "teams": [
     {
       "id": "86801",
@@ -42,14 +42,14 @@
       "youthClass": "D",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "games": 4,
+      "games": 3,
       "wins": 3,
       "draws": 0,
-      "losses": 1,
-      "goalsFor": 117,
-      "goalsAgainst": 83,
-      "goalDifference": 34,
-      "winRate": 75
+      "losses": 0,
+      "goalsFor": 95,
+      "goalsAgainst": 53,
+      "goalDifference": 42,
+      "winRate": 100
     },
     {
       "id": "87104",

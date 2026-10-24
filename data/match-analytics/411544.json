@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.295Z",
+  "generatedAt": "2026-10-24T14:08:07.917Z",
   "match": {
     "id": 411544,
     "date": "2026-09-05",
     "time": "13:00",
+    "competitionId": 7195,
     "competition": "Regionsoberliga WEIBLICH",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 14637,
       "name": "WJC-ROL-2"

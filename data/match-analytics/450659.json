@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-24T13:00:16.288Z",
+  "generatedAt": "2026-10-24T14:08:07.908Z",
   "match": {
     "id": 450659,
     "date": "2026-08-30",
     "time": "14:15",
+    "competitionId": 9528,
     "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+    "competitionScope": "league",
+    "statsRelevant": true,
     "phase": {
       "id": 14073,
       "name": "Vorrunde A"
