@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T07:04:41.141Z",
+  "generatedAt": "2026-10-24T01:09:41.448Z",
   "matches": [
     {
       "id": 693380,
@@ -3805,19 +3805,33 @@
         "phaseName": "Kreisliga Männer - Staffel E",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 1,
+          "games": 2,
           "wins": 1,
           "draws": 0,
-          "losses": 0,
-          "goalsFor": 34,
-          "goalsAgainst": 24,
-          "goalDifference": 10,
-          "winRate": 100,
-          "goalsForAvg": 34,
-          "goalsAgainstAvg": 24,
-          "goalDifferenceAvg": 10
+          "losses": 1,
+          "goalsFor": 61,
+          "goalsAgainst": 59,
+          "goalDifference": 2,
+          "winRate": 50,
+          "goalsForAvg": 30.5,
+          "goalsAgainstAvg": 29.5,
+          "goalDifferenceAvg": 1
         },
         "recent": [
+          {
+            "id": 561251,
+            "date": "2026-10-23",
+            "time": "20:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81689,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 35,
+            "result": "L"
+          },
           {
             "id": 561267,
             "date": "2026-10-04",
@@ -3838,22 +3852,44 @@
             "playerId": "1gw7jxy",
             "name": "* *",
             "number": 41,
+            "games": 2,
+            "goals": 17,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 7,
+            "goalsPerGame": 8.5,
+            "sevenMeterPercentage": 71.4
+          },
+          {
+            "playerId": "0qmpyrh",
+            "name": "Ben Leonard Weisser",
+            "number": 7,
             "games": 1,
-            "goals": 10,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 10,
-            "sevenMeterPercentage": 100
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 9,
+            "sevenMeterPercentage": null
           },
           {
             "playerId": "0ky6lgz",
             "name": "Christian Klepper",
             "number": 90,
-            "games": 1,
+            "games": 2,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "06249a8",
+            "name": "Tobias Pütz",
+            "number": 13,
+            "games": 2,
             "goals": 6,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
+            "goalsPerGame": 3,
             "sevenMeterPercentage": null
           },
           {
@@ -3866,33 +3902,11 @@
             "sevenMeterAttempts": 0,
             "goalsPerGame": 4,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0a5z170",
-            "name": "Desmond Spiering",
-            "number": 8,
-            "games": 1,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "06249a8",
-            "name": "Tobias Pütz",
-            "number": 13,
-            "games": 1,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 1,
-          "lineupMatches": 1,
+          "finishedMatches": 2,
+          "lineupMatches": 2,
           "percentage": 100
         }
       }
@@ -3943,19 +3957,33 @@
         "phaseName": "Kreisliga Männer - Staffel E",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 2,
-          "wins": 1,
+          "games": 3,
+          "wins": 2,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 73,
-          "goalsAgainst": 63,
-          "goalDifference": 10,
-          "winRate": 50,
-          "goalsForAvg": 36.5,
-          "goalsAgainstAvg": 31.5,
-          "goalDifferenceAvg": 5
+          "goalsFor": 108,
+          "goalsAgainst": 90,
+          "goalDifference": 18,
+          "winRate": 66.7,
+          "goalsForAvg": 36,
+          "goalsAgainstAvg": 30,
+          "goalDifferenceAvg": 6
         },
         "recent": [
+          {
+            "id": 561251,
+            "date": "2026-10-23",
+            "time": "20:15",
+            "isHome": true,
+            "opponent": {
+              "id": 81721,
+              "name": "TSV Ellerau II",
+              "clubId": "1u01tx2"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 27,
+            "result": "W"
+          },
           {
             "id": 561258,
             "date": "2026-09-18",
@@ -4001,22 +4029,33 @@
             "playerId": "1ck0mq5",
             "name": "Christian Körner",
             "number": 7,
-            "games": 2,
-            "goals": 16,
+            "games": 3,
+            "goals": 21,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 8,
+            "goalsPerGame": 7,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0ikcedq",
             "name": "Mark Tramsen",
             "number": 99,
-            "games": 1,
-            "goals": 9,
+            "games": 2,
+            "goals": 16,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 9,
+            "goalsPerGame": 8,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0js87ok",
+            "name": "Vittorio Zellmer",
+            "number": 9,
+            "games": 2,
+            "goals": 13,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6.5,
             "sevenMeterPercentage": null
           },
           {
@@ -4029,22 +4068,11 @@
             "sevenMeterAttempts": 0,
             "goalsPerGame": 7,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0js87ok",
-            "name": "Vittorio Zellmer",
-            "number": 9,
-            "games": 1,
-            "goals": 7,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 7,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
+          "finishedMatches": 3,
+          "lineupMatches": 3,
           "percentage": 100
         }
       }
@@ -18247,19 +18275,33 @@
         "phaseName": "Kreisliga Männer - Staffel E",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 1,
+          "games": 2,
           "wins": 1,
           "draws": 0,
-          "losses": 0,
-          "goalsFor": 34,
-          "goalsAgainst": 24,
-          "goalDifference": 10,
-          "winRate": 100,
-          "goalsForAvg": 34,
-          "goalsAgainstAvg": 24,
-          "goalDifferenceAvg": 10
+          "losses": 1,
+          "goalsFor": 61,
+          "goalsAgainst": 59,
+          "goalDifference": 2,
+          "winRate": 50,
+          "goalsForAvg": 30.5,
+          "goalsAgainstAvg": 29.5,
+          "goalDifferenceAvg": 1
         },
         "recent": [
+          {
+            "id": 561251,
+            "date": "2026-10-23",
+            "time": "20:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81689,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 35,
+            "result": "L"
+          },
           {
             "id": 561267,
             "date": "2026-10-04",
@@ -18280,22 +18322,44 @@
             "playerId": "1gw7jxy",
             "name": "* *",
             "number": 41,
+            "games": 2,
+            "goals": 17,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 7,
+            "goalsPerGame": 8.5,
+            "sevenMeterPercentage": 71.4
+          },
+          {
+            "playerId": "0qmpyrh",
+            "name": "Ben Leonard Weisser",
+            "number": 7,
             "games": 1,
-            "goals": 10,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 10,
-            "sevenMeterPercentage": 100
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 9,
+            "sevenMeterPercentage": null
           },
           {
             "playerId": "0ky6lgz",
             "name": "Christian Klepper",
             "number": 90,
-            "games": 1,
+            "games": 2,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "06249a8",
+            "name": "Tobias Pütz",
+            "number": 13,
+            "games": 2,
             "goals": 6,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
+            "goalsPerGame": 3,
             "sevenMeterPercentage": null
           },
           {
@@ -18308,33 +18372,11 @@
             "sevenMeterAttempts": 0,
             "goalsPerGame": 4,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0a5z170",
-            "name": "Desmond Spiering",
-            "number": 8,
-            "games": 1,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "06249a8",
-            "name": "Tobias Pütz",
-            "number": 13,
-            "games": 1,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 1,
-          "lineupMatches": 1,
+          "finishedMatches": 2,
+          "lineupMatches": 2,
           "percentage": 100
         }
       }
@@ -19023,19 +19065,33 @@
         "phaseName": "Kreisliga Männer - Staffel E",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 2,
-          "wins": 1,
+          "games": 3,
+          "wins": 2,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 73,
-          "goalsAgainst": 63,
-          "goalDifference": 10,
-          "winRate": 50,
-          "goalsForAvg": 36.5,
-          "goalsAgainstAvg": 31.5,
-          "goalDifferenceAvg": 5
+          "goalsFor": 108,
+          "goalsAgainst": 90,
+          "goalDifference": 18,
+          "winRate": 66.7,
+          "goalsForAvg": 36,
+          "goalsAgainstAvg": 30,
+          "goalDifferenceAvg": 6
         },
         "recent": [
+          {
+            "id": 561251,
+            "date": "2026-10-23",
+            "time": "20:15",
+            "isHome": true,
+            "opponent": {
+              "id": 81721,
+              "name": "TSV Ellerau II",
+              "clubId": "1u01tx2"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 27,
+            "result": "W"
+          },
           {
             "id": 561258,
             "date": "2026-09-18",
@@ -19081,22 +19137,33 @@
             "playerId": "1ck0mq5",
             "name": "Christian Körner",
             "number": 7,
-            "games": 2,
-            "goals": 16,
+            "games": 3,
+            "goals": 21,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 8,
+            "goalsPerGame": 7,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0ikcedq",
             "name": "Mark Tramsen",
             "number": 99,
-            "games": 1,
-            "goals": 9,
+            "games": 2,
+            "goals": 16,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 9,
+            "goalsPerGame": 8,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0js87ok",
+            "name": "Vittorio Zellmer",
+            "number": 9,
+            "games": 2,
+            "goals": 13,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6.5,
             "sevenMeterPercentage": null
           },
           {
@@ -19109,22 +19176,11 @@
             "sevenMeterAttempts": 0,
             "goalsPerGame": 7,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0js87ok",
-            "name": "Vittorio Zellmer",
-            "number": 9,
-            "games": 1,
-            "goals": 7,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 7,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
+          "finishedMatches": 3,
+          "lineupMatches": 3,
           "percentage": 100
         }
       }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T07:04:41.200Z",
+  "generatedAt": "2026-10-24T01:09:41.524Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1239,7 +1239,7 @@
         "matchMinutes": 40,
         "twoMinutePlayerReduction": false
       },
-      "currentPhaseId": "15492",
+      "currentPhaseId": "17624",
       "phases": [
         {
           "phaseId": "15492",
@@ -10813,7 +10813,7 @@
           "teamCount": 10,
           "current": {
             "round": 4,
-            "position": 5,
+            "position": 6,
             "played": 4,
             "won": 1,
             "drawn": 1,
@@ -10827,7 +10827,7 @@
           "history": [
             {
               "round": 1,
-              "position": 5,
+              "position": 6,
               "played": 1,
               "won": 0,
               "drawn": 1,
@@ -10853,7 +10853,7 @@
             },
             {
               "round": 3,
-              "position": 5,
+              "position": 6,
               "played": 3,
               "won": 1,
               "drawn": 1,
@@ -10866,7 +10866,7 @@
             },
             {
               "round": 4,
-              "position": 5,
+              "position": 6,
               "played": 4,
               "won": 1,
               "drawn": 1,
@@ -10999,6 +10999,45 @@
             {
               "position": 4,
               "team": {
+                "id": 81689,
+                "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
+                "club": {
+                  "id": "16gum8r",
+                  "name": "HSG Kremperheide/Münsterdorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 108,
+              "goalsAgainst": 90,
+              "goalDifference": 18,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 561251,
+                  "result": "W"
+                },
+                {
+                  "matchId": 561255,
+                  "result": "W"
+                },
+                {
+                  "matchId": 561258,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 5,
+              "team": {
                 "id": 81724,
                 "name": "HSG OHLAU",
                 "club": {
@@ -11036,7 +11075,7 @@
               ]
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 94484,
                 "name": "SG Handball Neumünster III",
@@ -11079,7 +11118,7 @@
               ]
             },
             {
-              "position": 6,
+              "position": 7,
               "team": {
                 "id": 81721,
                 "name": "TSV Ellerau II",
@@ -11093,54 +11132,23 @@
                   "name": "Male"
                 }
               },
-              "played": 1,
-              "won": 1,
-              "drawn": 0,
-              "lost": 0,
-              "goalsFor": 34,
-              "goalsAgainst": 24,
-              "goalDifference": 10,
-              "points": 2,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 561267,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 7,
-              "team": {
-                "id": 81689,
-                "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
-                "club": {
-                  "id": "16gum8r",
-                  "name": "HSG Kremperheide/Münsterdorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
               "played": 2,
               "won": 1,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 73,
-              "goalsAgainst": 63,
-              "goalDifference": 10,
+              "goalsFor": 61,
+              "goalsAgainst": 59,
+              "goalDifference": 2,
               "points": 2,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 561255,
-                  "result": "W"
+                  "matchId": 561251,
+                  "result": "L"
                 },
                 {
-                  "matchId": 561258,
-                  "result": "L"
+                  "matchId": 561267,
+                  "result": "W"
                 }
               ]
             },
