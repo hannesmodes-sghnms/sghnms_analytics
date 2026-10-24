@@ -135,6 +135,7 @@ function upcomingIsHome(match) {
 
 function teamFormBefore(teamId, beforeDate = null, limit = 5) {
   return teamMatches(teamId)
+    .filter(statsRelevantMatch)
     .filter(match => !beforeDate || match.date < beforeDate)
     .slice()
     .sort((a, b) => `${a.date}T${a.time || ""}`.localeCompare(`${b.date}T${b.time || ""}`))
@@ -235,7 +236,9 @@ function renderTrainerUpcoming() {
     const opponent = opponentForUpcoming(match);
     const isHome = upcomingIsHome(match);
     const prior = teamFormBefore(state.trainerTeamId, match.date, 5);
-    const seasonBefore = teamMatches(state.trainerTeamId).filter(item => item.date < match.date);
+    const seasonBefore = teamMatches(state.trainerTeamId)
+      .filter(statsRelevantMatch)
+      .filter(item => item.date < match.date);
     const summary = summarize(seasonBefore);
     const h2h = headToHeadBefore(state.trainerTeamId, opponent, match.date);
     const profile = match.opponentProfile || null;
@@ -374,10 +377,15 @@ function scopeMatches() {
   return clubBaseMatches().filter(matchPassesClubContextFilters);
 }
 
+function statsRelevantMatch(match) {
+  return match?.statsRelevant !== false;
+}
+
 function filteredMatchesForTeam(teamId) {
   return teamMatches(teamId)
     .filter(matchPassesClubBaseFilters)
-    .filter(matchPassesClubContextFilters);
+    .filter(matchPassesClubContextFilters)
+    .filter(statsRelevantMatch);
 }
 
 function summarize(matches) {
@@ -465,7 +473,17 @@ function standingTeamData(teamId) {
 function currentStandingPhase(teamId) {
   const item = standingTeamData(teamId);
   if (!item?.phases?.length) return null;
-  return item.phases.find(phase => String(phase.phaseId) === String(item.currentPhaseId)) || item.phases.at(-1) || null;
+
+  const selected = item.phases.find(phase =>
+    String(phase.phaseId) === String(item.currentPhaseId) &&
+    phase.statsRelevant !== false
+  );
+  if (selected) return selected;
+
+  return item.phases
+    .filter(phase => phase.statsRelevant !== false)
+    .slice()
+    .sort((a, b) => String(b.firstDate || "").localeCompare(String(a.firstDate || "")))[0] || null;
 }
 
 function standingChartSvg(phase) {
@@ -1437,17 +1455,18 @@ function renderClubDiscipline() {
 
 function renderClub() {
   const matches = scopeMatches();
-  const summary = summarize(matches);
+  const statsMatches = matches.filter(statsRelevantMatch);
+  const summary = summarize(statsMatches);
   $("#scope-title").textContent = scopeName();
 
   const context = [];
   if (state.clubPeriod !== "all") context.push($("#club-period-select")?.selectedOptions?.[0]?.textContent || "Zeitraum");
   if (state.clubVenue === "home") context.push("Heimspiele");
   if (state.clubVenue === "away") context.push("Auswärtsspiele");
-  $("#scope-subtitle").textContent = `${summary.games} abgeschlossene Spiele${context.length ? ` · ${context.join(" · ")}` : ""}.`;
+  $("#scope-subtitle").textContent = `${summary.games} abgeschlossene Ligaspiele${context.length ? ` · ${context.join(" · ")}` : ""}.`;
 
   renderKpis("#club-kpis", summary);
-  renderTrend("#trend-chart", matches);
+  renderTrend("#trend-chart", statsMatches);
   renderTeamTable();
   renderRecentMatches();
   renderCoverage();
@@ -1584,7 +1603,7 @@ function renderTeamPlayers(team) {
       <td>${player.redCards ?? player.disqualifications ?? 0}</td>
       <td class="player-history-toggle-cell">${history.button}</td>
     </tr>${history.row}`;
-  }).join("") || `<tr><td colspan="9">Keine Spielerstatistiken vorhanden.</td></tr>`;
+  }).join("") || `<tr><td colspan="10">Keine Spielerstatistiken vorhanden.</td></tr>`;
   reapplyDomTableSort($("#trainer-player-table"));
 }
 
@@ -1596,20 +1615,21 @@ function renderTrainerMatches(matches) {
 function renderTrainerOverview() {
   const team = state.teams.find(t => String(t.id) === String(state.trainerTeamId));
   const matches = teamMatches(state.trainerTeamId).slice().sort((a, b) => `${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`));
-  const summary = summarize(matches);
+  const statsMatches = matches.filter(statsRelevantMatch);
+  const summary = summarize(statsMatches);
   const analytics = teamAnalytics();
 
   $("#trainer-title").textContent = team?.name || "Mannschaft";
   $("#trainer-subtitle").textContent = analytics
-    ? `${analytics.analyticsMatches}/${analytics.finishedMatches} Spiele für Event-Analytics verifiziert (${percent(analytics.coveragePercent)}).`
+    ? `${analytics.analyticsMatches}/${analytics.finishedMatches} Ligaspiele für Event-Analytics verifiziert (${percent(analytics.coveragePercent)}).`
     : "Keine Event-Aggregate verfügbar.";
 
   renderKpis("#trainer-kpis", summary);
   renderTrainerUpcoming();
   renderTrainerStandings();
-  renderTrend("#trainer-trend-chart", matches, { trainer: true });
+  renderTrend("#trainer-trend-chart", statsMatches, { trainer: true });
 
-  const split = homeAwayStats(matches);
+  const split = homeAwayStats(statsMatches);
   $("#home-away").innerHTML = [["Heim", split.home], ["Auswärts", split.away]].map(([label, s]) => `
     <div class="split-card">
       <h3>${label}</h3>
@@ -1659,7 +1679,7 @@ function renderMatchHeader(detail) {
       </div>
       <div class="match-detail-score">${final.own}:${final.opponent}</div>
     </div>
-    <div class="match-detail-meta">${qualityBadge(quality)}<span>Match-ID ${match.id}</span></div>
+    <div class="match-detail-meta">${qualityBadge(quality)}${match.statsRelevant === false ? '<span class="quality-inline">Turnier · nicht in Liga-Stats</span>' : ""}<span>Match-ID ${match.id}</span></div>
   `;
 }
 
