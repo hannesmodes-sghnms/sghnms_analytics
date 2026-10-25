@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:45:38.525Z",
+  "generatedAt": "2026-10-25T18:30:10.556Z",
   "matches": [
     {
       "id": 504541,
@@ -984,6 +984,18 @@
       "competitionScope": "nonLeague",
       "qualityStatus": "warning",
       "path": "match-analytics/693383.json"
+    },
+    {
+      "id": 514267,
+      "date": "2026-10-25",
+      "time": "17:00",
+      "ownTeamId": "94482",
+      "opponent": "HSG GETTORF/OSDORF III",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/514267.json"
     }
   ]
 }

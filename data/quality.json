@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:45:38.091Z",
+  "generatedAt": "2026-10-25T18:30:10.192Z",
   "matches": [
     {
       "id": 504541,
@@ -3874,6 +3874,52 @@
             "message": "Event duration 1440s differs from expected duration 2400s by -960s."
           }
         ]
+      }
+    },
+    {
+      "id": 514267,
+      "date": "2026-10-25",
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 16,
+          "away": 22
+        },
+        "eventFinalScore": {
+          "home": 16,
+          "away": 22
+        },
+        "lineupGoalTotals": {
+          "home": 16,
+          "away": 22
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 38,
+          "goalEventsWithPlayer": 38,
+          "matchedGoalEvents": 38,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
       }
     }
   ]

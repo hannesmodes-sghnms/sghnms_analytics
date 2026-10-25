@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:45:38.092Z",
+  "generatedAt": "2026-10-25T18:30:10.192Z",
   "matches": [
     {
       "id": 504541,
@@ -6581,6 +6581,85 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/693383.json"
+    },
+    {
+      "id": 514267,
+      "date": "2026-10-25",
+      "time": "17:00",
+      "home": {
+        "id": 81935,
+        "name": "HSG GETTORF/OSDORF III",
+        "clubId": "1wy6z5h"
+      },
+      "away": {
+        "id": 94482,
+        "name": "SG Handball Neumünster IV",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 16,
+        "away": 22
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7950,
+      "competition": "Kreisklasse Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12993,
+        "name": "Kreisklasse Frauen Mitte"
+      },
+      "venue": {
+        "name": "PARKSCHULE GETTORF",
+        "address": "KIRCHHOFSALLEE 28-30, 24214 GETTORF"
+      },
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 16,
+          "away": 22
+        },
+        "eventFinalScore": {
+          "home": 16,
+          "away": 22
+        },
+        "lineupGoalTotals": {
+          "home": 16,
+          "away": 22
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 38,
+          "goalEventsWithPlayer": 38,
+          "matchedGoalEvents": 38,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/514267.json"
     }
   ]
 }

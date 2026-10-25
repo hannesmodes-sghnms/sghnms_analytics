@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:45:38.528Z",
+  "generatedAt": "2026-10-25T18:30:10.560Z",
   "players": [
     {
       "key": "id:1c64ci9",
@@ -2777,6 +2777,57 @@
           "goals": 8,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
+      "key": "id:0rvc9qh",
+      "playerId": "0rvc9qh",
+      "name": "Vanessa Sellmer",
+      "totalAppearances": 2,
+      "totalGoals": 17,
+      "teams": [
+        {
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "appearances": 2,
+          "goals": 17,
+          "sevenMeterGoals": 10,
+          "sevenMeterAttempts": 12
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 514262,
+          "date": "2026-09-06",
+          "time": "15:15",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "TV TRAPPENKAMP",
+          "isHome": true,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeterGoals": 6,
+          "sevenMeterAttempts": 7
+        },
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 9,
+          "sevenMeterGoals": 4,
+          "sevenMeterAttempts": 5
         }
       ]
     },
@@ -7039,6 +7090,41 @@
       ]
     },
     {
+      "key": "id:1j9sory",
+      "playerId": "1j9sory",
+      "name": "Carina Frauenstein",
+      "totalAppearances": 1,
+      "totalGoals": 8,
+      "teams": [
+        {
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "appearances": 1,
+          "goals": 8,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1bsra1x",
       "playerId": "1bsra1x",
       "name": "Christopher Haupt",
@@ -7806,41 +7892,6 @@
           "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0rvc9qh",
-      "playerId": "0rvc9qh",
-      "name": "Vanessa Sellmer",
-      "totalAppearances": 1,
-      "totalGoals": 8,
-      "teams": [
-        {
-          "teamId": "94482",
-          "teamName": "4. Frauen",
-          "appearances": 1,
-          "goals": 8,
-          "sevenMeterGoals": 6,
-          "sevenMeterAttempts": 7
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 514262,
-          "date": "2026-09-06",
-          "time": "15:15",
-          "teamId": "94482",
-          "teamName": "4. Frauen",
-          "opponent": "TV TRAPPENKAMP",
-          "isHome": true,
-          "competition": "Kreisklasse Frauen",
-          "phaseId": "12993",
-          "phaseName": "Kreisklasse Frauen Mitte",
-          "inLineup": true,
-          "goals": 8,
-          "sevenMeterGoals": 6,
-          "sevenMeterAttempts": 7
         }
       ]
     },
@@ -11262,6 +11313,41 @@
       ]
     },
     {
+      "key": "id:0p2gnot",
+      "playerId": "0p2gnot",
+      "name": "Vanessa Schröder",
+      "totalAppearances": 1,
+      "totalGoals": 4,
+      "teams": [
+        {
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "appearances": 1,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
       "key": "id:1mw1zr2",
       "playerId": "1mw1zr2",
       "name": "Carlotta Krause",
@@ -13412,13 +13498,13 @@
       "key": "id:0ixk7f3",
       "playerId": "0ixk7f3",
       "name": "Celina Rasch",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "totalGoals": 2,
       "teams": [
         {
           "teamId": "94482",
           "teamName": "4. Frauen",
-          "appearances": 1,
+          "appearances": 2,
           "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -13438,6 +13524,22 @@
           "phaseName": "Kreisklasse Frauen Mitte",
           "inLineup": true,
           "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -15174,13 +15276,13 @@
       "key": "id:1gtcyy2",
       "playerId": "1gtcyy2",
       "name": "Jessica Zibell",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "totalGoals": 1,
       "teams": [
         {
           "teamId": "94482",
           "teamName": "4. Frauen",
-          "appearances": 1,
+          "appearances": 2,
           "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -15200,6 +15302,22 @@
           "phaseName": "Kreisklasse Frauen Mitte",
           "inLineup": true,
           "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -15740,6 +15858,41 @@
           "competition": "Kreisklasse wD Neumünster",
           "phaseId": "15531",
           "phaseName": "wD-KK",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1wwy8yb",
+      "playerId": "1wwy8yb",
+      "name": "Luisa Gauger",
+      "totalAppearances": 1,
+      "totalGoals": 1,
+      "teams": [
+        {
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "appearances": 1,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
           "inLineup": true,
           "goals": 1,
           "sevenMeterGoals": 0,
@@ -17025,6 +17178,41 @@
           "competition": "Kreisklasse wD Neumünster",
           "phaseId": "15531",
           "phaseName": "wD-KK",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1tavlmq",
+      "playerId": "1tavlmq",
+      "name": "Anita Ruzic",
+      "totalAppearances": 1,
+      "totalGoals": 0,
+      "teams": [
+        {
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "appearances": 1,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
           "inLineup": true,
           "goals": 0,
           "sevenMeterGoals": 0,
@@ -19449,6 +19637,76 @@
       ]
     },
     {
+      "key": "id:0ew9aec",
+      "playerId": "0ew9aec",
+      "name": "Kim Kristin Pohl",
+      "totalAppearances": 1,
+      "totalGoals": 0,
+      "teams": [
+        {
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "appearances": 1,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
+      "key": "id:08li1im",
+      "playerId": "08li1im",
+      "name": "Kira Hantzsch",
+      "totalAppearances": 1,
+      "totalGoals": 0,
+      "teams": [
+        {
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "appearances": 1,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:14m4hy3",
       "playerId": "14m4hy3",
       "name": "Lara Knobel",
@@ -21117,13 +21375,13 @@
       "key": "id:1g2q2eh",
       "playerId": "1g2q2eh",
       "name": "Nicole Tollmien",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94482",
           "teamName": "4. Frauen",
-          "appearances": 1,
+          "appearances": 2,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -21138,6 +21396,22 @@
           "teamName": "4. Frauen",
           "opponent": "TV TRAPPENKAMP",
           "isHome": true,
+          "competition": "Kreisklasse Frauen",
+          "phaseId": "12993",
+          "phaseName": "Kreisklasse Frauen Mitte",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 514267,
+          "date": "2026-10-25",
+          "time": "17:00",
+          "teamId": "94482",
+          "teamName": "4. Frauen",
+          "opponent": "HSG GETTORF/OSDORF III",
+          "isHome": false,
           "competition": "Kreisklasse Frauen",
           "phaseId": "12993",
           "phaseName": "Kreisklasse Frauen Mitte",
