@@ -13,7 +13,7 @@
   <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
   <link rel="icon" type="image/png" sizes="48x48" href="./assets/app/favicon-48.png">
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/app/apple-touch-icon.png">
-  <link rel="stylesheet" href="./styles.css?v=7.6">
+  <link rel="stylesheet" href="./styles.css?v=7.7">
 </head>
 <body>
   <header class="topbar">
@@ -71,6 +71,14 @@
             <span>Zeitraum</span>
             <select id="club-period-select"></select>
           </label>
+          <div class="filter-level">
+            <span class="filter-level-label">Wettbewerb</span>
+            <div class="segmented competition-buttons" aria-label="Wettbewerb">
+              <button class="segment is-active" data-competition-mode="league" type="button">ohne Turniere</button>
+              <button class="segment" data-competition-mode="all" type="button">mit Turniere</button>
+              <button class="segment" data-competition-mode="tournament" type="button">nur Turniere</button>
+            </div>
+          </div>
           <div class="filter-level">
             <span class="filter-level-label">Spielort</span>
             <div class="segmented" id="venue-buttons" aria-label="Spielort">
@@ -261,10 +269,20 @@
           <h1 id="trainer-title">Mannschaft</h1>
           <p id="trainer-subtitle">Saison- und Matchanalyse aus verifizierten Eventdaten.</p>
         </div>
-        <label class="team-select-wrap team-select-wrap--trainer">
-          <span>Mannschaft</span>
-          <select id="trainer-team-select"></select>
-        </label>
+        <div class="scope-controls trainer-scope-controls">
+          <label class="team-select-wrap team-select-wrap--trainer">
+            <span>Mannschaft</span>
+            <select id="trainer-team-select"></select>
+          </label>
+          <div class="filter-level">
+            <span class="filter-level-label">Wettbewerb</span>
+            <div class="segmented competition-buttons" aria-label="Wettbewerb">
+              <button class="segment is-active" data-competition-mode="league" type="button">ohne Turniere</button>
+              <button class="segment" data-competition-mode="all" type="button">mit Turniere</button>
+              <button class="segment" data-competition-mode="tournament" type="button">nur Turniere</button>
+            </div>
+          </div>
+        </div>
       </section>
 
       <section class="kpi-grid" id="trainer-kpis"></section>
@@ -440,7 +458,7 @@
     <span>Interne Auswertung · Datenquelle handball.net</span>
   </footer>
 
-  <script type="module" src="./app.js?v=7.6"></script>
+  <script type="module" src="./app.js?v=7.7"></script>
   <script type="module" src="./pwa.js"></script>
 </body>
 </html>

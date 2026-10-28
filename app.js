@@ -7,10 +7,13 @@ const state = {
   upcomingMatches: [],
   standings: [],
   playerScoringHistory: [],
+  playerScoringHistoryScopes: {},
   coverage: null,
   quality: null,
   teamAnalytics: [],
+  teamAnalyticsScopes: {},
   players: [],
+  playerScopes: {},
   matchAnalyticsIndex: [],
   matchAnalyticsCache: new Map(),
   clubScope: "overall",
@@ -18,6 +21,7 @@ const state = {
   clubTeamId: "",
   clubPeriod: "all",
   clubVenue: "all",
+  competitionMode: "league",
   trainerTeamId: null,
   selectedMatchId: null,
   trainerTab: "overview",
@@ -105,6 +109,50 @@ function teamMatches(teamId) {
   return state.matches.filter(match => String(match.ownTeamId) === String(teamId));
 }
 
+function isTournamentMatch(match) {
+  return match?.statsRelevant === false ||
+    match?.competitionScope === "nonLeague" ||
+    match?.competitionScope === "tournament";
+}
+
+function matchPassesCompetitionMode(match, mode = state.competitionMode) {
+  if (mode === "all") return true;
+  const tournament = isTournamentMatch(match);
+  return mode === "tournament" ? tournament : !tournament;
+}
+
+function competitionModeLabel(mode = state.competitionMode) {
+  if (mode === "all") return "mit Turnieren";
+  if (mode === "tournament") return "nur Turniere";
+  return "ohne Turniere";
+}
+
+function activeTeamAnalyticsRows() {
+  const scoped = state.teamAnalyticsScopes?.[state.competitionMode];
+  if (Array.isArray(scoped)) return scoped;
+  return state.competitionMode === "league" ? state.teamAnalytics : [];
+}
+
+function activePlayerRows() {
+  const scoped = state.playerScopes?.[state.competitionMode];
+  if (Array.isArray(scoped)) return scoped;
+  return state.competitionMode === "league" ? state.players : [];
+}
+
+function activeScoringHistoryRows() {
+  const scoped = state.playerScoringHistoryScopes?.[state.competitionMode];
+  if (Array.isArray(scoped)) return scoped;
+  return state.competitionMode === "league" ? state.playerScoringHistory : [];
+}
+
+function indexPassesCompetitionMode(item) {
+  if (state.competitionMode === "all") return true;
+  const tournament = item?.statsRelevant === false ||
+    item?.competitionScope === "nonLeague" ||
+    item?.competitionScope === "tournament";
+  return state.competitionMode === "tournament" ? tournament : !tournament;
+}
+
 function berlinTodayIso() {
   return new Intl.DateTimeFormat("en-CA", {
     year: "numeric",
@@ -118,6 +166,7 @@ function upcomingTeamMatches(teamId, limit = 3) {
   const today = berlinTodayIso();
   return state.upcomingMatches
     .filter(match => String(match.ownTeamId) === String(teamId))
+    .filter(matchPassesCompetitionMode)
     .filter(match => !match.date || match.date >= today)
     .slice()
     .sort((a, b) => `${a.date || ""}T${a.time || ""}`.localeCompare(`${b.date || ""}T${b.time || ""}`))
@@ -135,7 +184,7 @@ function upcomingIsHome(match) {
 
 function teamFormBefore(teamId, beforeDate = null, limit = 5) {
   return teamMatches(teamId)
-    .filter(statsRelevantMatch)
+    .filter(matchPassesCompetitionMode)
     .filter(match => !beforeDate || match.date < beforeDate)
     .slice()
     .sort((a, b) => `${a.date}T${a.time || ""}`.localeCompare(`${b.date}T${b.time || ""}`))
@@ -152,6 +201,7 @@ function sameOpponent(match, opponent) {
 
 function headToHeadBefore(teamId, opponent, beforeDate) {
   return teamMatches(teamId)
+    .filter(matchPassesCompetitionMode)
     .filter(match => (!beforeDate || match.date < beforeDate) && sameOpponent(match, opponent))
     .slice()
     .sort((a, b) => `${b.date}T${b.time || ""}`.localeCompare(`${a.date}T${a.time || ""}`));
@@ -237,7 +287,7 @@ function renderTrainerUpcoming() {
     const isHome = upcomingIsHome(match);
     const prior = teamFormBefore(state.trainerTeamId, match.date, 5);
     const seasonBefore = teamMatches(state.trainerTeamId)
-      .filter(statsRelevantMatch)
+      .filter(matchPassesCompetitionMode)
       .filter(item => item.date < match.date);
     const summary = summarize(seasonBefore);
     const h2h = headToHeadBefore(state.trainerTeamId, opponent, match.date);
@@ -370,7 +420,9 @@ function matchPassesClubContextFilters(match) {
 
 function clubBaseMatches() {
   const matches = state.clubTeamId ? teamMatches(state.clubTeamId) : state.matches;
-  return matches.filter(matchPassesClubBaseFilters);
+  return matches
+    .filter(matchPassesClubBaseFilters)
+    .filter(matchPassesCompetitionMode);
 }
 
 function scopeMatches() {
@@ -385,7 +437,7 @@ function filteredMatchesForTeam(teamId) {
   return teamMatches(teamId)
     .filter(matchPassesClubBaseFilters)
     .filter(matchPassesClubContextFilters)
-    .filter(statsRelevantMatch);
+    .filter(matchPassesCompetitionMode);
 }
 
 function summarize(matches) {
@@ -455,7 +507,7 @@ function scopeName() {
 }
 
 function teamAnalytics(teamId = state.trainerTeamId) {
-  return state.teamAnalytics.find(team => String(team.id) === String(teamId)) || null;
+  return activeTeamAnalyticsRows().find(team => String(team.id) === String(teamId)) || null;
 }
 
 function qualityForMatch(matchId) {
@@ -568,6 +620,12 @@ function renderClubStandings() {
   const note = $("#club-standings-note");
   if (!root) return;
 
+  if (state.competitionMode === "tournament") {
+    note.textContent = "Ligatabelle ausgeblendet";
+    root.innerHTML = `<div class="chart-empty">In „nur Turniere“ wird bewusst keine Ligatabelle angezeigt.</div>`;
+    return;
+  }
+
   if (state.clubTeamId) {
     const phase = currentStandingPhase(state.clubTeamId);
     note.textContent = phase ? "Liga unabhängig von Zeitraum/Spielort" : "keine Tabellendaten";
@@ -595,23 +653,32 @@ function renderClubStandings() {
       <small>${phase.phaseName || phase.competition || "Liga"}</small>
     </div>`);
 
-  note.textContent = "Mannschaft wählen für Verlauf";
+  note.textContent = state.competitionMode === "all"
+    ? "Ligatabelle · Turniere ohne Einfluss"
+    : "Mannschaft wählen für Verlauf";
   root.innerHTML = cards.length
     ? `<div class="standings-overview-grid">${cards.join("")}</div>`
     : `<div class="chart-empty">Noch keine Tabellenstände für den gewählten Bereich verfügbar.</div>`;
 }
-
 function renderTrainerStandings() {
   const root = $("#trainer-standings-content");
   const note = $("#trainer-standings-note");
   if (!root) return;
+
+  if (state.competitionMode === "tournament") {
+    note.textContent = "Ligatabelle ausgeblendet";
+    root.innerHTML = `<div class="chart-empty">In „nur Turniere“ wird bewusst keine Ligatabelle angezeigt.</div>`;
+    return;
+  }
+
   const phase = currentStandingPhase(state.trainerTeamId);
-  note.textContent = phase ? `${phase.phaseName || phase.competition || "Liga"} · ST ${phase.currentRound || "–"}` : "keine Tabellendaten";
+  note.textContent = phase
+    ? `${phase.phaseName || phase.competition || "Liga"} · ST ${phase.currentRound || "–"}${state.competitionMode === "all" ? " · Turniere ohne Einfluss" : ""}`
+    : "keine Tabellendaten";
   root.innerHTML = phase
     ? detailedStandingsHtml(state.trainerTeamId, phase)
     : `<div class="chart-empty">Für diese Mannschaft liegen noch keine Tabellendaten vor.</div>`;
 }
-
 function kpiHtml(label, value, sub, tone = "") {
   return `<article class="kpi ${tone ? `kpi--${tone}` : ""}">
     <div class="kpi-label">${label}</div>
@@ -706,11 +773,11 @@ function normalizePlayerName(value) {
 
 function scoringHistoryFor(playerId, name) {
   if (playerId != null && playerId !== "") {
-    const byId = state.playerScoringHistory.find(item => String(item.playerId ?? "") === String(playerId));
+    const byId = activeScoringHistoryRows().find(item => String(item.playerId ?? "") === String(playerId));
     if (byId) return byId;
   }
   const normalized = normalizePlayerName(name);
-  return state.playerScoringHistory.find(item => normalizePlayerName(item.name) === normalized) || null;
+  return activeScoringHistoryRows().find(item => normalizePlayerName(item.name) === normalized) || null;
 }
 
 function playerScoringChartHtml(history) {
@@ -918,7 +985,7 @@ function scopePlayers() {
   const ids = scopedTeamIds();
   const grouped = new Map();
 
-  for (const row of state.players) {
+  for (const row of activePlayerRows()) {
     if (!ids.has(String(row.teamId))) continue;
     const key = String(row.playerId || `${row.name}:${row.teamId}`);
     if (!grouped.has(key)) {
@@ -1192,9 +1259,10 @@ function renderClubPlayers() {
   const note = $("#club-player-note");
   if (note) {
     const contextualFilterActive = state.clubPeriod !== "all" || state.clubVenue !== "all";
+    const mode = competitionModeLabel();
     note.textContent = contextualFilterActive
-      ? "Saisonwerte · Zeitraum/Spielort gelten nicht für Spielerwerte"
-      : "Top 20 · Saisonwerte · Teamfilter wird berücksichtigt";
+      ? `Saisonwerte · ${mode} · Zeitraum/Spielort gelten nicht für Spielerwerte`
+      : `Top 20 · Saisonwerte · ${mode} · Teamfilter wird berücksichtigt`;
   }
 
   const spec = state.clubSort.players;
@@ -1260,11 +1328,12 @@ function matchRow(match, { showTeam = true, selectable = false } = {}) {
   const qualityStatus = idx?.qualityStatus || qualityForMatch(match.id)?.status || "unknown";
   const eligible = idx?.analyticsEligible ?? qualityForMatch(match.id)?.analyticsEligible;
   const selected = String(state.selectedMatchId) === String(match.id);
+  const tournament = isTournamentMatch(match);
 
   return `<button class="match-row ${selectable ? "match-row--button" : ""} ${selected ? "is-selected" : ""}" ${selectable ? `data-match-id="${match.id}"` : "disabled"} type="button">
     <div class="match-date">${dateShort(match.date)}<br>${match.time || ""}</div>
     <div>
-      ${showTeam ? `<div class="match-team">${teamName} · ${p.isHome ? "Heim" : "Auswärts"}</div>` : `<div class="match-team">${p.isHome ? "Heim" : "Auswärts"}</div>`}
+      ${showTeam ? `<div class="match-team">${teamName} · ${p.isHome ? "Heim" : "Auswärts"}${tournament ? " · Turnier" : ""}</div>` : `<div class="match-team">${p.isHome ? "Heim" : "Auswärts"}${tournament ? " · Turnier" : ""}</div>`}
       <div class="match-opponent">${p.opponent || "Gegner"}</div>
       ${selectable ? `<div class="quality-inline quality-${qualityStatus}">${eligible === false ? "Analytics ausgeschlossen" : qualityStatus === "warning" ? "Hinweis" : "verifiziert"}</div>` : ""}
     </div>
@@ -1426,9 +1495,10 @@ function renderClubDiscipline() {
   const note = $("#club-discipline-note");
   if (note) {
     const contextualFilterActive = state.clubPeriod !== "all" || state.clubVenue !== "all";
+    const mode = competitionModeLabel();
     note.textContent = contextualFilterActive
-      ? "Top 20 · Spieler-Saisonwerte · Zeitraum/Spielort gelten nicht für Disziplinwerte"
-      : "Top 20 · Spieler-Saisonwerte · Standard: 2 Min. absteigend";
+      ? `Top 20 · Spieler-Saisonwerte · ${mode} · Zeitraum/Spielort gelten nicht für Disziplinwerte`
+      : `Top 20 · Spieler-Saisonwerte · ${mode} · Standard: 2 Min. absteigend`;
   }
 
   $("#club-discipline-table-body").innerHTML = players.map(player => `
@@ -1455,18 +1525,17 @@ function renderClubDiscipline() {
 
 function renderClub() {
   const matches = scopeMatches();
-  const statsMatches = matches.filter(statsRelevantMatch);
-  const summary = summarize(statsMatches);
+  const summary = summarize(matches);
   $("#scope-title").textContent = scopeName();
 
   const context = [];
   if (state.clubPeriod !== "all") context.push($("#club-period-select")?.selectedOptions?.[0]?.textContent || "Zeitraum");
   if (state.clubVenue === "home") context.push("Heimspiele");
   if (state.clubVenue === "away") context.push("Auswärtsspiele");
-  $("#scope-subtitle").textContent = `${summary.games} abgeschlossene Ligaspiele${context.length ? ` · ${context.join(" · ")}` : ""}.`;
+  $("#scope-subtitle").textContent = `${summary.games} abgeschlossene Spiele · ${competitionModeLabel()}${context.length ? ` · ${context.join(" · ")}` : ""}.`;
 
   renderKpis("#club-kpis", summary);
-  renderTrend("#trend-chart", statsMatches);
+  renderTrend("#trend-chart", matches);
   renderTeamTable();
   renderRecentMatches();
   renderCoverage();
@@ -1475,7 +1544,6 @@ function renderClub() {
   renderClubTeamRankings();
   renderClubDiscipline();
 }
-
 function homeAwayStats(matches) {
   const split = { home: [], away: [] };
   matches.forEach(match => split[perspective(match).isHome ? "home" : "away"].push(match));
@@ -1614,22 +1682,24 @@ function renderTrainerMatches(matches) {
 
 function renderTrainerOverview() {
   const team = state.teams.find(t => String(t.id) === String(state.trainerTeamId));
-  const matches = teamMatches(state.trainerTeamId).slice().sort((a, b) => `${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`));
-  const statsMatches = matches.filter(statsRelevantMatch);
-  const summary = summarize(statsMatches);
+  const matches = teamMatches(state.trainerTeamId)
+    .filter(matchPassesCompetitionMode)
+    .slice()
+    .sort((a, b) => `${a.date}T${a.time}`.localeCompare(`${b.date}T${b.time}`));
+  const summary = summarize(matches);
   const analytics = teamAnalytics();
 
   $("#trainer-title").textContent = team?.name || "Mannschaft";
   $("#trainer-subtitle").textContent = analytics
-    ? `${analytics.analyticsMatches}/${analytics.finishedMatches} Ligaspiele für Event-Analytics verifiziert (${percent(analytics.coveragePercent)}).`
-    : "Keine Event-Aggregate verfügbar.";
+    ? `${analytics.analyticsMatches}/${analytics.finishedMatches} Spiele für Event-Analytics verifiziert (${percent(analytics.coveragePercent)}) · ${competitionModeLabel()}.`
+    : `Keine Event-Aggregate verfügbar · ${competitionModeLabel()}.`;
 
   renderKpis("#trainer-kpis", summary);
   renderTrainerUpcoming();
   renderTrainerStandings();
-  renderTrend("#trainer-trend-chart", statsMatches, { trainer: true });
+  renderTrend("#trainer-trend-chart", matches, { trainer: true });
 
-  const split = homeAwayStats(statsMatches);
+  const split = homeAwayStats(matches);
   $("#home-away").innerHTML = [["Heim", split.home], ["Auswärts", split.away]].map(([label, s]) => `
     <div class="split-card">
       <h3>${label}</h3>
@@ -1645,7 +1715,6 @@ function renderTrainerOverview() {
   renderTeamPlayers(analytics);
   renderTrainerMatches(matches);
 }
-
 function qualityBadge(quality) {
   const status = quality?.status || "unknown";
   const label = quality?.analyticsEligible === false
@@ -1907,7 +1976,7 @@ async function loadMatchDetail(matchId) {
 
 async function selectMatch(matchId) {
   state.selectedMatchId = Number(matchId);
-  renderTrainerMatches(teamMatches(state.trainerTeamId));
+  renderTrainerMatches(teamMatches(state.trainerTeamId).filter(matchPassesCompetitionMode));
   $("#match-detail-header").innerHTML = `<div class="chart-empty">Matchdaten werden geladen …</div>`;
   $("#match-detail").innerHTML = "";
   try {
@@ -1922,20 +1991,26 @@ async function selectMatch(matchId) {
 function defaultMatchForTeam(teamId) {
   const candidates = state.matchAnalyticsIndex
     .filter(item => String(item.ownTeamId) === String(teamId))
+    .filter(indexPassesCompetitionMode)
     .slice()
     .sort((a, b) => `${b.date}T${b.time}`.localeCompare(`${a.date}T${a.time}`));
   return candidates.find(item => item.analyticsEligible)?.id || candidates[0]?.id || null;
 }
-
 function renderTrainer() {
-  renderTrainerOverview();
-  if (!state.selectedMatchId || String(matchIndexEntry(state.selectedMatchId)?.ownTeamId) !== String(state.trainerTeamId)) {
+  const visibleMatches = teamMatches(state.trainerTeamId).filter(matchPassesCompetitionMode);
+  const selectedEntry = matchIndexEntry(state.selectedMatchId);
+  const selectedVisible = selectedEntry &&
+    String(selectedEntry.ownTeamId) === String(state.trainerTeamId) &&
+    indexPassesCompetitionMode(selectedEntry);
+
+  if (!state.selectedMatchId || !selectedVisible) {
     state.selectedMatchId = defaultMatchForTeam(state.trainerTeamId);
   }
-  renderTrainerMatches(teamMatches(state.trainerTeamId));
+
+  renderTrainerOverview();
+  renderTrainerMatches(visibleMatches);
   if (state.trainerTab === "matches" && state.selectedMatchId) selectMatch(state.selectedMatchId);
 }
-
 function fillClubTeamSelect() {
   const select = $("#club-team-select");
   const teams = clubBaseTeams().slice().sort((a, b) => a.name.localeCompare(b.name, "de"));
@@ -1992,8 +2067,28 @@ function setTrainerTab(tab) {
   if (tab === "matches" && state.selectedMatchId) selectMatch(state.selectedMatchId);
 }
 
+function syncCompetitionButtons() {
+  $(".competition-buttons .segment").forEach(button => {
+    button.classList.toggle("is-active", button.dataset.competitionMode === state.competitionMode);
+  });
+}
+
+function setCompetitionMode(mode) {
+  if (!["league", "all", "tournament"].includes(mode)) return;
+  state.competitionMode = mode;
+  syncCompetitionButtons();
+  fillClubPeriodSelect();
+  state.selectedMatchId = defaultMatchForTeam(state.trainerTeamId);
+  renderClub();
+  renderTrainer();
+}
+
 function bindEvents() {
-  $$(".product-tab").forEach(button => button.addEventListener("click", () => setProduct(button.dataset.product)));
+  $(".product-tab").forEach(button => button.addEventListener("click", () => setProduct(button.dataset.product)));
+
+  $(".competition-buttons .segment").forEach(button => button.addEventListener("click", () => {
+    setCompetitionMode(button.dataset.competitionMode);
+  }));
 
   $$("#scope-buttons .segment").forEach(button => button.addEventListener("click", () => {
     state.clubScope = button.dataset.scope;
@@ -2118,10 +2213,13 @@ async function init() {
     state.upcomingMatches = upcomingMatchesPayload.matches || upcomingMatchesPayload || [];
     state.standings = standingsPayload.teams || standingsPayload || [];
     state.playerScoringHistory = scoringHistoryPayload.players || scoringHistoryPayload || [];
+    state.playerScoringHistoryScopes = scoringHistoryPayload.scopes || {};
     state.coverage = coverage;
     state.quality = quality;
     state.teamAnalytics = teamAnalyticsPayload.teams || [];
+    state.teamAnalyticsScopes = teamAnalyticsPayload.scopes || {};
     state.players = playersPayload.players || [];
+    state.playerScopes = playersPayload.scopes || {};
     state.matchAnalyticsIndex = indexPayload.matches || indexPayload || [];
 
     const firstTeam = state.teams.slice().sort((a, b) => a.name.localeCompare(b.name, "de"))[0];
@@ -2137,6 +2235,7 @@ async function init() {
     $("#generated-label").textContent = generatedText(coverage.generatedAt || overview.generatedAt);
     if (overview.season?.label) $("#season-label").textContent = overview.season.label;
 
+    syncCompetitionButtons();
     bindEvents();
     observeSortableTables();
     renderClub();

@@ -1120,3 +1120,20 @@ select {
     font-size: 11px;
   }
 }
+
+
+/* v7.7 competition scope */
+.trainer-scope-controls {
+  min-width: 430px;
+}
+
+@media (max-width: 760px) {
+  .trainer-scope-controls {
+    min-width: 0;
+    width: 100%;
+  }
+
+  .competition-buttons .segment {
+    flex: 1 1 auto;
+  }
+}
