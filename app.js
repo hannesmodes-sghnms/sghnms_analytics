@@ -115,7 +115,8 @@ function isTournamentMatch(match) {
     match?.competitionScope === "tournament";
 }
 
-function matchPassesCompetitionMode(match, mode = state.competitionMode) {
+function matchPassesCompetitionMode(match) {
+  const mode = state.competitionMode;
   if (mode === "all") return true;
   const tournament = isTournamentMatch(match);
   return mode === "tournament" ? tournament : !tournament;
