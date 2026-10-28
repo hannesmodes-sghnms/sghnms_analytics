@@ -2068,7 +2068,7 @@ function setTrainerTab(tab) {
 }
 
 function syncCompetitionButtons() {
-  $(".competition-buttons .segment").forEach(button => {
+  $$(".competition-buttons .segment").forEach(button => {
     button.classList.toggle("is-active", button.dataset.competitionMode === state.competitionMode);
   });
 }
@@ -2084,9 +2084,9 @@ function setCompetitionMode(mode) {
 }
 
 function bindEvents() {
-  $(".product-tab").forEach(button => button.addEventListener("click", () => setProduct(button.dataset.product)));
+  $$(".product-tab").forEach(button => button.addEventListener("click", () => setProduct(button.dataset.product)));
 
-  $(".competition-buttons .segment").forEach(button => button.addEventListener("click", () => {
+  $$(".competition-buttons .segment").forEach(button => button.addEventListener("click", () => {
     setCompetitionMode(button.dataset.competitionMode);
   }));
 
