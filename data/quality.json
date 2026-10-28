@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:49:57.273Z",
+  "generatedAt": "2026-10-28T06:19:19.837Z",
   "matches": [
     {
       "id": 504541,
@@ -3909,6 +3909,98 @@
           "goalEvents": 38,
           "goalEventsWithPlayer": 38,
           "matchedGoalEvents": 38,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 504562,
+      "date": "2026-10-26",
+      "ownTeamId": "86805",
+      "ownTeam": {
+        "label": "HERREN 1",
+        "name": "1. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 27,
+          "away": 25
+        },
+        "eventFinalScore": {
+          "home": 27,
+          "away": 25
+        },
+        "lineupGoalTotals": {
+          "home": 27,
+          "away": 25
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 505401,
+      "date": "2026-10-27",
+      "ownTeamId": "94483",
+      "ownTeam": {
+        "label": "HERREN 2",
+        "name": "2. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 25,
+          "away": 27
+        },
+        "eventFinalScore": {
+          "home": 25,
+          "away": 27
+        },
+        "lineupGoalTotals": {
+          "home": 25,
+          "away": 27
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
           "percentage": 100
         },
         "halftimeAvailable": true,

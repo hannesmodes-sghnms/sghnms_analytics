@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:49:57.899Z",
+  "generatedAt": "2026-10-28T06:19:20.467Z",
   "players": [
     {
       "key": "id:1c64ci9",
@@ -2167,6 +2167,156 @@
           "phaseName": "wJA-ROL-3",
           "inLineup": true,
           "goals": 10,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:0cob12a",
+      "playerId": "0cob12a",
+      "name": "Trygve Dohm",
+      "totalAppearances": 3,
+      "totalGoals": 20,
+      "teams": [
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 3,
+          "goals": 20,
+          "sevenMeterGoals": 4,
+          "sevenMeterAttempts": 5
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 505398,
+          "date": "2026-09-05",
+          "time": "18:15",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 11,
+          "sevenMeterGoals": 4,
+          "sevenMeterAttempts": 4
+        }
+      ]
+    },
+    {
+      "key": "id:0s2pgfl",
+      "playerId": "0s2pgfl",
+      "name": "Erwin Mirzaguliyev",
+      "totalAppearances": 4,
+      "totalGoals": 18,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 4,
+          "goals": 18,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504541,
+          "date": "2026-08-29",
+          "time": "19:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TuRa Meldorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 504551,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Ellerau",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504568,
+          "date": "2026-10-03",
+          "time": "18:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "SG Kollmar/Neuendorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 7,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -5097,19 +5247,19 @@
       ]
     },
     {
-      "key": "id:0s2pgfl",
-      "playerId": "0s2pgfl",
-      "name": "Erwin Mirzaguliyev",
-      "totalAppearances": 3,
+      "key": "id:04x44aa",
+      "playerId": "04x44aa",
+      "name": "Mika Höppner",
+      "totalAppearances": 4,
       "totalGoals": 11,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 11,
           "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
+          "sevenMeterAttempts": 0
         }
       ],
       "matches": [
@@ -5125,9 +5275,9 @@
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
           "inLineup": true,
-          "goals": 4,
+          "goals": 3,
           "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
+          "sevenMeterAttempts": 0
         },
         {
           "matchId": 504551,
@@ -5141,7 +5291,7 @@
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
           "inLineup": true,
-          "goals": 5,
+          "goals": 4,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         },
@@ -5153,6 +5303,22 @@
           "teamName": "1. Herren",
           "opponent": "SG Kollmar/Neuendorf",
           "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
           "competition": "Kreisoberliga Männer",
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
@@ -6163,6 +6329,89 @@
       ]
     },
     {
+      "key": "id:0j29e9h",
+      "playerId": "0j29e9h",
+      "name": "Tim Krause",
+      "totalAppearances": 4,
+      "totalGoals": 10,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 4,
+          "goals": 10,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504541,
+          "date": "2026-08-29",
+          "time": "19:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TuRa Meldorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504551,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Ellerau",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504568,
+          "date": "2026-10-03",
+          "time": "18:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "SG Kollmar/Neuendorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:0vvg95p",
       "playerId": "0vvg95p",
       "name": "Torben Hinz",
@@ -6506,13 +6755,13 @@
       "key": "id:1ysvzvo",
       "playerId": "1ysvzvo",
       "name": "Clemens Brimm",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 9,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 9,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -6564,6 +6813,22 @@
           "phaseName": "Kreisoberliga Männer West",
           "inLineup": true,
           "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -6653,6 +6918,212 @@
       ]
     },
     {
+      "key": "id:0yoj799",
+      "playerId": "0yoj799",
+      "name": "Joost Buchwald",
+      "totalAppearances": 7,
+      "totalGoals": 9,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 4,
+          "goals": 7,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 3,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 505398,
+          "date": "2026-09-05",
+          "time": "18:15",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561249,
+          "date": "2026-09-06",
+          "time": "15:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "HSG OHLAU",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561254,
+          "date": "2026-09-12",
+          "time": "14:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SG Kollmar/Neuendorf II",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561260,
+          "date": "2026-09-20",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:16soyyk",
+      "playerId": "16soyyk",
+      "name": "Ken Bottke",
+      "totalAppearances": 3,
+      "totalGoals": 9,
+      "teams": [
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 3,
+          "goals": 9,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 505398,
+          "date": "2026-09-05",
+          "time": "18:15",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1tvusq0",
       "playerId": "1tvusq0",
       "name": "Mathea Jedita Kettler",
@@ -6698,73 +7169,6 @@
           "phaseName": "wD-KK",
           "inLineup": true,
           "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:04x44aa",
-      "playerId": "04x44aa",
-      "name": "Mika Höppner",
-      "totalAppearances": 3,
-      "totalGoals": 9,
-      "teams": [
-        {
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "appearances": 3,
-          "goals": 9,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 504541,
-          "date": "2026-08-29",
-          "time": "19:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TuRa Meldorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504551,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TSV Ellerau",
-          "isHome": true,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504568,
-          "date": "2026-10-03",
-          "time": "18:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "SG Kollmar/Neuendorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -6830,6 +7234,57 @@
           "competition": "Kreisoberliga mE Neumünster",
           "phaseId": "15496",
           "phaseName": "mE-KL-West",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:0cic3ru",
+      "playerId": "0cic3ru",
+      "name": "Nils Torge Hennings",
+      "totalAppearances": 2,
+      "totalGoals": 9,
+      "teams": [
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 2,
+          "goals": 9,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 505398,
+          "date": "2026-09-05",
+          "time": "18:15",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
           "inLineup": true,
           "goals": 2,
           "sevenMeterGoals": 0,
@@ -6984,57 +7439,6 @@
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0cob12a",
-      "playerId": "0cob12a",
-      "name": "Trygve Dohm",
-      "totalAppearances": 2,
-      "totalGoals": 9,
-      "teams": [
-        {
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "appearances": 2,
-          "goals": 9,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 505398,
-          "date": "2026-09-05",
-          "time": "18:15",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 7,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
         }
       ]
     },
@@ -7259,6 +7663,89 @@
       ]
     },
     {
+      "key": "id:1jrnqbk",
+      "playerId": "1jrnqbk",
+      "name": "Jasper Glaubitz",
+      "totalAppearances": 4,
+      "totalGoals": 8,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 4,
+          "goals": 8,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504541,
+          "date": "2026-08-29",
+          "time": "19:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TuRa Meldorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504551,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Ellerau",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504568,
+          "date": "2026-10-03",
+          "time": "18:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "SG Kollmar/Neuendorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1m0y4rs",
       "playerId": "1m0y4rs",
       "name": "Jella Reher",
@@ -7387,129 +7874,6 @@
           "phaseName": "Vorrunde A",
           "inLineup": true,
           "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0yoj799",
-      "playerId": "0yoj799",
-      "name": "Joost Buchwald",
-      "totalAppearances": 6,
-      "totalGoals": 8,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 4,
-          "goals": 7,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "appearances": 2,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 505398,
-          "date": "2026-09-05",
-          "time": "18:15",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561249,
-          "date": "2026-09-06",
-          "time": "15:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "HSG OHLAU",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561254,
-          "date": "2026-09-12",
-          "time": "14:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SG Kollmar/Neuendorf II",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561260,
-          "date": "2026-09-20",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SV HENSTEDT-ULZBURG II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -8014,124 +8378,6 @@
       ]
     },
     {
-      "key": "id:1jrnqbk",
-      "playerId": "1jrnqbk",
-      "name": "Jasper Glaubitz",
-      "totalAppearances": 3,
-      "totalGoals": 7,
-      "teams": [
-        {
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "appearances": 3,
-          "goals": 7,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 504541,
-          "date": "2026-08-29",
-          "time": "19:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TuRa Meldorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504551,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TSV Ellerau",
-          "isHome": true,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504568,
-          "date": "2026-10-03",
-          "time": "18:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "SG Kollmar/Neuendorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:16soyyk",
-      "playerId": "16soyyk",
-      "name": "Ken Bottke",
-      "totalAppearances": 2,
-      "totalGoals": 7,
-      "teams": [
-        {
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "appearances": 2,
-          "goals": 7,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 505398,
-          "date": "2026-09-05",
-          "time": "18:15",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:09b3llv",
       "playerId": "09b3llv",
       "name": "Lian Karow",
@@ -8606,41 +8852,6 @@
       ]
     },
     {
-      "key": "id:0cic3ru",
-      "playerId": "0cic3ru",
-      "name": "Nils Torge Hennings",
-      "totalAppearances": 1,
-      "totalGoals": 7,
-      "teams": [
-        {
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "appearances": 1,
-          "goals": 7,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 505398,
-          "date": "2026-09-05",
-          "time": "18:15",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 7,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:1ezr4rw",
       "playerId": "1ezr4rw",
       "name": "Zoe Lilith Mengler",
@@ -9064,6 +9275,73 @@
       ]
     },
     {
+      "key": "id:17wpvvq",
+      "playerId": "17wpvvq",
+      "name": "Janek Jäger",
+      "totalAppearances": 3,
+      "totalGoals": 6,
+      "teams": [
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 3,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 505398,
+          "date": "2026-09-05",
+          "time": "18:15",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:11tszv0",
       "playerId": "11tszv0",
       "name": "Jari Tomaschewski",
@@ -9150,13 +9428,13 @@
       "key": "id:0pkifkr",
       "playerId": "0pkifkr",
       "name": "Jonas-Maximilian Wisper",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 6,
       "teams": [
         {
           "teamId": "94483",
           "teamName": "2. Herren",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 6,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -9192,6 +9470,22 @@
           "phaseName": "Kreisliga Männer - Staffel D",
           "inLineup": true,
           "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -9699,6 +9993,113 @@
       ]
     },
     {
+      "key": "id:12lryvb",
+      "playerId": "12lryvb",
+      "name": "Steven Appel",
+      "totalAppearances": 5,
+      "totalGoals": 6,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 4,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 1,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504541,
+          "date": "2026-08-29",
+          "time": "19:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TuRa Meldorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504551,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Ellerau",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504568,
+          "date": "2026-10-03",
+          "time": "18:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "SG Kollmar/Neuendorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1yf9xq9",
       "playerId": "1yf9xq9",
       "name": "Taisa Lotta Klug",
@@ -9730,73 +10131,6 @@
           "goals": 6,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
-        }
-      ]
-    },
-    {
-      "key": "id:0j29e9h",
-      "playerId": "0j29e9h",
-      "name": "Tim Krause",
-      "totalAppearances": 3,
-      "totalGoals": 6,
-      "teams": [
-        {
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "appearances": 3,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 504541,
-          "date": "2026-08-29",
-          "time": "19:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TuRa Meldorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504551,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TSV Ellerau",
-          "isHome": true,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504568,
-          "date": "2026-10-03",
-          "time": "18:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "SG Kollmar/Neuendorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -9990,6 +10324,89 @@
           "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1azghcr",
+      "playerId": "1azghcr",
+      "name": "Jorres Wieben",
+      "totalAppearances": 4,
+      "totalGoals": 5,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 4,
+          "goals": 5,
+          "sevenMeterGoals": 3,
+          "sevenMeterAttempts": 4
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504541,
+          "date": "2026-08-29",
+          "time": "19:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TuRa Meldorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 504551,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Ellerau",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504568,
+          "date": "2026-10-03",
+          "time": "18:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "SG Kollmar/Neuendorf",
+          "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 3,
+          "sevenMeterAttempts": 3
         }
       ]
     },
@@ -10723,16 +11140,16 @@
       ]
     },
     {
-      "key": "id:17wpvvq",
-      "playerId": "17wpvvq",
-      "name": "Janek Jäger",
-      "totalAppearances": 2,
+      "key": "id:1wtl36h",
+      "playerId": "1wtl36h",
+      "name": "Fynn Luka Rose",
+      "totalAppearances": 1,
       "totalGoals": 4,
       "teams": [
         {
           "teamId": "94483",
           "teamName": "2. Herren",
-          "appearances": 2,
+          "appearances": 1,
           "goals": 4,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -10740,34 +11157,18 @@
       ],
       "matches": [
         {
-          "matchId": 505398,
-          "date": "2026-09-05",
-          "time": "18:15",
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
           "teamId": "94483",
           "teamName": "2. Herren",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": false,
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12972",
           "phaseName": "Kreisliga Männer - Staffel D",
           "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 2,
+          "goals": 4,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -11189,6 +11590,57 @@
           "phaseName": "Kreisliga Frauen - Staffel C",
           "inLineup": true,
           "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1eajsjy",
+      "playerId": "1eajsjy",
+      "name": "Nikola Tim Kraljevic",
+      "totalAppearances": 2,
+      "totalGoals": 4,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 2,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504551,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Ellerau",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -12932,73 +13384,6 @@
       ]
     },
     {
-      "key": "id:12lryvb",
-      "playerId": "12lryvb",
-      "name": "Steven Appel",
-      "totalAppearances": 3,
-      "totalGoals": 3,
-      "teams": [
-        {
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "appearances": 3,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 504541,
-          "date": "2026-08-29",
-          "time": "19:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TuRa Meldorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504551,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TSV Ellerau",
-          "isHome": true,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504568,
-          "date": "2026-10-03",
-          "time": "18:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "SG Kollmar/Neuendorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:1h9bu3u",
       "playerId": "1h9bu3u",
       "name": "Theo Mitscherling",
@@ -13908,6 +14293,41 @@
       ]
     },
     {
+      "key": "id:0us8u6l",
+      "playerId": "0us8u6l",
+      "name": "Jan-Philip May",
+      "totalAppearances": 1,
+      "totalGoals": 2,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 1,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1xjyb8c",
       "playerId": "1xjyb8c",
       "name": "Janina Böge",
@@ -14262,6 +14682,132 @@
       ]
     },
     {
+      "key": "id:09o5bp5",
+      "playerId": "09o5bp5",
+      "name": "Lukas Böttger",
+      "totalAppearances": 3,
+      "totalGoals": 2,
+      "teams": [
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 3,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 505398,
+          "date": "2026-09-05",
+          "time": "18:15",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:09p35pw",
+      "playerId": "09p35pw",
+      "name": "Maddox Mengler",
+      "totalAppearances": 2,
+      "totalGoals": 2,
+      "teams": [
+        {
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "appearances": 1,
+          "goals": 1,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 1,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:0vp6a8b",
       "playerId": "0vp6a8b",
       "name": "Mads Lenz",
@@ -14485,13 +15031,13 @@
       "key": "id:1m9uid6",
       "playerId": "1m9uid6",
       "name": "Niklas Alexander Behrens",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "totalGoals": 2,
       "teams": [
         {
           "teamId": "94483",
           "teamName": "2. Herren",
-          "appearances": 1,
+          "appearances": 2,
           "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -14511,6 +15057,22 @@
           "phaseName": "Kreisliga Männer - Staffel D",
           "inLineup": true,
           "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -14705,13 +15267,13 @@
       "key": "id:002ztgg",
       "playerId": "002ztgg",
       "name": "Tim Mauersberger",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 2,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -14758,6 +15320,22 @@
           "teamName": "1. Herren",
           "opponent": "SG Kollmar/Neuendorf",
           "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
           "competition": "Kreisoberliga Männer",
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
@@ -15359,16 +15937,16 @@
       ]
     },
     {
-      "key": "id:1u6hfvn",
-      "playerId": "1u6hfvn",
-      "name": "Joris Alexander Penske",
-      "totalAppearances": 3,
+      "key": "id:00fzrqf",
+      "playerId": "00fzrqf",
+      "name": "John Maximilian Förstner",
+      "totalAppearances": 1,
       "totalGoals": 1,
       "teams": [
         {
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "appearances": 3,
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 1,
           "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -15376,69 +15954,37 @@
       ],
       "matches": [
         {
-          "matchId": 504541,
-          "date": "2026-08-29",
-          "time": "19:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TuRa Meldorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504551,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TSV Ellerau",
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
           "isHome": true,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
           "inLineup": true,
           "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 504568,
-          "date": "2026-10-03",
-          "time": "18:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "SG Kollmar/Neuendorf",
-          "isHome": false,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
       ]
     },
     {
-      "key": "id:1azghcr",
-      "playerId": "1azghcr",
-      "name": "Jorres Wieben",
-      "totalAppearances": 3,
+      "key": "id:1u6hfvn",
+      "playerId": "1u6hfvn",
+      "name": "Joris Alexander Penske",
+      "totalAppearances": 4,
       "totalGoals": 1,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 1,
           "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
+          "sevenMeterAttempts": 0
         }
       ],
       "matches": [
@@ -15456,7 +16002,7 @@
           "inLineup": true,
           "goals": 0,
           "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
+          "sevenMeterAttempts": 0
         },
         {
           "matchId": 504551,
@@ -15470,7 +16016,7 @@
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
           "inLineup": true,
-          "goals": 0,
+          "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         },
@@ -15486,7 +16032,23 @@
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
           "inLineup": true,
-          "goals": 1,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -15901,16 +16463,16 @@
       ]
     },
     {
-      "key": "id:09o5bp5",
-      "playerId": "09o5bp5",
-      "name": "Lukas Böttger",
-      "totalAppearances": 2,
+      "key": "id:00m56ow",
+      "playerId": "00m56ow",
+      "name": "Mika Hendrik Grummel",
+      "totalAppearances": 3,
       "totalGoals": 1,
       "teams": [
         {
           "teamId": "94483",
           "teamName": "2. Herren",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -15924,6 +16486,22 @@
           "teamId": "94483",
           "teamName": "2. Herren",
           "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
           "isHome": false,
           "competition": "Kreisliga Männer",
           "phaseId": "12972",
@@ -15934,64 +16512,13 @@
           "sevenMeterAttempts": 0
         },
         {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
           "teamId": "94483",
           "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:00m56ow",
-      "playerId": "00m56ow",
-      "name": "Mika Hendrik Grummel",
-      "totalAppearances": 2,
-      "totalGoals": 1,
-      "teams": [
-        {
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "appearances": 2,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 505398,
-          "date": "2026-09-05",
-          "time": "18:15",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12972",
           "phaseName": "Kreisliga Männer - Staffel D",
@@ -16048,41 +16575,6 @@
           "phaseName": "wD-KK",
           "inLineup": true,
           "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:1eajsjy",
-      "playerId": "1eajsjy",
-      "name": "Nikola Tim Kraljevic",
-      "totalAppearances": 1,
-      "totalGoals": 1,
-      "teams": [
-        {
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "appearances": 1,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 504551,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "86805",
-          "teamName": "1. Herren",
-          "opponent": "TSV Ellerau",
-          "isHome": true,
-          "competition": "Kreisoberliga Männer",
-          "phaseId": "12963",
-          "phaseName": "Kreisoberliga Männer West",
-          "inLineup": true,
-          "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -17017,13 +17509,13 @@
       "key": "id:09bl33k",
       "playerId": "09bl33k",
       "name": "Alexander Pollak",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94483",
           "teamName": "2. Herren",
-          "appearances": 1,
+          "appearances": 2,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -17038,6 +17530,22 @@
           "teamName": "2. Herren",
           "opponent": "SG HANDBALL EIDERTAL",
           "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12972",
           "phaseName": "Kreisliga Männer - Staffel D",
@@ -17087,13 +17595,13 @@
       "key": "id:1rybqhq",
       "playerId": "1rybqhq",
       "name": "Andre Mannke",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94483",
           "teamName": "2. Herren",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -17124,6 +17632,22 @@
           "teamName": "2. Herren",
           "opponent": "SC FORTUNA WELLSEE",
           "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12972",
           "phaseName": "Kreisliga Männer - Staffel D",
@@ -17307,13 +17831,21 @@
       "key": "id:1ewrb52",
       "playerId": "1ewrb52",
       "name": "Barne Holdorf",
-      "totalAppearances": 2,
+      "totalAppearances": 4,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 2,
+          "appearances": 3,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 1,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -17347,6 +17879,38 @@
           "competition": "Kreisoberliga Männer",
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
           "inLineup": true,
           "goals": 0,
           "sevenMeterGoals": 0,
@@ -17881,13 +18445,13 @@
       "key": "id:0luyc2n",
       "playerId": "0luyc2n",
       "name": "Dennis Reese",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -17934,6 +18498,22 @@
           "teamName": "1. Herren",
           "opponent": "SG Kollmar/Neuendorf",
           "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
           "competition": "Kreisoberliga Männer",
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
@@ -22147,13 +22727,13 @@
       "key": "id:0py2kbh",
       "playerId": "0py2kbh",
       "name": "Thorben Pultar",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -22200,6 +22780,22 @@
           "teamName": "1. Herren",
           "opponent": "SG Kollmar/Neuendorf",
           "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
           "competition": "Kreisoberliga Männer",
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",
@@ -22265,13 +22861,13 @@
       "key": "id:0tf0590",
       "playerId": "0tf0590",
       "name": "Yendrick Weißhaar",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "86805",
           "teamName": "1. Herren",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -22302,6 +22898,22 @@
           "teamName": "1. Herren",
           "opponent": "SG Kollmar/Neuendorf",
           "isHome": false,
+          "competition": "Kreisoberliga Männer",
+          "phaseId": "12963",
+          "phaseName": "Kreisoberliga Männer West",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 504562,
+          "date": "2026-10-26",
+          "time": "20:00",
+          "teamId": "86805",
+          "teamName": "1. Herren",
+          "opponent": "TSV Weddingstedt II",
+          "isHome": true,
           "competition": "Kreisoberliga Männer",
           "phaseId": "12963",
           "phaseName": "Kreisoberliga Männer West",

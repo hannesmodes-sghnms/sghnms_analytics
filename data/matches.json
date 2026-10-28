@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:49:57.274Z",
+  "generatedAt": "2026-10-28T06:19:19.838Z",
   "matches": [
     {
       "id": 504541,
@@ -6660,6 +6660,164 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/514267.json"
+    },
+    {
+      "id": 504562,
+      "date": "2026-10-26",
+      "time": "20:00",
+      "home": {
+        "id": 86805,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81693,
+        "name": "TSV Weddingstedt II",
+        "clubId": "1ehf4g9"
+      },
+      "result": {
+        "home": 27,
+        "away": 25
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7945,
+      "competition": "Kreisoberliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12963,
+        "name": "Kreisoberliga Männer West"
+      },
+      "venue": {
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
+      },
+      "ownTeamId": "86805",
+      "ownTeam": {
+        "label": "HERREN 1",
+        "name": "1. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 27,
+          "away": 25
+        },
+        "eventFinalScore": {
+          "home": 27,
+          "away": 25
+        },
+        "lineupGoalTotals": {
+          "home": 27,
+          "away": 25
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/504562.json"
+    },
+    {
+      "id": 505401,
+      "date": "2026-10-27",
+      "time": "19:30",
+      "home": {
+        "id": 94483,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81777,
+        "name": "PREETZER TSV II",
+        "clubId": "076fu3u"
+      },
+      "result": {
+        "home": 25,
+        "away": 27
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7946,
+      "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12972,
+        "name": "Kreisliga Männer - Staffel D"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "94483",
+      "ownTeam": {
+        "label": "HERREN 2",
+        "name": "2. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 25,
+          "away": 27
+        },
+        "eventFinalScore": {
+          "home": 25,
+          "away": 27
+        },
+        "lineupGoalTotals": {
+          "home": 25,
+          "away": 27
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/505401.json"
     }
   ]
 }

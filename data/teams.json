@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:49:57.272Z",
+  "generatedAt": "2026-10-28T06:19:19.836Z",
   "teams": [
     {
       "id": "86801",
@@ -24,14 +24,14 @@
       "ageGroup": "senior",
       "gender": "male",
       "matchMinutes": 60,
-      "games": 3,
-      "wins": 2,
+      "games": 4,
+      "wins": 3,
       "draws": 0,
       "losses": 1,
-      "goalsFor": 98,
-      "goalsAgainst": 87,
-      "goalDifference": 11,
-      "winRate": 66.7
+      "goalsFor": 125,
+      "goalsAgainst": 112,
+      "goalDifference": 13,
+      "winRate": 75
     },
     {
       "id": "87103",
@@ -358,14 +358,14 @@
       "ageGroup": "senior",
       "gender": "male",
       "matchMinutes": 60,
-      "games": 2,
+      "games": 3,
       "wins": 1,
       "draws": 1,
-      "losses": 0,
-      "goalsFor": 56,
-      "goalsAgainst": 51,
-      "goalDifference": 5,
-      "winRate": 50
+      "losses": 1,
+      "goalsFor": 81,
+      "goalsAgainst": 78,
+      "goalDifference": 3,
+      "winRate": 33.3
     },
     {
       "id": "94484",

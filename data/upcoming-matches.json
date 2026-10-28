@@ -1,358 +1,6 @@
 {
-  "generatedAt": "2026-10-26T05:49:57.558Z",
+  "generatedAt": "2026-10-28T06:19:20.126Z",
   "matches": [
-    {
-      "id": 504562,
-      "date": "2026-10-26",
-      "time": "20:00",
-      "home": {
-        "id": 86805,
-        "name": "SG Handball Neumünster",
-        "clubId": "1yrb3n9"
-      },
-      "away": {
-        "id": 81693,
-        "name": "TSV Weddingstedt II",
-        "clubId": "1ehf4g9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7945,
-      "competition": "Kreisoberliga Männer",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12963,
-        "name": "Kreisoberliga Männer West"
-      },
-      "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
-      },
-      "ownTeamId": "86805",
-      "ownTeam": {
-        "label": "HERREN 1",
-        "name": "1. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81693",
-        "name": "TSV Weddingstedt II",
-        "phaseId": "12963",
-        "phaseName": "Kreisoberliga Männer West",
-        "competition": "Kreisoberliga Männer",
-        "season": {
-          "games": 4,
-          "wins": 2,
-          "draws": 1,
-          "losses": 1,
-          "goalsFor": 121,
-          "goalsAgainst": 123,
-          "goalDifference": -2,
-          "winRate": 50,
-          "goalsForAvg": 30.25,
-          "goalsAgainstAvg": 30.75,
-          "goalDifferenceAvg": -0.5
-        },
-        "recent": [
-          {
-            "id": 504569,
-            "date": "2026-10-03",
-            "time": "16:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81719,
-              "name": "TSV Ellerau",
-              "clubId": "1u01tx2"
-            },
-            "goalsFor": 30,
-            "goalsAgainst": 30,
-            "result": "D"
-          },
-          {
-            "id": 504556,
-            "date": "2026-09-19",
-            "time": "13:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81692,
-              "name": "SG DITHMARSCHEN SÜD",
-              "clubId": "0v7ucet"
-            },
-            "goalsFor": 33,
-            "goalsAgainst": 25,
-            "result": "W"
-          },
-          {
-            "id": 504549,
-            "date": "2026-09-05",
-            "time": "19:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81684,
-              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
-              "clubId": "16gum8r"
-            },
-            "goalsFor": 28,
-            "goalsAgainst": 39,
-            "result": "L"
-          },
-          {
-            "id": 504543,
-            "date": "2026-08-30",
-            "time": "15:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81720,
-              "name": "HSG KALKBERG 06",
-              "clubId": "03erpv1"
-            },
-            "goalsFor": 30,
-            "goalsAgainst": 29,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1q3onmr",
-            "name": "Janne Finn von der Heyde",
-            "number": 79,
-            "games": 4,
-            "goals": 24,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1yn2sie",
-            "name": "Paul Ohlen",
-            "number": 75,
-            "games": 4,
-            "goals": 24,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1vs9i5o",
-            "name": "Emil Julius Wartenberg",
-            "number": 23,
-            "games": 4,
-            "goals": 20,
-            "sevenMeterGoals": 5,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 71.4
-          },
-          {
-            "playerId": "0jx8ctk",
-            "name": "Magnus Miguel Neeve",
-            "number": 2,
-            "games": 4,
-            "goals": 16,
-            "sevenMeterGoals": 9,
-            "sevenMeterAttempts": 12,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": 75
-          },
-          {
-            "playerId": "1yojvqx",
-            "name": "Tom Belke",
-            "number": 21,
-            "games": 4,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
-          "percentage": 100
-        }
-      }
-    },
-    {
-      "id": 505401,
-      "date": "2026-10-27",
-      "time": "19:30",
-      "home": {
-        "id": 94483,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "away": {
-        "id": 81777,
-        "name": "PREETZER TSV II",
-        "clubId": "076fu3u"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7946,
-      "competition": "Kreisliga Männer",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12972,
-        "name": "Kreisliga Männer - Staffel D"
-      },
-      "venue": {
-        "name": "PESTALOZZI-SCHULE",
-        "address": "AM KAMP 5, 24536 NEUMüNSTER"
-      },
-      "ownTeamId": "94483",
-      "ownTeam": {
-        "label": "HERREN 2",
-        "name": "2. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81777",
-        "name": "PREETZER TSV II",
-        "phaseId": "12972",
-        "phaseName": "Kreisliga Männer - Staffel D",
-        "competition": "Kreisliga Männer",
-        "season": {
-          "games": 3,
-          "wins": 3,
-          "draws": 0,
-          "losses": 0,
-          "goalsFor": 114,
-          "goalsAgainst": 81,
-          "goalDifference": 33,
-          "winRate": 100,
-          "goalsForAvg": 38,
-          "goalsAgainstAvg": 27,
-          "goalDifferenceAvg": 11
-        },
-        "recent": [
-          {
-            "id": 505411,
-            "date": "2026-10-03",
-            "time": "14:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81769,
-              "name": "THW KIEL IV",
-              "clubId": "1kd3qes"
-            },
-            "goalsFor": 30,
-            "goalsAgainst": 27,
-            "result": "W"
-          },
-          {
-            "id": 505407,
-            "date": "2026-09-19",
-            "time": "17:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81775,
-              "name": "SC KIELER FÖRDE II",
-              "clubId": "00xfnlm"
-            },
-            "goalsFor": 39,
-            "goalsAgainst": 18,
-            "result": "W"
-          },
-          {
-            "id": 505397,
-            "date": "2026-09-06",
-            "time": "13:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81764,
-              "name": "FT ADLER KIEL II",
-              "clubId": "11s2uqh"
-            },
-            "goalsFor": 45,
-            "goalsAgainst": 36,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1snyk49",
-            "name": "Fynn Lukas Kayser",
-            "number": 20,
-            "games": 3,
-            "goals": 27,
-            "sevenMeterGoals": 8,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 9,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0qerz52",
-            "name": "Felix Ludewig",
-            "number": 21,
-            "games": 3,
-            "goals": 11,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.67,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0ladxdm",
-            "name": "Jonas Adrian Hartung",
-            "number": 22,
-            "games": 3,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1a36co8",
-            "name": "Jonas Arndt",
-            "number": 13,
-            "games": 1,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 9,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "07chnve",
-            "name": "Julian Kelsch",
-            "number": 27,
-            "games": 2,
-            "goals": 9,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 4.5,
-            "sevenMeterPercentage": 100
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
-          "percentage": 100
-        }
-      }
-    },
     {
       "id": 514273,
       "date": "2026-10-28",
@@ -12275,6 +11923,132 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81764",
+        "name": "FT ADLER KIEL II",
+        "phaseId": "12972",
+        "phaseName": "Kreisliga Männer - Staffel D",
+        "competition": "Kreisliga Männer",
+        "season": {
+          "games": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 89,
+          "goalsAgainst": 90,
+          "goalDifference": -1,
+          "winRate": 33.3,
+          "goalsForAvg": 29.67,
+          "goalsAgainstAvg": 30,
+          "goalDifferenceAvg": -0.33
+        },
+        "recent": [
+          {
+            "id": 505402,
+            "date": "2026-10-11",
+            "time": "15:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81778,
+              "name": "Raisdorfer TSV",
+              "clubId": "08jowf3"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
+          {
+            "id": 505416,
+            "date": "2026-09-27",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81775,
+              "name": "SC KIELER FÖRDE II",
+              "clubId": "00xfnlm"
+            },
+            "goalsFor": 25,
+            "goalsAgainst": 25,
+            "result": "D"
+          },
+          {
+            "id": 505397,
+            "date": "2026-09-06",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81777,
+              "name": "PREETZER TSV II",
+              "clubId": "076fu3u"
+            },
+            "goalsFor": 36,
+            "goalsAgainst": 45,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "09xlj9x",
+            "name": "Finn Hendrik Könecke",
+            "number": 34,
+            "games": 3,
+            "goals": 23,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 7.67,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1b3464o",
+            "name": "Jonas Love Bernstein",
+            "number": 26,
+            "games": 3,
+            "goals": 11,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 3.67,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "1wejx0u",
+            "name": "Willi Jentsch",
+            "number": 9,
+            "games": 3,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "1t0js8h",
+            "name": "Rasmus Frost",
+            "number": 16,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1njydyn",
+            "name": "Matthias Hartmut Alfred Scholz",
+            "number": 14,
+            "games": 2,
+            "goals": 7,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {
@@ -21318,6 +21092,132 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81764",
+        "name": "FT ADLER KIEL II",
+        "phaseId": "12972",
+        "phaseName": "Kreisliga Männer - Staffel D",
+        "competition": "Kreisliga Männer",
+        "season": {
+          "games": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 89,
+          "goalsAgainst": 90,
+          "goalDifference": -1,
+          "winRate": 33.3,
+          "goalsForAvg": 29.67,
+          "goalsAgainstAvg": 30,
+          "goalDifferenceAvg": -0.33
+        },
+        "recent": [
+          {
+            "id": 505402,
+            "date": "2026-10-11",
+            "time": "15:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81778,
+              "name": "Raisdorfer TSV",
+              "clubId": "08jowf3"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
+          {
+            "id": 505416,
+            "date": "2026-09-27",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81775,
+              "name": "SC KIELER FÖRDE II",
+              "clubId": "00xfnlm"
+            },
+            "goalsFor": 25,
+            "goalsAgainst": 25,
+            "result": "D"
+          },
+          {
+            "id": 505397,
+            "date": "2026-09-06",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81777,
+              "name": "PREETZER TSV II",
+              "clubId": "076fu3u"
+            },
+            "goalsFor": 36,
+            "goalsAgainst": 45,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "09xlj9x",
+            "name": "Finn Hendrik Könecke",
+            "number": 34,
+            "games": 3,
+            "goals": 23,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 7.67,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1b3464o",
+            "name": "Jonas Love Bernstein",
+            "number": 26,
+            "games": 3,
+            "goals": 11,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 3.67,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "1wejx0u",
+            "name": "Willi Jentsch",
+            "number": 9,
+            "games": 3,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "1t0js8h",
+            "name": "Rasmus Frost",
+            "number": 16,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1njydyn",
+            "name": "Matthias Hartmut Alfred Scholz",
+            "number": 14,
+            "games": 2,
+            "goals": 7,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {

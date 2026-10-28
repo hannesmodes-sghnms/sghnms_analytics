@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:49:57.894Z",
+  "generatedAt": "2026-10-28T06:19:20.462Z",
   "teams": [
     {
       "id": "86801",
@@ -664,66 +664,66 @@
       "ageGroup": "senior",
       "gender": "male",
       "matchMinutes": 60,
-      "finishedMatches": 3,
-      "analyticsMatches": 3,
+      "finishedMatches": 4,
+      "analyticsMatches": 4,
       "coveragePercent": 100,
       "sevenMeters": {
-        "goals": 6,
+        "goals": 10,
         "misses": 4,
-        "attempts": 10,
-        "percentage": 60
+        "attempts": 14,
+        "percentage": 71.4
       },
       "sanctions": {
-        "warnings": 5,
-        "twoMinutes": 7,
+        "warnings": 9,
+        "twoMinutes": 9,
         "disqualifications": 0,
         "redCards": 0,
         "blueCards": 0
       },
       "timeouts": {
         "own": {
-          "count": 4,
+          "count": 6,
           "goalsForBefore": 4,
-          "goalsAgainstBefore": 8,
-          "goalsForAfter": 5,
-          "goalsAgainstAfter": 5,
-          "goalDifferenceBefore": -4,
-          "goalDifferenceAfter": 0,
-          "goalsForBeforePerTimeout": 1,
-          "goalsAgainstBeforePerTimeout": 2,
-          "goalsForPerTimeout": 1.25,
-          "goalsAgainstPerTimeout": 1.25
+          "goalsAgainstBefore": 11,
+          "goalsForAfter": 9,
+          "goalsAgainstAfter": 7,
+          "goalDifferenceBefore": -7,
+          "goalDifferenceAfter": 2,
+          "goalsForBeforePerTimeout": 0.67,
+          "goalsAgainstBeforePerTimeout": 1.83,
+          "goalsForPerTimeout": 1.5,
+          "goalsAgainstPerTimeout": 1.17
         },
         "opponent": {
-          "count": 5,
-          "goalsForBefore": 16,
-          "goalsAgainstBefore": 3,
-          "goalsForAfter": 7,
-          "goalsAgainstAfter": 5,
-          "goalDifferenceBefore": 13,
-          "goalDifferenceAfter": 2,
-          "goalsForBeforePerTimeout": 3.2,
-          "goalsAgainstBeforePerTimeout": 0.6,
-          "goalsForPerTimeout": 1.4,
-          "goalsAgainstPerTimeout": 1
+          "count": 7,
+          "goalsForBefore": 21,
+          "goalsAgainstBefore": 4,
+          "goalsForAfter": 10,
+          "goalsAgainstAfter": 9,
+          "goalDifferenceBefore": 17,
+          "goalDifferenceAfter": 1,
+          "goalsForBeforePerTimeout": 3,
+          "goalsAgainstBeforePerTimeout": 0.57,
+          "goalsForPerTimeout": 1.43,
+          "goalsAgainstPerTimeout": 1.29
         }
       },
       "numericSituations": {
         "suspensionsAffectPlayerCount": true,
         "even": {
-          "seconds": 9505,
-          "goalsFor": 87,
-          "goalsAgainst": 77
+          "seconds": 12505,
+          "goalsFor": 109,
+          "goalsAgainst": 98
         },
         "powerPlay": {
-          "seconds": 480,
-          "goalsFor": 3,
-          "goalsAgainst": 4
+          "seconds": 840,
+          "goalsFor": 7,
+          "goalsAgainst": 7
         },
         "shortHanded": {
-          "seconds": 815,
-          "goalsFor": 8,
-          "goalsAgainst": 6
+          "seconds": 1055,
+          "goalsFor": 9,
+          "goalsAgainst": 7
         }
       },
       "fiveMinuteSplits": [
@@ -731,145 +731,145 @@
           "label": "0-5",
           "startSeconds": 0,
           "endSeconds": 300,
-          "games": 3,
-          "goalsFor": 8,
-          "goalsAgainst": 5,
-          "goalDifference": 3,
-          "goalsForPerGame": 2.67,
-          "goalsAgainstPerGame": 1.67,
+          "games": 4,
+          "goalsFor": 12,
+          "goalsAgainst": 8,
+          "goalDifference": 4,
+          "goalsForPerGame": 3,
+          "goalsAgainstPerGame": 2,
           "goalDifferencePerGame": 1
         },
         {
           "label": "5-10",
           "startSeconds": 300,
           "endSeconds": 600,
-          "games": 3,
-          "goalsFor": 8,
-          "goalsAgainst": 8,
+          "games": 4,
+          "goalsFor": 12,
+          "goalsAgainst": 12,
           "goalDifference": 0,
-          "goalsForPerGame": 2.67,
-          "goalsAgainstPerGame": 2.67,
+          "goalsForPerGame": 3,
+          "goalsAgainstPerGame": 3,
           "goalDifferencePerGame": 0
         },
         {
           "label": "10-15",
           "startSeconds": 600,
           "endSeconds": 900,
-          "games": 3,
+          "games": 4,
           "goalsFor": 7,
-          "goalsAgainst": 5,
-          "goalDifference": 2,
-          "goalsForPerGame": 2.33,
-          "goalsAgainstPerGame": 1.67,
-          "goalDifferencePerGame": 0.67
+          "goalsAgainst": 7,
+          "goalDifference": 0,
+          "goalsForPerGame": 1.75,
+          "goalsAgainstPerGame": 1.75,
+          "goalDifferencePerGame": 0
         },
         {
           "label": "15-20",
           "startSeconds": 900,
           "endSeconds": 1200,
-          "games": 3,
-          "goalsFor": 5,
-          "goalsAgainst": 6,
-          "goalDifference": -1,
-          "goalsForPerGame": 1.67,
-          "goalsAgainstPerGame": 2,
-          "goalDifferencePerGame": -0.33
+          "games": 4,
+          "goalsFor": 9,
+          "goalsAgainst": 7,
+          "goalDifference": 2,
+          "goalsForPerGame": 2.25,
+          "goalsAgainstPerGame": 1.75,
+          "goalDifferencePerGame": 0.5
         },
         {
           "label": "20-25",
           "startSeconds": 1200,
           "endSeconds": 1500,
-          "games": 3,
-          "goalsFor": 7,
-          "goalsAgainst": 7,
-          "goalDifference": 0,
-          "goalsForPerGame": 2.33,
-          "goalsAgainstPerGame": 2.33,
-          "goalDifferencePerGame": 0
+          "games": 4,
+          "goalsFor": 10,
+          "goalsAgainst": 11,
+          "goalDifference": -1,
+          "goalsForPerGame": 2.5,
+          "goalsAgainstPerGame": 2.75,
+          "goalDifferencePerGame": -0.25
         },
         {
           "label": "25-30",
           "startSeconds": 1500,
           "endSeconds": 1800,
-          "games": 3,
-          "goalsFor": 8,
-          "goalsAgainst": 11,
-          "goalDifference": -3,
-          "goalsForPerGame": 2.67,
-          "goalsAgainstPerGame": 3.67,
-          "goalDifferencePerGame": -1
+          "games": 4,
+          "goalsFor": 11,
+          "goalsAgainst": 12,
+          "goalDifference": -1,
+          "goalsForPerGame": 2.75,
+          "goalsAgainstPerGame": 3,
+          "goalDifferencePerGame": -0.25
         },
         {
           "label": "30-35",
           "startSeconds": 1800,
           "endSeconds": 2100,
-          "games": 3,
-          "goalsFor": 8,
-          "goalsAgainst": 7,
-          "goalDifference": 1,
-          "goalsForPerGame": 2.67,
-          "goalsAgainstPerGame": 2.33,
-          "goalDifferencePerGame": 0.33
+          "games": 4,
+          "goalsFor": 9,
+          "goalsAgainst": 9,
+          "goalDifference": 0,
+          "goalsForPerGame": 2.25,
+          "goalsAgainstPerGame": 2.25,
+          "goalDifferencePerGame": 0
         },
         {
           "label": "35-40",
           "startSeconds": 2100,
           "endSeconds": 2400,
-          "games": 3,
-          "goalsFor": 10,
-          "goalsAgainst": 12,
-          "goalDifference": -2,
-          "goalsForPerGame": 3.33,
-          "goalsAgainstPerGame": 4,
-          "goalDifferencePerGame": -0.67
+          "games": 4,
+          "goalsFor": 12,
+          "goalsAgainst": 13,
+          "goalDifference": -1,
+          "goalsForPerGame": 3,
+          "goalsAgainstPerGame": 3.25,
+          "goalDifferencePerGame": -0.25
         },
         {
           "label": "40-45",
           "startSeconds": 2400,
           "endSeconds": 2700,
-          "games": 3,
+          "games": 4,
           "goalsFor": 9,
-          "goalsAgainst": 6,
-          "goalDifference": 3,
-          "goalsForPerGame": 3,
-          "goalsAgainstPerGame": 2,
-          "goalDifferencePerGame": 1
+          "goalsAgainst": 7,
+          "goalDifference": 2,
+          "goalsForPerGame": 2.25,
+          "goalsAgainstPerGame": 1.75,
+          "goalDifferencePerGame": 0.5
         },
         {
           "label": "45-50",
           "startSeconds": 2700,
           "endSeconds": 3000,
-          "games": 3,
-          "goalsFor": 11,
+          "games": 4,
+          "goalsFor": 15,
           "goalsAgainst": 6,
-          "goalDifference": 5,
-          "goalsForPerGame": 3.67,
-          "goalsAgainstPerGame": 2,
-          "goalDifferencePerGame": 1.67
+          "goalDifference": 9,
+          "goalsForPerGame": 3.75,
+          "goalsAgainstPerGame": 1.5,
+          "goalDifferencePerGame": 2.25
         },
         {
           "label": "50-55",
           "startSeconds": 3000,
           "endSeconds": 3300,
-          "games": 3,
-          "goalsFor": 9,
-          "goalsAgainst": 6,
-          "goalDifference": 3,
-          "goalsForPerGame": 3,
-          "goalsAgainstPerGame": 2,
-          "goalDifferencePerGame": 1
+          "games": 4,
+          "goalsFor": 10,
+          "goalsAgainst": 9,
+          "goalDifference": 1,
+          "goalsForPerGame": 2.5,
+          "goalsAgainstPerGame": 2.25,
+          "goalDifferencePerGame": 0.25
         },
         {
           "label": "55-60",
           "startSeconds": 3300,
           "endSeconds": 3600,
-          "games": 3,
-          "goalsFor": 9,
-          "goalsAgainst": 8,
-          "goalDifference": 1,
-          "goalsForPerGame": 3,
-          "goalsAgainstPerGame": 2.67,
-          "goalDifferencePerGame": 0.33
+          "games": 4,
+          "goalsFor": 10,
+          "goalsAgainst": 11,
+          "goalDifference": -1,
+          "goalsForPerGame": 2.5,
+          "goalsAgainstPerGame": 2.75,
+          "goalDifferencePerGame": -0.25
         }
       ],
       "gamePhases": null,
@@ -882,13 +882,13 @@
         "end": "45:12"
       },
       "longestDrought": {
-        "matchId": 504541,
-        "date": "2026-08-29",
-        "opponent": "TuRa Meldorf",
-        "seconds": 358,
-        "duration": "05:58",
-        "start": "12:21",
-        "end": "18:19"
+        "matchId": 504562,
+        "date": "2026-10-26",
+        "opponent": "TSV Weddingstedt II",
+        "seconds": 397,
+        "duration": "06:37",
+        "start": "50:54",
+        "end": "57:31"
       },
       "players": [
         {
@@ -898,7 +898,7 @@
           "appearances": 3,
           "goals": 31,
           "goalsPerAppearance": 10.33,
-          "goalSharePercent": 31.6,
+          "goalSharePercent": 24.8,
           "sevenMeters": {
             "goals": 5,
             "misses": 2,
@@ -912,13 +912,33 @@
           "blueCards": 0
         },
         {
+          "playerId": "0s2pgfl",
+          "name": "Erwin Mirzaguliyev",
+          "number": 33,
+          "appearances": 4,
+          "goals": 18,
+          "goalsPerAppearance": 4.5,
+          "goalSharePercent": 14.4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 1,
+            "attempts": 1,
+            "percentage": 0
+          },
+          "warnings": 2,
+          "twoMinutes": 3,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
           "playerId": "0tooyml",
           "name": "Dominique Dyon Mannke",
           "number": 3,
           "appearances": 3,
           "goals": 17,
           "goalsPerAppearance": 5.67,
-          "goalSharePercent": 17.3,
+          "goalSharePercent": 13.6,
           "sevenMeters": {
             "goals": 1,
             "misses": 0,
@@ -932,21 +952,41 @@
           "blueCards": 0
         },
         {
-          "playerId": "0s2pgfl",
-          "name": "Erwin Mirzaguliyev",
-          "number": 33,
-          "appearances": 3,
+          "playerId": "04x44aa",
+          "name": "Mika Höppner",
+          "number": 77,
+          "appearances": 4,
           "goals": 11,
-          "goalsPerAppearance": 3.67,
-          "goalSharePercent": 11.2,
+          "goalsPerAppearance": 2.75,
+          "goalSharePercent": 8.8,
           "sevenMeters": {
             "goals": 0,
-            "misses": 1,
-            "attempts": 1,
-            "percentage": 0
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
           },
           "warnings": 1,
-          "twoMinutes": 2,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0j29e9h",
+          "name": "Tim Krause",
+          "number": 8,
+          "appearances": 4,
+          "goals": 10,
+          "goalsPerAppearance": 2.5,
+          "goalSharePercent": 8,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
           "disqualifications": 0,
           "redCards": 0,
           "blueCards": 0
@@ -955,30 +995,10 @@
           "playerId": "1ysvzvo",
           "name": "Clemens Brimm",
           "number": 64,
-          "appearances": 3,
+          "appearances": 4,
           "goals": 9,
-          "goalsPerAppearance": 3,
-          "goalSharePercent": 9.2,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 0,
-            "attempts": 0,
-            "percentage": null
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
-          "playerId": "04x44aa",
-          "name": "Mika Höppner",
-          "number": 77,
-          "appearances": 3,
-          "goals": 9,
-          "goalsPerAppearance": 3,
-          "goalSharePercent": 9.2,
+          "goalsPerAppearance": 2.25,
+          "goalSharePercent": 7.2,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -995,10 +1015,10 @@
           "playerId": "1jrnqbk",
           "name": "Jasper Glaubitz",
           "number": 17,
-          "appearances": 3,
-          "goals": 7,
-          "goalsPerAppearance": 2.33,
-          "goalSharePercent": 7.1,
+          "appearances": 4,
+          "goals": 8,
+          "goalsPerAppearance": 2,
+          "goalSharePercent": 6.4,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -1007,26 +1027,6 @@
           },
           "warnings": 0,
           "twoMinutes": 1,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
-          "playerId": "0j29e9h",
-          "name": "Tim Krause",
-          "number": 8,
-          "appearances": 3,
-          "goals": 6,
-          "goalsPerAppearance": 2,
-          "goalSharePercent": 6.1,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 0,
-            "attempts": 0,
-            "percentage": null
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
           "disqualifications": 0,
           "redCards": 0,
           "blueCards": 0
@@ -1035,10 +1035,10 @@
           "playerId": "12lryvb",
           "name": "Steven Appel",
           "number": 11,
-          "appearances": 3,
-          "goals": 3,
-          "goalsPerAppearance": 1,
-          "goalSharePercent": 3.1,
+          "appearances": 4,
+          "goals": 6,
+          "goalsPerAppearance": 1.5,
+          "goalSharePercent": 4.8,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -1052,58 +1052,18 @@
           "blueCards": 0
         },
         {
-          "playerId": "002ztgg",
-          "name": "Tim Mauersberger",
-          "number": 21,
-          "appearances": 3,
-          "goals": 2,
-          "goalsPerAppearance": 0.67,
-          "goalSharePercent": 2,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 0,
-            "attempts": 0,
-            "percentage": null
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
-          "playerId": "1u6hfvn",
-          "name": "Joris Alexander Penske",
-          "number": 7,
-          "appearances": 3,
-          "goals": 1,
-          "goalsPerAppearance": 0.33,
-          "goalSharePercent": 1,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 0,
-            "attempts": 0,
-            "percentage": null
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
           "playerId": "1azghcr",
           "name": "Jorres Wieben",
           "number": 22,
-          "appearances": 3,
-          "goals": 1,
-          "goalsPerAppearance": 0.33,
-          "goalSharePercent": 1,
+          "appearances": 4,
+          "goals": 5,
+          "goalsPerAppearance": 1.25,
+          "goalSharePercent": 4,
           "sevenMeters": {
-            "goals": 0,
+            "goals": 3,
             "misses": 1,
-            "attempts": 1,
-            "percentage": 0
+            "attempts": 4,
+            "percentage": 75
           },
           "warnings": 1,
           "twoMinutes": 1,
@@ -1115,10 +1075,10 @@
           "playerId": "1eajsjy",
           "name": "Nikola Tim Kraljevic",
           "number": 13,
-          "appearances": 1,
-          "goals": 1,
-          "goalsPerAppearance": 1,
-          "goalSharePercent": 1,
+          "appearances": 2,
+          "goals": 4,
+          "goalsPerAppearance": 2,
+          "goalSharePercent": 3.2,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -1132,10 +1092,90 @@
           "blueCards": 0
         },
         {
+          "playerId": "002ztgg",
+          "name": "Tim Mauersberger",
+          "number": 21,
+          "appearances": 4,
+          "goals": 2,
+          "goalsPerAppearance": 0.5,
+          "goalSharePercent": 1.6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0us8u6l",
+          "name": "Jan-Philip May",
+          "number": 6,
+          "appearances": 1,
+          "goals": 2,
+          "goalsPerAppearance": 2,
+          "goalSharePercent": 1.6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1u6hfvn",
+          "name": "Joris Alexander Penske",
+          "number": 7,
+          "appearances": 4,
+          "goals": 1,
+          "goalsPerAppearance": 0.25,
+          "goalSharePercent": 0.8,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "09p35pw",
+          "name": "Maddox Mengler",
+          "number": 2,
+          "appearances": 1,
+          "goals": 1,
+          "goalsPerAppearance": 1,
+          "goalSharePercent": 0.8,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
           "playerId": "0luyc2n",
           "name": "Dennis Reese",
           "number": 56,
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "goalsPerAppearance": 0,
           "goalSharePercent": 0,
@@ -1155,7 +1195,7 @@
           "playerId": "0py2kbh",
           "name": "Thorben Pultar",
           "number": 12,
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "goalsPerAppearance": 0,
           "goalSharePercent": 0,
@@ -1175,7 +1215,7 @@
           "playerId": "1ewrb52",
           "name": "Barne Holdorf",
           "number": 5,
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "goalsPerAppearance": 0,
           "goalSharePercent": 0,
@@ -1195,7 +1235,7 @@
           "playerId": "0tf0590",
           "name": "Yendrick Weißhaar",
           "number": 16,
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "goalsPerAppearance": 0,
           "goalSharePercent": 0,
@@ -1226,6 +1266,26 @@
             "percentage": null
           },
           "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1rr33vi",
+          "name": "Martin Glaubitz",
+          "number": null,
+          "appearances": 0,
+          "goals": 0,
+          "goalsPerAppearance": null,
+          "goalSharePercent": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
           "twoMinutes": 0,
           "disqualifications": 0,
           "redCards": 0,
@@ -11150,18 +11210,18 @@
       "ageGroup": "senior",
       "gender": "male",
       "matchMinutes": 60,
-      "finishedMatches": 2,
-      "analyticsMatches": 2,
+      "finishedMatches": 3,
+      "analyticsMatches": 3,
       "coveragePercent": 100,
       "sevenMeters": {
-        "goals": 5,
+        "goals": 9,
         "misses": 2,
-        "attempts": 7,
-        "percentage": 71.4
+        "attempts": 11,
+        "percentage": 81.8
       },
       "sanctions": {
-        "warnings": 2,
-        "twoMinutes": 4,
+        "warnings": 3,
+        "twoMinutes": 5,
         "disqualifications": 0,
         "redCards": 0,
         "blueCards": 0
@@ -11181,34 +11241,34 @@
           "goalsAgainstPerTimeout": 2
         },
         "opponent": {
-          "count": 2,
-          "goalsForBefore": 3,
-          "goalsAgainstBefore": 2,
-          "goalsForAfter": 4,
-          "goalsAgainstAfter": 2,
-          "goalDifferenceBefore": 1,
+          "count": 4,
+          "goalsForBefore": 8,
+          "goalsAgainstBefore": 5,
+          "goalsForAfter": 6,
+          "goalsAgainstAfter": 4,
+          "goalDifferenceBefore": 3,
           "goalDifferenceAfter": 2,
-          "goalsForBeforePerTimeout": 1.5,
-          "goalsAgainstBeforePerTimeout": 1,
-          "goalsForPerTimeout": 2,
+          "goalsForBeforePerTimeout": 2,
+          "goalsAgainstBeforePerTimeout": 1.25,
+          "goalsForPerTimeout": 1.5,
           "goalsAgainstPerTimeout": 1
         }
       },
       "numericSituations": {
         "suspensionsAffectPlayerCount": true,
         "even": {
-          "seconds": 6480,
-          "goalsFor": 51,
-          "goalsAgainst": 46
+          "seconds": 9840,
+          "goalsFor": 73,
+          "goalsAgainst": 72
         },
         "powerPlay": {
-          "seconds": 240,
-          "goalsFor": 3,
-          "goalsAgainst": 1
+          "seconds": 360,
+          "goalsFor": 4,
+          "goalsAgainst": 2
         },
         "shortHanded": {
-          "seconds": 480,
-          "goalsFor": 2,
+          "seconds": 600,
+          "goalsFor": 4,
           "goalsAgainst": 4
         }
       },
@@ -11217,145 +11277,145 @@
           "label": "0-5",
           "startSeconds": 0,
           "endSeconds": 300,
-          "games": 2,
-          "goalsFor": 6,
-          "goalsAgainst": 3,
-          "goalDifference": 3,
-          "goalsForPerGame": 3,
-          "goalsAgainstPerGame": 1.5,
-          "goalDifferencePerGame": 1.5
+          "games": 3,
+          "goalsFor": 7,
+          "goalsAgainst": 7,
+          "goalDifference": 0,
+          "goalsForPerGame": 2.33,
+          "goalsAgainstPerGame": 2.33,
+          "goalDifferencePerGame": 0
         },
         {
           "label": "5-10",
           "startSeconds": 300,
           "endSeconds": 600,
-          "games": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 4,
-          "goalDifference": 0,
+          "games": 3,
+          "goalsFor": 6,
+          "goalsAgainst": 7,
+          "goalDifference": -1,
           "goalsForPerGame": 2,
-          "goalsAgainstPerGame": 2,
-          "goalDifferencePerGame": 0
+          "goalsAgainstPerGame": 2.33,
+          "goalDifferencePerGame": -0.33
         },
         {
           "label": "10-15",
           "startSeconds": 600,
           "endSeconds": 900,
-          "games": 2,
-          "goalsFor": 5,
-          "goalsAgainst": 1,
-          "goalDifference": 4,
-          "goalsForPerGame": 2.5,
-          "goalsAgainstPerGame": 0.5,
+          "games": 3,
+          "goalsFor": 9,
+          "goalsAgainst": 3,
+          "goalDifference": 6,
+          "goalsForPerGame": 3,
+          "goalsAgainstPerGame": 1,
           "goalDifferencePerGame": 2
         },
         {
           "label": "15-20",
           "startSeconds": 900,
           "endSeconds": 1200,
-          "games": 2,
-          "goalsFor": 9,
+          "games": 3,
+          "goalsFor": 13,
           "goalsAgainst": 6,
-          "goalDifference": 3,
-          "goalsForPerGame": 4.5,
-          "goalsAgainstPerGame": 3,
-          "goalDifferencePerGame": 1.5
+          "goalDifference": 7,
+          "goalsForPerGame": 4.33,
+          "goalsAgainstPerGame": 2,
+          "goalDifferencePerGame": 2.33
         },
         {
           "label": "20-25",
           "startSeconds": 1200,
           "endSeconds": 1500,
-          "games": 2,
-          "goalsFor": 5,
-          "goalsAgainst": 4,
-          "goalDifference": 1,
-          "goalsForPerGame": 2.5,
-          "goalsAgainstPerGame": 2,
-          "goalDifferencePerGame": 0.5
+          "games": 3,
+          "goalsFor": 9,
+          "goalsAgainst": 7,
+          "goalDifference": 2,
+          "goalsForPerGame": 3,
+          "goalsAgainstPerGame": 2.33,
+          "goalDifferencePerGame": 0.67
         },
         {
           "label": "25-30",
           "startSeconds": 1500,
           "endSeconds": 1800,
-          "games": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 3,
+          "games": 3,
+          "goalsFor": 6,
+          "goalsAgainst": 5,
           "goalDifference": 1,
           "goalsForPerGame": 2,
-          "goalsAgainstPerGame": 1.5,
-          "goalDifferencePerGame": 0.5
+          "goalsAgainstPerGame": 1.67,
+          "goalDifferencePerGame": 0.33
         },
         {
           "label": "30-35",
           "startSeconds": 1800,
           "endSeconds": 2100,
-          "games": 2,
-          "goalsFor": 3,
-          "goalsAgainst": 4,
-          "goalDifference": -1,
-          "goalsForPerGame": 1.5,
-          "goalsAgainstPerGame": 2,
-          "goalDifferencePerGame": -0.5
+          "games": 3,
+          "goalsFor": 5,
+          "goalsAgainst": 7,
+          "goalDifference": -2,
+          "goalsForPerGame": 1.67,
+          "goalsAgainstPerGame": 2.33,
+          "goalDifferencePerGame": -0.67
         },
         {
           "label": "35-40",
           "startSeconds": 2100,
           "endSeconds": 2400,
-          "games": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 6,
+          "games": 3,
+          "goalsFor": 5,
+          "goalsAgainst": 7,
           "goalDifference": -2,
-          "goalsForPerGame": 2,
-          "goalsAgainstPerGame": 3,
-          "goalDifferencePerGame": -1
+          "goalsForPerGame": 1.67,
+          "goalsAgainstPerGame": 2.33,
+          "goalDifferencePerGame": -0.67
         },
         {
           "label": "40-45",
           "startSeconds": 2400,
           "endSeconds": 2700,
-          "games": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 7,
-          "goalDifference": -3,
-          "goalsForPerGame": 2,
-          "goalsAgainstPerGame": 3.5,
-          "goalDifferencePerGame": -1.5
+          "games": 3,
+          "goalsFor": 5,
+          "goalsAgainst": 9,
+          "goalDifference": -4,
+          "goalsForPerGame": 1.67,
+          "goalsAgainstPerGame": 3,
+          "goalDifferencePerGame": -1.33
         },
         {
           "label": "45-50",
           "startSeconds": 2700,
           "endSeconds": 3000,
-          "games": 2,
-          "goalsFor": 4,
-          "goalsAgainst": 5,
-          "goalDifference": -1,
+          "games": 3,
+          "goalsFor": 6,
+          "goalsAgainst": 6,
+          "goalDifference": 0,
           "goalsForPerGame": 2,
-          "goalsAgainstPerGame": 2.5,
-          "goalDifferencePerGame": -0.5
+          "goalsAgainstPerGame": 2,
+          "goalDifferencePerGame": 0
         },
         {
           "label": "50-55",
           "startSeconds": 3000,
           "endSeconds": 3300,
-          "games": 2,
-          "goalsFor": 2,
-          "goalsAgainst": 3,
-          "goalDifference": -1,
-          "goalsForPerGame": 1,
-          "goalsAgainstPerGame": 1.5,
-          "goalDifferencePerGame": -0.5
+          "games": 3,
+          "goalsFor": 4,
+          "goalsAgainst": 6,
+          "goalDifference": -2,
+          "goalsForPerGame": 1.33,
+          "goalsAgainstPerGame": 2,
+          "goalDifferencePerGame": -0.67
         },
         {
           "label": "55-60",
           "startSeconds": 3300,
           "endSeconds": 3600,
-          "games": 2,
+          "games": 3,
           "goalsFor": 6,
-          "goalsAgainst": 5,
-          "goalDifference": 1,
-          "goalsForPerGame": 3,
-          "goalsAgainstPerGame": 2.5,
-          "goalDifferencePerGame": 0.5
+          "goalsAgainst": 8,
+          "goalDifference": -2,
+          "goalsForPerGame": 2,
+          "goalsAgainstPerGame": 2.67,
+          "goalDifferencePerGame": -0.67
         }
       ],
       "gamePhases": null,
@@ -11368,15 +11428,35 @@
         "end": "15:10"
       },
       "longestDrought": {
-        "matchId": 505398,
-        "date": "2026-09-05",
-        "opponent": "SG HANDBALL EIDERTAL",
-        "seconds": 453,
-        "duration": "07:33",
-        "start": "28:05",
-        "end": "35:38"
+        "matchId": 505401,
+        "date": "2026-10-27",
+        "opponent": "PREETZER TSV II",
+        "seconds": 552,
+        "duration": "09:12",
+        "start": "35:13",
+        "end": "44:25"
       },
       "players": [
+        {
+          "playerId": "0cob12a",
+          "name": "Trygve Dohm",
+          "number": 58,
+          "appearances": 3,
+          "goals": 20,
+          "goalsPerAppearance": 6.67,
+          "goalSharePercent": 24.7,
+          "sevenMeters": {
+            "goals": 4,
+            "misses": 1,
+            "attempts": 5,
+            "percentage": 80
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
         {
           "playerId": "0yfpp2h",
           "name": "Marc Phillip Eschrich-Schygulla",
@@ -11384,7 +11464,7 @@
           "appearances": 2,
           "goals": 10,
           "goalsPerAppearance": 5,
-          "goalSharePercent": 17.9,
+          "goalSharePercent": 12.3,
           "sevenMeters": {
             "goals": 4,
             "misses": 1,
@@ -11398,33 +11478,13 @@
           "blueCards": 0
         },
         {
-          "playerId": "0cob12a",
-          "name": "Trygve Dohm",
-          "number": 58,
-          "appearances": 2,
-          "goals": 9,
-          "goalsPerAppearance": 4.5,
-          "goalSharePercent": 16.1,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 1,
-            "attempts": 1,
-            "percentage": 0
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
           "playerId": "16soyyk",
           "name": "Ken Bottke",
           "number": 44,
-          "appearances": 2,
-          "goals": 7,
-          "goalsPerAppearance": 3.5,
-          "goalSharePercent": 12.5,
+          "appearances": 3,
+          "goals": 9,
+          "goalsPerAppearance": 3,
+          "goalSharePercent": 11.1,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11441,10 +11501,30 @@
           "playerId": "0cic3ru",
           "name": "Nils Torge Hennings",
           "number": 77,
-          "appearances": 1,
-          "goals": 7,
-          "goalsPerAppearance": 7,
-          "goalSharePercent": 12.5,
+          "appearances": 2,
+          "goals": 9,
+          "goalsPerAppearance": 4.5,
+          "goalSharePercent": 11.1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "17wpvvq",
+          "name": "Janek Jäger",
+          "number": 24,
+          "appearances": 3,
+          "goals": 6,
+          "goalsPerAppearance": 2,
+          "goalSharePercent": 7.4,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11461,10 +11541,10 @@
           "playerId": "0pkifkr",
           "name": "Jonas-Maximilian Wisper",
           "number": 7,
-          "appearances": 2,
+          "appearances": 3,
           "goals": 6,
-          "goalsPerAppearance": 3,
-          "goalSharePercent": 10.7,
+          "goalsPerAppearance": 2,
+          "goalSharePercent": 7.4,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11472,7 +11552,7 @@
             "percentage": null
           },
           "warnings": 1,
-          "twoMinutes": 0,
+          "twoMinutes": 1,
           "disqualifications": 0,
           "redCards": 0,
           "blueCards": 0
@@ -11484,7 +11564,7 @@
           "appearances": 1,
           "goals": 5,
           "goalsPerAppearance": 5,
-          "goalSharePercent": 8.9,
+          "goalSharePercent": 6.2,
           "sevenMeters": {
             "goals": 1,
             "misses": 0,
@@ -11498,13 +11578,53 @@
           "blueCards": 0
         },
         {
-          "playerId": "17wpvvq",
-          "name": "Janek Jäger",
-          "number": 24,
-          "appearances": 2,
+          "playerId": "1wtl36h",
+          "name": "Fynn Luka Rose",
+          "number": 8,
+          "appearances": 1,
           "goals": 4,
-          "goalsPerAppearance": 2,
-          "goalSharePercent": 7.1,
+          "goalsPerAppearance": 4,
+          "goalSharePercent": 4.9,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0yoj799",
+          "name": "Joost Buchwald",
+          "number": 15,
+          "appearances": 3,
+          "goals": 2,
+          "goalsPerAppearance": 0.67,
+          "goalSharePercent": 2.5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "09o5bp5",
+          "name": "Lukas Böttger",
+          "number": 14,
+          "appearances": 3,
+          "goals": 2,
+          "goalsPerAppearance": 0.67,
+          "goalSharePercent": 2.5,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11521,10 +11641,10 @@
           "playerId": "1m9uid6",
           "name": "Niklas Alexander Behrens",
           "number": 10,
-          "appearances": 1,
+          "appearances": 2,
           "goals": 2,
-          "goalsPerAppearance": 2,
-          "goalSharePercent": 3.6,
+          "goalsPerAppearance": 1,
+          "goalSharePercent": 2.5,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11544,7 +11664,7 @@
           "appearances": 1,
           "goals": 2,
           "goalsPerAppearance": 2,
-          "goalSharePercent": 3.6,
+          "goalSharePercent": 2.5,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11558,53 +11678,13 @@
           "blueCards": 0
         },
         {
-          "playerId": "0yoj799",
-          "name": "Joost Buchwald",
-          "number": 15,
-          "appearances": 2,
-          "goals": 1,
-          "goalsPerAppearance": 0.5,
-          "goalSharePercent": 1.8,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 0,
-            "attempts": 0,
-            "percentage": null
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
-          "playerId": "09o5bp5",
-          "name": "Lukas Böttger",
-          "number": 14,
-          "appearances": 2,
-          "goals": 1,
-          "goalsPerAppearance": 0.5,
-          "goalSharePercent": 1.8,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 0,
-            "attempts": 0,
-            "percentage": null
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
           "playerId": "00m56ow",
           "name": "Mika Hendrik Grummel",
           "number": 5,
-          "appearances": 2,
+          "appearances": 3,
           "goals": 1,
-          "goalsPerAppearance": 0.5,
-          "goalSharePercent": 1.8,
+          "goalsPerAppearance": 0.33,
+          "goalSharePercent": 1.2,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11624,7 +11704,47 @@
           "appearances": 1,
           "goals": 1,
           "goalsPerAppearance": 1,
-          "goalSharePercent": 1.8,
+          "goalSharePercent": 1.2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "00fzrqf",
+          "name": "John Maximilian Förstner",
+          "number": 24,
+          "appearances": 1,
+          "goals": 1,
+          "goalsPerAppearance": 1,
+          "goalSharePercent": 1.2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "09p35pw",
+          "name": "Maddox Mengler",
+          "number": 2,
+          "appearances": 1,
+          "goals": 1,
+          "goalsPerAppearance": 1,
+          "goalSharePercent": 1.2,
           "sevenMeters": {
             "goals": 0,
             "misses": 0,
@@ -11641,6 +11761,26 @@
           "playerId": "1rybqhq",
           "name": "Andre Mannke",
           "number": 11,
+          "appearances": 3,
+          "goals": 0,
+          "goalsPerAppearance": 0,
+          "goalSharePercent": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "09bl33k",
+          "name": "Alexander Pollak",
+          "number": 21,
           "appearances": 2,
           "goals": 0,
           "goalsPerAppearance": 0,
@@ -11678,26 +11818,6 @@
           "blueCards": 0
         },
         {
-          "playerId": "09bl33k",
-          "name": "Alexander Pollak",
-          "number": 21,
-          "appearances": 1,
-          "goals": 0,
-          "goalsPerAppearance": 0,
-          "goalSharePercent": 0,
-          "sevenMeters": {
-            "goals": 0,
-            "misses": 0,
-            "attempts": 0,
-            "percentage": null
-          },
-          "warnings": 0,
-          "twoMinutes": 0,
-          "disqualifications": 0,
-          "redCards": 0,
-          "blueCards": 0
-        },
-        {
           "playerId": "1w0nkkw",
           "name": "Alexander Schuh",
           "number": 16,
@@ -11718,9 +11838,49 @@
           "blueCards": 0
         },
         {
+          "playerId": "1ewrb52",
+          "name": "Barne Holdorf",
+          "number": 55,
+          "appearances": 1,
+          "goals": 0,
+          "goalsPerAppearance": 0,
+          "goalSharePercent": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
           "playerId": "0xk67e4",
           "name": "Jonas Küster",
           "number": 4,
+          "appearances": 1,
+          "goals": 0,
+          "goalsPerAppearance": 0,
+          "goalSharePercent": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "12lryvb",
+          "name": "Steven Appel",
+          "number": 11,
           "appearances": 1,
           "goals": 0,
           "goalsPerAppearance": 0,

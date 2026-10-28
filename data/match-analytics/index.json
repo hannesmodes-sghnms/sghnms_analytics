@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T05:49:57.893Z",
+  "generatedAt": "2026-10-28T06:19:20.461Z",
   "matches": [
     {
       "id": 504541,
@@ -996,6 +996,30 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/514267.json"
+    },
+    {
+      "id": 504562,
+      "date": "2026-10-26",
+      "time": "20:00",
+      "ownTeamId": "86805",
+      "opponent": "TSV Weddingstedt II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/504562.json"
+    },
+    {
+      "id": 505401,
+      "date": "2026-10-27",
+      "time": "19:30",
+      "ownTeamId": "94483",
+      "opponent": "PREETZER TSV II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/505401.json"
     }
   ]
 }
