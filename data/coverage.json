@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-28T11:39:04.191Z",
-  "finishedMatches": 85,
-  "analysesAvailable": 85,
+  "generatedAt": "2026-10-29T02:05:37.182Z",
+  "finishedMatches": 86,
+  "analysesAvailable": 86,
   "endpointCoverage": {
-    "eventsAvailable": 85,
+    "eventsAvailable": 86,
     "eventsPercent": 100,
-    "lineupsAvailable": 85,
+    "lineupsAvailable": 86,
     "lineupsPercent": 100,
-    "bothAvailable": 85,
+    "bothAvailable": 86,
     "bothPercent": 100
   },
   "verifiedAnalytics": {
     "eligibleMatches": 84,
-    "excludedMatches": 1,
-    "percent": 98.8
+    "excludedMatches": 2,
+    "percent": 97.7
   },
   "verification": {
     "eventScoreMatchesOfficial": 84,
     "lineupScoreMatchesOfficial": 84,
-    "halftimeAvailable": 85,
+    "halftimeAvailable": 86,
     "halftimeEvent": 58,
-    "halftimeDerived": 27,
-    "durationMatchesExpected": 78,
-    "scorerLineupCoverage100": 85,
-    "eventScorePercent": 98.8,
-    "lineupScorePercent": 98.8,
+    "halftimeDerived": 28,
+    "durationMatchesExpected": 79,
+    "scorerLineupCoverage100": 86,
+    "eventScorePercent": 97.7,
+    "lineupScorePercent": 97.7,
     "halftimePercent": 100,
-    "durationPercent": 91.8,
+    "durationPercent": 91.9,
     "scorerLineupCoverage100Percent": 100
   },
   "warningSummary": [
@@ -38,12 +38,12 @@
     {
       "code": "EVENT_SCORE_MISMATCH",
       "severity": "critical",
-      "count": 1
+      "count": 2
     },
     {
       "code": "LINEUP_SCORE_MISMATCH",
       "severity": "warning",
-      "count": 1
+      "count": 2
     }
   ],
   "teams": [
@@ -388,14 +388,14 @@
       "ageGroup": "senior",
       "gender": "female",
       "matchMinutes": 60,
-      "finishedMatches": 2,
-      "eventsAvailable": 2,
-      "lineupsAvailable": 2,
-      "bothAvailable": 2,
+      "finishedMatches": 3,
+      "eventsAvailable": 3,
+      "lineupsAvailable": 3,
+      "bothAvailable": 3,
       "analyticsEligible": 2,
-      "analyticsExcluded": 0,
-      "analyticsPercent": 100,
-      "warnings": 0
+      "analyticsExcluded": 1,
+      "analyticsPercent": 66.7,
+      "warnings": 2
     },
     {
       "id": "94483",

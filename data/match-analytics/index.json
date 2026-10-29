@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:39:04.771Z",
+  "generatedAt": "2026-10-29T02:05:37.523Z",
   "matches": [
     {
       "id": 504541,
@@ -1020,6 +1020,18 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/505401.json"
+    },
+    {
+      "id": 514273,
+      "date": "2026-10-28",
+      "time": "20:15",
+      "ownTeamId": "94482",
+      "opponent": "SC KIELER FÖRDE III",
+      "analyticsEligible": false,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "invalid",
+      "path": "match-analytics/514273.json"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-28T11:39:04.435Z",
+  "generatedAt": "2026-10-29T02:05:37.314Z",
   "matches": [
     {
-      "id": 514273,
-      "date": "2026-10-28",
-      "time": "20:15",
+      "id": 505413,
+      "date": "2026-10-30",
+      "time": "20:00",
       "home": {
-        "id": 94482,
-        "name": "SG Handball Neumünster IV",
-        "clubId": "1yrb3n9"
+        "id": 81771,
+        "name": "WELLINGDORFER TV",
+        "clubId": "1j3isa8"
       },
       "away": {
-        "id": 81937,
-        "name": "SC KIELER FÖRDE III",
-        "clubId": "00xfnlm"
+        "id": 94483,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
       },
       "result": {
         "home": null,
@@ -23,149 +23,121 @@
         "finished": false,
         "live": false
       },
-      "competitionId": 7950,
-      "competition": "Kreisklasse Frauen",
+      "competitionId": 7946,
+      "competition": "Kreisliga Männer",
       "competitionScope": "league",
       "statsRelevant": true,
       "phase": {
-        "id": 12993,
-        "name": "Kreisklasse Frauen Mitte"
+        "id": 12972,
+        "name": "Kreisliga Männer - Staffel D"
       },
       "venue": {
-        "name": "SPORTHALLE WITTORF",
-        "address": "LINDENSTRAßE 1, 24539 NEUMüNSTER"
+        "name": "RADSREDDER-HALLE WELLINGDORF",
+        "address": "RADSREDDER 35, 24148 KIEL"
       },
-      "ownTeamId": "94482",
+      "ownTeamId": "94483",
       "ownTeam": {
-        "label": "FRAUEN 4",
-        "name": "4. Frauen",
+        "label": "HERREN 2",
+        "name": "2. Herren",
         "ageGroup": "senior",
-        "gender": "female",
+        "gender": "male",
         "matchMinutes": 60
       },
       "opponentProfile": {
-        "teamId": "81937",
-        "name": "SC KIELER FÖRDE III",
-        "phaseId": "12993",
-        "phaseName": "Kreisklasse Frauen Mitte",
-        "competition": "Kreisklasse Frauen",
+        "teamId": "81771",
+        "name": "WELLINGDORFER TV",
+        "phaseId": "12972",
+        "phaseName": "Kreisliga Männer - Staffel D",
+        "competition": "Kreisliga Männer",
         "season": {
-          "games": 3,
+          "games": 1,
           "wins": 1,
           "draws": 0,
-          "losses": 2,
-          "goalsFor": 55,
-          "goalsAgainst": 84,
-          "goalDifference": -29,
-          "winRate": 33.3,
-          "goalsForAvg": 18.33,
-          "goalsAgainstAvg": 28,
-          "goalDifferenceAvg": -9.67
+          "losses": 0,
+          "goalsFor": 32,
+          "goalsAgainst": 26,
+          "goalDifference": 6,
+          "winRate": 100,
+          "goalsForAvg": 32,
+          "goalsAgainstAvg": 26,
+          "goalDifferenceAvg": 6
         },
         "recent": [
           {
-            "id": 514280,
-            "date": "2026-10-03",
-            "time": "14:40",
-            "isHome": true,
-            "opponent": {
-              "id": 81933,
-              "name": "WELLINGDORFER TV II",
-              "clubId": "1j3isa8"
-            },
-            "goalsFor": 21,
-            "goalsAgainst": 35,
-            "result": "L"
-          },
-          {
-            "id": 514270,
-            "date": "2026-09-12",
+            "id": 505409,
+            "date": "2026-10-24",
             "time": "18:00",
             "isHome": false,
             "opponent": {
-              "id": 81897,
-              "name": "TV TRAPPENKAMP",
-              "clubId": "02z7nh5"
+              "id": 81775,
+              "name": "SC KIELER FÖRDE II",
+              "clubId": "00xfnlm"
             },
-            "goalsFor": 15,
-            "goalsAgainst": 12,
+            "goalsFor": 32,
+            "goalsAgainst": 26,
             "result": "W"
-          },
-          {
-            "id": 514265,
-            "date": "2026-09-06",
-            "time": "12:15",
-            "isHome": true,
-            "opponent": {
-              "id": 81896,
-              "name": "LEEZENER SC",
-              "clubId": "1rff314"
-            },
-            "goalsFor": 19,
-            "goalsAgainst": 37,
-            "result": "L"
           }
         ],
         "topScorers": [
           {
-            "playerId": "07y9q4x",
-            "name": "Charlotte Herrmann",
+            "playerId": "1qvkmqf",
+            "name": "Henry Krause",
+            "number": 3,
+            "games": 1,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0704e7z",
+            "name": "Kristoffer Peschel",
             "number": 7,
-            "games": 3,
-            "goals": 19,
-            "sevenMeterGoals": 9,
-            "sevenMeterAttempts": 9,
-            "goalsPerGame": 6.33,
+            "games": 1,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "19kk074",
+            "name": "Niklas Schetsche",
+            "number": 55,
+            "games": 1,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "18uiefx",
+            "name": "Christoph Bauschke",
+            "number": 5,
+            "games": 1,
+            "goals": 5,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 5,
             "sevenMeterPercentage": 100
           },
           {
-            "playerId": "0l1wygd",
-            "name": "Jana Fensch",
-            "number": 14,
-            "games": 3,
-            "goals": 14,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.67,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0z2txaa",
-            "name": "Martha Sophia Ballin",
-            "number": 4,
-            "games": 2,
-            "goals": 8,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0naxcxe",
-            "name": "Laura Isabelle Falk",
-            "number": 3,
+            "playerId": "0n0edsg",
+            "name": "Eike Christian Weber",
+            "number": 8,
             "games": 1,
             "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
             "goalsPerGame": 3,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1ulvhme",
-            "name": "Etienne Waldmann",
-            "number": 3,
-            "games": 2,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.5,
-            "sevenMeterPercentage": null
+            "sevenMeterPercentage": 100
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 1,
+          "lineupMatches": 1,
           "percentage": 100
         }
       }
@@ -1252,147 +1224,6 @@
         "scoringCoverage": {
           "finishedMatches": 4,
           "lineupMatches": 4,
-          "percentage": 100
-        }
-      }
-    },
-    {
-      "id": 505413,
-      "date": "2026-10-31",
-      "time": "18:30",
-      "home": {
-        "id": 81771,
-        "name": "WELLINGDORFER TV",
-        "clubId": "1j3isa8"
-      },
-      "away": {
-        "id": 94483,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7946,
-      "competition": "Kreisliga Männer",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12972,
-        "name": "Kreisliga Männer - Staffel D"
-      },
-      "venue": {
-        "name": "RADSREDDER-HALLE WELLINGDORF",
-        "address": "RADSREDDER 35, 24148 KIEL"
-      },
-      "ownTeamId": "94483",
-      "ownTeam": {
-        "label": "HERREN 2",
-        "name": "2. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81771",
-        "name": "WELLINGDORFER TV",
-        "phaseId": "12972",
-        "phaseName": "Kreisliga Männer - Staffel D",
-        "competition": "Kreisliga Männer",
-        "season": {
-          "games": 1,
-          "wins": 1,
-          "draws": 0,
-          "losses": 0,
-          "goalsFor": 32,
-          "goalsAgainst": 26,
-          "goalDifference": 6,
-          "winRate": 100,
-          "goalsForAvg": 32,
-          "goalsAgainstAvg": 26,
-          "goalDifferenceAvg": 6
-        },
-        "recent": [
-          {
-            "id": 505409,
-            "date": "2026-10-24",
-            "time": "18:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81775,
-              "name": "SC KIELER FÖRDE II",
-              "clubId": "00xfnlm"
-            },
-            "goalsFor": 32,
-            "goalsAgainst": 26,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1qvkmqf",
-            "name": "Henry Krause",
-            "number": 3,
-            "games": 1,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0704e7z",
-            "name": "Kristoffer Peschel",
-            "number": 7,
-            "games": 1,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "19kk074",
-            "name": "Niklas Schetsche",
-            "number": 55,
-            "games": 1,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "18uiefx",
-            "name": "Christoph Bauschke",
-            "number": 5,
-            "games": 1,
-            "goals": 5,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0n0edsg",
-            "name": "Eike Christian Weber",
-            "number": 8,
-            "games": 1,
-            "goals": 3,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": 100
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 1,
-          "lineupMatches": 1,
           "percentage": 100
         }
       }
@@ -9187,6 +9018,132 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81898",
+        "name": "HSG KALKBERG 06 III",
+        "phaseId": "12993",
+        "phaseName": "Kreisklasse Frauen Mitte",
+        "competition": "Kreisklasse Frauen",
+        "season": {
+          "games": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 87,
+          "goalsAgainst": 83,
+          "goalDifference": 4,
+          "winRate": 33.3,
+          "goalsForAvg": 29,
+          "goalsAgainstAvg": 27.67,
+          "goalDifferenceAvg": 1.33
+        },
+        "recent": [
+          {
+            "id": 514279,
+            "date": "2026-10-03",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81897,
+              "name": "TV TRAPPENKAMP",
+              "clubId": "02z7nh5"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 17,
+            "result": "W"
+          },
+          {
+            "id": 514274,
+            "date": "2026-09-19",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81896,
+              "name": "LEEZENER SC",
+              "clubId": "1rff314"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 39,
+            "result": "L"
+          },
+          {
+            "id": 514268,
+            "date": "2026-09-13",
+            "time": "16:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81936,
+              "name": "HSG 24109 II",
+              "clubId": "083hx46"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 27,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "183yxnr",
+            "name": "Karoline Stolze",
+            "number": 87,
+            "games": 3,
+            "goals": 26,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 8.67,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0ibwk7m",
+            "name": "Lara Thies",
+            "number": 10,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0l9blco",
+            "name": "Saskia Walther",
+            "number": 13,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0dw45h1",
+            "name": "Janna Christin Wolff",
+            "number": 14,
+            "games": 1,
+            "goals": 7,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 7,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0ohgn99",
+            "name": "Imke Resenhoeft",
+            "number": 24,
+            "games": 1,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 0
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {
@@ -17043,8 +17000,8 @@
         "name": "WJC-ROL-2"
       },
       "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
       },
       "ownTeamId": "87265",
       "ownTeam": {
@@ -21501,6 +21458,132 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81898",
+        "name": "HSG KALKBERG 06 III",
+        "phaseId": "12993",
+        "phaseName": "Kreisklasse Frauen Mitte",
+        "competition": "Kreisklasse Frauen",
+        "season": {
+          "games": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 87,
+          "goalsAgainst": 83,
+          "goalDifference": 4,
+          "winRate": 33.3,
+          "goalsForAvg": 29,
+          "goalsAgainstAvg": 27.67,
+          "goalDifferenceAvg": 1.33
+        },
+        "recent": [
+          {
+            "id": 514279,
+            "date": "2026-10-03",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81897,
+              "name": "TV TRAPPENKAMP",
+              "clubId": "02z7nh5"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 17,
+            "result": "W"
+          },
+          {
+            "id": 514274,
+            "date": "2026-09-19",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81896,
+              "name": "LEEZENER SC",
+              "clubId": "1rff314"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 39,
+            "result": "L"
+          },
+          {
+            "id": 514268,
+            "date": "2026-09-13",
+            "time": "16:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81936,
+              "name": "HSG 24109 II",
+              "clubId": "083hx46"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 27,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "183yxnr",
+            "name": "Karoline Stolze",
+            "number": 87,
+            "games": 3,
+            "goals": 26,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 8.67,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0ibwk7m",
+            "name": "Lara Thies",
+            "number": 10,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0l9blco",
+            "name": "Saskia Walther",
+            "number": 13,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0dw45h1",
+            "name": "Janna Christin Wolff",
+            "number": 14,
+            "games": 1,
+            "goals": 7,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 7,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0ohgn99",
+            "name": "Imke Resenhoeft",
+            "number": 24,
+            "games": 1,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 0
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:39:04.468Z",
+  "generatedAt": "2026-10-29T02:05:37.334Z",
   "teams": [
     {
       "teamId": "86801",
@@ -10008,14 +10008,14 @@
           "teamCount": 10,
           "current": {
             "round": 6,
-            "position": 4,
-            "played": 2,
+            "position": 5,
+            "played": 3,
             "won": 2,
             "drawn": 0,
-            "lost": 0,
-            "goalsFor": 42,
-            "goalsAgainst": 25,
-            "goalDifference": 17,
+            "lost": 1,
+            "goalsFor": 52,
+            "goalsAgainst": 44,
+            "goalDifference": 8,
             "points": 4,
             "qualifies": true
           },
@@ -10049,39 +10049,39 @@
             {
               "round": 3,
               "position": 4,
-              "played": 2,
+              "played": 3,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 42,
-              "goalsAgainst": 25,
-              "goalDifference": 17,
+              "lost": 1,
+              "goalsFor": 52,
+              "goalsAgainst": 44,
+              "goalDifference": 8,
               "points": 4,
               "qualifies": true
             },
             {
               "round": 4,
-              "position": 4,
-              "played": 2,
+              "position": 5,
+              "played": 3,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 42,
-              "goalsAgainst": 25,
-              "goalDifference": 17,
+              "lost": 1,
+              "goalsFor": 52,
+              "goalsAgainst": 44,
+              "goalDifference": 8,
               "points": 4,
               "qualifies": true
             },
             {
               "round": 6,
-              "position": 4,
-              "played": 2,
+              "position": 5,
+              "played": 3,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 42,
-              "goalsAgainst": 25,
-              "goalDifference": 17,
+              "lost": 1,
+              "goalsFor": 52,
+              "goalsAgainst": 44,
+              "goalDifference": 8,
               "points": 4,
               "qualifies": true
             }
@@ -10211,41 +10211,6 @@
             {
               "position": 4,
               "team": {
-                "id": 94482,
-                "name": "SG Handball Neumünster IV",
-                "club": {
-                  "id": "1yrb3n9",
-                  "name": "SG Handball Neumünster",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 2,
-              "won": 2,
-              "drawn": 0,
-              "lost": 0,
-              "goalsFor": 42,
-              "goalsAgainst": 25,
-              "goalDifference": 17,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514262,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514267,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 5,
-              "team": {
                 "id": 81933,
                 "name": "WELLINGDORFER TV II",
                 "club": {
@@ -10283,7 +10248,89 @@
               ]
             },
             {
+              "position": 5,
+              "team": {
+                "id": 94482,
+                "name": "SG Handball Neumünster IV",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 3,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 52,
+              "goalsAgainst": 44,
+              "goalDifference": 8,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514262,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514267,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514273,
+                  "result": "L"
+                }
+              ]
+            },
+            {
               "position": 6,
+              "team": {
+                "id": 81937,
+                "name": "SC KIELER FÖRDE III",
+                "club": {
+                  "id": "00xfnlm",
+                  "name": "SC Kieler Förde",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5908/square_353232626b796c346175.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 74,
+              "goalsAgainst": 94,
+              "goalDifference": -20,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514265,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514270,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514273,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514280,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 7,
               "team": {
                 "id": 81898,
                 "name": "HSG KALKBERG 06 III",
@@ -10322,7 +10369,7 @@
               ]
             },
             {
-              "position": 7,
+              "position": 8,
               "team": {
                 "id": 81934,
                 "name": "SC FORTUNA WELLSEE",
@@ -10356,45 +10403,6 @@
                 },
                 {
                   "matchId": 514271,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 8,
-              "team": {
-                "id": 81937,
-                "name": "SC KIELER FÖRDE III",
-                "club": {
-                  "id": "00xfnlm",
-                  "name": "SC Kieler Förde",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5908/square_353232626b796c346175.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 3,
-              "won": 1,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 55,
-              "goalsAgainst": 84,
-              "goalDifference": -29,
-              "points": 2,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514265,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514270,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514280,
                   "result": "L"
                 }
               ]
