@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T11:36:36.021Z",
+  "generatedAt": "2026-10-30T11:28:39.995Z",
   "matches": [
     {
       "id": 505413,
@@ -872,175 +872,6 @@
         "scoringCoverage": {
           "finishedMatches": 5,
           "lineupMatches": 5,
-          "percentage": 100
-        }
-      }
-    },
-    {
-      "id": 508092,
-      "date": "2026-10-31",
-      "time": "16:00",
-      "home": {
-        "id": 81970,
-        "name": "HSG WAGRIEN",
-        "clubId": "055eb7a"
-      },
-      "away": {
-        "id": 87272,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7188,
-      "competition": "wJA-Regionsoberliga",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 13873,
-        "name": "wJA-ROL-4"
-      },
-      "venue": {
-        "name": "BLAIN-HALLE OLDENBURG",
-        "address": "SCHAUENBURGER PLATZ 4, 23758 OLDENBURG"
-      },
-      "ownTeamId": "87272",
-      "ownTeam": {
-        "label": "WJA 2",
-        "name": "wJA 2",
-        "ageGroup": "youth",
-        "gender": "female",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81970",
-        "name": "HSG WAGRIEN",
-        "phaseId": "13873",
-        "phaseName": "wJA-ROL-4",
-        "competition": "wJA-Regionsoberliga",
-        "season": {
-          "games": 3,
-          "wins": 2,
-          "draws": 0,
-          "losses": 1,
-          "goalsFor": 113,
-          "goalsAgainst": 63,
-          "goalDifference": 50,
-          "winRate": 66.7,
-          "goalsForAvg": 37.67,
-          "goalsAgainstAvg": 21,
-          "goalDifferenceAvg": 16.67
-        },
-        "recent": [
-          {
-            "id": 508087,
-            "date": "2026-09-27",
-            "time": "16:45",
-            "isHome": false,
-            "opponent": {
-              "id": 81968,
-              "name": "HSG OHLAU",
-              "clubId": "0vigdzt"
-            },
-            "goalsFor": 54,
-            "goalsAgainst": 12,
-            "result": "W"
-          },
-          {
-            "id": 508082,
-            "date": "2026-09-19",
-            "time": "16:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81960,
-              "name": "HSG WABO 2011",
-              "clubId": "12j6jtz"
-            },
-            "goalsFor": 30,
-            "goalsAgainst": 20,
-            "result": "W"
-          },
-          {
-            "id": 508080,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81974,
-              "name": "VFL GEESTHACHT",
-              "clubId": "06kfb6c"
-            },
-            "goalsFor": 29,
-            "goalsAgainst": 31,
-            "result": "L"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "0cv5arv",
-            "name": "Juliette Gesine Mody",
-            "number": 14,
-            "games": 3,
-            "goals": 31,
-            "sevenMeterGoals": 7,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 10.33,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "06vc36m",
-            "name": "Sina Johnsen",
-            "number": 47,
-            "games": 3,
-            "goals": 20,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 6.67,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0dqjzit",
-            "name": "Greta Boll",
-            "number": 9,
-            "games": 1,
-            "goals": 17,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 17,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1b37x3o",
-            "name": "Matilda Bedei",
-            "number": 17,
-            "games": 3,
-            "goals": 13,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "113cd2v",
-            "name": "Diona Parduzi",
-            "number": 7,
-            "games": 3,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
           "percentage": 100
         }
       }
@@ -12942,6 +12773,132 @@
         "ageGroup": "youth",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81960",
+        "name": "HSG WABO 2011",
+        "phaseId": "13873",
+        "phaseName": "wJA-ROL-4",
+        "competition": "wJA-Regionsoberliga",
+        "season": {
+          "games": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 88,
+          "goalsAgainst": 72,
+          "goalDifference": 16,
+          "winRate": 33.3,
+          "goalsForAvg": 29.33,
+          "goalsAgainstAvg": 24,
+          "goalDifferenceAvg": 5.33
+        },
+        "recent": [
+          {
+            "id": 508078,
+            "date": "2026-10-04",
+            "time": "12:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81968,
+              "name": "HSG OHLAU",
+              "clubId": "0vigdzt"
+            },
+            "goalsFor": 45,
+            "goalsAgainst": 18,
+            "result": "W"
+          },
+          {
+            "id": 508086,
+            "date": "2026-09-27",
+            "time": "17:45",
+            "isHome": true,
+            "opponent": {
+              "id": 81971,
+              "name": "SC Buntekuh Lübeck wA",
+              "clubId": "0g9u6s1"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 24,
+            "result": "L"
+          },
+          {
+            "id": 508082,
+            "date": "2026-09-19",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81970,
+              "name": "HSG WAGRIEN",
+              "clubId": "055eb7a"
+            },
+            "goalsFor": 20,
+            "goalsAgainst": 30,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1lcdmc7",
+            "name": "Lea Knaub",
+            "number": 7,
+            "games": 3,
+            "goals": 22,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 7.33,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "074vxf7",
+            "name": "Emily Reese",
+            "number": 10,
+            "games": 3,
+            "goals": 18,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": 80
+          },
+          {
+            "playerId": "1ikcuuk",
+            "name": "Lea Reese",
+            "number": 17,
+            "games": 3,
+            "goals": 18,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": 87.5
+          },
+          {
+            "playerId": "1c1777y",
+            "name": "Hannah Hüttmann",
+            "number": 19,
+            "games": 3,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.33,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "1rfgkl2",
+            "name": "Emmy Anna Diedrigkeit",
+            "number": 18,
+            "games": 3,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {
@@ -15044,6 +15001,175 @@
         "ageGroup": "youth",
         "gender": "male",
         "matchMinutes": 50
+      }
+    },
+    {
+      "id": 508092,
+      "date": "2026-12-31",
+      "time": "16:00",
+      "home": {
+        "id": 81970,
+        "name": "HSG WAGRIEN",
+        "clubId": "055eb7a"
+      },
+      "away": {
+        "id": 87272,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competitionId": 7188,
+      "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 13873,
+        "name": "wJA-ROL-4"
+      },
+      "venue": {
+        "name": "BLAIN-HALLE OLDENBURG",
+        "address": "SCHAUENBURGER PLATZ 4, 23758 OLDENBURG"
+      },
+      "ownTeamId": "87272",
+      "ownTeam": {
+        "label": "WJA 2",
+        "name": "wJA 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81970",
+        "name": "HSG WAGRIEN",
+        "phaseId": "13873",
+        "phaseName": "wJA-ROL-4",
+        "competition": "wJA-Regionsoberliga",
+        "season": {
+          "games": 3,
+          "wins": 2,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 113,
+          "goalsAgainst": 63,
+          "goalDifference": 50,
+          "winRate": 66.7,
+          "goalsForAvg": 37.67,
+          "goalsAgainstAvg": 21,
+          "goalDifferenceAvg": 16.67
+        },
+        "recent": [
+          {
+            "id": 508087,
+            "date": "2026-09-27",
+            "time": "16:45",
+            "isHome": false,
+            "opponent": {
+              "id": 81968,
+              "name": "HSG OHLAU",
+              "clubId": "0vigdzt"
+            },
+            "goalsFor": 54,
+            "goalsAgainst": 12,
+            "result": "W"
+          },
+          {
+            "id": 508082,
+            "date": "2026-09-19",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81960,
+              "name": "HSG WABO 2011",
+              "clubId": "12j6jtz"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
+          {
+            "id": 508080,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81974,
+              "name": "VFL GEESTHACHT",
+              "clubId": "06kfb6c"
+            },
+            "goalsFor": 29,
+            "goalsAgainst": 31,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "0cv5arv",
+            "name": "Juliette Gesine Mody",
+            "number": 14,
+            "games": 3,
+            "goals": 31,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 7,
+            "goalsPerGame": 10.33,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "06vc36m",
+            "name": "Sina Johnsen",
+            "number": 47,
+            "games": 3,
+            "goals": 20,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 6.67,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0dqjzit",
+            "name": "Greta Boll",
+            "number": 9,
+            "games": 1,
+            "goals": 17,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 17,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1b37x3o",
+            "name": "Matilda Bedei",
+            "number": 17,
+            "games": 3,
+            "goals": 13,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.33,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "113cd2v",
+            "name": "Diona Parduzi",
+            "number": 7,
+            "games": 3,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {
@@ -21796,6 +21922,132 @@
         "ageGroup": "youth",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81960",
+        "name": "HSG WABO 2011",
+        "phaseId": "13873",
+        "phaseName": "wJA-ROL-4",
+        "competition": "wJA-Regionsoberliga",
+        "season": {
+          "games": 3,
+          "wins": 1,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 88,
+          "goalsAgainst": 72,
+          "goalDifference": 16,
+          "winRate": 33.3,
+          "goalsForAvg": 29.33,
+          "goalsAgainstAvg": 24,
+          "goalDifferenceAvg": 5.33
+        },
+        "recent": [
+          {
+            "id": 508078,
+            "date": "2026-10-04",
+            "time": "12:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81968,
+              "name": "HSG OHLAU",
+              "clubId": "0vigdzt"
+            },
+            "goalsFor": 45,
+            "goalsAgainst": 18,
+            "result": "W"
+          },
+          {
+            "id": 508086,
+            "date": "2026-09-27",
+            "time": "17:45",
+            "isHome": true,
+            "opponent": {
+              "id": 81971,
+              "name": "SC Buntekuh Lübeck wA",
+              "clubId": "0g9u6s1"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 24,
+            "result": "L"
+          },
+          {
+            "id": 508082,
+            "date": "2026-09-19",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81970,
+              "name": "HSG WAGRIEN",
+              "clubId": "055eb7a"
+            },
+            "goalsFor": 20,
+            "goalsAgainst": 30,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1lcdmc7",
+            "name": "Lea Knaub",
+            "number": 7,
+            "games": 3,
+            "goals": 22,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 7.33,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "074vxf7",
+            "name": "Emily Reese",
+            "number": 10,
+            "games": 3,
+            "goals": 18,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": 80
+          },
+          {
+            "playerId": "1ikcuuk",
+            "name": "Lea Reese",
+            "number": 17,
+            "games": 3,
+            "goals": 18,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": 87.5
+          },
+          {
+            "playerId": "1c1777y",
+            "name": "Hannah Hüttmann",
+            "number": 19,
+            "games": 3,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.33,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "1rfgkl2",
+            "name": "Emmy Anna Diedrigkeit",
+            "number": 18,
+            "games": 3,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {
