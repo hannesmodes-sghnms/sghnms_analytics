@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T14:01:49.608Z",
+  "generatedAt": "2026-10-31T15:26:12.836Z",
   "matches": [
     {
       "id": 677918,
@@ -16,12 +16,12 @@
         "clubId": "1yrb3n9"
       },
       "result": {
-        "home": null,
-        "away": null
+        "home": 15,
+        "away": 14
       },
       "status": {
         "finished": false,
-        "live": false
+        "live": true
       },
       "competitionId": 7194,
       "competition": "Regionsliga MÄNNLICH",
@@ -2695,19 +2695,33 @@
         "phaseName": "wD-KK",
         "competition": "Kreisklasse wD Neumünster",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 2,
           "draws": 0,
-          "losses": 1,
-          "goalsFor": 55,
-          "goalsAgainst": 48,
-          "goalDifference": 7,
-          "winRate": 66.7,
-          "goalsForAvg": 18.33,
-          "goalsAgainstAvg": 16,
-          "goalDifferenceAvg": 2.33
+          "losses": 2,
+          "goalsFor": 76,
+          "goalsAgainst": 75,
+          "goalDifference": 1,
+          "winRate": 50,
+          "goalsForAvg": 19,
+          "goalsAgainstAvg": 18.75,
+          "goalDifferenceAvg": 0.25
         },
         "recent": [
+          {
+            "id": 510199,
+            "date": "2026-10-31",
+            "time": "14:30",
+            "isHome": false,
+            "opponent": {
+              "id": 82481,
+              "name": "Berliner SC/SH",
+              "clubId": "1gd4pey"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 27,
+            "result": "L"
+          },
           {
             "id": 510192,
             "date": "2026-10-04",
@@ -2756,61 +2770,61 @@
             "playerId": "0r2ojaj",
             "name": "Johanna Gerdemann",
             "number": 14,
-            "games": 3,
-            "goals": 17,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.67,
-            "sevenMeterPercentage": null
+            "games": 4,
+            "goals": 23,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.75,
+            "sevenMeterPercentage": 100
           },
           {
             "playerId": "1c4uuzn",
             "name": "* *",
             "number": 8,
-            "games": 3,
-            "goals": 14,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 4.67,
+            "games": 4,
+            "goals": 22,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 5.5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0lywgzu",
             "name": "Anna Louise Hudel",
             "number": 2,
-            "games": 3,
-            "goals": 10,
+            "games": 4,
+            "goals": 14,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
+            "goalsPerGame": 3.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1wih9gy",
             "name": "Rosim Omar",
             "number": 4,
-            "games": 3,
-            "goals": 8,
+            "games": 4,
+            "goals": 9,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.67,
+            "goalsPerGame": 2.25,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1dt1oe7",
             "name": "Elisa Sophie Piliptschuk",
             "number": 5,
-            "games": 3,
-            "goals": 2,
+            "games": 4,
+            "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 0.67,
+            "goalsPerGame": 1,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -3586,19 +3600,33 @@
         "phaseName": "Vorrunde A",
         "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 1,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 79,
-          "goalsAgainst": 101,
-          "goalDifference": -22,
-          "winRate": 25,
-          "goalsForAvg": 19.75,
-          "goalsAgainstAvg": 25.25,
-          "goalDifferenceAvg": -5.5
+          "losses": 4,
+          "goalsFor": 100,
+          "goalsAgainst": 127,
+          "goalDifference": -27,
+          "winRate": 20,
+          "goalsForAvg": 20,
+          "goalsAgainstAvg": 25.4,
+          "goalDifferenceAvg": -5.4
         },
         "recent": [
+          {
+            "id": 450673,
+            "date": "2026-10-31",
+            "time": "15:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87176,
+              "name": "Bramstedter TS",
+              "clubId": "030n5ma"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 26,
+            "result": "L"
+          },
           {
             "id": 450671,
             "date": "2026-09-26",
@@ -3661,61 +3689,61 @@
             "playerId": "1sgmgvc",
             "name": "Lieke Lotte Horn",
             "number": 10,
-            "games": 4,
-            "goals": 19,
-            "sevenMeterGoals": 7,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 4.75,
-            "sevenMeterPercentage": 100
+            "games": 5,
+            "goals": 22,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 10,
+            "goalsPerGame": 4.4,
+            "sevenMeterPercentage": 90
           },
           {
             "playerId": "0ba3bvj",
             "name": "Helene Sofia Osbahr",
             "number": 28,
-            "games": 4,
-            "goals": 16,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
+            "games": 5,
+            "goals": 20,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4,
             "goalsPerGame": 4,
             "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0unzmgf",
-            "name": "Marleen Einfeldt",
-            "number": 14,
-            "games": 4,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
           },
           {
             "playerId": "1js6zzb",
             "name": "Anuuk Enna Dingeldein",
             "number": 7,
-            "games": 4,
-            "goals": 10,
+            "games": 5,
+            "goals": 14,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 2.8,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "0unzmgf",
+            "name": "Marleen Einfeldt",
+            "number": 14,
+            "games": 5,
+            "goals": 13,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
+            "goalsPerGame": 2.6,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "049h2yg",
             "name": "Ronja Isabel Drews",
             "number": 19,
-            "games": 4,
-            "goals": 8,
+            "games": 5,
+            "goals": 11,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2,
+            "goalsPerGame": 2.2,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -7855,19 +7883,33 @@
         "phaseName": "Vorrunde A",
         "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
         "season": {
-          "games": 4,
-          "wins": 3,
+          "games": 5,
+          "wins": 4,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 92,
-          "goalsAgainst": 96,
-          "goalDifference": -4,
-          "winRate": 75,
-          "goalsForAvg": 23,
-          "goalsAgainstAvg": 24,
-          "goalDifferenceAvg": -1
+          "goalsFor": 118,
+          "goalsAgainst": 117,
+          "goalDifference": 1,
+          "winRate": 80,
+          "goalsForAvg": 23.6,
+          "goalsAgainstAvg": 23.4,
+          "goalDifferenceAvg": 0.2
         },
         "recent": [
+          {
+            "id": 450673,
+            "date": "2026-10-31",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 87174,
+              "name": "SG BORDESHOLM/BRÜGGE",
+              "clubId": "0mjcjfn"
+            },
+            "goalsFor": 26,
+            "goalsAgainst": 21,
+            "result": "W"
+          },
           {
             "id": 450669,
             "date": "2026-09-26",
@@ -7929,31 +7971,31 @@
           {
             "playerId": "09gz1qy",
             "name": "Greta Hauschildt",
-            "number": 61,
-            "games": 4,
-            "goals": 29,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 7.25,
+            "number": 4,
+            "games": 5,
+            "goals": 32,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 6.4,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0c8sgmj",
             "name": "Philine de le Roi",
             "number": 14,
-            "games": 4,
+            "games": 5,
             "goals": 23,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 5.75,
+            "goalsPerGame": 4.6,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "08c86km",
             "name": "Madita Tietgen",
-            "number": 7,
-            "games": 3,
-            "goals": 15,
+            "number": 2,
+            "games": 4,
+            "goals": 20,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
             "goalsPerGame": 5,
@@ -7962,29 +8004,29 @@
           {
             "playerId": "1fjp3jk",
             "name": "Lina Herholz",
-            "number": 4,
-            "games": 4,
-            "goals": 9,
+            "number": 8,
+            "games": 5,
+            "goals": 18,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.25,
+            "goalsPerGame": 3.6,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0l0yx9q",
             "name": "Emma Hanna Battmer",
             "number": 17,
-            "games": 4,
-            "goals": 7,
+            "games": 5,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.75,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
