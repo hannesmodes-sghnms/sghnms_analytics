@@ -1,203 +1,6 @@
 {
-  "generatedAt": "2026-10-31T15:26:12.836Z",
+  "generatedAt": "2026-10-31T16:17:58.548Z",
   "matches": [
-    {
-      "id": 677918,
-      "date": "2026-10-31",
-      "time": "15:45",
-      "home": {
-        "id": 82193,
-        "name": "SG PAHLHUDE/TELLINGSTEDT",
-        "clubId": "0odgr6l"
-      },
-      "away": {
-        "id": 87276,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": 15,
-        "away": 14
-      },
-      "status": {
-        "finished": false,
-        "live": true
-      },
-      "competitionId": 7194,
-      "competition": "Regionsliga MÄNNLICH",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 14617,
-        "name": "MJC-RL-2"
-      },
-      "venue": {
-        "name": "SPORTHALLE",
-        "address": "TöPFERSTRAßE, 25782 TELLINGSTEDT"
-      },
-      "ownTeamId": "87276",
-      "ownTeam": {
-        "label": "MJC 2",
-        "name": "mJC 2",
-        "ageGroup": "youth",
-        "gender": "male",
-        "matchMinutes": 50
-      },
-      "opponentProfile": {
-        "teamId": "82193",
-        "name": "SG PAHLHUDE/TELLINGSTEDT",
-        "phaseId": "14617",
-        "phaseName": "MJC-RL-2",
-        "competition": "Regionsliga MÄNNLICH",
-        "season": {
-          "games": 5,
-          "wins": 5,
-          "draws": 0,
-          "losses": 0,
-          "goalsFor": 159,
-          "goalsAgainst": 117,
-          "goalDifference": 42,
-          "winRate": 100,
-          "goalsForAvg": 31.8,
-          "goalsAgainstAvg": 23.4,
-          "goalDifferenceAvg": 8.4
-        },
-        "recent": [
-          {
-            "id": 677912,
-            "date": "2026-10-03",
-            "time": "16:00",
-            "isHome": false,
-            "opponent": {
-              "id": 82194,
-              "name": "TSV BÜSUM",
-              "clubId": "0g678x7"
-            },
-            "goalsFor": 38,
-            "goalsAgainst": 20,
-            "result": "W"
-          },
-          {
-            "id": 677906,
-            "date": "2026-09-27",
-            "time": "14:30",
-            "isHome": false,
-            "opponent": {
-              "id": 82199,
-              "name": "HSG 91 NORTORF",
-              "clubId": "08ocj2r"
-            },
-            "goalsFor": 25,
-            "goalsAgainst": 19,
-            "result": "W"
-          },
-          {
-            "id": 677933,
-            "date": "2026-09-20",
-            "time": "14:00",
-            "isHome": true,
-            "opponent": {
-              "id": 82102,
-              "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
-              "clubId": "16gum8r"
-            },
-            "goalsFor": 29,
-            "goalsAgainst": 27,
-            "result": "W"
-          },
-          {
-            "id": 677891,
-            "date": "2026-09-06",
-            "time": "13:30",
-            "isHome": true,
-            "opponent": {
-              "id": 82205,
-              "name": "HSG HOHE GEEST",
-              "clubId": "1hslhxe"
-            },
-            "goalsFor": 42,
-            "goalsAgainst": 29,
-            "result": "W"
-          },
-          {
-            "id": 677886,
-            "date": "2026-08-30",
-            "time": "12:30",
-            "isHome": true,
-            "opponent": {
-              "id": 0,
-              "name": "#POS-11",
-              "clubId": null
-            },
-            "goalsFor": 25,
-            "goalsAgainst": 22,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "0yu9qyp",
-            "name": "Thies Hans Petersen",
-            "number": 2,
-            "games": 5,
-            "goals": 43,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 8.6,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "148bz1g",
-            "name": "Jarne Üblacker",
-            "number": 4,
-            "games": 3,
-            "goals": 35,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 11.67,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "09le4wk",
-            "name": "Erik Mehlem",
-            "number": 14,
-            "games": 4,
-            "goals": 19,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.75,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1qeb3ju",
-            "name": "Jannes Lutschewitz",
-            "number": 5,
-            "games": 5,
-            "goals": 18,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 3.6,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0fwjb8h",
-            "name": "Hannes Ploog",
-            "number": 11,
-            "games": 2,
-            "goals": 17,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 8.5,
-            "sevenMeterPercentage": 100
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
-          "percentage": 100
-        }
-      }
-    },
     {
       "id": 504570,
       "date": "2026-10-31",
@@ -213,12 +16,12 @@
         "clubId": "1qw4nbk"
       },
       "result": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "status": {
         "finished": false,
-        "live": false
+        "live": true
       },
       "competitionId": 7945,
       "competition": "Kreisoberliga Männer",
@@ -10232,6 +10035,146 @@
         "ageGroup": "youth",
         "gender": "male",
         "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "82194",
+        "name": "TSV BÜSUM",
+        "phaseId": "14617",
+        "phaseName": "MJC-RL-2",
+        "competition": "Regionsliga MÄNNLICH",
+        "season": {
+          "games": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "goalsFor": 102,
+          "goalsAgainst": 129,
+          "goalDifference": -27,
+          "winRate": 50,
+          "goalsForAvg": 25.5,
+          "goalsAgainstAvg": 32.25,
+          "goalDifferenceAvg": -6.75
+        },
+        "recent": [
+          {
+            "id": 677914,
+            "date": "2026-10-31",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82192,
+              "name": "SG DITHMARSCHEN SÜD",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 40,
+            "goalsAgainst": 35,
+            "result": "W"
+          },
+          {
+            "id": 677912,
+            "date": "2026-10-03",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 82193,
+              "name": "SG PAHLHUDE/TELLINGSTEDT",
+              "clubId": "0odgr6l"
+            },
+            "goalsFor": 20,
+            "goalsAgainst": 38,
+            "result": "L"
+          },
+          {
+            "id": 677901,
+            "date": "2026-09-19",
+            "time": "14:30",
+            "isHome": false,
+            "opponent": {
+              "id": 82195,
+              "name": "TURA MELDORF II",
+              "clubId": "1gz2zvt"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 39,
+            "result": "L"
+          },
+          {
+            "id": 677896,
+            "date": "2026-09-13",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 94455,
+              "name": "SG BORDESHOLM/BRÜGGE II",
+              "clubId": "0mjcjfn"
+            },
+            "goalsFor": 19,
+            "goalsAgainst": 17,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "07oezv6",
+            "name": "Emilian Adametz",
+            "number": 32,
+            "games": 3,
+            "goals": 32,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 10.67,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1e8qnnc",
+            "name": "Maximilian Hülse",
+            "number": 20,
+            "games": 4,
+            "goals": 23,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.75,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1mic96k",
+            "name": "Tim Bruno Rohde",
+            "number": 22,
+            "games": 3,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "1ski7fs",
+            "name": "Louis Ronny Wagner",
+            "number": 9,
+            "games": 2,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1fmjfk4",
+            "name": "Jack Maddox Gregor",
+            "number": 46,
+            "games": 3,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 0
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {

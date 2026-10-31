@@ -1,0 +1,1743 @@
+{
+  "generatedAt": "2026-10-31T16:17:58.841Z",
+  "match": {
+    "id": 677918,
+    "date": "2026-10-31",
+    "time": "15:45",
+    "competitionId": 7194,
+    "competition": "Regionsliga MÄNNLICH",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 14617,
+      "name": "MJC-RL-2"
+    },
+    "venue": {
+      "name": "SPORTHALLE",
+      "address": "TöPFERSTRAßE, 25782 TELLINGSTEDT"
+    },
+    "home": {
+      "id": 82193,
+      "name": "SG PAHLHUDE/TELLINGSTEDT",
+      "clubId": "0odgr6l"
+    },
+    "away": {
+      "id": 87276,
+      "name": "SG Handball Neumünster II",
+      "clubId": "1yrb3n9"
+    },
+    "result": {
+      "home": 31,
+      "away": 28
+    },
+    "ownTeamId": "87276",
+    "ownTeam": {
+      "label": "MJC 2",
+      "name": "mJC 2",
+      "ageGroup": "youth",
+      "gender": "male",
+      "matchMinutes": 50
+    },
+    "isHome": false,
+    "opponent": {
+      "id": 82193,
+      "name": "SG PAHLHUDE/TELLINGSTEDT",
+      "clubId": "0odgr6l"
+    }
+  },
+  "quality": {
+    "status": "verified",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 31,
+      "away": 28
+    },
+    "eventFinalScore": {
+      "home": 31,
+      "away": 28
+    },
+    "lineupGoalTotals": {
+      "home": 31,
+      "away": 28
+    },
+    "eventScoreMatchesOfficial": true,
+    "lineupScoreMatchesOfficial": true,
+    "scorerLineupCoverage": {
+      "goalEvents": 59,
+      "goalEventsWithPlayer": 59,
+      "matchedGoalEvents": 59,
+      "percentage": 100
+    },
+    "halftimeAvailable": true,
+    "halftimeSource": "event",
+    "expectedDurationSeconds": 3000,
+    "eventDurationSeconds": 3000,
+    "durationDeltaSeconds": 0,
+    "durationMatchesExpected": true,
+    "analyticsEligible": true,
+    "lineupEligible": true,
+    "warnings": []
+  },
+  "analytics": {
+    "duration": {
+      "expectedSeconds": 3000,
+      "eventSeconds": 3000,
+      "analysisSeconds": 3000,
+      "analysisClock": "50:00"
+    },
+    "score": {
+      "final": {
+        "own": 28,
+        "opponent": 31
+      },
+      "halftime": {
+        "own": 14,
+        "opponent": 15
+      },
+      "halftimeSource": "event"
+    },
+    "matchFlow": [
+      {
+        "eventId": 64662514,
+        "timestamp": "2026-10-31T15:47:13+00:00",
+        "seconds": 25,
+        "clock": "00:25",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 0
+        }
+      },
+      {
+        "eventId": 64662513,
+        "timestamp": "2026-10-31T15:47:41+00:00",
+        "seconds": 53,
+        "clock": "00:53",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 64662512,
+        "timestamp": "2026-10-31T15:47:49+00:00",
+        "seconds": 61,
+        "clock": "01:01",
+        "side": "own",
+        "playerId": "1yeih8j",
+        "playerName": "Tobias Mielke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 64662511,
+        "timestamp": "2026-10-31T15:48:06+00:00",
+        "seconds": 78,
+        "clock": "01:18",
+        "side": "opponent",
+        "playerId": "09le4wk",
+        "playerName": "Erik Mehlem",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 64662510,
+        "timestamp": "2026-10-31T15:48:34+00:00",
+        "seconds": 106,
+        "clock": "01:46",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 64662509,
+        "timestamp": "2026-10-31T15:50:03+00:00",
+        "seconds": 196,
+        "clock": "03:16",
+        "side": "own",
+        "playerId": "18q9e8a",
+        "playerName": "Gerrit Springborn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 64662508,
+        "timestamp": "2026-10-31T15:51:46+00:00",
+        "seconds": 299,
+        "clock": "04:59",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 64662507,
+        "timestamp": "2026-10-31T15:52:27+00:00",
+        "seconds": 338,
+        "clock": "05:38",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 64662506,
+        "timestamp": "2026-10-31T15:53:31+00:00",
+        "seconds": 404,
+        "clock": "06:44",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 64662505,
+        "timestamp": "2026-10-31T15:54:07+00:00",
+        "seconds": 440,
+        "clock": "07:20",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 64662504,
+        "timestamp": "2026-10-31T15:54:31+00:00",
+        "seconds": 464,
+        "clock": "07:44",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 64662503,
+        "timestamp": "2026-10-31T15:55:16+00:00",
+        "seconds": 502,
+        "clock": "08:22",
+        "side": "opponent",
+        "playerId": "0fwjb8h",
+        "playerName": "Hannes Ploog",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 64662501,
+        "timestamp": "2026-10-31T15:57:33+00:00",
+        "seconds": 589,
+        "clock": "09:49",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": true,
+        "score": {
+          "own": 7,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 64662500,
+        "timestamp": "2026-10-31T15:58:32+00:00",
+        "seconds": 647,
+        "clock": "10:47",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": true,
+        "score": {
+          "own": 7,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 64662499,
+        "timestamp": "2026-10-31T15:58:54+00:00",
+        "seconds": 670,
+        "clock": "11:10",
+        "side": "own",
+        "playerId": "18q9e8a",
+        "playerName": "Gerrit Springborn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 64662498,
+        "timestamp": "2026-10-31T15:59:25+00:00",
+        "seconds": 702,
+        "clock": "11:42",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 64662497,
+        "timestamp": "2026-10-31T16:00:12+00:00",
+        "seconds": 749,
+        "clock": "12:29",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 64662496,
+        "timestamp": "2026-10-31T16:00:55+00:00",
+        "seconds": 766,
+        "clock": "12:46",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 64662494,
+        "timestamp": "2026-10-31T16:02:52+00:00",
+        "seconds": 878,
+        "clock": "14:38",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": true,
+        "score": {
+          "own": 10,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 64662493,
+        "timestamp": "2026-10-31T16:03:10+00:00",
+        "seconds": 897,
+        "clock": "14:57",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 64662492,
+        "timestamp": "2026-10-31T16:03:23+00:00",
+        "seconds": 910,
+        "clock": "15:10",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 64662491,
+        "timestamp": "2026-10-31T16:03:44+00:00",
+        "seconds": 929,
+        "clock": "15:29",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 64662490,
+        "timestamp": "2026-10-31T16:03:59+00:00",
+        "seconds": 946,
+        "clock": "15:46",
+        "side": "own",
+        "playerId": "1d54cd9",
+        "playerName": "Leon Thomsen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 64662489,
+        "timestamp": "2026-10-31T16:04:59+00:00",
+        "seconds": 1006,
+        "clock": "16:46",
+        "side": "opponent",
+        "playerId": "0fwjb8h",
+        "playerName": "Hannes Ploog",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 64662488,
+        "timestamp": "2026-10-31T16:05:21+00:00",
+        "seconds": 1028,
+        "clock": "17:08",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 64662487,
+        "timestamp": "2026-10-31T16:05:51+00:00",
+        "seconds": 1058,
+        "clock": "17:38",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 64662486,
+        "timestamp": "2026-10-31T16:06:37+00:00",
+        "seconds": 1104,
+        "clock": "18:24",
+        "side": "opponent",
+        "playerId": "0fwjb8h",
+        "playerName": "Hannes Ploog",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 64662483,
+        "timestamp": "2026-10-31T16:09:24+00:00",
+        "seconds": 1271,
+        "clock": "21:11",
+        "side": "opponent",
+        "playerId": "0fwjb8h",
+        "playerName": "Hannes Ploog",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 64662479,
+        "timestamp": "2026-10-31T16:16:19+00:00",
+        "seconds": 1491,
+        "clock": "24:51",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 64662476,
+        "timestamp": "2026-10-31T16:26:38+00:00",
+        "seconds": 1514,
+        "clock": "25:14",
+        "side": "own",
+        "playerId": "0bzp386",
+        "playerName": "Arian Luca Dongowsky",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 64662475,
+        "timestamp": "2026-10-31T16:27:30+00:00",
+        "seconds": 1565,
+        "clock": "26:05",
+        "side": "own",
+        "playerId": "1d54cd9",
+        "playerName": "Leon Thomsen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 64662474,
+        "timestamp": "2026-10-31T16:28:51+00:00",
+        "seconds": 1646,
+        "clock": "27:26",
+        "side": "own",
+        "playerId": "18q9e8a",
+        "playerName": "Gerrit Springborn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 64662473,
+        "timestamp": "2026-10-31T16:29:57+00:00",
+        "seconds": 1714,
+        "clock": "28:34",
+        "side": "opponent",
+        "playerId": "0fwjb8h",
+        "playerName": "Hannes Ploog",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 64662471,
+        "timestamp": "2026-10-31T16:31:02+00:00",
+        "seconds": 1763,
+        "clock": "29:23",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 64662470,
+        "timestamp": "2026-10-31T16:31:24+00:00",
+        "seconds": 1786,
+        "clock": "29:46",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 64662469,
+        "timestamp": "2026-10-31T16:31:40+00:00",
+        "seconds": 1801,
+        "clock": "30:01",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 64662468,
+        "timestamp": "2026-10-31T16:32:05+00:00",
+        "seconds": 1827,
+        "clock": "30:27",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 64662467,
+        "timestamp": "2026-10-31T16:33:31+00:00",
+        "seconds": 1913,
+        "clock": "31:53",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 64662465,
+        "timestamp": "2026-10-31T16:35:28+00:00",
+        "seconds": 2022,
+        "clock": "33:42",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 64662464,
+        "timestamp": "2026-10-31T16:36:02+00:00",
+        "seconds": 2055,
+        "clock": "34:15",
+        "side": "opponent",
+        "playerId": "1ftisgw",
+        "playerName": "Emil Anton Zepp",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 64662463,
+        "timestamp": "2026-10-31T16:37:01+00:00",
+        "seconds": 2114,
+        "clock": "35:14",
+        "side": "opponent",
+        "playerId": "0fwjb8h",
+        "playerName": "Hannes Ploog",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 64662462,
+        "timestamp": "2026-10-31T16:37:37+00:00",
+        "seconds": 2151,
+        "clock": "35:51",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 64662460,
+        "timestamp": "2026-10-31T16:39:20+00:00",
+        "seconds": 2176,
+        "clock": "36:16",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 24
+        }
+      },
+      {
+        "eventId": 64662459,
+        "timestamp": "2026-10-31T16:39:50+00:00",
+        "seconds": 2206,
+        "clock": "36:46",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 24
+        }
+      },
+      {
+        "eventId": 64662458,
+        "timestamp": "2026-10-31T16:40:11+00:00",
+        "seconds": 2224,
+        "clock": "37:04",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 25
+        }
+      },
+      {
+        "eventId": 64662457,
+        "timestamp": "2026-10-31T16:40:37+00:00",
+        "seconds": 2253,
+        "clock": "37:33",
+        "side": "opponent",
+        "playerId": "148bz1g",
+        "playerName": "Jarne Üblacker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 26
+        }
+      },
+      {
+        "eventId": 64662456,
+        "timestamp": "2026-10-31T16:43:08+00:00",
+        "seconds": 2403,
+        "clock": "40:03",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 26
+        }
+      },
+      {
+        "eventId": 64662455,
+        "timestamp": "2026-10-31T16:43:48+00:00",
+        "seconds": 2444,
+        "clock": "40:44",
+        "side": "own",
+        "playerId": "1d54cd9",
+        "playerName": "Leon Thomsen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 26
+        }
+      },
+      {
+        "eventId": 64662454,
+        "timestamp": "2026-10-31T16:44:25+00:00",
+        "seconds": 2480,
+        "clock": "41:20",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 27
+        }
+      },
+      {
+        "eventId": 64662453,
+        "timestamp": "2026-10-31T16:45:42+00:00",
+        "seconds": 2546,
+        "clock": "42:26",
+        "side": "own",
+        "playerId": "1u4xeci",
+        "playerName": "Marian Magnus Geist",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 27
+        }
+      },
+      {
+        "eventId": 64662452,
+        "timestamp": "2026-10-31T16:47:18+00:00",
+        "seconds": 2595,
+        "clock": "43:15",
+        "side": "own",
+        "playerId": "1yeih8j",
+        "playerName": "Tobias Mielke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 27
+        }
+      },
+      {
+        "eventId": 64662451,
+        "timestamp": "2026-10-31T16:47:32+00:00",
+        "seconds": 2610,
+        "clock": "43:30",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 64662449,
+        "timestamp": "2026-10-31T16:49:28+00:00",
+        "seconds": 2712,
+        "clock": "45:12",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 64662448,
+        "timestamp": "2026-10-31T16:49:48+00:00",
+        "seconds": 2732,
+        "clock": "45:32",
+        "side": "own",
+        "playerId": "1d54cd9",
+        "playerName": "Leon Thomsen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 64662445,
+        "timestamp": "2026-10-31T16:51:24+00:00",
+        "seconds": 2811,
+        "clock": "46:51",
+        "side": "own",
+        "playerId": "1yeih8j",
+        "playerName": "Tobias Mielke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 64662444,
+        "timestamp": "2026-10-31T16:51:59+00:00",
+        "seconds": 2846,
+        "clock": "47:26",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 30
+        }
+      },
+      {
+        "eventId": 64662443,
+        "timestamp": "2026-10-31T16:53:05+00:00",
+        "seconds": 2911,
+        "clock": "48:31",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 30
+        }
+      },
+      {
+        "eventId": 64662441,
+        "timestamp": "2026-10-31T16:55:25+00:00",
+        "seconds": 2977,
+        "clock": "49:37",
+        "side": "own",
+        "playerId": "1yeih8j",
+        "playerName": "Tobias Mielke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 30
+        }
+      },
+      {
+        "eventId": 64662440,
+        "timestamp": "2026-10-31T16:55:42+00:00",
+        "seconds": 2994,
+        "clock": "49:54",
+        "side": "opponent",
+        "playerId": "0yu9qyp",
+        "playerName": "Thies Hans Petersen",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 31
+        }
+      }
+    ],
+    "fiveMinuteSplits": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 300,
+        "label": "0-5",
+        "goals": {
+          "own": 5,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 5,
+          "opponent": 2
+        },
+        "goalDifference": 3
+      },
+      {
+        "startSeconds": 300,
+        "endSeconds": 600,
+        "label": "5-10",
+        "goals": {
+          "own": 2,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 7,
+          "opponent": 6
+        },
+        "goalDifference": -2
+      },
+      {
+        "startSeconds": 600,
+        "endSeconds": 900,
+        "label": "10-15",
+        "goals": {
+          "own": 3,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 10,
+          "opponent": 10
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 900,
+        "endSeconds": 1200,
+        "label": "15-20",
+        "goals": {
+          "own": 3,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 13,
+          "opponent": 14
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 1200,
+        "endSeconds": 1500,
+        "label": "20-25",
+        "goals": {
+          "own": 1,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 14,
+          "opponent": 15
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 1500,
+        "endSeconds": 1800,
+        "label": "25-30",
+        "goals": {
+          "own": 4,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 18,
+          "opponent": 17
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 1800,
+        "endSeconds": 2100,
+        "label": "30-35",
+        "goals": {
+          "own": 1,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 19,
+          "opponent": 21
+        },
+        "goalDifference": -3
+      },
+      {
+        "startSeconds": 2100,
+        "endSeconds": 2400,
+        "label": "35-40",
+        "goals": {
+          "own": 1,
+          "opponent": 5
+        },
+        "scoreEnd": {
+          "own": 20,
+          "opponent": 26
+        },
+        "goalDifference": -4
+      },
+      {
+        "startSeconds": 2400,
+        "endSeconds": 2700,
+        "label": "40-45",
+        "goals": {
+          "own": 4,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 24,
+          "opponent": 28
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 2700,
+        "endSeconds": 3000,
+        "label": "45-50",
+        "goals": {
+          "own": 4,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 28,
+          "opponent": 31
+        },
+        "goalDifference": 1
+      }
+    ],
+    "gamePhases": null,
+    "sevenMeters": {
+      "own": {
+        "goals": 1,
+        "misses": 1,
+        "attempts": 2,
+        "percentage": 50
+      },
+      "opponent": {
+        "goals": 2,
+        "misses": 1,
+        "attempts": 3,
+        "percentage": 66.7
+      }
+    },
+    "sanctions": {
+      "own": {
+        "warnings": 1,
+        "twoMinutes": 2,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      },
+      "opponent": {
+        "warnings": 2,
+        "twoMinutes": 4,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      }
+    },
+    "longestRuns": {
+      "own": {
+        "side": "away",
+        "goals": 4,
+        "startSeconds": 1491,
+        "endSeconds": 1646,
+        "startScore": {
+          "home": 15,
+          "away": 13
+        },
+        "endScore": {
+          "home": 15,
+          "away": 17
+        },
+        "start": "24:51",
+        "end": "27:26"
+      },
+      "opponent": {
+        "side": "home",
+        "goals": 7,
+        "startSeconds": 1827,
+        "endSeconds": 2176,
+        "startScore": {
+          "home": 17,
+          "away": 19
+        },
+        "endScore": {
+          "home": 24,
+          "away": 19
+        },
+        "start": "30:27",
+        "end": "36:16"
+      }
+    },
+    "scoringDroughts": {
+      "own": {
+        "seconds": 463,
+        "startSeconds": 1028,
+        "endSeconds": 1491,
+        "duration": "07:43",
+        "start": "17:08",
+        "end": "24:51"
+      },
+      "opponent": {
+        "seconds": 443,
+        "startSeconds": 1271,
+        "endSeconds": 1714,
+        "duration": "07:23",
+        "start": "21:11",
+        "end": "28:34"
+      }
+    },
+    "timeouts": [
+      {
+        "side": "opponent",
+        "seconds": 1422,
+        "clock": "23:42",
+        "score": {
+          "own": 13,
+          "opponent": 15
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 13,
+          "opponent": 14
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 1
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 16,
+          "opponent": 15
+        },
+        "goalsAfter": {
+          "own": 3,
+          "opponent": 0
+        }
+      },
+      {
+        "side": "own",
+        "seconds": 2159,
+        "clock": "35:59",
+        "score": {
+          "own": 19,
+          "opponent": 23
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 19,
+          "opponent": 19
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 4
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 20,
+          "opponent": 26
+        },
+        "goalsAfter": {
+          "own": 1,
+          "opponent": 3
+        }
+      },
+      {
+        "side": "opponent",
+        "seconds": 2929,
+        "clock": "48:49",
+        "score": {
+          "own": 27,
+          "opponent": 30
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 25,
+          "opponent": 29
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 1
+        },
+        "windowSeconds": 71,
+        "scoreAfterWindow": {
+          "own": 28,
+          "opponent": 31
+        },
+        "goalsAfter": {
+          "own": 1,
+          "opponent": 1
+        }
+      }
+    ],
+    "numericSituations": {
+      "suspensionsAffectPlayerCount": true,
+      "suspensions": [
+        {
+          "eventId": 64662482,
+          "side": "own",
+          "playerId": "199o4ev",
+          "playerName": "Berkant Sasmaz",
+          "startSeconds": 1281,
+          "endSeconds": 1401,
+          "start": "21:21",
+          "end": "23:21"
+        },
+        {
+          "eventId": 64662480,
+          "side": "opponent",
+          "playerId": "0yu9qyp",
+          "playerName": "Thies Hans Petersen",
+          "startSeconds": 1487,
+          "endSeconds": 1607,
+          "start": "24:47",
+          "end": "26:47"
+        },
+        {
+          "eventId": 64662472,
+          "side": "opponent",
+          "playerId": "0fwjb8h",
+          "playerName": "Hannes Ploog",
+          "startSeconds": 1728,
+          "endSeconds": 1848,
+          "start": "28:48",
+          "end": "30:48"
+        },
+        {
+          "eventId": 64662466,
+          "side": "opponent",
+          "playerId": "0yu9qyp",
+          "playerName": "Thies Hans Petersen",
+          "startSeconds": 1977,
+          "endSeconds": 2097,
+          "start": "32:57",
+          "end": "34:57"
+        },
+        {
+          "eventId": 64662450,
+          "side": "own",
+          "playerId": "1vo8zia",
+          "playerName": "Luis Thien Ho Kim",
+          "startSeconds": 2647,
+          "endSeconds": 2767,
+          "start": "44:07",
+          "end": "46:07"
+        },
+        {
+          "eventId": 64662447,
+          "side": "opponent",
+          "playerId": "0fwjb8h",
+          "playerName": "Hannes Ploog",
+          "startSeconds": 2772,
+          "endSeconds": 2892,
+          "start": "46:12",
+          "end": "48:12"
+        }
+      ],
+      "even": {
+        "seconds": 2280,
+        "goals": {
+          "own": 21,
+          "opponent": 25
+        }
+      },
+      "powerPlay": {
+        "seconds": 480,
+        "goals": {
+          "own": 6,
+          "opponent": 5
+        }
+      },
+      "shortHanded": {
+        "seconds": 240,
+        "goals": {
+          "own": 1,
+          "opponent": 1
+        }
+      }
+    },
+    "players": {
+      "own": [
+        {
+          "playerId": "1y3yeg3",
+          "name": "Aryan Mohammad",
+          "number": 8,
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 1,
+            "attempts": 2,
+            "percentage": 50
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1vo8zia",
+          "name": "Luis Thien Ho Kim",
+          "number": 2,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1d54cd9",
+          "name": "Leon Thomsen",
+          "number": 10,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "199o4ev",
+          "name": "Berkant Sasmaz",
+          "number": 15,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1yeih8j",
+          "name": "Tobias Mielke",
+          "number": 55,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "18q9e8a",
+          "name": "Gerrit Springborn",
+          "number": 7,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0bzp386",
+          "name": "Arian Luca Dongowsky",
+          "number": 11,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1u4xeci",
+          "name": "Marian Magnus Geist",
+          "number": 77,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0aj6hf4",
+          "name": "Fabian Helmut Dieter Lohmüller",
+          "number": 3,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0n9r7pq",
+          "name": "Jonte Krüger",
+          "number": 9,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0boll4i",
+          "name": "John Siebold",
+          "number": 12,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1aa3vsl",
+          "name": "Jon Luca Bellgardt",
+          "number": 64,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ],
+      "opponent": [
+        {
+          "playerId": "0yu9qyp",
+          "name": "Thies Hans Petersen",
+          "number": 2,
+          "inLineup": true,
+          "goals": 14,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 2,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "148bz1g",
+          "name": "Jarne Üblacker",
+          "number": 4,
+          "inLineup": true,
+          "goals": 9,
+          "sevenMeters": {
+            "goals": 2,
+            "misses": 1,
+            "attempts": 3,
+            "percentage": 66.7
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0fwjb8h",
+          "name": "Hannes Ploog",
+          "number": 11,
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 2,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1ftisgw",
+          "name": "Emil Anton Zepp",
+          "number": 3,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "09le4wk",
+          "name": "Erik Mehlem",
+          "number": 14,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0rhyza6",
+          "name": "Lasse Krüger",
+          "number": 1,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "06xmlbn",
+          "name": "Mats Nolte",
+          "number": 6,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1rtxpgu",
+          "name": "Jacob Hennings",
+          "number": 7,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0eqlyeo",
+          "name": "Jannik Thedens",
+          "number": 8,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "005zenu",
+          "name": "Malte Hansen",
+          "number": 9,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0110mat",
+          "name": "Jonas Wegner",
+          "number": 99,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:26:13.194Z",
+  "generatedAt": "2026-10-31T16:17:58.864Z",
   "players": [
     {
       "key": "id:1c64ci9",
@@ -556,6 +556,89 @@
           "inLineup": true,
           "goals": 2,
           "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 2
+        }
+      ]
+    },
+    {
+      "key": "id:1y3yeg3",
+      "playerId": "1y3yeg3",
+      "name": "Aryan Mohammad",
+      "totalAppearances": 4,
+      "totalGoals": 31,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 4,
+          "goals": 31,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 3
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 11,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677910,
+          "date": "2026-10-04",
+          "time": "14:30",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "HSG 91 NORTORF",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeterGoals": 1,
           "sevenMeterAttempts": 2
         }
       ]
@@ -1286,73 +1369,6 @@
           "phaseName": "Vorrunde B",
           "inLineup": true,
           "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:1y3yeg3",
-      "playerId": "1y3yeg3",
-      "name": "Aryan Mohammad",
-      "totalAppearances": 3,
-      "totalGoals": 24,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 3,
-          "goals": 24,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 1
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 11,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 1
-        },
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 8,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677910,
-          "date": "2026-10-04",
-          "time": "14:30",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "HSG 91 NORTORF",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 5,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -2432,6 +2448,89 @@
       ]
     },
     {
+      "key": "id:1vo8zia",
+      "playerId": "1vo8zia",
+      "name": "Luis Thien Ho Kim",
+      "totalAppearances": 4,
+      "totalGoals": 20,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 4,
+          "goals": 20,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 10,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677910,
+          "date": "2026-10-04",
+          "time": "14:30",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "HSG 91 NORTORF",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:0cob12a",
       "playerId": "0cob12a",
       "name": "Trygve Dohm",
@@ -3238,6 +3337,97 @@
       ]
     },
     {
+      "key": "id:199o4ev",
+      "playerId": "199o4ev",
+      "name": "Berkant Sasmaz",
+      "totalAppearances": 4,
+      "totalGoals": 17,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 3,
+          "goals": 16,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "teamId": "87187",
+          "teamName": "mJC 1",
+          "appearances": 1,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 450753,
+          "date": "2026-09-13",
+          "time": "15:30",
+          "teamId": "87187",
+          "teamName": "mJC 1",
+          "opponent": "TSV BARGTEHEIDE",
+          "isHome": true,
+          "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+          "phaseId": "14076",
+          "phaseName": "Vorrunde B",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:0tooyml",
       "playerId": "0tooyml",
       "name": "Dominique Dyon Mannke",
@@ -3835,73 +4025,6 @@
       ]
     },
     {
-      "key": "id:1vo8zia",
-      "playerId": "1vo8zia",
-      "name": "Luis Thien Ho Kim",
-      "totalAppearances": 3,
-      "totalGoals": 16,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 3,
-          "goals": 16,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 1
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 10,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677910,
-          "date": "2026-10-04",
-          "time": "14:30",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "HSG 91 NORTORF",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 1
-        }
-      ]
-    },
-    {
       "key": "id:1pbc7g9",
       "playerId": "1pbc7g9",
       "name": "Magnus Elias Knöchel",
@@ -3981,6 +4104,89 @@
           "goals": 3,
           "sevenMeterGoals": 2,
           "sevenMeterAttempts": 2
+        }
+      ]
+    },
+    {
+      "key": "id:1yeih8j",
+      "playerId": "1yeih8j",
+      "name": "Tobias Mielke",
+      "totalAppearances": 4,
+      "totalGoals": 16,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 4,
+          "goals": 16,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677910,
+          "date": "2026-10-04",
+          "time": "14:30",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "HSG 91 NORTORF",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -4293,6 +4499,89 @@
       ]
     },
     {
+      "key": "id:1d54cd9",
+      "playerId": "1d54cd9",
+      "name": "Leon Thomsen",
+      "totalAppearances": 4,
+      "totalGoals": 14,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 4,
+          "goals": 14,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677910,
+          "date": "2026-10-04",
+          "time": "14:30",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "HSG 91 NORTORF",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1j750tl",
       "playerId": "1j750tl",
       "name": "Madita Sophie Fieback",
@@ -4405,81 +4694,6 @@
           "phaseName": "wE-KL-West",
           "inLineup": true,
           "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:199o4ev",
-      "playerId": "199o4ev",
-      "name": "Berkant Sasmaz",
-      "totalAppearances": 3,
-      "totalGoals": 13,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 2,
-          "goals": 12,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "teamId": "87187",
-          "teamName": "mJC 1",
-          "appearances": 1,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 450753,
-          "date": "2026-09-13",
-          "time": "15:30",
-          "teamId": "87187",
-          "teamName": "mJC 1",
-          "opponent": "TSV BARGTEHEIDE",
-          "isHome": true,
-          "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
-          "phaseId": "14076",
-          "phaseName": "Vorrunde B",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 8,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -5744,73 +5958,6 @@
       ]
     },
     {
-      "key": "id:1yeih8j",
-      "playerId": "1yeih8j",
-      "name": "Tobias Mielke",
-      "totalAppearances": 3,
-      "totalGoals": 12,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 3,
-          "goals": 12,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677910,
-          "date": "2026-10-04",
-          "time": "14:30",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "HSG 91 NORTORF",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:17cbyrp",
       "playerId": "17cbyrp",
       "name": "* *",
@@ -6644,73 +6791,6 @@
           "inLineup": true,
           "goals": 5,
           "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        }
-      ]
-    },
-    {
-      "key": "id:1d54cd9",
-      "playerId": "1d54cd9",
-      "name": "Leon Thomsen",
-      "totalAppearances": 3,
-      "totalGoals": 10,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 3,
-          "goals": 10,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 1
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677910,
-          "date": "2026-10-04",
-          "time": "14:30",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "HSG 91 NORTORF",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
         }
       ]
@@ -9954,6 +10034,89 @@
       ]
     },
     {
+      "key": "id:18q9e8a",
+      "playerId": "18q9e8a",
+      "name": "Gerrit Springborn",
+      "totalAppearances": 4,
+      "totalGoals": 6,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 4,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677910,
+          "date": "2026-10-04",
+          "time": "14:30",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "HSG 91 NORTORF",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:17wpvvq",
       "playerId": "17wpvvq",
       "name": "Janek Jäger",
@@ -11545,6 +11708,89 @@
       ]
     },
     {
+      "key": "id:1u4xeci",
+      "playerId": "1u4xeci",
+      "name": "Marian Magnus Geist",
+      "totalAppearances": 4,
+      "totalGoals": 5,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 4,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 677910,
+          "date": "2026-10-04",
+          "time": "14:30",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "HSG 91 NORTORF",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1blps00",
       "playerId": "1blps00",
       "name": "Matthias Schillkorn",
@@ -11902,13 +12148,13 @@
       "key": "id:0n9r7pq",
       "playerId": "0n9r7pq",
       "name": "Jonte Krüger",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 4,
       "teams": [
         {
           "teamId": "87276",
           "teamName": "mJC 2",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 4,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -11960,6 +12206,22 @@
           "phaseName": "MJC-RL-2",
           "inLineup": true,
           "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -12046,73 +12308,6 @@
           "phaseName": "Kreisliga Männer - Staffel E",
           "inLineup": true,
           "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:1u4xeci",
-      "playerId": "1u4xeci",
-      "name": "Marian Magnus Geist",
-      "totalAppearances": 3,
-      "totalGoals": 4,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 3,
-          "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        },
-        {
-          "matchId": 677910,
-          "date": "2026-10-04",
-          "time": "14:30",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "HSG 91 NORTORF",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -12934,57 +13129,6 @@
       "key": "id:0aj6hf4",
       "playerId": "0aj6hf4",
       "name": "Fabian Helmut Dieter Lohmüller",
-      "totalAppearances": 2,
-      "totalGoals": 3,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 2,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677910,
-          "date": "2026-10-04",
-          "time": "14:30",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "HSG 91 NORTORF",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:18q9e8a",
-      "playerId": "18q9e8a",
-      "name": "Gerrit Springborn",
       "totalAppearances": 3,
       "totalGoals": 3,
       "teams": [
@@ -12994,26 +13138,10 @@
           "appearances": 3,
           "goals": 3,
           "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
+          "sevenMeterAttempts": 0
         }
       ],
       "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
         {
           "matchId": 677900,
           "date": "2026-09-20",
@@ -13026,7 +13154,7 @@
           "phaseId": "14617",
           "phaseName": "MJC-RL-2",
           "inLineup": true,
-          "goals": 0,
+          "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         },
@@ -13042,9 +13170,25 @@
           "phaseId": "14617",
           "phaseName": "MJC-RL-2",
           "inLineup": true,
-          "goals": 2,
+          "goals": 1,
           "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -14514,6 +14658,89 @@
           "goals": 1,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
+      "key": "id:0bzp386",
+      "playerId": "0bzp386",
+      "name": "Arian Luca Dongowsky",
+      "totalAppearances": 4,
+      "totalGoals": 2,
+      "teams": [
+        {
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "appearances": 4,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 677884,
+          "date": "2026-08-30",
+          "time": "12:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "TURA MELDORF II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677900,
+          "date": "2026-09-20",
+          "time": "15:15",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG BORDESHOLM/BRÜGGE II",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677910,
+          "date": "2026-10-04",
+          "time": "14:30",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "HSG 91 NORTORF",
+          "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -16178,73 +16405,6 @@
           "competition": "wJA-Regionsoberliga",
           "phaseId": "13873",
           "phaseName": "wJA-ROL-4",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0bzp386",
-      "playerId": "0bzp386",
-      "name": "Arian Luca Dongowsky",
-      "totalAppearances": 3,
-      "totalGoals": 1,
-      "teams": [
-        {
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "appearances": 3,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 677884,
-          "date": "2026-08-30",
-          "time": "12:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "TURA MELDORF II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677900,
-          "date": "2026-09-20",
-          "time": "15:15",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "SG BORDESHOLM/BRÜGGE II",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 677910,
-          "date": "2026-10-04",
-          "time": "14:30",
-          "teamId": "87276",
-          "teamName": "mJC 2",
-          "opponent": "HSG 91 NORTORF",
-          "isHome": true,
-          "competition": "Regionsliga MÄNNLICH",
-          "phaseId": "14617",
-          "phaseName": "MJC-RL-2",
           "inLineup": true,
           "goals": 0,
           "sevenMeterGoals": 0,
@@ -20404,13 +20564,13 @@
       "key": "id:0boll4i",
       "playerId": "0boll4i",
       "name": "John Siebold",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "87276",
           "teamName": "mJC 2",
-          "appearances": 1,
+          "appearances": 2,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -20432,6 +20592,22 @@
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -20439,13 +20615,13 @@
       "key": "id:1aa3vsl",
       "playerId": "1aa3vsl",
       "name": "Jon Luca Bellgardt",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "87276",
           "teamName": "mJC 2",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -20476,6 +20652,22 @@
           "teamName": "mJC 2",
           "opponent": "HSG 91 NORTORF",
           "isHome": true,
+          "competition": "Regionsliga MÄNNLICH",
+          "phaseId": "14617",
+          "phaseName": "MJC-RL-2",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 677918,
+          "date": "2026-10-31",
+          "time": "15:45",
+          "teamId": "87276",
+          "teamName": "mJC 2",
+          "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+          "isHome": false,
           "competition": "Regionsliga MÄNNLICH",
           "phaseId": "14617",
           "phaseName": "MJC-RL-2",
@@ -24319,6 +24511,89 @@
         ]
       },
       {
+        "key": "id:1y3yeg3",
+        "playerId": "1y3yeg3",
+        "name": "Aryan Mohammad",
+        "totalAppearances": 4,
+        "totalGoals": 31,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 31,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 11,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 7,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2
+          }
+        ]
+      },
+      {
         "key": "id:1xqc8kc",
         "playerId": "1xqc8kc",
         "name": "Marvin Maier",
@@ -25044,73 +25319,6 @@
             "phaseName": "Vorrunde B",
             "inLineup": true,
             "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1y3yeg3",
-        "playerId": "1y3yeg3",
-        "name": "Aryan Mohammad",
-        "totalAppearances": 3,
-        "totalGoals": 24,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 24,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 11,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 8,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 5,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -26190,6 +26398,89 @@
         ]
       },
       {
+        "key": "id:1vo8zia",
+        "playerId": "1vo8zia",
+        "name": "Luis Thien Ho Kim",
+        "totalAppearances": 4,
+        "totalGoals": 20,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 20,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:0cob12a",
         "playerId": "0cob12a",
         "name": "Trygve Dohm",
@@ -26996,6 +27287,97 @@
         ]
       },
       {
+        "key": "id:199o4ev",
+        "playerId": "199o4ev",
+        "name": "Berkant Sasmaz",
+        "totalAppearances": 4,
+        "totalGoals": 17,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 3,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "teamId": "87187",
+            "teamName": "mJC 1",
+            "appearances": 1,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 450753,
+            "date": "2026-09-13",
+            "time": "15:30",
+            "teamId": "87187",
+            "teamName": "mJC 1",
+            "opponent": "TSV BARGTEHEIDE",
+            "isHome": true,
+            "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+            "phaseId": "14076",
+            "phaseName": "Vorrunde B",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:0tooyml",
         "playerId": "0tooyml",
         "name": "Dominique Dyon Mannke",
@@ -27593,73 +27975,6 @@
         ]
       },
       {
-        "key": "id:1vo8zia",
-        "playerId": "1vo8zia",
-        "name": "Luis Thien Ho Kim",
-        "totalAppearances": 3,
-        "totalGoals": 16,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 16,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ]
-      },
-      {
         "key": "id:1pbc7g9",
         "playerId": "1pbc7g9",
         "name": "Magnus Elias Knöchel",
@@ -27739,6 +28054,89 @@
             "goals": 3,
             "sevenMeterGoals": 2,
             "sevenMeterAttempts": 2
+          }
+        ]
+      },
+      {
+        "key": "id:1yeih8j",
+        "playerId": "1yeih8j",
+        "name": "Tobias Mielke",
+        "totalAppearances": 4,
+        "totalGoals": 16,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -28051,6 +28449,89 @@
         ]
       },
       {
+        "key": "id:1d54cd9",
+        "playerId": "1d54cd9",
+        "name": "Leon Thomsen",
+        "totalAppearances": 4,
+        "totalGoals": 14,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 14,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1j750tl",
         "playerId": "1j750tl",
         "name": "Madita Sophie Fieback",
@@ -28163,81 +28644,6 @@
             "phaseName": "wE-KL-West",
             "inLineup": true,
             "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:199o4ev",
-        "playerId": "199o4ev",
-        "name": "Berkant Sasmaz",
-        "totalAppearances": 3,
-        "totalGoals": 13,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 2,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "teamId": "87187",
-            "teamName": "mJC 1",
-            "appearances": 1,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 450753,
-            "date": "2026-09-13",
-            "time": "15:30",
-            "teamId": "87187",
-            "teamName": "mJC 1",
-            "opponent": "TSV BARGTEHEIDE",
-            "isHome": true,
-            "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
-            "phaseId": "14076",
-            "phaseName": "Vorrunde B",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 8,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -29502,73 +29908,6 @@
         ]
       },
       {
-        "key": "id:1yeih8j",
-        "playerId": "1yeih8j",
-        "name": "Tobias Mielke",
-        "totalAppearances": 3,
-        "totalGoals": 12,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:17cbyrp",
         "playerId": "17cbyrp",
         "name": "* *",
@@ -30402,73 +30741,6 @@
             "inLineup": true,
             "goals": 5,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ]
-      },
-      {
-        "key": "id:1d54cd9",
-        "playerId": "1d54cd9",
-        "name": "Leon Thomsen",
-        "totalAppearances": 3,
-        "totalGoals": 10,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 10,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
           }
         ]
@@ -33712,6 +33984,89 @@
         ]
       },
       {
+        "key": "id:18q9e8a",
+        "playerId": "18q9e8a",
+        "name": "Gerrit Springborn",
+        "totalAppearances": 4,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:17wpvvq",
         "playerId": "17wpvvq",
         "name": "Janek Jäger",
@@ -35303,6 +35658,89 @@
         ]
       },
       {
+        "key": "id:1u4xeci",
+        "playerId": "1u4xeci",
+        "name": "Marian Magnus Geist",
+        "totalAppearances": 4,
+        "totalGoals": 5,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1blps00",
         "playerId": "1blps00",
         "name": "Matthias Schillkorn",
@@ -35660,13 +36098,13 @@
         "key": "id:0n9r7pq",
         "playerId": "0n9r7pq",
         "name": "Jonte Krüger",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 4,
         "teams": [
           {
             "teamId": "87276",
             "teamName": "mJC 2",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -35718,6 +36156,22 @@
             "phaseName": "MJC-RL-2",
             "inLineup": true,
             "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -35804,73 +36258,6 @@
             "phaseName": "Kreisliga Männer - Staffel E",
             "inLineup": true,
             "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1u4xeci",
-        "playerId": "1u4xeci",
-        "name": "Marian Magnus Geist",
-        "totalAppearances": 3,
-        "totalGoals": 4,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -36692,57 +37079,6 @@
         "key": "id:0aj6hf4",
         "playerId": "0aj6hf4",
         "name": "Fabian Helmut Dieter Lohmüller",
-        "totalAppearances": 2,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 2,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:18q9e8a",
-        "playerId": "18q9e8a",
-        "name": "Gerrit Springborn",
         "totalAppearances": 3,
         "totalGoals": 3,
         "teams": [
@@ -36752,26 +37088,10 @@
             "appearances": 3,
             "goals": 3,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
+            "sevenMeterAttempts": 0
           }
         ],
         "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
           {
             "matchId": 677900,
             "date": "2026-09-20",
@@ -36784,7 +37104,7 @@
             "phaseId": "14617",
             "phaseName": "MJC-RL-2",
             "inLineup": true,
-            "goals": 0,
+            "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           },
@@ -36800,9 +37120,25 @@
             "phaseId": "14617",
             "phaseName": "MJC-RL-2",
             "inLineup": true,
-            "goals": 2,
+            "goals": 1,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -38272,6 +38608,89 @@
             "goals": 1,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:0bzp386",
+        "playerId": "0bzp386",
+        "name": "Arian Luca Dongowsky",
+        "totalAppearances": 4,
+        "totalGoals": 2,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -39936,73 +40355,6 @@
             "competition": "wJA-Regionsoberliga",
             "phaseId": "13873",
             "phaseName": "wJA-ROL-4",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0bzp386",
-        "playerId": "0bzp386",
-        "name": "Arian Luca Dongowsky",
-        "totalAppearances": 3,
-        "totalGoals": 1,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
             "inLineup": true,
             "goals": 0,
             "sevenMeterGoals": 0,
@@ -44162,13 +44514,13 @@
         "key": "id:0boll4i",
         "playerId": "0boll4i",
         "name": "John Siebold",
-        "totalAppearances": 1,
+        "totalAppearances": 2,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "87276",
             "teamName": "mJC 2",
-            "appearances": 1,
+            "appearances": 2,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -44190,6 +44542,22 @@
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -44197,13 +44565,13 @@
         "key": "id:1aa3vsl",
         "playerId": "1aa3vsl",
         "name": "Jon Luca Bellgardt",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "87276",
             "teamName": "mJC 2",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -44234,6 +44602,22 @@
             "teamName": "mJC 2",
             "opponent": "HSG 91 NORTORF",
             "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
             "competition": "Regionsliga MÄNNLICH",
             "phaseId": "14617",
             "phaseName": "MJC-RL-2",
@@ -48191,6 +48575,89 @@
         ]
       },
       {
+        "key": "id:1y3yeg3",
+        "playerId": "1y3yeg3",
+        "name": "Aryan Mohammad",
+        "totalAppearances": 4,
+        "totalGoals": 31,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 31,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 11,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 7,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2
+          }
+        ]
+      },
+      {
         "key": "id:0lmc1n1",
         "playerId": "0lmc1n1",
         "name": "Jaro Borde",
@@ -48905,73 +49372,6 @@
             "phaseName": "Vorrunde B",
             "inLineup": true,
             "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1y3yeg3",
-        "playerId": "1y3yeg3",
-        "name": "Aryan Mohammad",
-        "totalAppearances": 3,
-        "totalGoals": 24,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 24,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 11,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 8,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 5,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -50511,6 +50911,89 @@
         ]
       },
       {
+        "key": "id:1vo8zia",
+        "playerId": "1vo8zia",
+        "name": "Luis Thien Ho Kim",
+        "totalAppearances": 4,
+        "totalGoals": 20,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 20,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:0cob12a",
         "playerId": "0cob12a",
         "name": "Trygve Dohm",
@@ -51234,6 +51717,97 @@
         ]
       },
       {
+        "key": "id:199o4ev",
+        "playerId": "199o4ev",
+        "name": "Berkant Sasmaz",
+        "totalAppearances": 4,
+        "totalGoals": 17,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 3,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "teamId": "87187",
+            "teamName": "mJC 1",
+            "appearances": 1,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 450753,
+            "date": "2026-09-13",
+            "time": "15:30",
+            "teamId": "87187",
+            "teamName": "mJC 1",
+            "opponent": "TSV BARGTEHEIDE",
+            "isHome": true,
+            "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+            "phaseId": "14076",
+            "phaseName": "Vorrunde B",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:0tooyml",
         "playerId": "0tooyml",
         "name": "Dominique Dyon Mannke",
@@ -51697,73 +52271,6 @@
         ]
       },
       {
-        "key": "id:1vo8zia",
-        "playerId": "1vo8zia",
-        "name": "Luis Thien Ho Kim",
-        "totalAppearances": 3,
-        "totalGoals": 16,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 16,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ]
-      },
-      {
         "key": "id:1pbc7g9",
         "playerId": "1pbc7g9",
         "name": "Magnus Elias Knöchel",
@@ -51843,6 +52350,89 @@
             "goals": 3,
             "sevenMeterGoals": 2,
             "sevenMeterAttempts": 2
+          }
+        ]
+      },
+      {
+        "key": "id:1yeih8j",
+        "playerId": "1yeih8j",
+        "name": "Tobias Mielke",
+        "totalAppearances": 4,
+        "totalGoals": 16,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -52155,6 +52745,89 @@
         ]
       },
       {
+        "key": "id:1d54cd9",
+        "playerId": "1d54cd9",
+        "name": "Leon Thomsen",
+        "totalAppearances": 4,
+        "totalGoals": 14,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 14,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1j750tl",
         "playerId": "1j750tl",
         "name": "Madita Sophie Fieback",
@@ -52267,81 +52940,6 @@
             "phaseName": "wE-KL-West",
             "inLineup": true,
             "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:199o4ev",
-        "playerId": "199o4ev",
-        "name": "Berkant Sasmaz",
-        "totalAppearances": 3,
-        "totalGoals": 13,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 2,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "teamId": "87187",
-            "teamName": "mJC 1",
-            "appearances": 1,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 450753,
-            "date": "2026-09-13",
-            "time": "15:30",
-            "teamId": "87187",
-            "teamName": "mJC 1",
-            "opponent": "TSV BARGTEHEIDE",
-            "isHome": true,
-            "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
-            "phaseId": "14076",
-            "phaseName": "Vorrunde B",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 8,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -53836,73 +54434,6 @@
         ]
       },
       {
-        "key": "id:1yeih8j",
-        "playerId": "1yeih8j",
-        "name": "Tobias Mielke",
-        "totalAppearances": 3,
-        "totalGoals": 12,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:17cbyrp",
         "playerId": "17cbyrp",
         "name": "* *",
@@ -54669,73 +55200,6 @@
             "inLineup": true,
             "goals": 5,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ]
-      },
-      {
-        "key": "id:1d54cd9",
-        "playerId": "1d54cd9",
-        "name": "Leon Thomsen",
-        "totalAppearances": 3,
-        "totalGoals": 10,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 10,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
           }
         ]
@@ -57909,6 +58373,89 @@
         ]
       },
       {
+        "key": "id:18q9e8a",
+        "playerId": "18q9e8a",
+        "name": "Gerrit Springborn",
+        "totalAppearances": 4,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:17wpvvq",
         "playerId": "17wpvvq",
         "name": "Janek Jäger",
@@ -59500,6 +60047,89 @@
         ]
       },
       {
+        "key": "id:1u4xeci",
+        "playerId": "1u4xeci",
+        "name": "Marian Magnus Geist",
+        "totalAppearances": 4,
+        "totalGoals": 5,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1blps00",
         "playerId": "1blps00",
         "name": "Matthias Schillkorn",
@@ -59857,13 +60487,13 @@
         "key": "id:0n9r7pq",
         "playerId": "0n9r7pq",
         "name": "Jonte Krüger",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 4,
         "teams": [
           {
             "teamId": "87276",
             "teamName": "mJC 2",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -59915,6 +60545,22 @@
             "phaseName": "MJC-RL-2",
             "inLineup": true,
             "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -60001,73 +60647,6 @@
             "phaseName": "Kreisliga Männer - Staffel E",
             "inLineup": true,
             "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1u4xeci",
-        "playerId": "1u4xeci",
-        "name": "Marian Magnus Geist",
-        "totalAppearances": 3,
-        "totalGoals": 4,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -60889,57 +61468,6 @@
         "key": "id:0aj6hf4",
         "playerId": "0aj6hf4",
         "name": "Fabian Helmut Dieter Lohmüller",
-        "totalAppearances": 2,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 2,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:18q9e8a",
-        "playerId": "18q9e8a",
-        "name": "Gerrit Springborn",
         "totalAppearances": 3,
         "totalGoals": 3,
         "teams": [
@@ -60949,26 +61477,10 @@
             "appearances": 3,
             "goals": 3,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
+            "sevenMeterAttempts": 0
           }
         ],
         "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
           {
             "matchId": 677900,
             "date": "2026-09-20",
@@ -60981,7 +61493,7 @@
             "phaseId": "14617",
             "phaseName": "MJC-RL-2",
             "inLineup": true,
-            "goals": 0,
+            "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           },
@@ -60997,9 +61509,25 @@
             "phaseId": "14617",
             "phaseName": "MJC-RL-2",
             "inLineup": true,
-            "goals": 2,
+            "goals": 1,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -62469,6 +62997,89 @@
             "goals": 1,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:0bzp386",
+        "playerId": "0bzp386",
+        "name": "Arian Luca Dongowsky",
+        "totalAppearances": 4,
+        "totalGoals": 2,
+        "teams": [
+          {
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "appearances": 4,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 677884,
+            "date": "2026-08-30",
+            "time": "12:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "TURA MELDORF II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677900,
+            "date": "2026-09-20",
+            "time": "15:15",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG BORDESHOLM/BRÜGGE II",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677910,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "HSG 91 NORTORF",
+            "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -64133,73 +64744,6 @@
             "competition": "wJA-Regionsoberliga",
             "phaseId": "13873",
             "phaseName": "wJA-ROL-4",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0bzp386",
-        "playerId": "0bzp386",
-        "name": "Arian Luca Dongowsky",
-        "totalAppearances": 3,
-        "totalGoals": 1,
-        "teams": [
-          {
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "appearances": 3,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 677884,
-            "date": "2026-08-30",
-            "time": "12:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "TURA MELDORF II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677900,
-            "date": "2026-09-20",
-            "time": "15:15",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "SG BORDESHOLM/BRÜGGE II",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 677910,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "teamId": "87276",
-            "teamName": "mJC 2",
-            "opponent": "HSG 91 NORTORF",
-            "isHome": true,
-            "competition": "Regionsliga MÄNNLICH",
-            "phaseId": "14617",
-            "phaseName": "MJC-RL-2",
             "inLineup": true,
             "goals": 0,
             "sevenMeterGoals": 0,
@@ -68415,13 +68959,13 @@
         "key": "id:0boll4i",
         "playerId": "0boll4i",
         "name": "John Siebold",
-        "totalAppearances": 1,
+        "totalAppearances": 2,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "87276",
             "teamName": "mJC 2",
-            "appearances": 1,
+            "appearances": 2,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -68443,6 +68987,22 @@
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -68450,13 +69010,13 @@
         "key": "id:1aa3vsl",
         "playerId": "1aa3vsl",
         "name": "Jon Luca Bellgardt",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "87276",
             "teamName": "mJC 2",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -68487,6 +69047,22 @@
             "teamName": "mJC 2",
             "opponent": "HSG 91 NORTORF",
             "isHome": true,
+            "competition": "Regionsliga MÄNNLICH",
+            "phaseId": "14617",
+            "phaseName": "MJC-RL-2",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 677918,
+            "date": "2026-10-31",
+            "time": "15:45",
+            "teamId": "87276",
+            "teamName": "mJC 2",
+            "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+            "isHome": false,
             "competition": "Regionsliga MÄNNLICH",
             "phaseId": "14617",
             "phaseName": "MJC-RL-2",

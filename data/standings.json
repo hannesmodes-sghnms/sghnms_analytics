@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:26:12.869Z",
+  "generatedAt": "2026-10-31T16:17:58.577Z",
   "teams": [
     {
       "teamId": "86801",
@@ -4781,10 +4781,10 @@
           "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2026-12-06",
-          "currentRound": 10,
+          "currentRound": 6,
           "teamCount": 6,
           "current": {
-            "round": 10,
+            "round": 6,
             "position": 6,
             "played": 5,
             "won": 1,
@@ -4863,20 +4863,7 @@
               "qualifies": true
             },
             {
-              "round": 7,
-              "position": 6,
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "goalsFor": 101,
-              "goalsAgainst": 135,
-              "goalDifference": -34,
-              "points": 2,
-              "qualifies": true
-            },
-            {
-              "round": 10,
+              "round": 6,
               "position": 6,
               "played": 5,
               "won": 1,
@@ -4952,14 +4939,14 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 92,
-              "goalsAgainst": 96,
-              "goalDifference": -4,
-              "points": 6,
+              "goalsFor": 118,
+              "goalsAgainst": 117,
+              "goalDifference": 1,
+              "points": 8,
               "qualifies": true,
               "form": [
                 {
@@ -4977,6 +4964,10 @@
                 {
                   "matchId": 450669,
                   "result": "L"
+                },
+                {
+                  "matchId": 450673,
+                  "result": "W"
                 }
               ]
             },
@@ -5089,13 +5080,13 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 1,
               "drawn": 0,
-              "lost": 3,
-              "goalsFor": 79,
-              "goalsAgainst": 101,
-              "goalDifference": -22,
+              "lost": 4,
+              "goalsFor": 100,
+              "goalsAgainst": 127,
+              "goalDifference": -27,
               "points": 2,
               "qualifies": true,
               "form": [
@@ -5113,6 +5104,10 @@
                 },
                 {
                   "matchId": 450671,
+                  "result": "L"
+                },
+                {
+                  "matchId": 450673,
                   "result": "L"
                 }
               ]
@@ -5188,10 +5183,10 @@
           "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2026-12-31",
-          "currentRound": 7,
+          "currentRound": 6,
           "teamCount": 6,
           "current": {
-            "round": 7,
+            "round": 6,
             "position": 6,
             "played": 4,
             "won": 0,
@@ -5270,7 +5265,7 @@
               "qualifies": true
             },
             {
-              "round": 7,
+              "round": 6,
               "position": 6,
               "played": 4,
               "won": 0,
@@ -8219,7 +8214,7 @@
               "qualifies": true
             },
             {
-              "round": 8,
+              "round": 7,
               "position": 1,
               "played": 3,
               "won": 2,
@@ -8418,41 +8413,6 @@
             {
               "position": 5,
               "team": {
-                "id": 82192,
-                "name": "SG DITHMARSCHEN SÜD",
-                "club": {
-                  "id": "0v7ucet",
-                  "name": "SG Dithmarschen Süd",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5835/square_39393635376637373034393930633837.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 26,
-              "goalsAgainst": 27,
-              "goalDifference": -1,
-              "points": 0,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 677892,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677894,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 6,
-              "team": {
                 "id": 82214,
                 "name": "SV Weede",
                 "club": {
@@ -8481,6 +8441,45 @@
                 },
                 {
                   "matchId": 677913,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 6,
+              "team": {
+                "id": 82192,
+                "name": "SG DITHMARSCHEN SÜD",
+                "club": {
+                  "id": "0v7ucet",
+                  "name": "SG Dithmarschen Süd",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5835/square_39393635376637373034393930633837.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 3,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 26,
+              "goalsAgainst": 27,
+              "goalDifference": -1,
+              "points": 0,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 677892,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677894,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677914,
                   "result": "L"
                 }
               ]
@@ -8594,7 +8593,7 @@
                   "name": "Male"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
               "lost": 0,
@@ -8615,6 +8614,10 @@
                 {
                   "matchId": 677912,
                   "result": "L"
+                },
+                {
+                  "matchId": 677914,
+                  "result": "W"
                 }
               ]
             },
@@ -9193,10 +9196,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-08",
           "lastDate": "2027-05-02",
-          "currentRound": 5,
+          "currentRound": 7,
           "teamCount": 12,
           "current": {
-            "round": 5,
+            "round": 7,
             "position": 10,
             "played": 3,
             "won": 0,
@@ -9263,6 +9266,32 @@
             },
             {
               "round": 5,
+              "position": 10,
+              "played": 3,
+              "won": 0,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 71,
+              "goalsAgainst": 90,
+              "goalDifference": -19,
+              "points": 0,
+              "qualifies": true
+            },
+            {
+              "round": 6,
+              "position": 11,
+              "played": 3,
+              "won": 0,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 71,
+              "goalsAgainst": 90,
+              "goalDifference": -19,
+              "points": 0,
+              "qualifies": true
+            },
+            {
+              "round": 7,
               "position": 10,
               "played": 3,
               "won": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:26:12.576Z",
+  "generatedAt": "2026-10-31T16:17:58.398Z",
   "matches": [
     {
       "id": 504541,
@@ -7226,6 +7226,85 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/411573.json"
+    },
+    {
+      "id": 677918,
+      "date": "2026-10-31",
+      "time": "15:45",
+      "home": {
+        "id": 82193,
+        "name": "SG PAHLHUDE/TELLINGSTEDT",
+        "clubId": "0odgr6l"
+      },
+      "away": {
+        "id": 87276,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 31,
+        "away": 28
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7194,
+      "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14617,
+        "name": "MJC-RL-2"
+      },
+      "venue": {
+        "name": "SPORTHALLE",
+        "address": "TöPFERSTRAßE, 25782 TELLINGSTEDT"
+      },
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 31,
+          "away": 28
+        },
+        "eventFinalScore": {
+          "home": 31,
+          "away": 28
+        },
+        "lineupGoalTotals": {
+          "home": 31,
+          "away": 28
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 59,
+          "goalEventsWithPlayer": 59,
+          "matchedGoalEvents": 59,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/677918.json"
     }
   ]
 }

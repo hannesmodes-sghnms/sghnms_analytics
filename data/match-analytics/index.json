@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T15:26:13.180Z",
+  "generatedAt": "2026-10-31T16:17:58.849Z",
   "matches": [
     {
       "id": 504541,
@@ -1080,6 +1080,18 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/411573.json"
+    },
+    {
+      "id": 677918,
+      "date": "2026-10-31",
+      "time": "15:45",
+      "ownTeamId": "87276",
+      "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/677918.json"
     }
   ]
 }
