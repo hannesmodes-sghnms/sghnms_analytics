@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:17:58.849Z",
+  "generatedAt": "2026-10-31T20:04:00.504Z",
   "matches": [
     {
       "id": 504541,
@@ -438,7 +438,7 @@
       "date": "2026-09-13",
       "time": "14:00",
       "ownTeamId": "87271",
-      "opponent": "HSG Störtal Hummeln",
+      "opponent": "HSG STÖRTAL HUMMELN",
       "analyticsEligible": true,
       "statsRelevant": true,
       "competitionScope": "league",
@@ -1092,6 +1092,18 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/677918.json"
+    },
+    {
+      "id": 504570,
+      "date": "2026-10-31",
+      "time": "17:30",
+      "ownTeamId": "86805",
+      "opponent": "HSG STÖRTAL HUMMELN",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/504570.json"
     }
   ]
 }

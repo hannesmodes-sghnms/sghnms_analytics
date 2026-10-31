@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T16:17:58.398Z",
+  "generatedAt": "2026-10-31T20:04:00.013Z",
   "matches": [
     {
       "id": 504541,
@@ -2910,7 +2910,7 @@
       "time": "14:00",
       "home": {
         "id": 81964,
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "clubId": "1qw4nbk"
       },
       "away": {
@@ -7305,6 +7305,85 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/677918.json"
+    },
+    {
+      "id": 504570,
+      "date": "2026-10-31",
+      "time": "17:30",
+      "home": {
+        "id": 86805,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81685,
+        "name": "HSG STÖRTAL HUMMELN",
+        "clubId": "1qw4nbk"
+      },
+      "result": {
+        "home": 23,
+        "away": 21
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7945,
+      "competition": "Kreisoberliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12963,
+        "name": "Kreisoberliga Männer West"
+      },
+      "venue": {
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
+      },
+      "ownTeamId": "86805",
+      "ownTeam": {
+        "label": "HERREN 1",
+        "name": "1. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 23,
+          "away": 21
+        },
+        "eventFinalScore": {
+          "home": 23,
+          "away": 21
+        },
+        "lineupGoalTotals": {
+          "home": 23,
+          "away": 21
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 44,
+          "goalEventsWithPlayer": 44,
+          "matchedGoalEvents": 44,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/504570.json"
     }
   ]
 }

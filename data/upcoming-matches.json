@@ -1,189 +1,6 @@
 {
-  "generatedAt": "2026-10-31T16:17:58.548Z",
+  "generatedAt": "2026-10-31T20:04:00.218Z",
   "matches": [
-    {
-      "id": 504570,
-      "date": "2026-10-31",
-      "time": "17:30",
-      "home": {
-        "id": 86805,
-        "name": "SG Handball Neumünster",
-        "clubId": "1yrb3n9"
-      },
-      "away": {
-        "id": 81685,
-        "name": "HSG Störtal Hummeln",
-        "clubId": "1qw4nbk"
-      },
-      "result": {
-        "home": 0,
-        "away": 0
-      },
-      "status": {
-        "finished": false,
-        "live": true
-      },
-      "competitionId": 7945,
-      "competition": "Kreisoberliga Männer",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12963,
-        "name": "Kreisoberliga Männer West"
-      },
-      "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
-      },
-      "ownTeamId": "86805",
-      "ownTeam": {
-        "label": "HERREN 1",
-        "name": "1. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81685",
-        "name": "HSG Störtal Hummeln",
-        "phaseId": "12963",
-        "phaseName": "Kreisoberliga Männer West",
-        "competition": "Kreisoberliga Männer",
-        "season": {
-          "games": 4,
-          "wins": 0,
-          "draws": 0,
-          "losses": 4,
-          "goalsFor": 95,
-          "goalsAgainst": 121,
-          "goalDifference": -26,
-          "winRate": 0,
-          "goalsForAvg": 23.75,
-          "goalsAgainstAvg": 30.25,
-          "goalDifferenceAvg": -6.5
-        },
-        "recent": [
-          {
-            "id": 504558,
-            "date": "2026-10-15",
-            "time": "20:30",
-            "isHome": false,
-            "opponent": {
-              "id": 81684,
-              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
-              "clubId": "16gum8r"
-            },
-            "goalsFor": 26,
-            "goalsAgainst": 32,
-            "result": "L"
-          },
-          {
-            "id": 504540,
-            "date": "2026-09-19",
-            "time": "14:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81683,
-              "name": "MTV HERZHORN II",
-              "clubId": "0k0b7v4"
-            },
-            "goalsFor": 26,
-            "goalsAgainst": 39,
-            "result": "L"
-          },
-          {
-            "id": 504552,
-            "date": "2026-09-13",
-            "time": "18:45",
-            "isHome": false,
-            "opponent": {
-              "id": 81720,
-              "name": "HSG KALKBERG 06",
-              "clubId": "03erpv1"
-            },
-            "goalsFor": 20,
-            "goalsAgainst": 25,
-            "result": "L"
-          },
-          {
-            "id": 504546,
-            "date": "2026-09-06",
-            "time": "16:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81686,
-              "name": "DIE HAIE I HSG Horst/Kiebitzreihe II",
-              "clubId": "1w9jsx8"
-            },
-            "goalsFor": 23,
-            "goalsAgainst": 25,
-            "result": "L"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1j0j5iu",
-            "name": "Tom Philip Radzio",
-            "number": 16,
-            "games": 4,
-            "goals": 28,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 7,
-            "sevenMeterPercentage": 66.7
-          },
-          {
-            "playerId": "0sl3xuy",
-            "name": "Lukas Korte",
-            "number": 14,
-            "games": 3,
-            "goals": 13,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1bp9uxl",
-            "name": "Julian Böteführ",
-            "number": 28,
-            "games": 2,
-            "goals": 11,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 5.5,
-            "sevenMeterPercentage": 0
-          },
-          {
-            "playerId": "1wejdhz",
-            "name": "Florian Wilschewski",
-            "number": 10,
-            "games": 2,
-            "goals": 7,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 6,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1jx6bx4",
-            "name": "Jonas Wulf",
-            "number": 22,
-            "games": 2,
-            "goals": 7,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": 0
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
-          "percentage": 100
-        }
-      }
-    },
     {
       "id": 509992,
       "date": "2026-11-01",
@@ -1442,7 +1259,7 @@
       },
       "away": {
         "id": 81851,
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "clubId": "1qw4nbk"
       },
       "result": {
@@ -1475,7 +1292,7 @@
       },
       "opponentProfile": {
         "teamId": "81851",
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "phaseId": "12967",
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
@@ -1993,7 +1810,7 @@
             "isHome": true,
             "opponent": {
               "id": 81690,
-              "name": "HSG Störtal Hummeln II",
+              "name": "HSG STÖRTAL HUMMELN II",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 30,
@@ -2838,19 +2655,33 @@
         "phaseName": "Kreisoberliga Männer West",
         "competition": "Kreisoberliga Männer",
         "season": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "draws": 0,
           "losses": 2,
-          "goalsFor": 107,
-          "goalsAgainst": 98,
-          "goalDifference": 9,
-          "winRate": 50,
-          "goalsForAvg": 26.75,
-          "goalsAgainstAvg": 24.5,
-          "goalDifferenceAvg": 2.25
+          "goalsFor": 135,
+          "goalsAgainst": 120,
+          "goalDifference": 15,
+          "winRate": 60,
+          "goalsForAvg": 27,
+          "goalsAgainstAvg": 24,
+          "goalDifferenceAvg": 3
         },
         "recent": [
+          {
+            "id": 504571,
+            "date": "2026-10-31",
+            "time": "19:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81692,
+              "name": "SG DITHMARSCHEN SÜD",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 22,
+            "result": "W"
+          },
           {
             "id": 504589,
             "date": "2026-10-25",
@@ -2900,7 +2731,7 @@
             "isHome": true,
             "opponent": {
               "id": 81685,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 39,
@@ -2913,22 +2744,44 @@
             "playerId": "02252lx",
             "name": "Lukas Johannes Tzaneros",
             "number": 22,
-            "games": 4,
-            "goals": 28,
-            "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 12,
-            "goalsPerGame": 7,
-            "sevenMeterPercentage": 83.3
+            "games": 5,
+            "goals": 37,
+            "sevenMeterGoals": 11,
+            "sevenMeterAttempts": 15,
+            "goalsPerGame": 7.4,
+            "sevenMeterPercentage": 73.3
           },
           {
             "playerId": "15xy931",
             "name": "Niklas Stucke",
             "number": 11,
-            "games": 4,
-            "goals": 13,
+            "games": 5,
+            "goals": 17,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.25,
+            "goalsPerGame": 3.4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0khrp3c",
+            "name": "Marcel Reimers",
+            "number": 5,
+            "games": 5,
+            "goals": 13,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 2.6,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "035fs6a",
+            "name": "Felix Kähler",
+            "number": 7,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
             "sevenMeterPercentage": null
           },
           {
@@ -2941,33 +2794,11 @@
             "sevenMeterAttempts": 0,
             "goalsPerGame": 3.67,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0khrp3c",
-            "name": "Marcel Reimers",
-            "number": 5,
-            "games": 4,
-            "goals": 11,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2.75,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "035fs6a",
-            "name": "Felix Kähler",
-            "number": 7,
-            "games": 3,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -3771,19 +3602,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 3,
-          "wins": 2,
+          "games": 4,
+          "wins": 3,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 81,
-          "goalsAgainst": 67,
-          "goalDifference": 14,
-          "winRate": 66.7,
-          "goalsForAvg": 27,
-          "goalsAgainstAvg": 22.33,
-          "goalDifferenceAvg": 4.67
+          "goalsFor": 122,
+          "goalsAgainst": 80,
+          "goalDifference": 42,
+          "winRate": 75,
+          "goalsForAvg": 30.5,
+          "goalsAgainstAvg": 20,
+          "goalDifferenceAvg": 10.5
         },
         "recent": [
+          {
+            "id": 514382,
+            "date": "2026-10-31",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81859,
+              "name": "SG DITHMARSCHEN SÜD II",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 41,
+            "goalsAgainst": 13,
+            "result": "W"
+          },
           {
             "id": 514364,
             "date": "2026-10-24",
@@ -3829,44 +3674,33 @@
         ],
         "topScorers": [
           {
-            "playerId": "1r4kobj",
-            "name": "Annika Scheller",
-            "number": 10,
-            "games": 3,
-            "goals": 20,
-            "sevenMeterGoals": 5,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 6.67,
-            "sevenMeterPercentage": 71.4
-          },
-          {
             "playerId": "0c0maek",
             "name": "Stefanie Wolff",
             "number": 5,
-            "games": 3,
-            "goals": 16,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 5.33,
-            "sevenMeterPercentage": 85.7
+            "games": 4,
+            "goals": 25,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 6.25,
+            "sevenMeterPercentage": 81.8
+          },
+          {
+            "playerId": "1r4kobj",
+            "name": "Annika Scheller",
+            "number": 10,
+            "games": 4,
+            "goals": 21,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 5.25,
+            "sevenMeterPercentage": 62.5
           },
           {
             "playerId": "1eunu3w",
             "name": "Dorthe Hohnsbehn",
             "number": 6,
-            "games": 3,
-            "goals": 13,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "19jdnrc",
-            "name": "Nicole Marttila",
-            "number": 29,
-            "games": 2,
-            "goals": 9,
+            "games": 4,
+            "goals": 18,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
             "goalsPerGame": 4.5,
@@ -3876,17 +3710,28 @@
             "playerId": "10ahuay",
             "name": "Merle Sieck-Pahl",
             "number": 20,
-            "games": 2,
-            "goals": 8,
+            "games": 3,
+            "goals": 14,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 4.67,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1k5d7zq",
+            "name": "Janine Herbst",
+            "number": 4,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": 100
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -4123,19 +3968,33 @@
         "phaseName": "wJA-ROL-3",
         "competition": "wJA-Regionsoberliga",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
           "draws": 0,
-          "losses": 2,
-          "goalsFor": 94,
-          "goalsAgainst": 105,
-          "goalDifference": -11,
-          "winRate": 33.3,
-          "goalsForAvg": 31.33,
-          "goalsAgainstAvg": 35,
-          "goalDifferenceAvg": -3.67
+          "losses": 3,
+          "goalsFor": 109,
+          "goalsAgainst": 152,
+          "goalDifference": -43,
+          "winRate": 25,
+          "goalsForAvg": 27.25,
+          "goalsAgainstAvg": 38,
+          "goalDifferenceAvg": -10.75
         },
         "recent": [
+          {
+            "id": 598489,
+            "date": "2026-10-31",
+            "time": "16:45",
+            "isHome": false,
+            "opponent": {
+              "id": 87216,
+              "name": "TUS FELDE",
+              "clubId": "184fuvr"
+            },
+            "goalsFor": 15,
+            "goalsAgainst": 47,
+            "result": "L"
+          },
           {
             "id": 598486,
             "date": "2026-10-04",
@@ -4184,22 +4043,22 @@
             "playerId": "0bgsqec",
             "name": "Charlotte Karla Ratjen",
             "number": 3,
-            "games": 3,
-            "goals": 34,
+            "games": 4,
+            "goals": 39,
             "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 10,
-            "goalsPerGame": 11.33,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 9.75,
+            "sevenMeterPercentage": 90.9
           },
           {
             "playerId": "1xbga1g",
             "name": "Amelie Brüggen",
             "number": 13,
-            "games": 3,
-            "goals": 29,
+            "games": 4,
+            "goals": 31,
             "sevenMeterGoals": 3,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 9.67,
+            "goalsPerGame": 7.75,
             "sevenMeterPercentage": 100
           },
           {
@@ -4214,31 +4073,31 @@
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "1e61w3j",
-            "name": "Jette Annemarie Grage",
-            "number": 16,
-            "games": 3,
-            "goals": 5,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 1.67,
-            "sevenMeterPercentage": 100
-          },
-          {
             "playerId": "1gxc4ed",
             "name": "Maleen Julia Jeß",
             "number": 8,
-            "games": 3,
-            "goals": 5,
+            "games": 4,
+            "goals": 7,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.67,
+            "goalsPerGame": 1.75,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0689vdu",
+            "name": "Nike Ahmling",
+            "number": 15,
+            "games": 4,
+            "goals": 6,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 1.5,
+            "sevenMeterPercentage": 66.7
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -5000,19 +4859,33 @@
         "phaseName": "wJA-ROL-4",
         "competition": "wJA-Regionsoberliga",
         "season": {
-          "games": 3,
-          "wins": 3,
+          "games": 4,
+          "wins": 4,
           "draws": 0,
           "losses": 0,
-          "goalsFor": 128,
-          "goalsAgainst": 73,
-          "goalDifference": 55,
+          "goalsFor": 175,
+          "goalsAgainst": 99,
+          "goalDifference": 76,
           "winRate": 100,
-          "goalsForAvg": 42.67,
-          "goalsAgainstAvg": 24.33,
-          "goalDifferenceAvg": 18.33
+          "goalsForAvg": 43.75,
+          "goalsAgainstAvg": 24.75,
+          "goalDifferenceAvg": 19
         },
         "recent": [
+          {
+            "id": 508093,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81973,
+              "name": "DHG Sandesneben",
+              "clubId": "0q0phxv"
+            },
+            "goalsFor": 47,
+            "goalsAgainst": 26,
+            "result": "W"
+          },
           {
             "id": 508089,
             "date": "2026-09-27",
@@ -5061,61 +4934,61 @@
             "playerId": "04h2770",
             "name": "Greta Maria Irrek",
             "number": 6,
-            "games": 3,
-            "goals": 33,
+            "games": 4,
+            "goals": 39,
             "sevenMeterGoals": 7,
             "sevenMeterAttempts": 7,
-            "goalsPerGame": 11,
+            "goalsPerGame": 9.75,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1624yia",
             "name": "Lilli Annabell Back",
             "number": 16,
-            "games": 3,
-            "goals": 19,
+            "games": 4,
+            "goals": 24,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 6.33,
+            "goalsPerGame": 6,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0s8n8ru",
+            "name": "Zeren Fidan",
+            "number": 10,
+            "games": 4,
+            "goals": 19,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": 0
           },
           {
             "playerId": "0mrsl60",
             "name": "Sümeyra Temirci",
             "number": 15,
-            "games": 3,
-            "goals": 13,
+            "games": 4,
+            "goals": 16,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1belhfn",
-            "name": "Greta Mahnecke",
-            "number": 5,
-            "games": 3,
-            "goals": 11,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.67,
+            "goalsPerGame": 4,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0d2h3w4",
             "name": "Luna Hausendorf",
             "number": 9,
-            "games": 3,
-            "goals": 11,
+            "games": 4,
+            "goals": 13,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.67,
+            "goalsPerGame": 3.25,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -5386,7 +5259,7 @@
             "isHome": false,
             "opponent": {
               "id": 82149,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 14,
@@ -5732,19 +5605,33 @@
         "phaseName": "Kreisliga Frauen - Staffel C",
         "competition": "Kreisliga Frauen",
         "season": {
-          "games": 2,
+          "games": 3,
           "wins": 0,
           "draws": 0,
-          "losses": 2,
-          "goalsFor": 49,
-          "goalsAgainst": 52,
-          "goalDifference": -3,
+          "losses": 3,
+          "goalsFor": 69,
+          "goalsAgainst": 85,
+          "goalDifference": -16,
           "winRate": 0,
-          "goalsForAvg": 24.5,
-          "goalsAgainstAvg": 26,
-          "goalDifferenceAvg": -1.5
+          "goalsForAvg": 23,
+          "goalsAgainstAvg": 28.33,
+          "goalDifferenceAvg": -5.33
         },
         "recent": [
+          {
+            "id": 506426,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81916,
+              "name": "TSV ALTENHOLZ",
+              "clubId": "0gqip3x"
+            },
+            "goalsFor": 20,
+            "goalsAgainst": 33,
+            "result": "L"
+          },
           {
             "id": 506420,
             "date": "2026-10-04",
@@ -5776,6 +5663,17 @@
         ],
         "topScorers": [
           {
+            "playerId": "14tq93w",
+            "name": "Carlotta Klos",
+            "number": 10,
+            "games": 3,
+            "goals": 12,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 100
+          },
+          {
             "playerId": "1ukyvx6",
             "name": "Andrea Thiele",
             "number": 75,
@@ -5790,50 +5688,39 @@
             "playerId": "16b5d5l",
             "name": "Susanne Mueller",
             "number": 66,
-            "games": 2,
-            "goals": 8,
+            "games": 3,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 3.33,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "14tq93w",
-            "name": "Carlotta Klos",
-            "number": 10,
-            "games": 2,
-            "goals": 7,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1banvrf",
-            "name": "Michaela Torp",
-            "number": 9,
-            "games": 2,
-            "goals": 6,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": 100
           },
           {
             "playerId": "1u9e44l",
             "name": "Frida Wohlert",
             "number": 25,
-            "games": 1,
-            "goals": 5,
+            "games": 2,
+            "goals": 8,
             "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "18byhf8",
+            "name": "Finja Wenski",
+            "number": 16,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
+          "finishedMatches": 3,
+          "lineupMatches": 3,
           "percentage": 100
         }
       }
@@ -6042,19 +5929,33 @@
         "phaseName": "Kreisliga Frauen - Staffel C",
         "competition": "Kreisliga Frauen",
         "season": {
-          "games": 3,
-          "wins": 2,
+          "games": 4,
+          "wins": 3,
           "draws": 1,
           "losses": 0,
-          "goalsFor": 98,
-          "goalsAgainst": 68,
-          "goalDifference": 30,
-          "winRate": 66.7,
-          "goalsForAvg": 32.67,
-          "goalsAgainstAvg": 22.67,
-          "goalDifferenceAvg": 10
+          "goalsFor": 131,
+          "goalsAgainst": 88,
+          "goalDifference": 43,
+          "winRate": 75,
+          "goalsForAvg": 32.75,
+          "goalsAgainstAvg": 22,
+          "goalDifferenceAvg": 10.75
         },
         "recent": [
+          {
+            "id": 506426,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81926,
+              "name": "MTV Dänischenhagen III",
+              "clubId": "1e2ucwp"
+            },
+            "goalsFor": 33,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
           {
             "id": 506415,
             "date": "2026-09-19",
@@ -6103,11 +6004,22 @@
             "playerId": "0innuqv",
             "name": "Annbritt Besteher",
             "number": 21,
-            "games": 3,
-            "goals": 55,
+            "games": 4,
+            "goals": 65,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 18.33,
+            "goalsPerGame": 16.25,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "13umyyf",
+            "name": "Pauline Bruch",
+            "number": 29,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
             "sevenMeterPercentage": null
           },
           {
@@ -6122,15 +6034,15 @@
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "13umyyf",
-            "name": "Pauline Bruch",
-            "number": 29,
-            "games": 3,
+            "playerId": "1sf82tr",
+            "name": "Julia Jürgensen",
+            "number": 18,
+            "games": 4,
             "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
-            "sevenMeterPercentage": null
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 2.5,
+            "sevenMeterPercentage": 66.7
           },
           {
             "playerId": "183pprr",
@@ -6142,22 +6054,11 @@
             "sevenMeterAttempts": 1,
             "goalsPerGame": 2.5,
             "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1sf82tr",
-            "name": "Julia Jürgensen",
-            "number": 18,
-            "games": 3,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.67,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -6245,7 +6146,7 @@
             "isHome": true,
             "opponent": {
               "id": 81964,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 28,
@@ -6826,7 +6727,7 @@
             "isHome": true,
             "opponent": {
               "id": 82149,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 17,
@@ -8376,19 +8277,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "draws": 0,
           "losses": 2,
-          "goalsFor": 113,
-          "goalsAgainst": 112,
-          "goalDifference": 1,
-          "winRate": 50,
-          "goalsForAvg": 28.25,
-          "goalsAgainstAvg": 28,
-          "goalDifferenceAvg": 0.25
+          "goalsFor": 143,
+          "goalsAgainst": 126,
+          "goalDifference": 17,
+          "winRate": 60,
+          "goalsForAvg": 28.6,
+          "goalsAgainstAvg": 25.2,
+          "goalDifferenceAvg": 3.4
         },
         "recent": [
+          {
+            "id": 514383,
+            "date": "2026-10-31",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81850,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 14,
+            "result": "W"
+          },
           {
             "id": 514364,
             "date": "2026-10-24",
@@ -8438,7 +8353,7 @@
             "isHome": true,
             "opponent": {
               "id": 81851,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 29,
@@ -8451,23 +8366,34 @@
             "playerId": "1h8wlhp",
             "name": "Franka Kabbe",
             "number": 8,
-            "games": 3,
-            "goals": 29,
+            "games": 4,
+            "goals": 42,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 9.67,
+            "goalsPerGame": 10.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0m3s0no",
             "name": "Valeska Lena Krohn",
             "number": 2,
-            "games": 4,
-            "goals": 25,
-            "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 12,
-            "goalsPerGame": 6.25,
-            "sevenMeterPercentage": 83.3
+            "games": 5,
+            "goals": 31,
+            "sevenMeterGoals": 13,
+            "sevenMeterAttempts": 17,
+            "goalsPerGame": 6.2,
+            "sevenMeterPercentage": 76.5
+          },
+          {
+            "playerId": "0ievqpl",
+            "name": "Anneke Rissmann",
+            "number": 4,
+            "games": 5,
+            "goals": 17,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.4,
+            "sevenMeterPercentage": null
           },
           {
             "playerId": "0tkwyl2",
@@ -8481,31 +8407,20 @@
             "sevenMeterPercentage": 100
           },
           {
-            "playerId": "0ievqpl",
-            "name": "Anneke Rissmann",
-            "number": 4,
-            "games": 4,
-            "goals": 11,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.75,
-            "sevenMeterPercentage": null
-          },
-          {
             "playerId": "06hkfad",
             "name": "Paulina Lilith Boldt",
             "number": 10,
-            "games": 4,
+            "games": 5,
             "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -8730,19 +8645,33 @@
         "phaseName": "mJB-ROL-2",
         "competition": "Regionsoberliga MÄNNLICH",
         "season": {
-          "games": 5,
-          "wins": 2,
+          "games": 6,
+          "wins": 3,
           "draws": 0,
           "losses": 3,
-          "goalsFor": 133,
-          "goalsAgainst": 150,
-          "goalDifference": -17,
-          "winRate": 40,
-          "goalsForAvg": 26.6,
+          "goalsFor": 165,
+          "goalsAgainst": 180,
+          "goalDifference": -15,
+          "winRate": 50,
+          "goalsForAvg": 27.5,
           "goalsAgainstAvg": 30,
-          "goalDifferenceAvg": -3.4
+          "goalDifferenceAvg": -2.5
         },
         "recent": [
+          {
+            "id": 417881,
+            "date": "2026-10-31",
+            "time": "18:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87229,
+              "name": "ATSV STOCKELSDORF",
+              "clubId": "0xo2eha"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 30,
+            "result": "W"
+          },
           {
             "id": 417874,
             "date": "2026-10-04",
@@ -8798,20 +8727,6 @@
             "goalsFor": 35,
             "goalsAgainst": 27,
             "result": "W"
-          },
-          {
-            "id": 417842,
-            "date": "2026-08-30",
-            "time": "14:45",
-            "isHome": true,
-            "opponent": {
-              "id": 82010,
-              "name": "SG GLINDE-REINBEK",
-              "clubId": "1muw0yi"
-            },
-            "goalsFor": 23,
-            "goalsAgainst": 31,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -8819,61 +8734,61 @@
             "playerId": "1w4hacs",
             "name": "Miko Gerhard Braun",
             "number": 5,
-            "games": 5,
-            "goals": 40,
-            "sevenMeterGoals": 16,
-            "sevenMeterAttempts": 16,
-            "goalsPerGame": 8,
+            "games": 6,
+            "goals": 51,
+            "sevenMeterGoals": 19,
+            "sevenMeterAttempts": 19,
+            "goalsPerGame": 8.5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "11w63ix",
             "name": "Finn Melvin Gleu",
             "number": 3,
-            "games": 5,
-            "goals": 29,
+            "games": 6,
+            "goals": 38,
             "sevenMeterGoals": 2,
             "sevenMeterAttempts": 2,
-            "goalsPerGame": 5.8,
+            "goalsPerGame": 6.33,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "059eyuj",
             "name": "Jano Tiedemann",
             "number": 13,
-            "games": 5,
-            "goals": 20,
+            "games": 6,
+            "goals": 26,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 4.33,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0q1blnu",
             "name": "Bennet Henke",
             "number": 10,
-            "games": 5,
+            "games": 6,
             "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2,
+            "goalsPerGame": 1.67,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1ssttdt",
             "name": "Lennart Schlapper",
             "number": 66,
-            "games": 5,
-            "goals": 8,
+            "games": 6,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.6,
+            "goalsPerGame": 1.67,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -9307,19 +9222,33 @@
         "phaseName": "Kreisoberliga Männer West",
         "competition": "Kreisoberliga Männer",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
           "draws": 1,
-          "losses": 1,
-          "goalsFor": 79,
-          "goalsAgainst": 81,
-          "goalDifference": -2,
-          "winRate": 33.3,
-          "goalsForAvg": 26.33,
-          "goalsAgainstAvg": 27,
-          "goalDifferenceAvg": -0.67
+          "losses": 2,
+          "goalsFor": 100,
+          "goalsAgainst": 111,
+          "goalDifference": -11,
+          "winRate": 25,
+          "goalsForAvg": 25,
+          "goalsAgainstAvg": 27.75,
+          "goalDifferenceAvg": -2.75
         },
         "recent": [
+          {
+            "id": 504572,
+            "date": "2026-10-31",
+            "time": "19:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81684,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 30,
+            "result": "L"
+          },
           {
             "id": 504566,
             "date": "2026-10-03",
@@ -9341,7 +9270,7 @@
             "isHome": true,
             "opponent": {
               "id": 81685,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 25,
@@ -9368,62 +9297,62 @@
             "playerId": "19resg0",
             "name": "Tim Gallert",
             "number": 24,
-            "games": 2,
-            "goals": 11,
+            "games": 3,
+            "goals": 13,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.5,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4.33,
+            "sevenMeterPercentage": 0
           },
           {
-            "playerId": "0uxciea",
-            "name": "Collin Hornung",
-            "number": 54,
-            "games": 2,
-            "goals": 7,
+            "playerId": "1qah61f",
+            "name": "Nicklas Kruse",
+            "number": 36,
+            "games": 3,
+            "goals": 10,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3.33,
+            "sevenMeterPercentage": 0
           },
           {
             "playerId": "03ez6t1",
             "name": "Kai Kruppa",
             "number": 15,
-            "games": 2,
-            "goals": 6,
+            "games": 3,
+            "goals": 9,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
             "goalsPerGame": 3,
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "19b6l7k",
-            "name": "Bjarne Lars Strüven",
-            "number": 4,
-            "games": 1,
-            "goals": 5,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
+            "playerId": "0uxciea",
+            "name": "Collin Hornung",
+            "number": 54,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
           },
           {
-            "playerId": "05cio09",
-            "name": "Malte Schnell",
-            "number": 8,
-            "games": 1,
-            "goals": 5,
+            "playerId": "18feznt",
+            "name": "Jannes Gajewski",
+            "number": 77,
+            "games": 2,
+            "goals": 7,
             "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": 50
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 2,
-          "percentage": 66.7
+          "finishedMatches": 4,
+          "lineupMatches": 3,
+          "percentage": 75
         }
       }
     },
@@ -10598,6 +10527,160 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81697",
+        "name": "SG PAHLHUDE/TELLINGSTEDT",
+        "phaseId": "12963",
+        "phaseName": "Kreisoberliga Männer West",
+        "competition": "Kreisoberliga Männer",
+        "season": {
+          "games": 6,
+          "wins": 0,
+          "draws": 0,
+          "losses": 6,
+          "goalsFor": 134,
+          "goalsAgainst": 173,
+          "goalDifference": -39,
+          "winRate": 0,
+          "goalsForAvg": 22.33,
+          "goalsAgainstAvg": 28.83,
+          "goalDifferenceAvg": -6.5
+        },
+        "recent": [
+          {
+            "id": 504575,
+            "date": "2026-10-30",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81693,
+              "name": "TSV Weddingstedt II",
+              "clubId": "1ehf4g9"
+            },
+            "goalsFor": 19,
+            "goalsAgainst": 23,
+            "result": "L"
+          },
+          {
+            "id": 504589,
+            "date": "2026-10-25",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81683,
+              "name": "MTV HERZHORN II",
+              "clubId": "0k0b7v4"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 26,
+            "result": "L"
+          },
+          {
+            "id": 504550,
+            "date": "2026-10-15",
+            "time": "19:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81692,
+              "name": "SG DITHMARSCHEN SÜD",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 26,
+            "goalsAgainst": 30,
+            "result": "L"
+          },
+          {
+            "id": 504567,
+            "date": "2026-10-03",
+            "time": "20:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81694,
+              "name": "TuRa Meldorf",
+              "clubId": "1gz2zvt"
+            },
+            "goalsFor": 22,
+            "goalsAgainst": 29,
+            "result": "L"
+          },
+          {
+            "id": 504563,
+            "date": "2026-09-27",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81719,
+              "name": "TSV Ellerau",
+              "clubId": "1u01tx2"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 37,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "03grazi",
+            "name": "Mirko Petersen",
+            "number": 33,
+            "games": 6,
+            "goals": 40,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 6.67,
+            "sevenMeterPercentage": 63.6
+          },
+          {
+            "playerId": "1v1507y",
+            "name": "Tim Rathmann",
+            "number": 7,
+            "games": 4,
+            "goals": 19,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1b3cbpe",
+            "name": "Ole Dreyer",
+            "number": 87,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "090548h",
+            "name": "Ole Papenfuß",
+            "number": 10,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 87.5
+          },
+          {
+            "playerId": "1a1uu9j",
+            "name": "Mathis Ewers",
+            "number": 11,
+            "games": 5,
+            "goals": 14,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 2.8,
+            "sevenMeterPercentage": 100
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 6,
+          "lineupMatches": 6,
+          "percentage": 100
+        }
       }
     },
     {
@@ -11764,7 +11847,7 @@
       },
       "away": {
         "id": 81964,
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "clubId": "1qw4nbk"
       },
       "result": {
@@ -12412,7 +12495,7 @@
             "isHome": false,
             "opponent": {
               "id": 82149,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 23,
@@ -13988,7 +14071,7 @@
       },
       "away": {
         "id": 81690,
-        "name": "HSG Störtal Hummeln II",
+        "name": "HSG STÖRTAL HUMMELN II",
         "clubId": "1qw4nbk"
       },
       "result": {
@@ -14588,7 +14671,7 @@
       "time": "12:30",
       "home": {
         "id": 82149,
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "clubId": "1qw4nbk"
       },
       "away": {
@@ -17239,6 +17322,160 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81697",
+        "name": "SG PAHLHUDE/TELLINGSTEDT",
+        "phaseId": "12963",
+        "phaseName": "Kreisoberliga Männer West",
+        "competition": "Kreisoberliga Männer",
+        "season": {
+          "games": 6,
+          "wins": 0,
+          "draws": 0,
+          "losses": 6,
+          "goalsFor": 134,
+          "goalsAgainst": 173,
+          "goalDifference": -39,
+          "winRate": 0,
+          "goalsForAvg": 22.33,
+          "goalsAgainstAvg": 28.83,
+          "goalDifferenceAvg": -6.5
+        },
+        "recent": [
+          {
+            "id": 504575,
+            "date": "2026-10-30",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81693,
+              "name": "TSV Weddingstedt II",
+              "clubId": "1ehf4g9"
+            },
+            "goalsFor": 19,
+            "goalsAgainst": 23,
+            "result": "L"
+          },
+          {
+            "id": 504589,
+            "date": "2026-10-25",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81683,
+              "name": "MTV HERZHORN II",
+              "clubId": "0k0b7v4"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 26,
+            "result": "L"
+          },
+          {
+            "id": 504550,
+            "date": "2026-10-15",
+            "time": "19:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81692,
+              "name": "SG DITHMARSCHEN SÜD",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 26,
+            "goalsAgainst": 30,
+            "result": "L"
+          },
+          {
+            "id": 504567,
+            "date": "2026-10-03",
+            "time": "20:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81694,
+              "name": "TuRa Meldorf",
+              "clubId": "1gz2zvt"
+            },
+            "goalsFor": 22,
+            "goalsAgainst": 29,
+            "result": "L"
+          },
+          {
+            "id": 504563,
+            "date": "2026-09-27",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81719,
+              "name": "TSV Ellerau",
+              "clubId": "1u01tx2"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 37,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "03grazi",
+            "name": "Mirko Petersen",
+            "number": 33,
+            "games": 6,
+            "goals": 40,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 6.67,
+            "sevenMeterPercentage": 63.6
+          },
+          {
+            "playerId": "1v1507y",
+            "name": "Tim Rathmann",
+            "number": 7,
+            "games": 4,
+            "goals": 19,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1b3cbpe",
+            "name": "Ole Dreyer",
+            "number": 87,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "090548h",
+            "name": "Ole Papenfuß",
+            "number": 10,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 87.5
+          },
+          {
+            "playerId": "1a1uu9j",
+            "name": "Mathis Ewers",
+            "number": 11,
+            "games": 5,
+            "goals": 14,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 2.8,
+            "sevenMeterPercentage": 100
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 6,
+          "lineupMatches": 6,
+          "percentage": 100
+        }
       }
     },
     {
@@ -17419,19 +17656,33 @@
         "phaseName": "wJA-ROL-3",
         "competition": "wJA-Regionsoberliga",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
           "draws": 0,
-          "losses": 2,
-          "goalsFor": 94,
-          "goalsAgainst": 105,
-          "goalDifference": -11,
-          "winRate": 33.3,
-          "goalsForAvg": 31.33,
-          "goalsAgainstAvg": 35,
-          "goalDifferenceAvg": -3.67
+          "losses": 3,
+          "goalsFor": 109,
+          "goalsAgainst": 152,
+          "goalDifference": -43,
+          "winRate": 25,
+          "goalsForAvg": 27.25,
+          "goalsAgainstAvg": 38,
+          "goalDifferenceAvg": -10.75
         },
         "recent": [
+          {
+            "id": 598489,
+            "date": "2026-10-31",
+            "time": "16:45",
+            "isHome": false,
+            "opponent": {
+              "id": 87216,
+              "name": "TUS FELDE",
+              "clubId": "184fuvr"
+            },
+            "goalsFor": 15,
+            "goalsAgainst": 47,
+            "result": "L"
+          },
           {
             "id": 598486,
             "date": "2026-10-04",
@@ -17480,22 +17731,22 @@
             "playerId": "0bgsqec",
             "name": "Charlotte Karla Ratjen",
             "number": 3,
-            "games": 3,
-            "goals": 34,
+            "games": 4,
+            "goals": 39,
             "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 10,
-            "goalsPerGame": 11.33,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 9.75,
+            "sevenMeterPercentage": 90.9
           },
           {
             "playerId": "1xbga1g",
             "name": "Amelie Brüggen",
             "number": 13,
-            "games": 3,
-            "goals": 29,
+            "games": 4,
+            "goals": 31,
             "sevenMeterGoals": 3,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 9.67,
+            "goalsPerGame": 7.75,
             "sevenMeterPercentage": 100
           },
           {
@@ -17510,31 +17761,31 @@
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "1e61w3j",
-            "name": "Jette Annemarie Grage",
-            "number": 16,
-            "games": 3,
-            "goals": 5,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 1.67,
-            "sevenMeterPercentage": 100
-          },
-          {
             "playerId": "1gxc4ed",
             "name": "Maleen Julia Jeß",
             "number": 8,
-            "games": 3,
-            "goals": 5,
+            "games": 4,
+            "goals": 7,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.67,
+            "goalsPerGame": 1.75,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0689vdu",
+            "name": "Nike Ahmling",
+            "number": 15,
+            "games": 4,
+            "goals": 6,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 1.5,
+            "sevenMeterPercentage": 66.7
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -17588,19 +17839,33 @@
         "phaseName": "Kreisliga Frauen - Staffel C",
         "competition": "Kreisliga Frauen",
         "season": {
-          "games": 3,
-          "wins": 2,
+          "games": 4,
+          "wins": 3,
           "draws": 1,
           "losses": 0,
-          "goalsFor": 98,
-          "goalsAgainst": 68,
-          "goalDifference": 30,
-          "winRate": 66.7,
-          "goalsForAvg": 32.67,
-          "goalsAgainstAvg": 22.67,
-          "goalDifferenceAvg": 10
+          "goalsFor": 131,
+          "goalsAgainst": 88,
+          "goalDifference": 43,
+          "winRate": 75,
+          "goalsForAvg": 32.75,
+          "goalsAgainstAvg": 22,
+          "goalDifferenceAvg": 10.75
         },
         "recent": [
+          {
+            "id": 506426,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81926,
+              "name": "MTV Dänischenhagen III",
+              "clubId": "1e2ucwp"
+            },
+            "goalsFor": 33,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
           {
             "id": 506415,
             "date": "2026-09-19",
@@ -17649,11 +17914,22 @@
             "playerId": "0innuqv",
             "name": "Annbritt Besteher",
             "number": 21,
-            "games": 3,
-            "goals": 55,
+            "games": 4,
+            "goals": 65,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 18.33,
+            "goalsPerGame": 16.25,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "13umyyf",
+            "name": "Pauline Bruch",
+            "number": 29,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
             "sevenMeterPercentage": null
           },
           {
@@ -17668,15 +17944,15 @@
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "13umyyf",
-            "name": "Pauline Bruch",
-            "number": 29,
-            "games": 3,
+            "playerId": "1sf82tr",
+            "name": "Julia Jürgensen",
+            "number": 18,
+            "games": 4,
             "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
-            "sevenMeterPercentage": null
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 2.5,
+            "sevenMeterPercentage": 66.7
           },
           {
             "playerId": "183pprr",
@@ -17688,22 +17964,11 @@
             "sevenMeterAttempts": 1,
             "goalsPerGame": 2.5,
             "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1sf82tr",
-            "name": "Julia Jürgensen",
-            "number": 18,
-            "games": 3,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.67,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -18272,7 +18537,7 @@
             "isHome": true,
             "opponent": {
               "id": 81964,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 28,
@@ -19184,19 +19449,33 @@
         "phaseName": "wJA-ROL-4",
         "competition": "wJA-Regionsoberliga",
         "season": {
-          "games": 3,
-          "wins": 3,
+          "games": 4,
+          "wins": 4,
           "draws": 0,
           "losses": 0,
-          "goalsFor": 128,
-          "goalsAgainst": 73,
-          "goalDifference": 55,
+          "goalsFor": 175,
+          "goalsAgainst": 99,
+          "goalDifference": 76,
           "winRate": 100,
-          "goalsForAvg": 42.67,
-          "goalsAgainstAvg": 24.33,
-          "goalDifferenceAvg": 18.33
+          "goalsForAvg": 43.75,
+          "goalsAgainstAvg": 24.75,
+          "goalDifferenceAvg": 19
         },
         "recent": [
+          {
+            "id": 508093,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81973,
+              "name": "DHG Sandesneben",
+              "clubId": "0q0phxv"
+            },
+            "goalsFor": 47,
+            "goalsAgainst": 26,
+            "result": "W"
+          },
           {
             "id": 508089,
             "date": "2026-09-27",
@@ -19245,61 +19524,61 @@
             "playerId": "04h2770",
             "name": "Greta Maria Irrek",
             "number": 6,
-            "games": 3,
-            "goals": 33,
+            "games": 4,
+            "goals": 39,
             "sevenMeterGoals": 7,
             "sevenMeterAttempts": 7,
-            "goalsPerGame": 11,
+            "goalsPerGame": 9.75,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1624yia",
             "name": "Lilli Annabell Back",
             "number": 16,
-            "games": 3,
-            "goals": 19,
+            "games": 4,
+            "goals": 24,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 6.33,
+            "goalsPerGame": 6,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0s8n8ru",
+            "name": "Zeren Fidan",
+            "number": 10,
+            "games": 4,
+            "goals": 19,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": 0
           },
           {
             "playerId": "0mrsl60",
             "name": "Sümeyra Temirci",
             "number": 15,
-            "games": 3,
-            "goals": 13,
+            "games": 4,
+            "goals": 16,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1belhfn",
-            "name": "Greta Mahnecke",
-            "number": 5,
-            "games": 3,
-            "goals": 11,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.67,
+            "goalsPerGame": 4,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0d2h3w4",
             "name": "Luna Hausendorf",
             "number": 9,
-            "games": 3,
-            "goals": 11,
+            "games": 4,
+            "goals": 13,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.67,
+            "goalsPerGame": 3.25,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -19396,7 +19675,7 @@
       "time": "13:20",
       "home": {
         "id": 81964,
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "clubId": "1qw4nbk"
       },
       "away": {
@@ -19751,19 +20030,33 @@
         "phaseName": "Kreisliga Frauen - Staffel C",
         "competition": "Kreisliga Frauen",
         "season": {
-          "games": 2,
+          "games": 3,
           "wins": 0,
           "draws": 0,
-          "losses": 2,
-          "goalsFor": 49,
-          "goalsAgainst": 52,
-          "goalDifference": -3,
+          "losses": 3,
+          "goalsFor": 69,
+          "goalsAgainst": 85,
+          "goalDifference": -16,
           "winRate": 0,
-          "goalsForAvg": 24.5,
-          "goalsAgainstAvg": 26,
-          "goalDifferenceAvg": -1.5
+          "goalsForAvg": 23,
+          "goalsAgainstAvg": 28.33,
+          "goalDifferenceAvg": -5.33
         },
         "recent": [
+          {
+            "id": 506426,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81916,
+              "name": "TSV ALTENHOLZ",
+              "clubId": "0gqip3x"
+            },
+            "goalsFor": 20,
+            "goalsAgainst": 33,
+            "result": "L"
+          },
           {
             "id": 506420,
             "date": "2026-10-04",
@@ -19795,6 +20088,17 @@
         ],
         "topScorers": [
           {
+            "playerId": "14tq93w",
+            "name": "Carlotta Klos",
+            "number": 10,
+            "games": 3,
+            "goals": 12,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 100
+          },
+          {
             "playerId": "1ukyvx6",
             "name": "Andrea Thiele",
             "number": 75,
@@ -19809,50 +20113,39 @@
             "playerId": "16b5d5l",
             "name": "Susanne Mueller",
             "number": 66,
-            "games": 2,
-            "goals": 8,
+            "games": 3,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 3.33,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "14tq93w",
-            "name": "Carlotta Klos",
-            "number": 10,
-            "games": 2,
-            "goals": 7,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1banvrf",
-            "name": "Michaela Torp",
-            "number": 9,
-            "games": 2,
-            "goals": 6,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": 100
           },
           {
             "playerId": "1u9e44l",
             "name": "Frida Wohlert",
             "number": 25,
-            "games": 1,
-            "goals": 5,
+            "games": 2,
+            "goals": 8,
             "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "18byhf8",
+            "name": "Finja Wenski",
+            "number": 16,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 2,
-          "lineupMatches": 2,
+          "finishedMatches": 3,
+          "lineupMatches": 3,
           "percentage": 100
         }
       }
@@ -19983,7 +20276,7 @@
             "isHome": true,
             "opponent": {
               "id": 81690,
-              "name": "HSG Störtal Hummeln II",
+              "name": "HSG STÖRTAL HUMMELN II",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 30,
@@ -20527,19 +20820,33 @@
         "phaseName": "wJA-ROL-3",
         "competition": "wJA-Regionsoberliga",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
           "draws": 0,
-          "losses": 2,
-          "goalsFor": 94,
-          "goalsAgainst": 105,
-          "goalDifference": -11,
-          "winRate": 33.3,
-          "goalsForAvg": 31.33,
-          "goalsAgainstAvg": 35,
-          "goalDifferenceAvg": -3.67
+          "losses": 3,
+          "goalsFor": 109,
+          "goalsAgainst": 152,
+          "goalDifference": -43,
+          "winRate": 25,
+          "goalsForAvg": 27.25,
+          "goalsAgainstAvg": 38,
+          "goalDifferenceAvg": -10.75
         },
         "recent": [
+          {
+            "id": 598489,
+            "date": "2026-10-31",
+            "time": "16:45",
+            "isHome": false,
+            "opponent": {
+              "id": 87216,
+              "name": "TUS FELDE",
+              "clubId": "184fuvr"
+            },
+            "goalsFor": 15,
+            "goalsAgainst": 47,
+            "result": "L"
+          },
           {
             "id": 598486,
             "date": "2026-10-04",
@@ -20588,22 +20895,22 @@
             "playerId": "0bgsqec",
             "name": "Charlotte Karla Ratjen",
             "number": 3,
-            "games": 3,
-            "goals": 34,
+            "games": 4,
+            "goals": 39,
             "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 10,
-            "goalsPerGame": 11.33,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 9.75,
+            "sevenMeterPercentage": 90.9
           },
           {
             "playerId": "1xbga1g",
             "name": "Amelie Brüggen",
             "number": 13,
-            "games": 3,
-            "goals": 29,
+            "games": 4,
+            "goals": 31,
             "sevenMeterGoals": 3,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 9.67,
+            "goalsPerGame": 7.75,
             "sevenMeterPercentage": 100
           },
           {
@@ -20618,31 +20925,31 @@
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "1e61w3j",
-            "name": "Jette Annemarie Grage",
-            "number": 16,
-            "games": 3,
-            "goals": 5,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 1.67,
-            "sevenMeterPercentage": 100
-          },
-          {
             "playerId": "1gxc4ed",
             "name": "Maleen Julia Jeß",
             "number": 8,
-            "games": 3,
-            "goals": 5,
+            "games": 4,
+            "goals": 7,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.67,
+            "goalsPerGame": 1.75,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0689vdu",
+            "name": "Nike Ahmling",
+            "number": 15,
+            "games": 4,
+            "goals": 6,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 1.5,
+            "sevenMeterPercentage": 66.7
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -20822,7 +21129,7 @@
       "time": "15:10",
       "home": {
         "id": 81851,
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "clubId": "1qw4nbk"
       },
       "away": {
@@ -20860,7 +21167,7 @@
       },
       "opponentProfile": {
         "teamId": "81851",
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "phaseId": "12967",
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
@@ -21160,7 +21467,7 @@
       "time": "17:00",
       "home": {
         "id": 81685,
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "clubId": "1qw4nbk"
       },
       "away": {
@@ -21198,7 +21505,7 @@
       },
       "opponentProfile": {
         "teamId": "81685",
-        "name": "HSG Störtal Hummeln",
+        "name": "HSG STÖRTAL HUMMELN",
         "phaseId": "12963",
         "phaseName": "Kreisoberliga Männer West",
         "competition": "Kreisoberliga Männer",
@@ -22697,19 +23004,33 @@
         "phaseName": "Kreisoberliga Männer West",
         "competition": "Kreisoberliga Männer",
         "season": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "draws": 0,
           "losses": 2,
-          "goalsFor": 107,
-          "goalsAgainst": 98,
-          "goalDifference": 9,
-          "winRate": 50,
-          "goalsForAvg": 26.75,
-          "goalsAgainstAvg": 24.5,
-          "goalDifferenceAvg": 2.25
+          "goalsFor": 135,
+          "goalsAgainst": 120,
+          "goalDifference": 15,
+          "winRate": 60,
+          "goalsForAvg": 27,
+          "goalsAgainstAvg": 24,
+          "goalDifferenceAvg": 3
         },
         "recent": [
+          {
+            "id": 504571,
+            "date": "2026-10-31",
+            "time": "19:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81692,
+              "name": "SG DITHMARSCHEN SÜD",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 22,
+            "result": "W"
+          },
           {
             "id": 504589,
             "date": "2026-10-25",
@@ -22759,7 +23080,7 @@
             "isHome": true,
             "opponent": {
               "id": 81685,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 39,
@@ -22772,22 +23093,44 @@
             "playerId": "02252lx",
             "name": "Lukas Johannes Tzaneros",
             "number": 22,
-            "games": 4,
-            "goals": 28,
-            "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 12,
-            "goalsPerGame": 7,
-            "sevenMeterPercentage": 83.3
+            "games": 5,
+            "goals": 37,
+            "sevenMeterGoals": 11,
+            "sevenMeterAttempts": 15,
+            "goalsPerGame": 7.4,
+            "sevenMeterPercentage": 73.3
           },
           {
             "playerId": "15xy931",
             "name": "Niklas Stucke",
             "number": 11,
-            "games": 4,
-            "goals": 13,
+            "games": 5,
+            "goals": 17,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.25,
+            "goalsPerGame": 3.4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0khrp3c",
+            "name": "Marcel Reimers",
+            "number": 5,
+            "games": 5,
+            "goals": 13,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 2.6,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "035fs6a",
+            "name": "Felix Kähler",
+            "number": 7,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
             "sevenMeterPercentage": null
           },
           {
@@ -22800,33 +23143,11 @@
             "sevenMeterAttempts": 0,
             "goalsPerGame": 3.67,
             "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0khrp3c",
-            "name": "Marcel Reimers",
-            "number": 5,
-            "games": 4,
-            "goals": 11,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2.75,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "035fs6a",
-            "name": "Felix Kähler",
-            "number": 7,
-            "games": 3,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -23642,19 +23963,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 3,
-          "wins": 2,
+          "games": 4,
+          "wins": 3,
           "draws": 0,
           "losses": 1,
-          "goalsFor": 81,
-          "goalsAgainst": 67,
-          "goalDifference": 14,
-          "winRate": 66.7,
-          "goalsForAvg": 27,
-          "goalsAgainstAvg": 22.33,
-          "goalDifferenceAvg": 4.67
+          "goalsFor": 122,
+          "goalsAgainst": 80,
+          "goalDifference": 42,
+          "winRate": 75,
+          "goalsForAvg": 30.5,
+          "goalsAgainstAvg": 20,
+          "goalDifferenceAvg": 10.5
         },
         "recent": [
+          {
+            "id": 514382,
+            "date": "2026-10-31",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81859,
+              "name": "SG DITHMARSCHEN SÜD II",
+              "clubId": "0v7ucet"
+            },
+            "goalsFor": 41,
+            "goalsAgainst": 13,
+            "result": "W"
+          },
           {
             "id": 514364,
             "date": "2026-10-24",
@@ -23700,44 +24035,33 @@
         ],
         "topScorers": [
           {
-            "playerId": "1r4kobj",
-            "name": "Annika Scheller",
-            "number": 10,
-            "games": 3,
-            "goals": 20,
-            "sevenMeterGoals": 5,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 6.67,
-            "sevenMeterPercentage": 71.4
-          },
-          {
             "playerId": "0c0maek",
             "name": "Stefanie Wolff",
             "number": 5,
-            "games": 3,
-            "goals": 16,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 5.33,
-            "sevenMeterPercentage": 85.7
+            "games": 4,
+            "goals": 25,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 6.25,
+            "sevenMeterPercentage": 81.8
+          },
+          {
+            "playerId": "1r4kobj",
+            "name": "Annika Scheller",
+            "number": 10,
+            "games": 4,
+            "goals": 21,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 5.25,
+            "sevenMeterPercentage": 62.5
           },
           {
             "playerId": "1eunu3w",
             "name": "Dorthe Hohnsbehn",
             "number": 6,
-            "games": 3,
-            "goals": 13,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "19jdnrc",
-            "name": "Nicole Marttila",
-            "number": 29,
-            "games": 2,
-            "goals": 9,
+            "games": 4,
+            "goals": 18,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
             "goalsPerGame": 4.5,
@@ -23747,17 +24071,28 @@
             "playerId": "10ahuay",
             "name": "Merle Sieck-Pahl",
             "number": 20,
-            "games": 2,
-            "goals": 8,
+            "games": 3,
+            "goals": 14,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 4.67,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1k5d7zq",
+            "name": "Janine Herbst",
+            "number": 4,
+            "games": 2,
+            "goals": 11,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": 100
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -24263,19 +24598,33 @@
         "phaseName": "mJB-ROL-2",
         "competition": "Regionsoberliga MÄNNLICH",
         "season": {
-          "games": 5,
-          "wins": 2,
+          "games": 6,
+          "wins": 3,
           "draws": 0,
           "losses": 3,
-          "goalsFor": 133,
-          "goalsAgainst": 150,
-          "goalDifference": -17,
-          "winRate": 40,
-          "goalsForAvg": 26.6,
+          "goalsFor": 165,
+          "goalsAgainst": 180,
+          "goalDifference": -15,
+          "winRate": 50,
+          "goalsForAvg": 27.5,
           "goalsAgainstAvg": 30,
-          "goalDifferenceAvg": -3.4
+          "goalDifferenceAvg": -2.5
         },
         "recent": [
+          {
+            "id": 417881,
+            "date": "2026-10-31",
+            "time": "18:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87229,
+              "name": "ATSV STOCKELSDORF",
+              "clubId": "0xo2eha"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 30,
+            "result": "W"
+          },
           {
             "id": 417874,
             "date": "2026-10-04",
@@ -24331,20 +24680,6 @@
             "goalsFor": 35,
             "goalsAgainst": 27,
             "result": "W"
-          },
-          {
-            "id": 417842,
-            "date": "2026-08-30",
-            "time": "14:45",
-            "isHome": true,
-            "opponent": {
-              "id": 82010,
-              "name": "SG GLINDE-REINBEK",
-              "clubId": "1muw0yi"
-            },
-            "goalsFor": 23,
-            "goalsAgainst": 31,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -24352,61 +24687,61 @@
             "playerId": "1w4hacs",
             "name": "Miko Gerhard Braun",
             "number": 5,
-            "games": 5,
-            "goals": 40,
-            "sevenMeterGoals": 16,
-            "sevenMeterAttempts": 16,
-            "goalsPerGame": 8,
+            "games": 6,
+            "goals": 51,
+            "sevenMeterGoals": 19,
+            "sevenMeterAttempts": 19,
+            "goalsPerGame": 8.5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "11w63ix",
             "name": "Finn Melvin Gleu",
             "number": 3,
-            "games": 5,
-            "goals": 29,
+            "games": 6,
+            "goals": 38,
             "sevenMeterGoals": 2,
             "sevenMeterAttempts": 2,
-            "goalsPerGame": 5.8,
+            "goalsPerGame": 6.33,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "059eyuj",
             "name": "Jano Tiedemann",
             "number": 13,
-            "games": 5,
-            "goals": 20,
+            "games": 6,
+            "goals": 26,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 4.33,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0q1blnu",
             "name": "Bennet Henke",
             "number": 10,
-            "games": 5,
+            "games": 6,
             "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2,
+            "goalsPerGame": 1.67,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1ssttdt",
             "name": "Lennart Schlapper",
             "number": 66,
-            "games": 5,
-            "goals": 8,
+            "games": 6,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.6,
+            "goalsPerGame": 1.67,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -24460,19 +24795,33 @@
         "phaseName": "Kreisoberliga Männer West",
         "competition": "Kreisoberliga Männer",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
           "draws": 1,
-          "losses": 1,
-          "goalsFor": 79,
-          "goalsAgainst": 81,
-          "goalDifference": -2,
-          "winRate": 33.3,
-          "goalsForAvg": 26.33,
-          "goalsAgainstAvg": 27,
-          "goalDifferenceAvg": -0.67
+          "losses": 2,
+          "goalsFor": 100,
+          "goalsAgainst": 111,
+          "goalDifference": -11,
+          "winRate": 25,
+          "goalsForAvg": 25,
+          "goalsAgainstAvg": 27.75,
+          "goalDifferenceAvg": -2.75
         },
         "recent": [
+          {
+            "id": 504572,
+            "date": "2026-10-31",
+            "time": "19:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81684,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 30,
+            "result": "L"
+          },
           {
             "id": 504566,
             "date": "2026-10-03",
@@ -24494,7 +24843,7 @@
             "isHome": true,
             "opponent": {
               "id": 81685,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 25,
@@ -24521,62 +24870,62 @@
             "playerId": "19resg0",
             "name": "Tim Gallert",
             "number": 24,
-            "games": 2,
-            "goals": 11,
+            "games": 3,
+            "goals": 13,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.5,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4.33,
+            "sevenMeterPercentage": 0
           },
           {
-            "playerId": "0uxciea",
-            "name": "Collin Hornung",
-            "number": 54,
-            "games": 2,
-            "goals": 7,
+            "playerId": "1qah61f",
+            "name": "Nicklas Kruse",
+            "number": 36,
+            "games": 3,
+            "goals": 10,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3.33,
+            "sevenMeterPercentage": 0
           },
           {
             "playerId": "03ez6t1",
             "name": "Kai Kruppa",
             "number": 15,
-            "games": 2,
-            "goals": 6,
+            "games": 3,
+            "goals": 9,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
             "goalsPerGame": 3,
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "19b6l7k",
-            "name": "Bjarne Lars Strüven",
-            "number": 4,
-            "games": 1,
-            "goals": 5,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
+            "playerId": "0uxciea",
+            "name": "Collin Hornung",
+            "number": 54,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
           },
           {
-            "playerId": "05cio09",
-            "name": "Malte Schnell",
-            "number": 8,
-            "games": 1,
-            "goals": 5,
+            "playerId": "18feznt",
+            "name": "Jannes Gajewski",
+            "number": 77,
+            "games": 2,
+            "goals": 7,
             "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": 50
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 2,
-          "percentage": 66.7
+          "finishedMatches": 4,
+          "lineupMatches": 3,
+          "percentage": 75
         }
       }
     },
@@ -24586,7 +24935,7 @@
       "time": "14:00",
       "home": {
         "id": 81690,
-        "name": "HSG Störtal Hummeln II",
+        "name": "HSG STÖRTAL HUMMELN II",
         "clubId": "1qw4nbk"
       },
       "away": {
@@ -24998,19 +25347,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "draws": 0,
           "losses": 2,
-          "goalsFor": 113,
-          "goalsAgainst": 112,
-          "goalDifference": 1,
-          "winRate": 50,
-          "goalsForAvg": 28.25,
-          "goalsAgainstAvg": 28,
-          "goalDifferenceAvg": 0.25
+          "goalsFor": 143,
+          "goalsAgainst": 126,
+          "goalDifference": 17,
+          "winRate": 60,
+          "goalsForAvg": 28.6,
+          "goalsAgainstAvg": 25.2,
+          "goalDifferenceAvg": 3.4
         },
         "recent": [
+          {
+            "id": 514383,
+            "date": "2026-10-31",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81850,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 14,
+            "result": "W"
+          },
           {
             "id": 514364,
             "date": "2026-10-24",
@@ -25060,7 +25423,7 @@
             "isHome": true,
             "opponent": {
               "id": 81851,
-              "name": "HSG Störtal Hummeln",
+              "name": "HSG STÖRTAL HUMMELN",
               "clubId": "1qw4nbk"
             },
             "goalsFor": 29,
@@ -25073,23 +25436,34 @@
             "playerId": "1h8wlhp",
             "name": "Franka Kabbe",
             "number": 8,
-            "games": 3,
-            "goals": 29,
+            "games": 4,
+            "goals": 42,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 9.67,
+            "goalsPerGame": 10.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0m3s0no",
             "name": "Valeska Lena Krohn",
             "number": 2,
-            "games": 4,
-            "goals": 25,
-            "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 12,
-            "goalsPerGame": 6.25,
-            "sevenMeterPercentage": 83.3
+            "games": 5,
+            "goals": 31,
+            "sevenMeterGoals": 13,
+            "sevenMeterAttempts": 17,
+            "goalsPerGame": 6.2,
+            "sevenMeterPercentage": 76.5
+          },
+          {
+            "playerId": "0ievqpl",
+            "name": "Anneke Rissmann",
+            "number": 4,
+            "games": 5,
+            "goals": 17,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.4,
+            "sevenMeterPercentage": null
           },
           {
             "playerId": "0tkwyl2",
@@ -25103,31 +25477,20 @@
             "sevenMeterPercentage": 100
           },
           {
-            "playerId": "0ievqpl",
-            "name": "Anneke Rissmann",
-            "number": 4,
-            "games": 4,
-            "goals": 11,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.75,
-            "sevenMeterPercentage": null
-          },
-          {
             "playerId": "06hkfad",
             "name": "Paulina Lilith Boldt",
             "number": 10,
-            "games": 4,
+            "games": 5,
             "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
