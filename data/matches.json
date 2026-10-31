@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T11:28:39.864Z",
+  "generatedAt": "2026-10-31T02:00:07.939Z",
   "matches": [
     {
       "id": 504541,
@@ -6908,6 +6908,164 @@
       },
       "analyticsAvailable": false,
       "analyticsPath": "match-analytics/514273.json"
+    },
+    {
+      "id": 505413,
+      "date": "2026-10-30",
+      "time": "20:00",
+      "home": {
+        "id": 81771,
+        "name": "WELLINGDORFER TV",
+        "clubId": "1j3isa8"
+      },
+      "away": {
+        "id": 94483,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 34,
+        "away": 23
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7946,
+      "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12972,
+        "name": "Kreisliga Männer - Staffel D"
+      },
+      "venue": {
+        "name": "RADSREDDER-HALLE WELLINGDORF",
+        "address": "RADSREDDER 35, 24148 KIEL"
+      },
+      "ownTeamId": "94483",
+      "ownTeam": {
+        "label": "HERREN 2",
+        "name": "2. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 34,
+          "away": 23
+        },
+        "eventFinalScore": {
+          "home": 34,
+          "away": 23
+        },
+        "lineupGoalTotals": {
+          "home": 34,
+          "away": 23
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 57,
+          "goalEventsWithPlayer": 57,
+          "matchedGoalEvents": 57,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/505413.json"
+    },
+    {
+      "id": 448702,
+      "date": "2026-10-30",
+      "time": "20:30",
+      "home": {
+        "id": 81543,
+        "name": "TSV NORD HARRISLEE II",
+        "clubId": "0btnixw"
+      },
+      "away": {
+        "id": 86801,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 24,
+        "away": 39
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 6689,
+      "competition": "Oberliga Schleswig-Holstein Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14062,
+        "name": "Meisterrunde"
+      },
+      "venue": {
+        "name": "HOLMBERGHALLE I",
+        "address": "HOLMBERG 20, 24955 HARRISLEE"
+      },
+      "ownTeamId": "86801",
+      "ownTeam": {
+        "label": "FRAUEN 1",
+        "name": "1. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 24,
+          "away": 39
+        },
+        "eventFinalScore": {
+          "home": 24,
+          "away": 39
+        },
+        "lineupGoalTotals": {
+          "home": 24,
+          "away": 39
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 63,
+          "goalEventsWithPlayer": 63,
+          "matchedGoalEvents": 63,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/448702.json"
     }
   ]
 }

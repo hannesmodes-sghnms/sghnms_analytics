@@ -1,330 +1,6 @@
 {
-  "generatedAt": "2026-10-30T11:28:39.995Z",
+  "generatedAt": "2026-10-31T02:00:08.200Z",
   "matches": [
-    {
-      "id": 505413,
-      "date": "2026-10-30",
-      "time": "20:00",
-      "home": {
-        "id": 81771,
-        "name": "WELLINGDORFER TV",
-        "clubId": "1j3isa8"
-      },
-      "away": {
-        "id": 94483,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7946,
-      "competition": "Kreisliga Männer",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12972,
-        "name": "Kreisliga Männer - Staffel D"
-      },
-      "venue": {
-        "name": "RADSREDDER-HALLE WELLINGDORF",
-        "address": "RADSREDDER 35, 24148 KIEL"
-      },
-      "ownTeamId": "94483",
-      "ownTeam": {
-        "label": "HERREN 2",
-        "name": "2. Herren",
-        "ageGroup": "senior",
-        "gender": "male",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81771",
-        "name": "WELLINGDORFER TV",
-        "phaseId": "12972",
-        "phaseName": "Kreisliga Männer - Staffel D",
-        "competition": "Kreisliga Männer",
-        "season": {
-          "games": 1,
-          "wins": 1,
-          "draws": 0,
-          "losses": 0,
-          "goalsFor": 32,
-          "goalsAgainst": 26,
-          "goalDifference": 6,
-          "winRate": 100,
-          "goalsForAvg": 32,
-          "goalsAgainstAvg": 26,
-          "goalDifferenceAvg": 6
-        },
-        "recent": [
-          {
-            "id": 505409,
-            "date": "2026-10-24",
-            "time": "18:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81775,
-              "name": "SC KIELER FÖRDE II",
-              "clubId": "00xfnlm"
-            },
-            "goalsFor": 32,
-            "goalsAgainst": 26,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1qvkmqf",
-            "name": "Henry Krause",
-            "number": 3,
-            "games": 1,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0704e7z",
-            "name": "Kristoffer Peschel",
-            "number": 7,
-            "games": 1,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "19kk074",
-            "name": "Niklas Schetsche",
-            "number": 55,
-            "games": 1,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "18uiefx",
-            "name": "Christoph Bauschke",
-            "number": 5,
-            "games": 1,
-            "goals": 5,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0n0edsg",
-            "name": "Eike Christian Weber",
-            "number": 8,
-            "games": 1,
-            "goals": 3,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": 100
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 1,
-          "lineupMatches": 1,
-          "percentage": 100
-        }
-      }
-    },
-    {
-      "id": 448702,
-      "date": "2026-10-30",
-      "time": "20:30",
-      "home": {
-        "id": 81543,
-        "name": "TSV NORD HARRISLEE II",
-        "clubId": "0btnixw"
-      },
-      "away": {
-        "id": 86801,
-        "name": "SG HANDBALL NEUMÜNSTER",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 6689,
-      "competition": "Oberliga Schleswig-Holstein Frauen",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 14062,
-        "name": "Meisterrunde"
-      },
-      "venue": {
-        "name": "HOLMBERGHALLE I",
-        "address": "HOLMBERG 20, 24955 HARRISLEE"
-      },
-      "ownTeamId": "86801",
-      "ownTeam": {
-        "label": "FRAUEN 1",
-        "name": "1. Frauen",
-        "ageGroup": "senior",
-        "gender": "female",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81543",
-        "name": "TSV NORD HARRISLEE II",
-        "phaseId": "14062",
-        "phaseName": "Meisterrunde",
-        "competition": "Oberliga Schleswig-Holstein Frauen",
-        "season": {
-          "games": 4,
-          "wins": 1,
-          "draws": 0,
-          "losses": 3,
-          "goalsFor": 100,
-          "goalsAgainst": 144,
-          "goalDifference": -44,
-          "winRate": 25,
-          "goalsForAvg": 25,
-          "goalsAgainstAvg": 36,
-          "goalDifferenceAvg": -11
-        },
-        "recent": [
-          {
-            "id": 448672,
-            "date": "2026-10-04",
-            "time": "17:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81549,
-              "name": "VfL Bad Schwartau",
-              "clubId": "0gll3ig"
-            },
-            "goalsFor": 26,
-            "goalsAgainst": 24,
-            "result": "W"
-          },
-          {
-            "id": 448688,
-            "date": "2026-09-18",
-            "time": "20:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81541,
-              "name": "ATSV STOCKELSDORF II",
-              "clubId": "0xo2eha"
-            },
-            "goalsFor": 29,
-            "goalsAgainst": 32,
-            "result": "L"
-          },
-          {
-            "id": 448681,
-            "date": "2026-09-13",
-            "time": "17:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81540,
-              "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
-              "clubId": "16gum8r"
-            },
-            "goalsFor": 20,
-            "goalsAgainst": 53,
-            "result": "L"
-          },
-          {
-            "id": 448677,
-            "date": "2026-09-06",
-            "time": "18:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81550,
-              "name": "SV TODESFELDE II",
-              "clubId": "1ffvokm"
-            },
-            "goalsFor": 25,
-            "goalsAgainst": 35,
-            "result": "L"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "0ftv7gv",
-            "name": "Nele Naemi Fülbier",
-            "number": 76,
-            "games": 4,
-            "goals": 20,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1qm9a5a",
-            "name": "Zoey Evangelia Eierding",
-            "number": 24,
-            "games": 3,
-            "goals": 19,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 6.33,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1qj0vs1",
-            "name": "Caya Joke Uhl",
-            "number": 4,
-            "games": 4,
-            "goals": 18,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 4.5,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "01qtg85",
-            "name": "Hannah Knoop",
-            "number": 54,
-            "games": 4,
-            "goals": 17,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.25,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "05cj26i",
-            "name": "Charlotta Sophie Hardtmann",
-            "number": 77,
-            "games": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": null
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
-          "percentage": 100
-        }
-      }
-    },
     {
       "id": 518579,
       "date": "2026-10-31",
@@ -2152,203 +1828,6 @@
       }
     },
     {
-      "id": 450762,
-      "date": "2026-11-01",
-      "time": "13:45",
-      "home": {
-        "id": 87188,
-        "name": "VFL Lübeck-SCHWARTAU",
-        "clubId": "0gll3ig"
-      },
-      "away": {
-        "id": 87187,
-        "name": "SG Handball Neumünster",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 9529,
-      "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 14076,
-        "name": "Vorrunde B"
-      },
-      "venue": {
-        "name": "SZ JAHNSTRAßE SPORTHALLE 1",
-        "address": "LUDWIG-JAHN-STRAßE, 23611 BAD SCHWARTAU"
-      },
-      "ownTeamId": "87187",
-      "ownTeam": {
-        "label": "MJC 1",
-        "name": "mJC 1",
-        "ageGroup": "youth",
-        "gender": "male",
-        "matchMinutes": 50
-      },
-      "opponentProfile": {
-        "teamId": "87188",
-        "name": "VFL Lübeck-SCHWARTAU",
-        "phaseId": "14076",
-        "phaseName": "Vorrunde B",
-        "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
-        "season": {
-          "games": 5,
-          "wins": 3,
-          "draws": 1,
-          "losses": 1,
-          "goalsFor": 153,
-          "goalsAgainst": 127,
-          "goalDifference": 26,
-          "winRate": 60,
-          "goalsForAvg": 30.6,
-          "goalsAgainstAvg": 25.4,
-          "goalDifferenceAvg": 5.2
-        },
-        "recent": [
-          {
-            "id": 450760,
-            "date": "2026-10-04",
-            "time": "10:00",
-            "isHome": true,
-            "opponent": {
-              "id": 87191,
-              "name": "HSG TILLS LÖWEN 08",
-              "clubId": "0okba70"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 21,
-            "result": "W"
-          },
-          {
-            "id": 450757,
-            "date": "2026-09-20",
-            "time": "17:15",
-            "isHome": false,
-            "opponent": {
-              "id": 87190,
-              "name": "TSV BARGTEHEIDE",
-              "clubId": "0b7tq6z"
-            },
-            "goalsFor": 32,
-            "goalsAgainst": 35,
-            "result": "L"
-          },
-          {
-            "id": 450754,
-            "date": "2026-09-12",
-            "time": "17:00",
-            "isHome": true,
-            "opponent": {
-              "id": 87189,
-              "name": "MTV Lübeck II",
-              "clubId": "1j9nrl7"
-            },
-            "goalsFor": 28,
-            "goalsAgainst": 28,
-            "result": "D"
-          },
-          {
-            "id": 450751,
-            "date": "2026-09-06",
-            "time": "13:00",
-            "isHome": true,
-            "opponent": {
-              "id": 87192,
-              "name": "SG GLINDE-REINBEK",
-              "clubId": "1muw0yi"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 25,
-            "result": "W"
-          },
-          {
-            "id": 450747,
-            "date": "2026-08-30",
-            "time": "16:00",
-            "isHome": false,
-            "opponent": {
-              "id": 87187,
-              "name": "SG Handball Neumünster",
-              "clubId": "1yrb3n9"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 18,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1hvc6z2",
-            "name": "Piet Holst",
-            "number": 11,
-            "games": 5,
-            "goals": 30,
-            "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 10,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1pixxe0",
-            "name": "Theo Hering",
-            "number": 20,
-            "games": 5,
-            "goals": 26,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.2,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "15649s7",
-            "name": "Justus Hammwöhner",
-            "number": 2,
-            "games": 4,
-            "goals": 15,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.75,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0o1fv6l",
-            "name": "Johann Erwin Tecklenburg",
-            "number": 49,
-            "games": 5,
-            "goals": 15,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0np8mhj",
-            "name": "Lasse Paarmann",
-            "number": 71,
-            "games": 5,
-            "goals": 15,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
-          "percentage": 100
-        }
-      }
-    },
-    {
       "id": 506427,
       "date": "2026-11-01",
       "time": "14:30",
@@ -3200,19 +2679,33 @@
         "phaseName": "Meisterrunde",
         "competition": "Oberliga Schleswig-Holstein Frauen",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 0,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 63,
-          "goalsAgainst": 76,
-          "goalDifference": -13,
+          "losses": 4,
+          "goalsFor": 83,
+          "goalsAgainst": 107,
+          "goalDifference": -24,
           "winRate": 0,
-          "goalsForAvg": 21,
-          "goalsAgainstAvg": 25.33,
-          "goalDifferenceAvg": -4.33
+          "goalsForAvg": 20.75,
+          "goalsAgainstAvg": 26.75,
+          "goalDifferenceAvg": -6
         },
         "recent": [
+          {
+            "id": 448704,
+            "date": "2026-10-30",
+            "time": "18:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81548,
+              "name": "HSG Holsteinische Schweiz",
+              "clubId": "1qiybue"
+            },
+            "goalsFor": 20,
+            "goalsAgainst": 31,
+            "result": "L"
+          },
           {
             "id": 448672,
             "date": "2026-10-04",
@@ -3261,22 +2754,22 @@
             "playerId": "0s06crg",
             "name": "Jana Polster",
             "number": 34,
-            "games": 2,
-            "goals": 12,
-            "sevenMeterGoals": 8,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": 100
+            "games": 3,
+            "goals": 22,
+            "sevenMeterGoals": 13,
+            "sevenMeterAttempts": 14,
+            "goalsPerGame": 7.33,
+            "sevenMeterPercentage": 92.9
           },
           {
             "playerId": "1lj4pmr",
             "name": "Ronja Voß",
             "number": 14,
-            "games": 3,
-            "goals": 10,
+            "games": 4,
+            "goals": 11,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
+            "goalsPerGame": 2.75,
             "sevenMeterPercentage": null
           },
           {
@@ -3294,11 +2787,11 @@
             "playerId": "1hygha8",
             "name": "Anina Geisteier",
             "number": 11,
-            "games": 2,
-            "goals": 6,
+            "games": 3,
+            "goals": 8,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.67,
             "sevenMeterPercentage": null
           },
           {
@@ -3314,8 +2807,8 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -11046,19 +10539,33 @@
         "phaseName": "Meisterrunde",
         "competition": "Oberliga Schleswig-Holstein Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
           "draws": 0,
-          "losses": 4,
-          "goalsFor": 119,
-          "goalsAgainst": 135,
-          "goalDifference": -16,
-          "winRate": 20,
-          "goalsForAvg": 23.8,
-          "goalsAgainstAvg": 27,
-          "goalDifferenceAvg": -3.2
+          "losses": 5,
+          "goalsFor": 136,
+          "goalsAgainst": 163,
+          "goalDifference": -27,
+          "winRate": 16.7,
+          "goalsForAvg": 22.67,
+          "goalsAgainstAvg": 27.17,
+          "goalDifferenceAvg": -4.5
         },
         "recent": [
+          {
+            "id": 448701,
+            "date": "2026-10-30",
+            "time": "20:15",
+            "isHome": true,
+            "opponent": {
+              "id": 81542,
+              "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+              "clubId": "1hf9d75"
+            },
+            "goalsFor": 17,
+            "goalsAgainst": 28,
+            "result": "L"
+          },
           {
             "id": 448673,
             "date": "2026-10-04",
@@ -11114,20 +10621,6 @@
             "goalsFor": 26,
             "goalsAgainst": 27,
             "result": "L"
-          },
-          {
-            "id": 448678,
-            "date": "2026-09-06",
-            "time": "16:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81549,
-              "name": "VfL Bad Schwartau",
-              "clubId": "0gll3ig"
-            },
-            "goalsFor": 22,
-            "goalsAgainst": 17,
-            "result": "W"
           }
         ],
         "topScorers": [
@@ -11146,12 +10639,23 @@
             "playerId": "17catyp",
             "name": "Jule Alena Thede",
             "number": 17,
-            "games": 4,
-            "goals": 18,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 4.5,
-            "sevenMeterPercentage": 57.1
+            "games": 5,
+            "goals": 20,
+            "sevenMeterGoals": 6,
+            "sevenMeterAttempts": 9,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1ugcfwc",
+            "name": "Emmely Reese",
+            "number": 9,
+            "games": 5,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.2,
+            "sevenMeterPercentage": null
           },
           {
             "playerId": "0it442a",
@@ -11165,31 +10669,20 @@
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "1ugcfwc",
-            "name": "Emmely Reese",
-            "number": 9,
-            "games": 4,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
-            "sevenMeterPercentage": null
-          },
-          {
             "playerId": "1t5x3qw",
             "name": "Hannah Görlinger",
             "number": 33,
-            "games": 5,
-            "goals": 9,
+            "games": 6,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.8,
+            "goalsPerGame": 1.67,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -11235,6 +10728,146 @@
         "ageGroup": "youth",
         "gender": "male",
         "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "87191",
+        "name": "HSG TILLS LÖWEN 08",
+        "phaseId": "14076",
+        "phaseName": "Vorrunde B",
+        "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+        "season": {
+          "games": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 105,
+          "goalsAgainst": 119,
+          "goalDifference": -14,
+          "winRate": 25,
+          "goalsForAvg": 26.25,
+          "goalsAgainstAvg": 29.75,
+          "goalDifferenceAvg": -3.5
+        },
+        "recent": [
+          {
+            "id": 450760,
+            "date": "2026-10-04",
+            "time": "10:00",
+            "isHome": false,
+            "opponent": {
+              "id": 87188,
+              "name": "VFL Lübeck-SCHWARTAU",
+              "clubId": "0gll3ig"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 31,
+            "result": "L"
+          },
+          {
+            "id": 450755,
+            "date": "2026-09-11",
+            "time": "18:30",
+            "isHome": false,
+            "opponent": {
+              "id": 87192,
+              "name": "SG GLINDE-REINBEK",
+              "clubId": "1muw0yi"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 34,
+            "result": "L"
+          },
+          {
+            "id": 450752,
+            "date": "2026-09-06",
+            "time": "16:15",
+            "isHome": false,
+            "opponent": {
+              "id": 87190,
+              "name": "TSV BARGTEHEIDE",
+              "clubId": "0b7tq6z"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 26,
+            "result": "W"
+          },
+          {
+            "id": 450749,
+            "date": "2026-08-30",
+            "time": "14:15",
+            "isHome": true,
+            "opponent": {
+              "id": 87189,
+              "name": "MTV Lübeck II",
+              "clubId": "1j9nrl7"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 28,
+            "result": "D"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "19kdjwz",
+            "name": "Jonas Bo Rohde",
+            "number": 7,
+            "games": 4,
+            "goals": 27,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 6.75,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "015z05t",
+            "name": "Julius Rohde",
+            "number": 6,
+            "games": 4,
+            "goals": 25,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 6.25,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "18r5hm0",
+            "name": "Jakob Ferdinand Mager",
+            "number": 13,
+            "games": 4,
+            "goals": 14,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "01rzrf6",
+            "name": "Tom Schmittat",
+            "number": 5,
+            "games": 3,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1qffzfp",
+            "name": "Taio Christian Philipps",
+            "number": 2,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {
@@ -12137,6 +11770,146 @@
         "ageGroup": "youth",
         "gender": "male",
         "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "87191",
+        "name": "HSG TILLS LÖWEN 08",
+        "phaseId": "14076",
+        "phaseName": "Vorrunde B",
+        "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+        "season": {
+          "games": 4,
+          "wins": 1,
+          "draws": 1,
+          "losses": 2,
+          "goalsFor": 105,
+          "goalsAgainst": 119,
+          "goalDifference": -14,
+          "winRate": 25,
+          "goalsForAvg": 26.25,
+          "goalsAgainstAvg": 29.75,
+          "goalDifferenceAvg": -3.5
+        },
+        "recent": [
+          {
+            "id": 450760,
+            "date": "2026-10-04",
+            "time": "10:00",
+            "isHome": false,
+            "opponent": {
+              "id": 87188,
+              "name": "VFL Lübeck-SCHWARTAU",
+              "clubId": "0gll3ig"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 31,
+            "result": "L"
+          },
+          {
+            "id": 450755,
+            "date": "2026-09-11",
+            "time": "18:30",
+            "isHome": false,
+            "opponent": {
+              "id": 87192,
+              "name": "SG GLINDE-REINBEK",
+              "clubId": "1muw0yi"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 34,
+            "result": "L"
+          },
+          {
+            "id": 450752,
+            "date": "2026-09-06",
+            "time": "16:15",
+            "isHome": false,
+            "opponent": {
+              "id": 87190,
+              "name": "TSV BARGTEHEIDE",
+              "clubId": "0b7tq6z"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 26,
+            "result": "W"
+          },
+          {
+            "id": 450749,
+            "date": "2026-08-30",
+            "time": "14:15",
+            "isHome": true,
+            "opponent": {
+              "id": 87189,
+              "name": "MTV Lübeck II",
+              "clubId": "1j9nrl7"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 28,
+            "result": "D"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "19kdjwz",
+            "name": "Jonas Bo Rohde",
+            "number": 7,
+            "games": 4,
+            "goals": 27,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 6.75,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "015z05t",
+            "name": "Julius Rohde",
+            "number": 6,
+            "games": 4,
+            "goals": 25,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 6.25,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "18r5hm0",
+            "name": "Jakob Ferdinand Mager",
+            "number": 13,
+            "games": 4,
+            "goals": 14,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "01rzrf6",
+            "name": "Tom Schmittat",
+            "number": 5,
+            "games": 3,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1qffzfp",
+            "name": "Taio Christian Philipps",
+            "number": 2,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {
@@ -12311,6 +12084,104 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81769",
+        "name": "THW KIEL IV",
+        "phaseId": "12972",
+        "phaseName": "Kreisliga Männer - Staffel D",
+        "competition": "Kreisliga Männer",
+        "season": {
+          "games": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 27,
+          "goalsAgainst": 30,
+          "goalDifference": -3,
+          "winRate": 0,
+          "goalsForAvg": 27,
+          "goalsAgainstAvg": 30,
+          "goalDifferenceAvg": -3
+        },
+        "recent": [
+          {
+            "id": 505411,
+            "date": "2026-10-03",
+            "time": "14:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81777,
+              "name": "PREETZER TSV II",
+              "clubId": "076fu3u"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 30,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "09tnuvo",
+            "name": "Benjamin Petersen",
+            "number": 82,
+            "games": 1,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "0fuxvbf",
+            "name": "Florian Hossner",
+            "number": 10,
+            "games": 1,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1q7tdnc",
+            "name": "Florian Feick",
+            "number": 3,
+            "games": 1,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0juf9ac",
+            "name": "Christopher Kröger",
+            "number": 81,
+            "games": 1,
+            "goals": 3,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "1tpgcrt",
+            "name": "Martin Michael Bartsch",
+            "number": 33,
+            "games": 1,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 1,
+          "lineupMatches": 1,
+          "percentage": 100
+        }
       }
     },
     {
@@ -12730,6 +12601,160 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81550",
+        "name": "SV TODESFELDE II",
+        "phaseId": "14062",
+        "phaseName": "Meisterrunde",
+        "competition": "Oberliga Schleswig-Holstein Frauen",
+        "season": {
+          "games": 5,
+          "wins": 2,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 130,
+          "goalsAgainst": 139,
+          "goalDifference": -9,
+          "winRate": 40,
+          "goalsForAvg": 26,
+          "goalsAgainstAvg": 27.8,
+          "goalDifferenceAvg": -1.8
+        },
+        "recent": [
+          {
+            "id": 448697,
+            "date": "2026-09-26",
+            "time": "16:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81546,
+              "name": "SV Henstedt-Ulzburg II",
+              "clubId": "1j3w2i1"
+            },
+            "goalsFor": 17,
+            "goalsAgainst": 23,
+            "result": "L"
+          },
+          {
+            "id": 448690,
+            "date": "2026-09-20",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81545,
+              "name": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT",
+              "clubId": "1sz55yy"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 34,
+            "result": "L"
+          },
+          {
+            "id": 448684,
+            "date": "2026-09-11",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81544,
+              "name": "IF STJERNEN FLENSBORG",
+              "clubId": "1u88mce"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 26,
+            "result": "W"
+          },
+          {
+            "id": 448677,
+            "date": "2026-09-06",
+            "time": "18:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81543,
+              "name": "TSV NORD HARRISLEE II",
+              "clubId": "0btnixw"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 25,
+            "result": "W"
+          },
+          {
+            "id": 448671,
+            "date": "2026-08-30",
+            "time": "16:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81542,
+              "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+              "clubId": "1hf9d75"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 31,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1j03f47",
+            "name": "Tanisha Kästner",
+            "number": 24,
+            "games": 5,
+            "goals": 27,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 5.4,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "1cyjopf",
+            "name": "Annabell Hahn",
+            "number": 18,
+            "games": 5,
+            "goals": 26,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.2,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "16a5533",
+            "name": "Julia Studt",
+            "number": 9,
+            "games": 5,
+            "goals": 22,
+            "sevenMeterGoals": 6,
+            "sevenMeterAttempts": 9,
+            "goalsPerGame": 4.4,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "0sij6w9",
+            "name": "Lena Treumann",
+            "number": 22,
+            "games": 4,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0mealw4",
+            "name": "Nadine Klotz",
+            "number": 10,
+            "games": 4,
+            "goals": 9,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 2.25,
+            "sevenMeterPercentage": 100
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 5,
+          "lineupMatches": 5,
+          "percentage": 100
+        }
       }
     },
     {
@@ -15213,6 +15238,203 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      }
+    },
+    {
+      "id": 450762,
+      "date": "2026-12-31",
+      "time": "18:00",
+      "home": {
+        "id": 87188,
+        "name": "VFL Lübeck-SCHWARTAU",
+        "clubId": "0gll3ig"
+      },
+      "away": {
+        "id": 87187,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competitionId": 9529,
+      "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14076,
+        "name": "Vorrunde B"
+      },
+      "venue": {
+        "name": "SZ JAHNSTRAßE SPORTHALLE 1",
+        "address": "LUDWIG-JAHN-STRAßE, 23611 BAD SCHWARTAU"
+      },
+      "ownTeamId": "87187",
+      "ownTeam": {
+        "label": "MJC 1",
+        "name": "mJC 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "87188",
+        "name": "VFL Lübeck-SCHWARTAU",
+        "phaseId": "14076",
+        "phaseName": "Vorrunde B",
+        "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+        "season": {
+          "games": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 153,
+          "goalsAgainst": 127,
+          "goalDifference": 26,
+          "winRate": 60,
+          "goalsForAvg": 30.6,
+          "goalsAgainstAvg": 25.4,
+          "goalDifferenceAvg": 5.2
+        },
+        "recent": [
+          {
+            "id": 450760,
+            "date": "2026-10-04",
+            "time": "10:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87191,
+              "name": "HSG TILLS LÖWEN 08",
+              "clubId": "0okba70"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 21,
+            "result": "W"
+          },
+          {
+            "id": 450757,
+            "date": "2026-09-20",
+            "time": "17:15",
+            "isHome": false,
+            "opponent": {
+              "id": 87190,
+              "name": "TSV BARGTEHEIDE",
+              "clubId": "0b7tq6z"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 35,
+            "result": "L"
+          },
+          {
+            "id": 450754,
+            "date": "2026-09-12",
+            "time": "17:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87189,
+              "name": "MTV Lübeck II",
+              "clubId": "1j9nrl7"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 28,
+            "result": "D"
+          },
+          {
+            "id": 450751,
+            "date": "2026-09-06",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87192,
+              "name": "SG GLINDE-REINBEK",
+              "clubId": "1muw0yi"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 25,
+            "result": "W"
+          },
+          {
+            "id": 450747,
+            "date": "2026-08-30",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 87187,
+              "name": "SG Handball Neumünster",
+              "clubId": "1yrb3n9"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 18,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1hvc6z2",
+            "name": "Piet Holst",
+            "number": 11,
+            "games": 5,
+            "goals": 30,
+            "sevenMeterGoals": 10,
+            "sevenMeterAttempts": 10,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "1pixxe0",
+            "name": "Theo Hering",
+            "number": 20,
+            "games": 5,
+            "goals": 26,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.2,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "15649s7",
+            "name": "Justus Hammwöhner",
+            "number": 2,
+            "games": 4,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.75,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0o1fv6l",
+            "name": "Johann Erwin Tecklenburg",
+            "number": 49,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0np8mhj",
+            "name": "Lasse Paarmann",
+            "number": 71,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 5,
+          "lineupMatches": 5,
+          "percentage": 100
+        }
       }
     },
     {
@@ -21761,19 +21983,33 @@
         "phaseName": "Meisterrunde",
         "competition": "Oberliga Schleswig-Holstein Frauen",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 0,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 63,
-          "goalsAgainst": 76,
-          "goalDifference": -13,
+          "losses": 4,
+          "goalsFor": 83,
+          "goalsAgainst": 107,
+          "goalDifference": -24,
           "winRate": 0,
-          "goalsForAvg": 21,
-          "goalsAgainstAvg": 25.33,
-          "goalDifferenceAvg": -4.33
+          "goalsForAvg": 20.75,
+          "goalsAgainstAvg": 26.75,
+          "goalDifferenceAvg": -6
         },
         "recent": [
+          {
+            "id": 448704,
+            "date": "2026-10-30",
+            "time": "18:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81548,
+              "name": "HSG Holsteinische Schweiz",
+              "clubId": "1qiybue"
+            },
+            "goalsFor": 20,
+            "goalsAgainst": 31,
+            "result": "L"
+          },
           {
             "id": 448672,
             "date": "2026-10-04",
@@ -21822,22 +22058,22 @@
             "playerId": "0s06crg",
             "name": "Jana Polster",
             "number": 34,
-            "games": 2,
-            "goals": 12,
-            "sevenMeterGoals": 8,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": 100
+            "games": 3,
+            "goals": 22,
+            "sevenMeterGoals": 13,
+            "sevenMeterAttempts": 14,
+            "goalsPerGame": 7.33,
+            "sevenMeterPercentage": 92.9
           },
           {
             "playerId": "1lj4pmr",
             "name": "Ronja Voß",
             "number": 14,
-            "games": 3,
-            "goals": 10,
+            "games": 4,
+            "goals": 11,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
+            "goalsPerGame": 2.75,
             "sevenMeterPercentage": null
           },
           {
@@ -21855,11 +22091,11 @@
             "playerId": "1hygha8",
             "name": "Anina Geisteier",
             "number": 11,
-            "games": 2,
-            "goals": 6,
+            "games": 3,
+            "goals": 8,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.67,
             "sevenMeterPercentage": null
           },
           {
@@ -21875,8 +22111,8 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -22895,6 +23131,104 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81769",
+        "name": "THW KIEL IV",
+        "phaseId": "12972",
+        "phaseName": "Kreisliga Männer - Staffel D",
+        "competition": "Kreisliga Männer",
+        "season": {
+          "games": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "goalsFor": 27,
+          "goalsAgainst": 30,
+          "goalDifference": -3,
+          "winRate": 0,
+          "goalsForAvg": 27,
+          "goalsAgainstAvg": 30,
+          "goalDifferenceAvg": -3
+        },
+        "recent": [
+          {
+            "id": 505411,
+            "date": "2026-10-03",
+            "time": "14:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81777,
+              "name": "PREETZER TSV II",
+              "clubId": "076fu3u"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 30,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "09tnuvo",
+            "name": "Benjamin Petersen",
+            "number": 82,
+            "games": 1,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 0
+          },
+          {
+            "playerId": "0fuxvbf",
+            "name": "Florian Hossner",
+            "number": 10,
+            "games": 1,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1q7tdnc",
+            "name": "Florian Feick",
+            "number": 3,
+            "games": 1,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0juf9ac",
+            "name": "Christopher Kröger",
+            "number": 81,
+            "games": 1,
+            "goals": 3,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "1tpgcrt",
+            "name": "Martin Michael Bartsch",
+            "number": 33,
+            "games": 1,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 1,
+          "lineupMatches": 1,
+          "percentage": 100
+        }
       }
     },
     {
@@ -23539,19 +23873,33 @@
         "phaseName": "Meisterrunde",
         "competition": "Oberliga Schleswig-Holstein Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
           "draws": 0,
-          "losses": 4,
-          "goalsFor": 119,
-          "goalsAgainst": 135,
-          "goalDifference": -16,
-          "winRate": 20,
-          "goalsForAvg": 23.8,
-          "goalsAgainstAvg": 27,
-          "goalDifferenceAvg": -3.2
+          "losses": 5,
+          "goalsFor": 136,
+          "goalsAgainst": 163,
+          "goalDifference": -27,
+          "winRate": 16.7,
+          "goalsForAvg": 22.67,
+          "goalsAgainstAvg": 27.17,
+          "goalDifferenceAvg": -4.5
         },
         "recent": [
+          {
+            "id": 448701,
+            "date": "2026-10-30",
+            "time": "20:15",
+            "isHome": true,
+            "opponent": {
+              "id": 81542,
+              "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+              "clubId": "1hf9d75"
+            },
+            "goalsFor": 17,
+            "goalsAgainst": 28,
+            "result": "L"
+          },
           {
             "id": 448673,
             "date": "2026-10-04",
@@ -23607,20 +23955,6 @@
             "goalsFor": 26,
             "goalsAgainst": 27,
             "result": "L"
-          },
-          {
-            "id": 448678,
-            "date": "2026-09-06",
-            "time": "16:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81549,
-              "name": "VfL Bad Schwartau",
-              "clubId": "0gll3ig"
-            },
-            "goalsFor": 22,
-            "goalsAgainst": 17,
-            "result": "W"
           }
         ],
         "topScorers": [
@@ -23639,12 +23973,23 @@
             "playerId": "17catyp",
             "name": "Jule Alena Thede",
             "number": 17,
-            "games": 4,
-            "goals": 18,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 4.5,
-            "sevenMeterPercentage": 57.1
+            "games": 5,
+            "goals": 20,
+            "sevenMeterGoals": 6,
+            "sevenMeterAttempts": 9,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1ugcfwc",
+            "name": "Emmely Reese",
+            "number": 9,
+            "games": 5,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.2,
+            "sevenMeterPercentage": null
           },
           {
             "playerId": "0it442a",
@@ -23658,31 +24003,20 @@
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "1ugcfwc",
-            "name": "Emmely Reese",
-            "number": 9,
-            "games": 4,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
-            "sevenMeterPercentage": null
-          },
-          {
             "playerId": "1t5x3qw",
             "name": "Hannah Görlinger",
             "number": 33,
-            "games": 5,
-            "goals": 9,
+            "games": 6,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 1.8,
+            "goalsPerGame": 1.67,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -24435,6 +24769,160 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81550",
+        "name": "SV TODESFELDE II",
+        "phaseId": "14062",
+        "phaseName": "Meisterrunde",
+        "competition": "Oberliga Schleswig-Holstein Frauen",
+        "season": {
+          "games": 5,
+          "wins": 2,
+          "draws": 0,
+          "losses": 3,
+          "goalsFor": 130,
+          "goalsAgainst": 139,
+          "goalDifference": -9,
+          "winRate": 40,
+          "goalsForAvg": 26,
+          "goalsAgainstAvg": 27.8,
+          "goalDifferenceAvg": -1.8
+        },
+        "recent": [
+          {
+            "id": 448697,
+            "date": "2026-09-26",
+            "time": "16:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81546,
+              "name": "SV Henstedt-Ulzburg II",
+              "clubId": "1j3w2i1"
+            },
+            "goalsFor": 17,
+            "goalsAgainst": 23,
+            "result": "L"
+          },
+          {
+            "id": 448690,
+            "date": "2026-09-20",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81545,
+              "name": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT",
+              "clubId": "1sz55yy"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 34,
+            "result": "L"
+          },
+          {
+            "id": 448684,
+            "date": "2026-09-11",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81544,
+              "name": "IF STJERNEN FLENSBORG",
+              "clubId": "1u88mce"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 26,
+            "result": "W"
+          },
+          {
+            "id": 448677,
+            "date": "2026-09-06",
+            "time": "18:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81543,
+              "name": "TSV NORD HARRISLEE II",
+              "clubId": "0btnixw"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 25,
+            "result": "W"
+          },
+          {
+            "id": 448671,
+            "date": "2026-08-30",
+            "time": "16:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81542,
+              "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+              "clubId": "1hf9d75"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 31,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1j03f47",
+            "name": "Tanisha Kästner",
+            "number": 24,
+            "games": 5,
+            "goals": 27,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 5.4,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "1cyjopf",
+            "name": "Annabell Hahn",
+            "number": 18,
+            "games": 5,
+            "goals": 26,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.2,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "16a5533",
+            "name": "Julia Studt",
+            "number": 9,
+            "games": 5,
+            "goals": 22,
+            "sevenMeterGoals": 6,
+            "sevenMeterAttempts": 9,
+            "goalsPerGame": 4.4,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "0sij6w9",
+            "name": "Lena Treumann",
+            "number": 22,
+            "games": 4,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0mealw4",
+            "name": "Nadine Klotz",
+            "number": 10,
+            "games": 4,
+            "goals": 9,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 2.25,
+            "sevenMeterPercentage": 100
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 5,
+          "lineupMatches": 5,
+          "percentage": 100
+        }
       }
     },
     {
