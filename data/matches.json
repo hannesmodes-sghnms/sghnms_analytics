@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T02:00:07.939Z",
+  "generatedAt": "2026-10-31T13:51:28.674Z",
   "matches": [
     {
       "id": 504541,
@@ -7066,6 +7066,166 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/448702.json"
+    },
+    {
+      "id": 518579,
+      "date": "2026-10-31",
+      "time": "10:00",
+      "home": {
+        "id": 94061,
+        "name": "HSG KALKBERG 06",
+        "clubId": "03erpv1"
+      },
+      "away": {
+        "id": 87108,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 17,
+        "away": 29
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7241,
+      "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15499,
+        "name": "mE-KL-Ost"
+      },
+      "venue": {
+        "name": "SPORTHALLE FAHRENKRUG",
+        "address": "SCHACKENDORFER WEG, 23795 FAHRENKRUG"
+      },
+      "ownTeamId": "87108",
+      "ownTeam": {
+        "label": "MJE 2",
+        "name": "mJE 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 17,
+          "away": 29
+        },
+        "eventFinalScore": {
+          "home": 17,
+          "away": 29
+        },
+        "lineupGoalTotals": {
+          "home": 17,
+          "away": 29
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 46,
+          "goalEventsWithPlayer": 46,
+          "matchedGoalEvents": 46,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/518579.json"
+    },
+    {
+      "id": 411573,
+      "date": "2026-10-31",
+      "time": "12:50",
+      "home": {
+        "id": 82074,
+        "name": "WELLINGDORFER TV",
+        "clubId": "1j3isa8"
+      },
+      "away": {
+        "id": 87265,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 17,
+        "away": 26
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7195,
+      "competition": "Regionsoberliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14637,
+        "name": "WJC-ROL-2"
+      },
+      "venue": {
+        "name": "RADSREDDER-HALLE WELLINGDORF",
+        "address": "RADSREDDER 35, 24148 KIEL"
+      },
+      "ownTeamId": "87265",
+      "ownTeam": {
+        "label": "WJC 1",
+        "name": "wJC 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 17,
+          "away": 26
+        },
+        "eventFinalScore": {
+          "home": 17,
+          "away": 26
+        },
+        "lineupGoalTotals": {
+          "home": 17,
+          "away": 26
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 43,
+          "goalEventsWithPlayer": 43,
+          "matchedGoalEvents": 43,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/411573.json"
     }
   ]
 }
