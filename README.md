@@ -1,38 +1,158 @@
 # SGHNMS Analytics
 
-Öffentliches, statisches Analytics-Dashboard für die SG Handball Neumünster. Die Seite läuft ohne Build-Schritt auf GitHub Pages und verarbeitet ausschließlich bereits aufbereitete Exporte aus dem privaten Repository `sghnms_handball_data`.
+Statisches Analytics-Dashboard der SG Handball Neumünster für die Saison 2026/27. Die Anwendung läuft ohne Build-Schritt direkt über GitHub Pages und bietet eine vereinsweite Auswertung sowie ein teambezogenes Trainer-Dashboard.
 
-## Daten
+## Aktueller Datenfluss
 
-Die Dateien unter `data/` sind der Public Export der privaten Datenpipeline. Für die erweiterte Analytics-Ansicht werden zusätzlich genutzt:
+Die Quelldaten und Berechnungen entstehen im privaten Repository sghnms_handball_data:
 
-- `coverage.json` – API- und Quality-Abdeckung
-- `quality.json` – Qualität pro Spiel
-- `team-analytics.json` – aggregierte Event-Analytics pro SG-Team
-- `players.json` – Spieler-/Team-Saisonwerte
-- `match-analytics/index.json` – Index aller Match-Detaildateien
-- `match-analytics/<matchId>.json` – Match Flow, 5-Minuten-Splits, Runs, 7m, Timeouts, numerische Situationen und Spielerwerte
+1. handball.net wird dort importiert und validiert.
+2. Der Backend-Workflow erzeugt die öffentlichen Verträge in generated/public/.
+3. Nach einem erfolgreichen Refresh wird der vollständige Inhalt nach data/ in diesem Repository übertragen.
+4. Der Commit auf main startet automatisch den GitHub-Pages-Deploy dieses Repositories.
+5. app.js lädt die JSON-Dateien mit cache: no-store.
 
-## Bereiche
+Die Dateien in data/ sind erzeugte Artefakte und dürfen nicht manuell korrigiert werden. Fachliche oder zeitliche Fehler müssen im Daten-Repository behoben und neu veröffentlicht werden.
+
+## Datenstand
+
+Der am 1. November 2026 gegen 02:43 Uhr Europe/Berlin veröffentlichte Stand umfasst:
+
+- 23 SG-Teams
+- 92 beendete Spiele
+- Events und Aufstellungen für 92 von 92 Spielen
+- 90 Spiele mit freigegebener Event-Analyse
+- 2 wegen abweichendem Event-Endstand von Event-Analysen ausgeschlossene Spiele
+- 89 beendete Ligaspiele im Standardfilter und 3 Turnier-/Nicht-Ligaspiele
+- Tabellen für 23 Teams in 24 Wettbewerbsphasen
+
+Das ist eine Momentaufnahme. Maßgeblich sind generatedAt, coverage.json und quality.json im Verzeichnis data/.
+
+## Oberfläche
+
+Die Anwendung besitzt zwei Hauptbereiche.
 
 ### Vereinsstatistik
 
-Filter: SG gesamt, Senioren, Junioren, männlich, weiblich und einzelne Mannschaft. Enthalten sind Saisonbilanz, Tordifferenz, Form, Mannschaftsvergleich und Datenqualität. Zusätzlich zeigt die Vereinsstatistik filterabhängige Top-Spieler mit Einsätzen, Toren, Toren pro Spiel und 7m-Werten sowie sortierbare Offensive-/Defensive-Rankings aller Mannschaften. Die Rankings enthalten Tore, Gegentore, Werte pro Spiel und altersklassenübergreifend vergleichbare Werte pro 10 Minuten nomineller Spielzeit.
+Die Vereinsstatistik ermöglicht Filter nach:
 
-### Trainer Dashboard
+- Gesamtverein, Senioren oder Jugend
+- Geschlecht und Team
+- Zeitraum und Heim/Auswärts
+- Wettbewerbsmodus
 
-Drei Tabs:
+Sie zeigt unter anderem:
 
-- **Übersicht** – Form, Heim/Auswärts, 5-Minuten-Splits, 7m, Strafen, Über-/Unterzahl, Timeouts und längste Serien.
-- **Spieler** – Einsätze, Tore, Tore pro Spiel, Toranteil, 7m und Zeitstrafen.
-- **Spiele** – Matchauswahl mit Match Flow, 5-Minuten-Splits, Runs, torlosen Phasen, 7m, Timeouts, Über-/Unterzahl und Spielerstatistik des einzelnen Spiels.
+- Ergebnis-KPIs, kumulierte Siegquote und Verlauf
+- Teamvergleich und aktuelle Form
+- aktuelle Tabellenposition, Positionsverlauf und vollständige Tabelle
+- Top-20 der Torschützinnen und Torschützen
+- Angriffs- und Abwehr-Rankings, normalisiert auf zehn Spielminuten
+- Disziplin-Ranking für Verwarnungen, Zwei-Minuten-Strafen sowie rote und blaue Karten
 
-Spiele mit nicht plausibel vollständigem Eventstream bleiben in Ergebnis-/Saisonstatistiken enthalten, werden aber aus Event-Analytics ausgeschlossen.
+### Trainer-Dashboard
 
-## GitHub Pages
+Nach Auswahl eines Teams stehen zur Verfügung:
 
-Deployment erfolgt über `.github/workflows/deploy-pages.yml`. In GitHub unter **Settings → Pages → Source → GitHub Actions** auswählen.
+- Vorschau auf kommende Spiele mit Form, Gegnerprofil und direktem Vergleich
+- Tabelle und Positionsentwicklung
+- Ergebnis-, Tor- und Heim/Auswärts-Auswertungen
+- Fünf-Minuten-Phasen, Siebenmeter, Sanktionen und Timeout-Nachlauf
+- Läufe, torlose Phasen und numerische Situationen
+- E-Jugend-Auswertung der Phasen 2 x 3 gegen 3 und 6 gegen 6
+- Kader, Einsatz- und Torhistorie
+- Spielhistorie und detaillierte Einzelspielanalyse
 
-## Datenschutz / Indexierung
+Spiele mit unzureichender oder widersprüchlicher Ereignisqualität bleiben in den offiziellen Ergebnisstatistiken sichtbar. Sie werden nur aus den betroffenen Event-Auswertungen ausgeschlossen.
 
-Das Repository und GitHub Pages sind technisch öffentlich. `robots.txt` sowie `noindex,nofollow` sollen Suchmaschinen von der Indexierung abhalten, sind aber keine Zugriffskontrolle.
+## Wettbewerbsfilter
+
+Beide Bereiche bieten drei Modi:
+
+- **Ohne Turniere** ist der Standard und zeigt nur Ligaspiele.
+- **Mit Turnieren** kombiniert Liga und Turnier-/Nicht-Ligaspiele.
+- **Nur Turniere** zeigt ausschließlich Turnier-/Nicht-Ligaspiele.
+
+Ein Spiel gilt als Turnierspiel, wenn statsRelevant false oder competitionScope nonLeague beziehungsweise tournament gesetzt ist. Tabellen bleiben immer reine Ligatabellen. Im Modus Nur Turniere wird die Ligatabelle ausgeblendet; im kombinierten Modus wird sie mit einem entsprechenden Hinweis angezeigt.
+
+## Datenverträge
+
+Die Anwendung erwartet in data/:
+
+- overview.json
+- teams.json
+- matches.json
+- coverage.json
+- quality.json
+- team-analytics.json
+- players.json
+- match-analytics/index.json und die Einzeldateien unter match-analytics/
+
+Zusätzlich werden mit einem leeren Fallback geladen:
+
+- upcoming-matches.json
+- standings.json
+- player-scoring-history.json
+
+Die aggregierten Dateien können getrennte league-, all- und tournament-Scopes enthalten. Neue oder geänderte Felder müssen im Backend und Frontend koordiniert werden.
+
+## Technische Struktur
+
+- index.html — Seitenstruktur, Navigation, PWA-Metadaten und Cache-Versionen
+- app.js — Datenladen, Zustand, Filter und Rendering
+- styles.css — responsives Layout und visuelle Komponenten
+- data/ — automatisch publizierte JSON-Daten
+- manifest.webmanifest — PWA-Metadaten
+- robots.txt und noindex/nofollow — Suchmaschinenhinweise
+- .github/workflows/deploy-pages.yml — Veröffentlichung über GitHub Pages
+- AGENTS.md — Arbeitsregeln für automatisierte Beiträge
+
+Es gibt kein package.json und keinen Build-Schritt. Jeder Push auf main löst den Pages-Workflow aus, der das gesamte Repository als statische Website veröffentlicht.
+
+## Lokal starten
+
+Ein lokaler HTTP-Server ist nötig, weil die Anwendung Daten per fetch lädt:
+
+    python3 -m http.server 8000
+
+Anschließend http://localhost:8000 öffnen. Das direkte Öffnen von index.html über file:// ist nicht ausreichend.
+
+## Prüfung vor dem Commit
+
+Mindestens ausführen:
+
+    node --check app.js
+
+Zusätzlich manuell prüfen:
+
+- Vereinsstatistik und Trainer-Dashboard
+- alle drei Wettbewerbsmodi
+- Vereins-, Geschlechts-, Team-, Zeitraum- und Heim/Auswärts-Filter
+- kommende Spiele und Gegnerprofil
+- Tabellenansicht und Modus Nur Turniere
+- Spieler- und Disziplin-Rankings
+- Einzelspielansicht
+- schmale Smartphone-Ansicht
+
+JSON-Dateien in data/ sollten syntaktisch gültig sein; sie werden normalerweise ausschließlich vom Backend erzeugt.
+
+## Cache-Versionen
+
+index.html lädt app.js und styles.css mit Versionsparametern. Bei jeder Änderung an app.js oder styles.css muss der jeweilige Parameter erhöht werden, damit Browser und GitHub Pages nicht versehentlich eine alte Version ausliefern.
+
+## Deployment
+
+.github/workflows/deploy-pages.yml läuft bei jedem Push auf main und kann zusätzlich manuell gestartet werden. Er konfiguriert GitHub Pages, lädt das gesamte Repository als Artefakt hoch und veröffentlicht es. Es gibt keinen separaten Test- oder Build-Job; lokale Syntax- und Funktionsprüfungen sind deshalb besonders wichtig.
+
+## Datenschutz und Zugriff
+
+Die Seite und das Repository sind öffentlich. robots.txt sowie noindex/nofollow reduzieren die Indexierung, sind aber keine Zugriffskontrolle. In Daten, Quellcode, Logs und Commits dürfen keine Zugangsdaten, Tokens oder vertraulichen Informationen landen.
+
+## Wichtige Implementierungsdetails
+
+- Der Helfer $ liefert genau ein Element; $$ liefert eine Liste. Iteration ist nur über $$ zulässig.
+- Wettbewerbsprädikate, die optional einen Modus akzeptieren, dürfen nicht ungebunden an Array.filter übergeben werden, weil filter den Array-Index als zweites Argument übergibt.
+- Optionale Datendateien müssen einen getesteten leeren Zustand behalten.
+- Die lokale Uhrzeit aus handball.net wird bereits im Daten-Repository normalisiert. Das Frontend darf die gelieferten lokalen Datum-/Zeitbestandteile nicht erneut als UTC nach Europe/Berlin verschieben.
+
+Weitere verbindliche Regeln stehen in AGENTS.md.
