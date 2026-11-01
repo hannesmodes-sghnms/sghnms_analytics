@@ -16,14 +16,14 @@ Die Dateien in data/ sind erzeugte Artefakte und dürfen nicht manuell korrigier
 
 ## Datenstand
 
-Der am 1. November 2026 gegen 02:43 Uhr Europe/Berlin veröffentlichte Stand umfasst:
+Der am 1. November 2026 gegen 17:08 Uhr Europe/Berlin veröffentlichte Stand umfasst:
 
 - 23 SG-Teams
-- 92 beendete Spiele
-- Events und Aufstellungen für 92 von 92 Spielen
-- 90 Spiele mit freigegebener Event-Analyse
+- 100 beendete Spiele
+- Events und Aufstellungen für 100 von 100 Spielen
+- 98 Spiele mit freigegebener Event-Analyse
 - 2 wegen abweichendem Event-Endstand von Event-Analysen ausgeschlossene Spiele
-- 89 beendete Ligaspiele im Standardfilter und 3 Turnier-/Nicht-Ligaspiele
+- 97 beendete Ligaspiele im Standardfilter und 3 Turnier-/Nicht-Ligaspiele
 - Tabellen für 23 Teams in 24 Wettbewerbsphasen
 
 Das ist eine Momentaufnahme. Maßgeblich sind generatedAt, coverage.json und quality.json im Verzeichnis data/.
