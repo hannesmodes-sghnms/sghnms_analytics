@@ -1251,6 +1251,23 @@ select {
   overflow-wrap: anywhere;
 }
 
+.kampfgericht-home-team {
+  display: grid;
+  gap: 5px;
+}
+
+.kampfgericht-sg-team {
+  width: fit-content;
+  padding: 3px 6px;
+  border-radius: 7px;
+  background: #eef5ff;
+  color: var(--blue) !important;
+  font-size: 9px !important;
+  font-weight: 900;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+
 .kampfgericht-match span {
   color: var(--muted);
   font-size: 10px;
@@ -1321,6 +1338,10 @@ select {
   .kampfgericht-match {
     grid-template-columns: 1fr;
     gap: 2px;
+  }
+
+  .kampfgericht-home-team {
+    gap: 4px;
   }
 
   .kampfgericht-match span {

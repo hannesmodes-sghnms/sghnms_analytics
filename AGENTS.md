@@ -31,6 +31,10 @@ Die Pflichtdateien sind overview.json, teams.json, matches.json, coverage.json, 
 
 Die Kampfgericht-CSV behält die Spalten Datum, Uhrzeit, Wettbewerb, Heimmannschaft, Gastmannschaft, Halle, Kampfgericht und Begründung. Das Frontend verwendet Datum, Uhrzeit, Mannschaften, Halle und Kampfgericht. Bestehende historische Zeilen dürfen erhalten bleiben; die UI filtert vergangene Anwurfzeiten dynamisch.
 
+Normalisiere die Werte aus der Spalte Kampfgericht nur für die Anzeige auf die bestehenden Dashboard-Namen. Ändere die Arbeitsdatei nicht allein zur Umbenennung von Damen/Frauen oder Jugendkürzeln.
+
+Die sichtbare SG-Heimmannschaft wird aus Wettbewerb und der römischen Mannschaftsnummer im Feld Heimmannschaft abgeleitet. Erhalte dabei sowohl den ursprünglichen Heimvereinsnamen als auch die eindeutige Dashboard-Kennung.
+
 ## Wettbewerbslogik
 
 Der Standardmodus ist league beziehungsweise Ohne Turniere. Die weiteren Modi sind all und tournament.

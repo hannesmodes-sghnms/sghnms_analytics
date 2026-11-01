@@ -149,6 +149,46 @@ function normalizeKampfgerichtTime(value) {
   return `${String(hour).padStart(2, "0")}:${String(minute).padStart(2, "0")}`;
 }
 
+function normalizeKampfgerichtTeam(value) {
+  const name = String(value || "").trim();
+  const dashboardNames = {
+    damen: "Frauen 1",
+    "damen ii": "Frauen 2",
+    "damen iii": "Frauen 3",
+    "damen iv": "Frauen 4",
+    herren: "Herren 1",
+    "herren ii": "Herren 2",
+    "herren iii": "Herren 3",
+    mb: "MJB",
+    wa: "WJA 1",
+    "wa ii": "WJA 2",
+    wb: "WJB 1",
+    "wb ii": "WJB 2"
+  };
+  return dashboardNames[name.toLocaleLowerCase("de-DE")] || name;
+}
+
+function sgHomeTeamName(homeTeam, competition) {
+  const home = String(homeTeam || "").trim();
+  const competitionName = String(competition || "").trim().toLocaleUpperCase("de-DE");
+  const suffix = home.toLocaleUpperCase("de-DE").match(/\s+(II|III|IV)$/)?.[1] || "I";
+  const number = { I: 1, II: 2, III: 3, IV: 4 }[suffix] || 1;
+
+  if (competitionName.includes("ERWACHSENE")) {
+    if (competitionName.includes("MÄNNER")) return `Herren ${number}`;
+    if (competitionName.includes("FRAUEN")) return `Frauen ${number}`;
+  }
+
+  const youthClass = competitionName.match(/^([A-E])-JUGEND/)?.[1];
+  if (!youthClass) return null;
+
+  const female = competitionName.includes("WEIB") ||
+    new RegExp(`\\bWJ?${youthClass}\\b`).test(competitionName);
+  const code = `${female ? "W" : "M"}J${youthClass}`;
+  if (code === "MJB" || code === "WJD") return code;
+  return `${code} ${number}`;
+}
+
 function parseKampfgerichtCsv(text) {
   const [rawHeader = [], ...rawRows] = parseCsv(text);
   const header = rawHeader.map((item, index) => String(item || "").replace(index === 0 ? /^\uFEFF/ : /$^/, "").trim());
@@ -166,8 +206,9 @@ function parseKampfgerichtCsv(text) {
         startKey: `${date}T${time}`,
         hall: row.Halle || "Halle offen",
         home: row.Heimmannschaft,
+        sgHomeTeam: sgHomeTeamName(row.Heimmannschaft, row.Wettbewerb),
         away: row.Gastmannschaft,
-        crew: row.Kampfgericht
+        crew: normalizeKampfgerichtTeam(row.Kampfgericht)
       };
     })
     .filter(Boolean)
@@ -2197,7 +2238,10 @@ function renderKampfgericht() {
           <article class="kampfgericht-game">
             <div class="kampfgericht-time"><span>Anwurf</span><strong>${escapeHtml(game.time)} Uhr</strong></div>
             <div class="kampfgericht-match">
-              <strong>${escapeHtml(game.home)}</strong>
+              <div class="kampfgericht-home-team">
+                ${game.sgHomeTeam ? `<span class="kampfgericht-sg-team">${escapeHtml(game.sgHomeTeam)}</span>` : ""}
+                <strong>${escapeHtml(game.home)}</strong>
+              </div>
               <span>gegen</span>
               <strong>${escapeHtml(game.away)}</strong>
             </div>
