@@ -16,6 +16,7 @@ const state = {
   playerScopes: {},
   matchAnalyticsIndex: [],
   matchAnalyticsCache: new Map(),
+  kampfgerichtEntries: [],
   clubScope: "overall",
   clubGender: "all",
   clubTeamId: "",
@@ -78,6 +79,112 @@ function dateLong(iso) {
     month: "2-digit",
     year: "numeric"
   }).format(date);
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let cell = "";
+  let quoted = false;
+
+  for (let index = 0; index < String(text || "").length; index += 1) {
+    const char = text[index];
+    const next = text[index + 1];
+
+    if (quoted) {
+      if (char === '"' && next === '"') {
+        cell += '"';
+        index += 1;
+      } else if (char === '"') {
+        quoted = false;
+      } else {
+        cell += char;
+      }
+      continue;
+    }
+
+    if (char === '"') quoted = true;
+    else if (char === ",") {
+      row.push(cell);
+      cell = "";
+    } else if (char === "\n") {
+      row.push(cell);
+      rows.push(row);
+      row = [];
+      cell = "";
+    } else if (char !== "\r") {
+      cell += char;
+    }
+  }
+
+  if (cell || row.length) {
+    row.push(cell);
+    rows.push(row);
+  }
+
+  return rows;
+}
+
+function normalizeKampfgerichtDate(value) {
+  const match = String(value || "").trim().match(/^(\d{1,2})\.(\d{1,2})\.(\d{4})$/);
+  if (!match) return null;
+  return `${match[3]}-${match[2].padStart(2, "0")}-${match[1].padStart(2, "0")}`;
+}
+
+function normalizeKampfgerichtTime(value) {
+  const match = String(value || "").trim().match(/^(\d{1,2}):(\d{2})$/);
+  if (!match) return null;
+  const hour = Number(match[1]);
+  const minute = Number(match[2]);
+  if (hour > 23 || minute > 59) return null;
+  return `${String(hour).padStart(2, "0")}:${String(minute).padStart(2, "0")}`;
+}
+
+function parseKampfgerichtCsv(text) {
+  const [rawHeader = [], ...rawRows] = parseCsv(text);
+  const header = rawHeader.map((item, index) => String(item || "").replace(index === 0 ? /^\uFEFF/ : /$^/, "").trim());
+
+  return rawRows
+    .filter(row => row.some(value => String(value || "").trim()))
+    .map(row => Object.fromEntries(header.map((key, index) => [key, String(row[index] || "").trim()])))
+    .map(row => {
+      const date = normalizeKampfgerichtDate(row.Datum);
+      const time = normalizeKampfgerichtTime(row.Uhrzeit);
+      if (!date || !time || !row.Heimmannschaft || !row.Gastmannschaft || !row.Kampfgericht) return null;
+      return {
+        date,
+        time,
+        startKey: `${date}T${time}`,
+        hall: row.Halle || "Halle offen",
+        home: row.Heimmannschaft,
+        away: row.Gastmannschaft,
+        crew: row.Kampfgericht
+      };
+    })
+    .filter(Boolean)
+    .sort((a, b) => a.startKey.localeCompare(b.startKey));
+}
+
+function berlinNowKey(now = new Date()) {
+  const parts = Object.fromEntries(new Intl.DateTimeFormat("en-CA", {
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    hourCycle: "h23",
+    timeZone: "Europe/Berlin"
+  }).formatToParts(now).filter(part => part.type !== "literal").map(part => [part.type, part.value]));
+  return `${parts.year}-${parts.month}-${parts.day}T${parts.hour}:${parts.minute}`;
 }
 
 function generatedText(iso) {
@@ -2053,12 +2160,62 @@ function fillTeamSelect(select) {
     .join("");
 }
 
+function renderKampfgericht() {
+  const root = $("#kampfgericht-content");
+  if (!root) return;
+
+  const entries = state.kampfgerichtEntries.filter(entry => entry.startKey >= berlinNowKey());
+  const count = entries.length;
+  const lastDate = state.kampfgerichtEntries.at(-1)?.date;
+  $("#kampfgericht-open-count").textContent = deNumber(count);
+  $("#kampfgericht-next").textContent = entries.length
+    ? `${dateShort(entries[0].date)} · ${entries[0].time}`
+    : "Keine";
+  $("#kampfgericht-subtitle").textContent = count
+    ? `${count} noch auszutragende Heimspiele${lastDate ? ` · Arbeitsstand bis ${dateLong(lastDate)}` : ""}.`
+    : "Keine noch auszutragenden Spiele in der hinterlegten Arbeitsdatei.";
+
+  if (!entries.length) {
+    root.innerHTML = `<div class="chart-empty kampfgericht-empty">Aktuell sind keine weiteren Kampfgericht-Einsätze hinterlegt.</div>`;
+    return;
+  }
+
+  const groups = new Map();
+  for (const entry of entries) {
+    if (!groups.has(entry.date)) groups.set(entry.date, []);
+    groups.get(entry.date).push(entry);
+  }
+
+  root.innerHTML = [...groups.entries()].map(([date, games]) => `
+    <section class="kampfgericht-day">
+      <div class="kampfgericht-day-head">
+        <h2>${dateLong(date)}</h2>
+        <span>${games.length} ${games.length === 1 ? "Spiel" : "Spiele"}</span>
+      </div>
+      <div class="kampfgericht-list">
+        ${games.map(game => `
+          <article class="kampfgericht-game">
+            <div class="kampfgericht-time"><span>Anwurf</span><strong>${escapeHtml(game.time)} Uhr</strong></div>
+            <div class="kampfgericht-match">
+              <strong>${escapeHtml(game.home)}</strong>
+              <span>gegen</span>
+              <strong>${escapeHtml(game.away)}</strong>
+            </div>
+            <div class="kampfgericht-meta"><span>Halle</span><strong>${escapeHtml(game.hall)}</strong></div>
+            <div class="kampfgericht-duty"><span>Kampfgericht</span><strong>${escapeHtml(game.crew)}</strong></div>
+          </article>`).join("")}
+      </div>
+    </section>`).join("");
+}
+
 function setProduct(product) {
   state.product = product;
   $$(".product-tab").forEach(button => button.classList.toggle("is-active", button.dataset.product === product));
   $("#club-view").hidden = product !== "club";
   $("#trainer-view").hidden = product !== "trainer";
+  $("#kampfgericht-view").hidden = product !== "kampfgericht";
   if (product === "trainer") renderTrainer();
+  if (product === "kampfgericht") renderKampfgericht();
 }
 
 function setTrainerTab(tab) {
@@ -2192,9 +2349,21 @@ async function loadOptionalJson(path, fallback) {
   }
 }
 
+async function loadOptionalText(path, fallback = "") {
+  try {
+    const response = await fetch(path, { cache: "no-store" });
+    if (response.status === 404) return fallback;
+    if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
+    return response.text();
+  } catch (error) {
+    console.warn(`Optional data unavailable: ${path}`, error);
+    return fallback;
+  }
+}
+
 async function init() {
   try {
-    const [overview, teams, matches, upcomingMatchesPayload, standingsPayload, coverage, quality, teamAnalyticsPayload, playersPayload, scoringHistoryPayload, indexPayload] = await Promise.all([
+    const [overview, teams, matches, upcomingMatchesPayload, standingsPayload, coverage, quality, teamAnalyticsPayload, playersPayload, scoringHistoryPayload, indexPayload, kampfgerichtCsv] = await Promise.all([
       loadJson("./data/overview.json"),
       loadJson("./data/teams.json"),
       loadJson("./data/matches.json"),
@@ -2205,7 +2374,8 @@ async function init() {
       loadJson("./data/team-analytics.json"),
       loadJson("./data/players.json"),
       loadOptionalJson("./data/player-scoring-history.json", { players: [] }),
-      loadJson("./data/match-analytics/index.json")
+      loadJson("./data/match-analytics/index.json"),
+      loadOptionalText("./operations/kampfgericht.csv")
     ]);
 
     state.overview = overview;
@@ -2222,6 +2392,7 @@ async function init() {
     state.players = playersPayload.players || [];
     state.playerScopes = playersPayload.scopes || {};
     state.matchAnalyticsIndex = indexPayload.matches || indexPayload || [];
+    state.kampfgerichtEntries = parseKampfgerichtCsv(kampfgerichtCsv);
 
     const firstTeam = state.teams.slice().sort((a, b) => a.name.localeCompare(b.name, "de"))[0];
     state.clubTeamId = "";
@@ -2241,6 +2412,7 @@ async function init() {
     observeSortableTables();
     renderClub();
     renderTrainer();
+    renderKampfgericht();
   } catch (error) {
     const box = $("#load-error");
     box.hidden = false;
