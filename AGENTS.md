@@ -21,12 +21,15 @@ Bei fachlichen Datenfragen zusätzlich die Generatoren und AGENTS.md in sghnms_h
 
 - data/ wird vom Backend-Workflow aus generated/public/ ersetzt.
 - JSON-Dateien in data/ niemals manuell korrigieren.
+- operations/kampfgericht.csv ist die ausdrücklich manuell gepflegte Ausnahme. Sie liegt außerhalb von data/, damit der Backend-Sync sie nicht löscht.
 - Datenfehler im Backend beheben und neu veröffentlichen.
 - Automatische Daten-Commits nicht mit einem älteren Stand überschreiben.
 - Öffentliche Feldnamen nur in einer koordinierten Backend-/Frontend-Migration ändern.
 - Keine Zugangsdaten, Tokens, privaten API-Inhalte oder vertraulichen Personendaten committen.
 
 Die Pflichtdateien sind overview.json, teams.json, matches.json, coverage.json, quality.json, team-analytics.json, players.json und match-analytics/index.json. upcoming-matches.json, standings.json und player-scoring-history.json werden mit einem leeren Fallback geladen und müssen bei Fehlen zu einer funktionsfähigen leeren Darstellung führen.
+
+Die Kampfgericht-CSV behält die Spalten Datum, Uhrzeit, Wettbewerb, Heimmannschaft, Gastmannschaft, Halle, Kampfgericht und Begründung. Das Frontend verwendet Datum, Uhrzeit, Mannschaften, Halle und Kampfgericht. Bestehende historische Zeilen dürfen erhalten bleiben; die UI filtert vergangene Anwurfzeiten dynamisch.
 
 ## Wettbewerbslogik
 
@@ -67,6 +70,8 @@ Fehlende Detaildaten sind unbekannt und dürfen nicht als Nullwert dargestellt w
 ## Zeitdarstellung
 
 Die vom Backend gelieferten handball.net-Zeitwerte repräsentieren lokale Uhrzeiten. Interpretiere sie nicht erneut als echte UTC-Zeit und konvertiere sie nicht ein zweites Mal nach Europe/Berlin. Änderungen an Datumshilfen müssen Sommerzeit, Winterzeit und den DST-Wechsel abdecken.
+
+Kampfgerichtstermine sind ebenfalls lokale Europe/Berlin-Werte. Vergleiche die normalisierten Bestandteile direkt mit der Berliner Ortszeit und interpretiere die CSV-Zeit nicht als UTC.
 
 ## Jugendregeln
 
@@ -110,6 +115,7 @@ Danach prüfen:
 6. Spieler-, Disziplin- und Einzelspielansichten funktionieren.
 7. Lade-, Leer- und Fehlerzustände sind benutzbar.
 8. Smartphone- und Desktop-Layout bleiben stabil.
+9. Kampfgericht-CSV lädt, leere Trennzeilen werden ignoriert und vergangene Anwurfzeiten sind ausgeblendet.
 
 Wenn data/ in der Änderung enthalten ist, JSON-Syntax, generatedAt, coverage und quality prüfen. Backend-generierte Massendiffs nicht manuell glätten.
 
@@ -124,3 +130,4 @@ Jeder Push auf main startet .github/workflows/deploy-pages.yml und veröffentlic
 - Renderfunktionen nicht mit versteckten Nebenwirkungen koppeln.
 - Datenvertrag und UI gemeinsam dokumentieren.
 - README.md und diese Datei aktualisieren, wenn Datenfluss, Filter, Deployment oder zentrale Invarianten geändert werden.
+

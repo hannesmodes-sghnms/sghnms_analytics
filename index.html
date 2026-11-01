@@ -13,7 +13,7 @@
   <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
   <link rel="icon" type="image/png" sizes="48x48" href="./assets/app/favicon-48.png">
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/app/apple-touch-icon.png">
-  <link rel="stylesheet" href="./styles.css?v=7.8">
+  <link rel="stylesheet" href="./styles.css?v=8.0">
 </head>
 <body>
   <header class="topbar">
@@ -35,6 +35,7 @@
     <nav class="product-nav" aria-label="Dashboard-Bereich">
       <button class="product-tab is-active" type="button" data-product="club">Vereinsstatistik</button>
       <button class="product-tab" type="button" data-product="trainer">Trainer Dashboard</button>
+      <button class="product-tab" type="button" data-product="kampfgericht">Kampfgericht</button>
     </nav>
 
     <section id="load-error" class="notice notice--error" hidden></section>
@@ -447,6 +448,31 @@
       </section>
     </section>
 
+    <section id="kampfgericht-view" class="view" hidden>
+      <section class="scope-panel panel kampfgericht-header-panel">
+        <div class="scope-copy">
+          <span class="section-eyebrow">ORGANISATION</span>
+          <h1>Kampfgericht</h1>
+          <p id="kampfgericht-subtitle">Die offenen Einsätze werden geladen.</p>
+        </div>
+        <div class="kampfgericht-kpis" aria-label="Kampfgericht-Zusammenfassung">
+          <div><span>Offene Spiele</span><strong id="kampfgericht-open-count">–</strong></div>
+          <div><span>Nächster Einsatz</span><strong id="kampfgericht-next">–</strong></div>
+        </div>
+      </section>
+
+      <article class="panel kampfgericht-panel">
+        <div class="panel-head">
+          <div>
+            <span class="section-eyebrow">HEIMSPIELE</span>
+            <h2>Besetzungsplan</h2>
+          </div>
+          <span class="panel-note">Vergangene Anwurfzeiten werden automatisch ausgeblendet</span>
+        </div>
+        <div id="kampfgericht-content"></div>
+      </article>
+    </section>
+
     <details class="developer-disclaimer">
       <summary>Datenbasis & Qualität</summary>
       <div id="coverage-content"></div>
@@ -458,7 +484,7 @@
     <span>Interne Auswertung · Datenquelle handball.net</span>
   </footer>
 
-  <script type="module" src="./app.js?v=7.9"></script>
+  <script type="module" src="./app.js?v=8.0"></script>
   <script type="module" src="./pwa.js"></script>
 </body>
 </html>
