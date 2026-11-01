@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:04:00.247Z",
+  "generatedAt": "2026-11-01T01:43:55.605Z",
   "teams": [
     {
       "teamId": "86801",
@@ -760,32 +760,6 @@
               "qualifies": true
             },
             {
-              "round": 7,
-              "position": 2,
-              "played": 5,
-              "won": 4,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 148,
-              "goalsAgainst": 133,
-              "goalDifference": 15,
-              "points": 8,
-              "qualifies": true
-            },
-            {
-              "round": 8,
-              "position": 2,
-              "played": 5,
-              "won": 4,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 148,
-              "goalsAgainst": 133,
-              "goalDifference": 15,
-              "points": 8,
-              "qualifies": true
-            },
-            {
               "round": 9,
               "position": 2,
               "played": 5,
@@ -956,20 +930,16 @@
                   "name": "Male"
                 }
               },
-              "played": 5,
-              "won": 2,
+              "played": 6,
+              "won": 3,
               "drawn": 1,
               "lost": 2,
-              "goalsFor": 149,
-              "goalsAgainst": 137,
-              "goalDifference": 12,
-              "points": 5,
+              "goalsFor": 187,
+              "goalsAgainst": 169,
+              "goalDifference": 18,
+              "points": 7,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 504545,
-                  "result": "L"
-                },
                 {
                   "matchId": 504551,
                   "result": "L"
@@ -985,6 +955,10 @@
                 {
                   "matchId": 504569,
                   "result": "D"
+                },
+                {
+                  "matchId": 504574,
+                  "result": "W"
                 }
               ]
             },
@@ -1144,20 +1118,16 @@
                   "name": "Male"
                 }
               },
-              "played": 5,
+              "played": 6,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 156,
-              "goalsAgainst": 163,
-              "goalDifference": -7,
+              "lost": 3,
+              "goalsFor": 188,
+              "goalsAgainst": 201,
+              "goalDifference": -13,
               "points": 6,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 504542,
-                  "result": "W"
-                },
                 {
                   "matchId": 504548,
                   "result": "L"
@@ -1173,6 +1143,10 @@
                 {
                   "matchId": 504568,
                   "result": "W"
+                },
+                {
+                  "matchId": 504574,
+                  "result": "L"
                 }
               ]
             },
@@ -6598,7 +6572,7 @@
               "position": 7,
               "team": {
                 "id": 81964,
-                "name": "HSG Störtal Hummeln",
+                "name": "HSG STÖRTAL HUMMELN",
                 "club": {
                   "id": "1qw4nbk",
                   "name": "HSG Störtal Hummeln",
@@ -11446,7 +11420,7 @@
               "position": 1,
               "team": {
                 "id": 81690,
-                "name": "HSG Störtal Hummeln II",
+                "name": "HSG STÖRTAL HUMMELN II",
                 "club": {
                   "id": "1qw4nbk",
                   "name": "HSG Störtal Hummeln",
