@@ -33,6 +33,8 @@ Die Kampfgericht-CSV behält die Spalten Datum, Uhrzeit, Wettbewerb, Heimmannsch
 
 Normalisiere die Werte aus der Spalte Kampfgericht nur für die Anzeige auf die bestehenden Dashboard-Namen. Ändere die Arbeitsdatei nicht allein zur Umbenennung von Damen/Frauen oder Jugendkürzeln.
 
+Die sichtbare SG-Heimmannschaft wird aus Wettbewerb und der römischen Mannschaftsnummer im Feld Heimmannschaft abgeleitet. Erhalte dabei sowohl den ursprünglichen Heimvereinsnamen als auch die eindeutige Dashboard-Kennung.
+
 ## Wettbewerbslogik
 
 Der Standardmodus ist league beziehungsweise Ohne Turniere. Die weiteren Modi sind all und tournament.
