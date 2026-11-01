@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:08:46.670Z",
+  "generatedAt": "2026-11-01T18:28:45.022Z",
   "matches": [
     {
       "id": 504541,
@@ -1200,6 +1200,18 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/514381.json"
+    },
+    {
+      "id": 561271,
+      "date": "2026-11-01",
+      "time": "16:00",
+      "ownTeamId": "94484",
+      "opponent": "TSV Ellerau II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/561271.json"
     }
   ]
 }

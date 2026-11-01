@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:08:45.955Z",
+  "generatedAt": "2026-11-01T18:28:44.461Z",
   "teams": [
     {
       "id": "86801",
@@ -374,14 +374,14 @@
       "ageGroup": "senior",
       "gender": "male",
       "matchMinutes": 60,
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "draws": 1,
-      "losses": 2,
-      "goalsFor": 105,
-      "goalsAgainst": 122,
-      "goalDifference": -17,
-      "winRate": 25
+      "losses": 3,
+      "goalsFor": 133,
+      "goalsAgainst": 153,
+      "goalDifference": -20,
+      "winRate": 20
     }
   ]
 }

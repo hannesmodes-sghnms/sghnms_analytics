@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:08:46.311Z",
+  "generatedAt": "2026-11-01T18:28:44.816Z",
   "teams": [
     {
       "teamId": "86801",
@@ -11651,10 +11651,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
-          "currentRound": 5,
+          "currentRound": 8,
           "teamCount": 10,
           "current": {
-            "round": 5,
+            "round": 8,
             "position": 6,
             "played": 4,
             "won": 1,
@@ -11721,6 +11721,19 @@
             },
             {
               "round": 5,
+              "position": 7,
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "goalsFor": 133,
+              "goalsAgainst": 153,
+              "goalDifference": -20,
+              "points": 3,
+              "qualifies": true
+            },
+            {
+              "round": 8,
               "position": 6,
               "played": 4,
               "won": 1,

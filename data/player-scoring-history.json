@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:08:46.687Z",
+  "generatedAt": "2026-11-01T18:28:45.040Z",
   "players": [
     {
       "key": "id:1c64ci9",
@@ -1080,6 +1080,105 @@
       ]
     },
     {
+      "key": "id:0icc3lx",
+      "playerId": "0icc3lx",
+      "name": "Lennox Tyler Voß",
+      "totalAppearances": 5,
+      "totalGoals": 31,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 5,
+          "goals": 31,
+          "sevenMeterGoals": 7,
+          "sevenMeterAttempts": 9
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561249,
+          "date": "2026-09-06",
+          "time": "15:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "HSG OHLAU",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 9,
+          "sevenMeterGoals": 4,
+          "sevenMeterAttempts": 5
+        },
+        {
+          "matchId": 561254,
+          "date": "2026-09-12",
+          "time": "14:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SG Kollmar/Neuendorf II",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 561260,
+          "date": "2026-09-20",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 2
+        },
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1npxv0f",
       "playerId": "1npxv0f",
       "name": "Sophia Charlotte Frida Schade",
@@ -1189,6 +1288,105 @@
           "phaseName": "WJC-ROL-2",
           "inLineup": true,
           "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:0ba83d9",
+      "playerId": "0ba83d9",
+      "name": "Jan Niclas Massannek",
+      "totalAppearances": 5,
+      "totalGoals": 29,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 5,
+          "goals": 29,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561249,
+          "date": "2026-09-06",
+          "time": "15:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "HSG OHLAU",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561254,
+          "date": "2026-09-12",
+          "time": "14:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SG Kollmar/Neuendorf II",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 10,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561260,
+          "date": "2026-09-20",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 9,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -1480,89 +1678,6 @@
           "goals": 4,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0icc3lx",
-      "playerId": "0icc3lx",
-      "name": "Lennox Tyler Voß",
-      "totalAppearances": 4,
-      "totalGoals": 28,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 4,
-          "goals": 28,
-          "sevenMeterGoals": 7,
-          "sevenMeterAttempts": 9
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561249,
-          "date": "2026-09-06",
-          "time": "15:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "HSG OHLAU",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 9,
-          "sevenMeterGoals": 4,
-          "sevenMeterAttempts": 5
-        },
-        {
-          "matchId": 561254,
-          "date": "2026-09-12",
-          "time": "14:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SG Kollmar/Neuendorf II",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        },
-        {
-          "matchId": 561260,
-          "date": "2026-09-20",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SV HENSTEDT-ULZBURG II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 7,
-          "sevenMeterGoals": 2,
-          "sevenMeterAttempts": 2
-        },
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 1
         }
       ]
     },
@@ -3164,89 +3279,6 @@
           "phaseName": "mD-KL-Hin",
           "inLineup": true,
           "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0ba83d9",
-      "playerId": "0ba83d9",
-      "name": "Jan Niclas Massannek",
-      "totalAppearances": 4,
-      "totalGoals": 20,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 4,
-          "goals": 20,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561249,
-          "date": "2026-09-06",
-          "time": "15:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "HSG OHLAU",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561254,
-          "date": "2026-09-12",
-          "time": "14:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SG Kollmar/Neuendorf II",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 10,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561260,
-          "date": "2026-09-20",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SV HENSTEDT-ULZBURG II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -6152,6 +6184,177 @@
       ]
     },
     {
+      "key": "id:0yoj799",
+      "playerId": "0yoj799",
+      "name": "Joost Buchwald",
+      "totalAppearances": 9,
+      "totalGoals": 13,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 5,
+          "goals": 8,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 4,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 505398,
+          "date": "2026-09-05",
+          "time": "18:15",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561249,
+          "date": "2026-09-06",
+          "time": "15:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "HSG OHLAU",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561254,
+          "date": "2026-09-12",
+          "time": "14:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SG Kollmar/Neuendorf II",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561260,
+          "date": "2026-09-20",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505401,
+          "date": "2026-10-27",
+          "time": "19:30",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "PREETZER TSV II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505413,
+          "date": "2026-10-30",
+          "time": "20:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "WELLINGDORFER TV",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:1ikcuuk",
       "playerId": "1ikcuuk",
       "name": "Lea Reese",
@@ -6631,6 +6834,73 @@
       ]
     },
     {
+      "key": "id:0vvg95p",
+      "playerId": "0vvg95p",
+      "name": "Torben Hinz",
+      "totalAppearances": 3,
+      "totalGoals": 13,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 3,
+          "goals": 13,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 4
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561249,
+          "date": "2026-09-06",
+          "time": "15:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "HSG OHLAU",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 561260,
+          "date": "2026-09-20",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 2
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
       "key": "id:15bvao4",
       "playerId": "15bvao4",
       "name": "Anne-Kathrin Habeck",
@@ -6949,161 +7219,6 @@
           "phaseName": "mD-KL-Hin",
           "inLineup": true,
           "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0yoj799",
-      "playerId": "0yoj799",
-      "name": "Joost Buchwald",
-      "totalAppearances": 8,
-      "totalGoals": 12,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 4,
-          "goals": 7,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "appearances": 4,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 505398,
-          "date": "2026-09-05",
-          "time": "18:15",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561249,
-          "date": "2026-09-06",
-          "time": "15:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "HSG OHLAU",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561254,
-          "date": "2026-09-12",
-          "time": "14:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SG Kollmar/Neuendorf II",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561260,
-          "date": "2026-09-20",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SV HENSTEDT-ULZBURG II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505401,
-          "date": "2026-10-27",
-          "time": "19:30",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "PREETZER TSV II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505413,
-          "date": "2026-10-30",
-          "time": "20:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "WELLINGDORFER TV",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -8114,57 +8229,6 @@
       ]
     },
     {
-      "key": "id:0vvg95p",
-      "playerId": "0vvg95p",
-      "name": "Torben Hinz",
-      "totalAppearances": 2,
-      "totalGoals": 10,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 2,
-          "goals": 10,
-          "sevenMeterGoals": 2,
-          "sevenMeterAttempts": 3
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561249,
-          "date": "2026-09-06",
-          "time": "15:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "HSG OHLAU",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        },
-        {
-          "matchId": 561260,
-          "date": "2026-09-20",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SV HENSTEDT-ULZBURG II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 8,
-          "sevenMeterGoals": 2,
-          "sevenMeterAttempts": 2
-        }
-      ]
-    },
-    {
       "key": "id:1cwda29",
       "playerId": "1cwda29",
       "name": "* *",
@@ -8464,6 +8528,73 @@
           "phaseName": "WJC-ROL-2",
           "inLineup": true,
           "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1bsra1x",
+      "playerId": "1bsra1x",
+      "name": "Christopher Haupt",
+      "totalAppearances": 3,
+      "totalGoals": 9,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 3,
+          "goals": 9,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561254,
+          "date": "2026-09-12",
+          "time": "14:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SG Kollmar/Neuendorf II",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561260,
+          "date": "2026-09-20",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -9311,57 +9442,6 @@
       ]
     },
     {
-      "key": "id:1bsra1x",
-      "playerId": "1bsra1x",
-      "name": "Christopher Haupt",
-      "totalAppearances": 2,
-      "totalGoals": 8,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 2,
-          "goals": 8,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561254,
-          "date": "2026-09-12",
-          "time": "14:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SG Kollmar/Neuendorf II",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561260,
-          "date": "2026-09-20",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SV HENSTEDT-ULZBURG II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:1bwncfo",
       "playerId": "1bwncfo",
       "name": "Emil Salm",
@@ -9704,6 +9784,89 @@
           "phaseName": "mD-KL-Hin",
           "inLineup": true,
           "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1kagx2v",
+      "playerId": "1kagx2v",
+      "name": "Oliver Pohl",
+      "totalAppearances": 4,
+      "totalGoals": 8,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 4,
+          "goals": 8,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561249,
+          "date": "2026-09-06",
+          "time": "15:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "HSG OHLAU",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561254,
+          "date": "2026-09-12",
+          "time": "14:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SG Kollmar/Neuendorf II",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -11726,6 +11889,97 @@
       ]
     },
     {
+      "key": "id:0xk67e4",
+      "playerId": "0xk67e4",
+      "name": "Jonas Küster",
+      "totalAppearances": 4,
+      "totalGoals": 6,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 3,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "appearances": 1,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561254,
+          "date": "2026-09-12",
+          "time": "14:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SG Kollmar/Neuendorf II",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 505408,
+          "date": "2026-09-27",
+          "time": "17:00",
+          "teamId": "94483",
+          "teamName": "2. Herren",
+          "opponent": "SC FORTUNA WELLSEE",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12972",
+          "phaseName": "Kreisliga Männer - Staffel D",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:11akj44",
       "playerId": "11akj44",
       "name": "Julia Waldow",
@@ -11953,6 +12207,124 @@
           "phaseName": "Vorrunde A",
           "inLineup": true,
           "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:0wg9gbh",
+      "playerId": "0wg9gbh",
+      "name": "Lukas Georg Hänfler",
+      "totalAppearances": 2,
+      "totalGoals": 6,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 2,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1blps00",
+      "playerId": "1blps00",
+      "name": "Matthias Schillkorn",
+      "totalAppearances": 3,
+      "totalGoals": 6,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 3,
+          "goals": 6,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 2
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561260,
+          "date": "2026-09-20",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561265,
+          "date": "2026-09-27",
+          "time": "18:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+          "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 2,
+          "sevenMeterAttempts": 2
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -12457,83 +12829,16 @@
       ]
     },
     {
-      "key": "id:1kagx2v",
-      "playerId": "1kagx2v",
-      "name": "Oliver Pohl",
-      "totalAppearances": 3,
-      "totalGoals": 6,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 3,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561249,
-          "date": "2026-09-06",
-          "time": "15:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "HSG OHLAU",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561254,
-          "date": "2026-09-12",
-          "time": "14:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SG Kollmar/Neuendorf II",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        },
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:1qb9nrj",
       "playerId": "1qb9nrj",
       "name": "Philipp Alkenings",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 6,
       "teams": [
         {
           "teamId": "94484",
           "teamName": "3. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 6,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -12580,6 +12885,22 @@
           "teamName": "3. Herren",
           "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
           "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12973",
           "phaseName": "Kreisliga Männer - Staffel E",
@@ -13321,57 +13642,6 @@
           "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:1blps00",
-      "playerId": "1blps00",
-      "name": "Matthias Schillkorn",
-      "totalAppearances": 2,
-      "totalGoals": 5,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 2,
-          "goals": 5,
-          "sevenMeterGoals": 2,
-          "sevenMeterAttempts": 2
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561260,
-          "date": "2026-09-20",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SV HENSTEDT-ULZBURG II",
-          "isHome": true,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 2,
-          "sevenMeterAttempts": 2
         }
       ]
     },
@@ -15110,81 +15380,6 @@
       ]
     },
     {
-      "key": "id:0xk67e4",
-      "playerId": "0xk67e4",
-      "name": "Jonas Küster",
-      "totalAppearances": 3,
-      "totalGoals": 3,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 2,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "appearances": 1,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561254,
-          "date": "2026-09-12",
-          "time": "14:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "SG Kollmar/Neuendorf II",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 505408,
-          "date": "2026-09-27",
-          "time": "17:00",
-          "teamId": "94483",
-          "teamName": "2. Herren",
-          "opponent": "SC FORTUNA WELLSEE",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12972",
-          "phaseName": "Kreisliga Männer - Staffel D",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:15jvpar",
       "playerId": "15jvpar",
       "name": "Kjell Fahrenkrog",
@@ -15658,41 +15853,6 @@
           "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0wg9gbh",
-      "playerId": "0wg9gbh",
-      "name": "Lukas Georg Hänfler",
-      "totalAppearances": 1,
-      "totalGoals": 3,
-      "teams": [
-        {
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "appearances": 1,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 561265,
-          "date": "2026-09-27",
-          "time": "18:00",
-          "teamId": "94484",
-          "teamName": "3. Herren",
-          "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-          "isHome": false,
-          "competition": "Kreisliga Männer",
-          "phaseId": "12973",
-          "phaseName": "Kreisliga Männer - Staffel E",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
         }
       ]
     },
@@ -16713,13 +16873,13 @@
       "key": "id:02qcmgu",
       "playerId": "02qcmgu",
       "name": "Christopher Hagen",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 2,
       "teams": [
         {
           "teamId": "94484",
           "teamName": "3. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 2,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -16771,6 +16931,22 @@
           "phaseName": "Kreisliga Männer - Staffel E",
           "inLineup": true,
           "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -18046,6 +18222,41 @@
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
+      "key": "id:068ig7t",
+      "playerId": "068ig7t",
+      "name": "Sven Habeck",
+      "totalAppearances": 1,
+      "totalGoals": 2,
+      "teams": [
+        {
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "appearances": 1,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -22582,13 +22793,13 @@
       "key": "id:1nxtmos",
       "playerId": "1nxtmos",
       "name": "Jonas Hänfler",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94484",
           "teamName": "3. Herren",
-          "appearances": 4,
+          "appearances": 5,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -22651,6 +22862,22 @@
           "teamName": "3. Herren",
           "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
           "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12973",
           "phaseName": "Kreisliga Männer - Staffel E",
@@ -23193,13 +23420,13 @@
       "key": "id:1jpz31a",
       "playerId": "1jpz31a",
       "name": "Len-David Bill Imert",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94484",
           "teamName": "3. Herren",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -23269,6 +23496,22 @@
           "teamId": "94484",
           "teamName": "3. Herren",
           "opponent": "SV HENSTEDT-ULZBURG II",
+          "isHome": true,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
           "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12973",
@@ -25321,13 +25564,13 @@
       "key": "id:1m8rgyl",
       "playerId": "1m8rgyl",
       "name": "Philipp Hänfler",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94484",
           "teamName": "3. Herren",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -25358,6 +25601,22 @@
           "teamName": "3. Herren",
           "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
           "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12973",
           "phaseName": "Kreisliga Männer - Staffel E",
@@ -25677,13 +25936,13 @@
       "key": "id:0vfgths",
       "playerId": "0vfgths",
       "name": "Sascha Bock",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94484",
           "teamName": "3. Herren",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -25714,6 +25973,22 @@
           "teamName": "3. Herren",
           "opponent": "SG Kollmar/Neuendorf II",
           "isHome": false,
+          "competition": "Kreisliga Männer",
+          "phaseId": "12973",
+          "phaseName": "Kreisliga Männer - Staffel E",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 561271,
+          "date": "2026-11-01",
+          "time": "16:00",
+          "teamId": "94484",
+          "teamName": "3. Herren",
+          "opponent": "TSV Ellerau II",
+          "isHome": true,
           "competition": "Kreisliga Männer",
           "phaseId": "12973",
           "phaseName": "Kreisliga Männer - Staffel E",
@@ -27007,6 +27282,105 @@
         ]
       },
       {
+        "key": "id:0icc3lx",
+        "playerId": "0icc3lx",
+        "name": "Lennox Tyler Voß",
+        "totalAppearances": 5,
+        "totalGoals": 31,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 5,
+            "goals": 31,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 9
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 9,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 7,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1npxv0f",
         "playerId": "1npxv0f",
         "name": "Sophia Charlotte Frida Schade",
@@ -27116,6 +27490,105 @@
             "phaseName": "WJC-ROL-2",
             "inLineup": true,
             "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:0ba83d9",
+        "playerId": "0ba83d9",
+        "name": "Jan Niclas Massannek",
+        "totalAppearances": 5,
+        "totalGoals": 29,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 5,
+            "goals": 29,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 9,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -27407,89 +27880,6 @@
             "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0icc3lx",
-        "playerId": "0icc3lx",
-        "name": "Lennox Tyler Voß",
-        "totalAppearances": 4,
-        "totalGoals": 28,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 4,
-            "goals": 28,
-            "sevenMeterGoals": 7,
-            "sevenMeterAttempts": 9
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 9,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 5
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 7,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
           }
         ]
       },
@@ -29091,89 +29481,6 @@
             "phaseName": "mD-KL-Hin",
             "inLineup": true,
             "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0ba83d9",
-        "playerId": "0ba83d9",
-        "name": "Jan Niclas Massannek",
-        "totalAppearances": 4,
-        "totalGoals": 20,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 4,
-            "goals": 20,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -32079,6 +32386,177 @@
         ]
       },
       {
+        "key": "id:0yoj799",
+        "playerId": "0yoj799",
+        "name": "Joost Buchwald",
+        "totalAppearances": 9,
+        "totalGoals": 13,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 5,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "appearances": 4,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 505398,
+            "date": "2026-09-05",
+            "time": "18:15",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505408,
+            "date": "2026-09-27",
+            "time": "17:00",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "SC FORTUNA WELLSEE",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505401,
+            "date": "2026-10-27",
+            "time": "19:30",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "PREETZER TSV II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505413,
+            "date": "2026-10-30",
+            "time": "20:00",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "WELLINGDORFER TV",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1ikcuuk",
         "playerId": "1ikcuuk",
         "name": "Lea Reese",
@@ -32558,6 +33036,73 @@
         ]
       },
       {
+        "key": "id:0vvg95p",
+        "playerId": "0vvg95p",
+        "name": "Torben Hinz",
+        "totalAppearances": 3,
+        "totalGoals": 13,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 13,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 4
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 8,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
         "key": "id:15bvao4",
         "playerId": "15bvao4",
         "name": "Anne-Kathrin Habeck",
@@ -32876,161 +33421,6 @@
             "phaseName": "mD-KL-Hin",
             "inLineup": true,
             "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0yoj799",
-        "playerId": "0yoj799",
-        "name": "Joost Buchwald",
-        "totalAppearances": 8,
-        "totalGoals": 12,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 4,
-            "goals": 7,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "appearances": 4,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 505398,
-            "date": "2026-09-05",
-            "time": "18:15",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505408,
-            "date": "2026-09-27",
-            "time": "17:00",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "SC FORTUNA WELLSEE",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505401,
-            "date": "2026-10-27",
-            "time": "19:30",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "PREETZER TSV II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505413,
-            "date": "2026-10-30",
-            "time": "20:00",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "WELLINGDORFER TV",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -34041,57 +34431,6 @@
         ]
       },
       {
-        "key": "id:0vvg95p",
-        "playerId": "0vvg95p",
-        "name": "Torben Hinz",
-        "totalAppearances": 2,
-        "totalGoals": 10,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 10,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 3
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 8,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
-          }
-        ]
-      },
-      {
         "key": "id:1cwda29",
         "playerId": "1cwda29",
         "name": "* *",
@@ -34391,6 +34730,73 @@
             "phaseName": "WJC-ROL-2",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1bsra1x",
+        "playerId": "1bsra1x",
+        "name": "Christopher Haupt",
+        "totalAppearances": 3,
+        "totalGoals": 9,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -35238,57 +35644,6 @@
         ]
       },
       {
-        "key": "id:1bsra1x",
-        "playerId": "1bsra1x",
-        "name": "Christopher Haupt",
-        "totalAppearances": 2,
-        "totalGoals": 8,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 8,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:1bwncfo",
         "playerId": "1bwncfo",
         "name": "Emil Salm",
@@ -35631,6 +35986,89 @@
             "phaseName": "mD-KL-Hin",
             "inLineup": true,
             "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1kagx2v",
+        "playerId": "1kagx2v",
+        "name": "Oliver Pohl",
+        "totalAppearances": 4,
+        "totalGoals": 8,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 4,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -37653,6 +38091,97 @@
         ]
       },
       {
+        "key": "id:0xk67e4",
+        "playerId": "0xk67e4",
+        "name": "Jonas Küster",
+        "totalAppearances": 4,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "appearances": 1,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505408,
+            "date": "2026-09-27",
+            "time": "17:00",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "SC FORTUNA WELLSEE",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:11akj44",
         "playerId": "11akj44",
         "name": "Julia Waldow",
@@ -37880,6 +38409,124 @@
             "phaseName": "Vorrunde A",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:0wg9gbh",
+        "playerId": "0wg9gbh",
+        "name": "Lukas Georg Hänfler",
+        "totalAppearances": 2,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 2,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1blps00",
+        "playerId": "1blps00",
+        "name": "Matthias Schillkorn",
+        "totalAppearances": 3,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 6,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -38384,83 +39031,16 @@
         ]
       },
       {
-        "key": "id:1kagx2v",
-        "playerId": "1kagx2v",
-        "name": "Oliver Pohl",
-        "totalAppearances": 3,
-        "totalGoals": 6,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:1qb9nrj",
         "playerId": "1qb9nrj",
         "name": "Philipp Alkenings",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 6,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 6,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -38507,6 +39087,22 @@
             "teamName": "3. Herren",
             "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",
@@ -39248,57 +39844,6 @@
             "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1blps00",
-        "playerId": "1blps00",
-        "name": "Matthias Schillkorn",
-        "totalAppearances": 2,
-        "totalGoals": 5,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 5,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
           }
         ]
       },
@@ -41037,81 +41582,6 @@
         ]
       },
       {
-        "key": "id:0xk67e4",
-        "playerId": "0xk67e4",
-        "name": "Jonas Küster",
-        "totalAppearances": 3,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "appearances": 1,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505408,
-            "date": "2026-09-27",
-            "time": "17:00",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "SC FORTUNA WELLSEE",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:15jvpar",
         "playerId": "15jvpar",
         "name": "Kjell Fahrenkrog",
@@ -41585,41 +42055,6 @@
             "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0wg9gbh",
-        "playerId": "0wg9gbh",
-        "name": "Lukas Georg Hänfler",
-        "totalAppearances": 1,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 1,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
           }
         ]
       },
@@ -42640,13 +43075,13 @@
         "key": "id:02qcmgu",
         "playerId": "02qcmgu",
         "name": "Christopher Hagen",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 2,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -42698,6 +43133,22 @@
             "phaseName": "Kreisliga Männer - Staffel E",
             "inLineup": true,
             "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -43973,6 +44424,41 @@
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:068ig7t",
+        "playerId": "068ig7t",
+        "name": "Sven Habeck",
+        "totalAppearances": 1,
+        "totalGoals": 2,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 1,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -48509,13 +48995,13 @@
         "key": "id:1nxtmos",
         "playerId": "1nxtmos",
         "name": "Jonas Hänfler",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 4,
+            "appearances": 5,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -48578,6 +49064,22 @@
             "teamName": "3. Herren",
             "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",
@@ -49120,13 +49622,13 @@
         "key": "id:1jpz31a",
         "playerId": "1jpz31a",
         "name": "Len-David Bill Imert",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -49196,6 +49698,22 @@
             "teamId": "94484",
             "teamName": "3. Herren",
             "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
             "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
@@ -51248,13 +51766,13 @@
         "key": "id:1m8rgyl",
         "playerId": "1m8rgyl",
         "name": "Philipp Hänfler",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -51285,6 +51803,22 @@
             "teamName": "3. Herren",
             "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",
@@ -51604,13 +52138,13 @@
         "key": "id:0vfgths",
         "playerId": "0vfgths",
         "name": "Sascha Bock",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -51641,6 +52175,22 @@
             "teamName": "3. Herren",
             "opponent": "SG Kollmar/Neuendorf II",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",
@@ -53120,6 +53670,105 @@
         ]
       },
       {
+        "key": "id:0icc3lx",
+        "playerId": "0icc3lx",
+        "name": "Lennox Tyler Voß",
+        "totalAppearances": 5,
+        "totalGoals": 31,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 5,
+            "goals": 31,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 9
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 9,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 7,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1npxv0f",
         "playerId": "1npxv0f",
         "name": "Sophia Charlotte Frida Schade",
@@ -53229,6 +53878,105 @@
             "phaseName": "WJC-ROL-2",
             "inLineup": true,
             "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:0ba83d9",
+        "playerId": "0ba83d9",
+        "name": "Jan Niclas Massannek",
+        "totalAppearances": 5,
+        "totalGoals": 29,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 5,
+            "goals": 29,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 9,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -53429,89 +54177,6 @@
             "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0icc3lx",
-        "playerId": "0icc3lx",
-        "name": "Lennox Tyler Voß",
-        "totalAppearances": 4,
-        "totalGoals": 28,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 4,
-            "goals": 28,
-            "sevenMeterGoals": 7,
-            "sevenMeterAttempts": 9
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 9,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 5
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 7,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1
           }
         ]
       },
@@ -55508,89 +56173,6 @@
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 1
-          }
-        ]
-      },
-      {
-        "key": "id:0ba83d9",
-        "playerId": "0ba83d9",
-        "name": "Jan Niclas Massannek",
-        "totalAppearances": 4,
-        "totalGoals": 20,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 4,
-            "goals": 20,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -58606,6 +59188,177 @@
         ]
       },
       {
+        "key": "id:0yoj799",
+        "playerId": "0yoj799",
+        "name": "Joost Buchwald",
+        "totalAppearances": 9,
+        "totalGoals": 13,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 5,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "appearances": 4,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 505398,
+            "date": "2026-09-05",
+            "time": "18:15",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505408,
+            "date": "2026-09-27",
+            "time": "17:00",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "SC FORTUNA WELLSEE",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505401,
+            "date": "2026-10-27",
+            "time": "19:30",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "PREETZER TSV II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505413,
+            "date": "2026-10-30",
+            "time": "20:00",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "WELLINGDORFER TV",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:1ikcuuk",
         "playerId": "1ikcuuk",
         "name": "Lea Reese",
@@ -59085,6 +59838,73 @@
         ]
       },
       {
+        "key": "id:0vvg95p",
+        "playerId": "0vvg95p",
+        "name": "Torben Hinz",
+        "totalAppearances": 3,
+        "totalGoals": 13,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 13,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 4
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 8,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
         "key": "id:15bvao4",
         "playerId": "15bvao4",
         "name": "Anne-Kathrin Habeck",
@@ -59322,161 +60142,6 @@
             "goals": 4,
             "sevenMeterGoals": 2,
             "sevenMeterAttempts": 4
-          }
-        ]
-      },
-      {
-        "key": "id:0yoj799",
-        "playerId": "0yoj799",
-        "name": "Joost Buchwald",
-        "totalAppearances": 8,
-        "totalGoals": 12,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 4,
-            "goals": 7,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "appearances": 4,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 505398,
-            "date": "2026-09-05",
-            "time": "18:15",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505408,
-            "date": "2026-09-27",
-            "time": "17:00",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "SC FORTUNA WELLSEE",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505401,
-            "date": "2026-10-27",
-            "time": "19:30",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "PREETZER TSV II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505413,
-            "date": "2026-10-30",
-            "time": "20:00",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "WELLINGDORFER TV",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -60485,57 +61150,6 @@
         ]
       },
       {
-        "key": "id:0vvg95p",
-        "playerId": "0vvg95p",
-        "name": "Torben Hinz",
-        "totalAppearances": 2,
-        "totalGoals": 10,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 10,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 3
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 8,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
-          }
-        ]
-      },
-      {
         "key": "id:1cwda29",
         "playerId": "1cwda29",
         "name": "* *",
@@ -60835,6 +61449,73 @@
             "phaseName": "WJC-ROL-2",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1bsra1x",
+        "playerId": "1bsra1x",
+        "name": "Christopher Haupt",
+        "totalAppearances": 3,
+        "totalGoals": 9,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -61679,57 +62360,6 @@
         ]
       },
       {
-        "key": "id:1bsra1x",
-        "playerId": "1bsra1x",
-        "name": "Christopher Haupt",
-        "totalAppearances": 2,
-        "totalGoals": 8,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 8,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:1bwncfo",
         "playerId": "1bwncfo",
         "name": "Emil Salm",
@@ -61989,6 +62619,89 @@
             "phaseName": "Vorrunde A",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1kagx2v",
+        "playerId": "1kagx2v",
+        "name": "Oliver Pohl",
+        "totalAppearances": 4,
+        "totalGoals": 8,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 4,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561249,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "HSG OHLAU",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -64011,6 +64724,97 @@
         ]
       },
       {
+        "key": "id:0xk67e4",
+        "playerId": "0xk67e4",
+        "name": "Jonas Küster",
+        "totalAppearances": 4,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "appearances": 1,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561254,
+            "date": "2026-09-12",
+            "time": "14:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SG Kollmar/Neuendorf II",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 505408,
+            "date": "2026-09-27",
+            "time": "17:00",
+            "teamId": "94483",
+            "teamName": "2. Herren",
+            "opponent": "SC FORTUNA WELLSEE",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12972",
+            "phaseName": "Kreisliga Männer - Staffel D",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:11akj44",
         "playerId": "11akj44",
         "name": "Julia Waldow",
@@ -64238,6 +65042,124 @@
             "phaseName": "Vorrunde A",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:0wg9gbh",
+        "playerId": "0wg9gbh",
+        "name": "Lukas Georg Hänfler",
+        "totalAppearances": 2,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 2,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1blps00",
+        "playerId": "1blps00",
+        "name": "Matthias Schillkorn",
+        "totalAppearances": 3,
+        "totalGoals": 6,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 3,
+            "goals": 6,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561260,
+            "date": "2026-09-20",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561265,
+            "date": "2026-09-27",
+            "time": "18:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
+            "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -64742,83 +65664,16 @@
         ]
       },
       {
-        "key": "id:1kagx2v",
-        "playerId": "1kagx2v",
-        "name": "Oliver Pohl",
-        "totalAppearances": 3,
-        "totalGoals": 6,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561249,
-            "date": "2026-09-06",
-            "time": "15:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "HSG OHLAU",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:1qb9nrj",
         "playerId": "1qb9nrj",
         "name": "Philipp Alkenings",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 6,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 6,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -64865,6 +65720,22 @@
             "teamName": "3. Herren",
             "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",
@@ -65606,57 +66477,6 @@
             "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1blps00",
-        "playerId": "1blps00",
-        "name": "Matthias Schillkorn",
-        "totalAppearances": 2,
-        "totalGoals": 5,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 5,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561260,
-            "date": "2026-09-20",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SV HENSTEDT-ULZBURG II",
-            "isHome": true,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2
           }
         ]
       },
@@ -67395,81 +68215,6 @@
         ]
       },
       {
-        "key": "id:0xk67e4",
-        "playerId": "0xk67e4",
-        "name": "Jonas Küster",
-        "totalAppearances": 3,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 2,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "appearances": 1,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561254,
-            "date": "2026-09-12",
-            "time": "14:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "SG Kollmar/Neuendorf II",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 505408,
-            "date": "2026-09-27",
-            "time": "17:00",
-            "teamId": "94483",
-            "teamName": "2. Herren",
-            "opponent": "SC FORTUNA WELLSEE",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12972",
-            "phaseName": "Kreisliga Männer - Staffel D",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:15jvpar",
         "playerId": "15jvpar",
         "name": "Kjell Fahrenkrog",
@@ -67943,41 +68688,6 @@
             "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0wg9gbh",
-        "playerId": "0wg9gbh",
-        "name": "Lukas Georg Hänfler",
-        "totalAppearances": 1,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "appearances": 1,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 561265,
-            "date": "2026-09-27",
-            "time": "18:00",
-            "teamId": "94484",
-            "teamName": "3. Herren",
-            "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
-            "isHome": false,
-            "competition": "Kreisliga Männer",
-            "phaseId": "12973",
-            "phaseName": "Kreisliga Männer - Staffel E",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
           }
         ]
       },
@@ -68998,13 +69708,13 @@
         "key": "id:02qcmgu",
         "playerId": "02qcmgu",
         "name": "Christopher Hagen",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 2,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 2,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -69056,6 +69766,22 @@
             "phaseName": "Kreisliga Männer - Staffel E",
             "inLineup": true,
             "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -70331,6 +71057,41 @@
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:068ig7t",
+        "playerId": "068ig7t",
+        "name": "Sven Habeck",
+        "totalAppearances": 1,
+        "totalGoals": 2,
+        "teams": [
+          {
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "appearances": 1,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -74923,13 +75684,13 @@
         "key": "id:1nxtmos",
         "playerId": "1nxtmos",
         "name": "Jonas Hänfler",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 4,
+            "appearances": 5,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -74992,6 +75753,22 @@
             "teamName": "3. Herren",
             "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",
@@ -75534,13 +76311,13 @@
         "key": "id:1jpz31a",
         "playerId": "1jpz31a",
         "name": "Len-David Bill Imert",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -75610,6 +76387,22 @@
             "teamId": "94484",
             "teamName": "3. Herren",
             "opponent": "SV HENSTEDT-ULZBURG II",
+            "isHome": true,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
             "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
@@ -77662,13 +78455,13 @@
         "key": "id:1m8rgyl",
         "playerId": "1m8rgyl",
         "name": "Philipp Hänfler",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -77699,6 +78492,22 @@
             "teamName": "3. Herren",
             "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe III",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",
@@ -78018,13 +78827,13 @@
         "key": "id:0vfgths",
         "playerId": "0vfgths",
         "name": "Sascha Bock",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94484",
             "teamName": "3. Herren",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -78055,6 +78864,22 @@
             "teamName": "3. Herren",
             "opponent": "SG Kollmar/Neuendorf II",
             "isHome": false,
+            "competition": "Kreisliga Männer",
+            "phaseId": "12973",
+            "phaseName": "Kreisliga Männer - Staffel E",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 561271,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "teamId": "94484",
+            "teamName": "3. Herren",
+            "opponent": "TSV Ellerau II",
+            "isHome": true,
             "competition": "Kreisliga Männer",
             "phaseId": "12973",
             "phaseName": "Kreisliga Männer - Staffel E",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T16:08:45.958Z",
+  "generatedAt": "2026-11-01T18:28:44.463Z",
   "matches": [
     {
       "id": 504541,
@@ -7797,7 +7797,7 @@
       },
       "away": {
         "id": 87103,
-        "name": "Saudi-Arabien",
+        "name": "SG Handball Neumünster",
         "clubId": "1yrb3n9"
       },
       "result": {
@@ -8024,6 +8024,85 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/514381.json"
+    },
+    {
+      "id": 561271,
+      "date": "2026-11-01",
+      "time": "16:00",
+      "home": {
+        "id": 94484,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81721,
+        "name": "TSV Ellerau II",
+        "clubId": "1u01tx2"
+      },
+      "result": {
+        "home": 28,
+        "away": 31
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7946,
+      "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12973,
+        "name": "Kreisliga Männer - Staffel E"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "94484",
+      "ownTeam": {
+        "label": "HERREN 3",
+        "name": "3. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 28,
+          "away": 31
+        },
+        "eventFinalScore": {
+          "home": 28,
+          "away": 31
+        },
+        "lineupGoalTotals": {
+          "home": 28,
+          "away": 31
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 59,
+          "goalEventsWithPlayer": 59,
+          "matchedGoalEvents": 59,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/561271.json"
     }
   ]
 }
