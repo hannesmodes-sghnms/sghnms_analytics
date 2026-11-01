@@ -1,0 +1,1513 @@
+{
+  "generatedAt": "2026-11-01T16:08:46.658Z",
+  "match": {
+    "id": 532828,
+    "date": "2026-11-01",
+    "time": "13:30",
+    "competitionId": 7239,
+    "competition": "Kreisliga mD Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 15492,
+      "name": "mD-KL-Hin"
+    },
+    "venue": {
+      "name": "ERICH STEIN HALLE",
+      "address": "HOJERWEG / AM FREIBAD, 25479 ELLERAU"
+    },
+    "home": {
+      "id": 82514,
+      "name": "TSV Ellerau",
+      "clubId": "1u01tx2"
+    },
+    "away": {
+      "id": 87103,
+      "name": "Saudi-Arabien",
+      "clubId": "1yrb3n9"
+    },
+    "result": {
+      "home": 31,
+      "away": 24
+    },
+    "ownTeamId": "87103",
+    "ownTeam": {
+      "label": "MJD 1",
+      "name": "mJD 1",
+      "ageGroup": "youth",
+      "gender": "male",
+      "youthClass": "D",
+      "matchMinutes": 40,
+      "twoMinutePlayerReduction": false
+    },
+    "isHome": false,
+    "opponent": {
+      "id": 82514,
+      "name": "TSV Ellerau",
+      "clubId": "1u01tx2"
+    }
+  },
+  "quality": {
+    "status": "verified",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 31,
+      "away": 24
+    },
+    "eventFinalScore": {
+      "home": 31,
+      "away": 24
+    },
+    "lineupGoalTotals": {
+      "home": 31,
+      "away": 24
+    },
+    "eventScoreMatchesOfficial": true,
+    "lineupScoreMatchesOfficial": true,
+    "scorerLineupCoverage": {
+      "goalEvents": 55,
+      "goalEventsWithPlayer": 55,
+      "matchedGoalEvents": 55,
+      "percentage": 100
+    },
+    "halftimeAvailable": true,
+    "halftimeSource": "event",
+    "expectedDurationSeconds": 2400,
+    "eventDurationSeconds": 2400,
+    "durationDeltaSeconds": 0,
+    "durationMatchesExpected": true,
+    "analyticsEligible": true,
+    "lineupEligible": true,
+    "warnings": []
+  },
+  "analytics": {
+    "duration": {
+      "expectedSeconds": 2400,
+      "eventSeconds": 2400,
+      "analysisSeconds": 2400,
+      "analysisClock": "40:00"
+    },
+    "score": {
+      "final": {
+        "own": 24,
+        "opponent": 31
+      },
+      "halftime": {
+        "own": 13,
+        "opponent": 15
+      },
+      "halftimeSource": "event"
+    },
+    "matchFlow": [
+      {
+        "eventId": 66937174,
+        "timestamp": "2026-11-01T13:34:15+00:00",
+        "seconds": 139,
+        "clock": "02:19",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 0,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66937173,
+        "timestamp": "2026-11-01T13:34:36+00:00",
+        "seconds": 161,
+        "clock": "02:41",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 0,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 66937172,
+        "timestamp": "2026-11-01T13:34:53+00:00",
+        "seconds": 179,
+        "clock": "02:59",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 66937171,
+        "timestamp": "2026-11-01T13:36:25+00:00",
+        "seconds": 270,
+        "clock": "04:30",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 66937170,
+        "timestamp": "2026-11-01T13:37:46+00:00",
+        "seconds": 351,
+        "clock": "05:51",
+        "side": "opponent",
+        "playerId": "1nvomam",
+        "playerName": "Felix Stamms",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66937169,
+        "timestamp": "2026-11-01T13:37:59+00:00",
+        "seconds": 364,
+        "clock": "06:04",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66937168,
+        "timestamp": "2026-11-01T13:38:12+00:00",
+        "seconds": 378,
+        "clock": "06:18",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 66937167,
+        "timestamp": "2026-11-01T13:38:38+00:00",
+        "seconds": 404,
+        "clock": "06:44",
+        "side": "opponent",
+        "playerId": "1ttg8ec",
+        "playerName": "Tim Frederik Bicker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 66937166,
+        "timestamp": "2026-11-01T13:39:17+00:00",
+        "seconds": 442,
+        "clock": "07:22",
+        "side": "own",
+        "playerId": "09b3llv",
+        "playerName": "Lian Karow",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 66937165,
+        "timestamp": "2026-11-01T13:39:29+00:00",
+        "seconds": 455,
+        "clock": "07:35",
+        "side": "opponent",
+        "playerId": "1nvomam",
+        "playerName": "Felix Stamms",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 66937164,
+        "timestamp": "2026-11-01T13:39:50+00:00",
+        "seconds": 476,
+        "clock": "07:56",
+        "side": "own",
+        "playerId": "1sjtbh0",
+        "playerName": "Bela Twelkemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 66937163,
+        "timestamp": "2026-11-01T13:40:41+00:00",
+        "seconds": 526,
+        "clock": "08:46",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 66937162,
+        "timestamp": "2026-11-01T13:40:59+00:00",
+        "seconds": 544,
+        "clock": "09:04",
+        "side": "own",
+        "playerId": "167evvc",
+        "playerName": "Friedrich Riedel",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 66937161,
+        "timestamp": "2026-11-01T13:41:12+00:00",
+        "seconds": 558,
+        "clock": "09:18",
+        "side": "opponent",
+        "playerId": "1nvomam",
+        "playerName": "Felix Stamms",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 66937160,
+        "timestamp": "2026-11-01T13:41:55+00:00",
+        "seconds": 601,
+        "clock": "10:01",
+        "side": "own",
+        "playerId": "06ntphq",
+        "playerName": "Mats Obernberger",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 66937159,
+        "timestamp": "2026-11-01T13:42:12+00:00",
+        "seconds": 617,
+        "clock": "10:17",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 66937157,
+        "timestamp": "2026-11-01T13:43:53+00:00",
+        "seconds": 636,
+        "clock": "10:36",
+        "side": "own",
+        "playerId": "1sjtbh0",
+        "playerName": "Bela Twelkemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 66937156,
+        "timestamp": "2026-11-01T13:44:21+00:00",
+        "seconds": 665,
+        "clock": "11:05",
+        "side": "opponent",
+        "playerId": "1ttg8ec",
+        "playerName": "Tim Frederik Bicker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 66937155,
+        "timestamp": "2026-11-01T13:45:39+00:00",
+        "seconds": 742,
+        "clock": "12:22",
+        "side": "own",
+        "playerId": "06ntphq",
+        "playerName": "Mats Obernberger",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 66937153,
+        "timestamp": "2026-11-01T13:46:48+00:00",
+        "seconds": 810,
+        "clock": "13:30",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 66937152,
+        "timestamp": "2026-11-01T13:47:02+00:00",
+        "seconds": 826,
+        "clock": "13:46",
+        "side": "own",
+        "playerId": "1sjtbh0",
+        "playerName": "Bela Twelkemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 66937151,
+        "timestamp": "2026-11-01T13:47:42+00:00",
+        "seconds": 866,
+        "clock": "14:26",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 66937150,
+        "timestamp": "2026-11-01T13:48:25+00:00",
+        "seconds": 909,
+        "clock": "15:09",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 66937149,
+        "timestamp": "2026-11-01T13:48:41+00:00",
+        "seconds": 925,
+        "clock": "15:25",
+        "side": "opponent",
+        "playerId": "1r9a7fn",
+        "playerName": "Nicolas Felipe Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 66937148,
+        "timestamp": "2026-11-01T13:50:20+00:00",
+        "seconds": 1024,
+        "clock": "17:04",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 66937147,
+        "timestamp": "2026-11-01T13:51:24+00:00",
+        "seconds": 1088,
+        "clock": "18:08",
+        "side": "opponent",
+        "playerId": "1a4ifvt",
+        "playerName": "Henry Wolters",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 66937146,
+        "timestamp": "2026-11-01T13:52:05+00:00",
+        "seconds": 1127,
+        "clock": "18:47",
+        "side": "opponent",
+        "playerId": "15fmgn9",
+        "playerName": "Philipp Maximilian Jeschke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 66937145,
+        "timestamp": "2026-11-01T13:53:00+00:00",
+        "seconds": 1184,
+        "clock": "19:44",
+        "side": "own",
+        "playerId": "0popg38",
+        "playerName": "Jesse Borde",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 66937141,
+        "timestamp": "2026-11-01T14:05:05+00:00",
+        "seconds": 1225,
+        "clock": "20:25",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 66937139,
+        "timestamp": "2026-11-01T14:06:31+00:00",
+        "seconds": 1297,
+        "clock": "21:37",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 66937138,
+        "timestamp": "2026-11-01T14:06:45+00:00",
+        "seconds": 1312,
+        "clock": "21:52",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 66937137,
+        "timestamp": "2026-11-01T14:08:36+00:00",
+        "seconds": 1381,
+        "clock": "23:01",
+        "side": "opponent",
+        "playerId": "1r9a7fn",
+        "playerName": "Nicolas Felipe Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 66937136,
+        "timestamp": "2026-11-01T14:09:32+00:00",
+        "seconds": 1436,
+        "clock": "23:56",
+        "side": "opponent",
+        "playerId": "1r9a7fn",
+        "playerName": "Nicolas Felipe Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 66937135,
+        "timestamp": "2026-11-01T14:10:06+00:00",
+        "seconds": 1470,
+        "clock": "24:30",
+        "side": "own",
+        "playerId": "0lmc1n1",
+        "playerName": "Jaro Borde",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 66937134,
+        "timestamp": "2026-11-01T14:10:27+00:00",
+        "seconds": 1492,
+        "clock": "24:52",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 66937133,
+        "timestamp": "2026-11-01T14:10:45+00:00",
+        "seconds": 1509,
+        "clock": "25:09",
+        "side": "own",
+        "playerId": "1sjtbh0",
+        "playerName": "Bela Twelkemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 66937132,
+        "timestamp": "2026-11-01T14:11:15+00:00",
+        "seconds": 1539,
+        "clock": "25:39",
+        "side": "opponent",
+        "playerId": "1nvomam",
+        "playerName": "Felix Stamms",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 66937131,
+        "timestamp": "2026-11-01T14:11:47+00:00",
+        "seconds": 1572,
+        "clock": "26:12",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 66937130,
+        "timestamp": "2026-11-01T14:12:55+00:00",
+        "seconds": 1638,
+        "clock": "27:18",
+        "side": "opponent",
+        "playerId": "15fmgn9",
+        "playerName": "Philipp Maximilian Jeschke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 66937129,
+        "timestamp": "2026-11-01T14:13:08+00:00",
+        "seconds": 1652,
+        "clock": "27:32",
+        "side": "own",
+        "playerId": "167evvc",
+        "playerName": "Friedrich Riedel",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 66937128,
+        "timestamp": "2026-11-01T14:14:31+00:00",
+        "seconds": 1736,
+        "clock": "28:56",
+        "side": "own",
+        "playerId": "06ntphq",
+        "playerName": "Mats Obernberger",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 66937127,
+        "timestamp": "2026-11-01T14:15:12+00:00",
+        "seconds": 1776,
+        "clock": "29:36",
+        "side": "opponent",
+        "playerId": "1a4ifvt",
+        "playerName": "Henry Wolters",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 24
+        }
+      },
+      {
+        "eventId": 66937126,
+        "timestamp": "2026-11-01T14:16:00+00:00",
+        "seconds": 1825,
+        "clock": "30:25",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 25
+        }
+      },
+      {
+        "eventId": 66937124,
+        "timestamp": "2026-11-01T14:17:44+00:00",
+        "seconds": 1849,
+        "clock": "30:49",
+        "side": "opponent",
+        "playerId": "1nvomam",
+        "playerName": "Felix Stamms",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 26
+        }
+      },
+      {
+        "eventId": 66937117,
+        "timestamp": "2026-11-01T14:22:47+00:00",
+        "seconds": 1862,
+        "clock": "31:02",
+        "side": "own",
+        "playerId": "09b3llv",
+        "playerName": "Lian Karow",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 66937119,
+        "timestamp": "2026-11-01T14:20:46+00:00",
+        "seconds": 1862,
+        "clock": "31:02",
+        "side": "opponent",
+        "playerId": "15fmgn9",
+        "playerName": "Philipp Maximilian Jeschke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 66937120,
+        "timestamp": "2026-11-01T14:19:31+00:00",
+        "seconds": 1862,
+        "clock": "31:02",
+        "side": "own",
+        "playerId": "1hd7oax",
+        "playerName": "Mattis Kröger",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 27
+        }
+      },
+      {
+        "eventId": 66937121,
+        "timestamp": "2026-11-01T14:19:11+00:00",
+        "seconds": 1862,
+        "clock": "31:02",
+        "side": "opponent",
+        "playerId": "15fmgn9",
+        "playerName": "Philipp Maximilian Jeschke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 27
+        }
+      },
+      {
+        "eventId": 66937122,
+        "timestamp": "2026-11-01T14:18:19+00:00",
+        "seconds": 1862,
+        "clock": "31:02",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": true,
+        "score": {
+          "own": 19,
+          "opponent": 26
+        }
+      },
+      {
+        "eventId": 66937116,
+        "timestamp": "2026-11-01T14:24:43+00:00",
+        "seconds": 2155,
+        "clock": "35:55",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 66937115,
+        "timestamp": "2026-11-01T14:25:12+00:00",
+        "seconds": 2186,
+        "clock": "36:26",
+        "side": "opponent",
+        "playerId": "1ttg8ec",
+        "playerName": "Tim Frederik Bicker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 66937114,
+        "timestamp": "2026-11-01T14:26:02+00:00",
+        "seconds": 2235,
+        "clock": "37:15",
+        "side": "own",
+        "playerId": "0popg38",
+        "playerName": "Jesse Borde",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 66937113,
+        "timestamp": "2026-11-01T14:26:59+00:00",
+        "seconds": 2280,
+        "clock": "38:00",
+        "side": "opponent",
+        "playerId": "05bs6zd",
+        "playerName": "Fiete Musiol",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 30
+        }
+      },
+      {
+        "eventId": 66937112,
+        "timestamp": "2026-11-01T14:27:26+00:00",
+        "seconds": 2307,
+        "clock": "38:27",
+        "side": "own",
+        "playerId": "1unz4hm",
+        "playerName": "Bosse Funda",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 30
+        }
+      },
+      {
+        "eventId": 66937111,
+        "timestamp": "2026-11-01T14:28:12+00:00",
+        "seconds": 2339,
+        "clock": "38:59",
+        "side": "opponent",
+        "playerId": "1nvomam",
+        "playerName": "Felix Stamms",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 31
+        }
+      }
+    ],
+    "fiveMinuteSplits": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 300,
+        "label": "0-5",
+        "goals": {
+          "own": 2,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 2,
+          "opponent": 2
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 300,
+        "endSeconds": 600,
+        "label": "5-10",
+        "goals": {
+          "own": 4,
+          "opponent": 6
+        },
+        "scoreEnd": {
+          "own": 6,
+          "opponent": 8
+        },
+        "goalDifference": -2
+      },
+      {
+        "startSeconds": 600,
+        "endSeconds": 900,
+        "label": "10-15",
+        "goals": {
+          "own": 4,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 10,
+          "opponent": 12
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 900,
+        "endSeconds": 1200,
+        "label": "15-20",
+        "goals": {
+          "own": 3,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 13,
+          "opponent": 15
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 1200,
+        "endSeconds": 1500,
+        "label": "20-25",
+        "goals": {
+          "own": 2,
+          "opponent": 5
+        },
+        "scoreEnd": {
+          "own": 15,
+          "opponent": 20
+        },
+        "goalDifference": -3
+      },
+      {
+        "startSeconds": 1500,
+        "endSeconds": 1800,
+        "label": "25-30",
+        "goals": {
+          "own": 3,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 18,
+          "opponent": 24
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 1800,
+        "endSeconds": 2100,
+        "label": "30-35",
+        "goals": {
+          "own": 0,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 18,
+          "opponent": 26
+        },
+        "goalDifference": -2
+      },
+      {
+        "startSeconds": 2100,
+        "endSeconds": 2400,
+        "label": "35-40",
+        "goals": {
+          "own": 6,
+          "opponent": 5
+        },
+        "scoreEnd": {
+          "own": 24,
+          "opponent": 31
+        },
+        "goalDifference": 1
+      }
+    ],
+    "gamePhases": null,
+    "sevenMeters": {
+      "own": {
+        "goals": 1,
+        "misses": 0,
+        "attempts": 1,
+        "percentage": 100
+      },
+      "opponent": {
+        "goals": 0,
+        "misses": 0,
+        "attempts": 0,
+        "percentage": null
+      }
+    },
+    "sanctions": {
+      "own": {
+        "warnings": 1,
+        "twoMinutes": 1,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      },
+      "opponent": {
+        "warnings": 1,
+        "twoMinutes": 1,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      }
+    },
+    "longestRuns": {
+      "own": {
+        "side": "away",
+        "goals": 2,
+        "startSeconds": 179,
+        "endSeconds": 270,
+        "startScore": {
+          "home": 2,
+          "away": 0
+        },
+        "endScore": {
+          "home": 2,
+          "away": 2
+        },
+        "start": "02:59",
+        "end": "04:30"
+      },
+      "opponent": {
+        "side": "home",
+        "goals": 4,
+        "startSeconds": 1297,
+        "endSeconds": 1436,
+        "startScore": {
+          "home": 15,
+          "away": 14
+        },
+        "endScore": {
+          "home": 19,
+          "away": 14
+        },
+        "start": "21:37",
+        "end": "23:56"
+      }
+    },
+    "scoringDroughts": {
+      "own": {
+        "seconds": 293,
+        "startSeconds": 1862,
+        "endSeconds": 2155,
+        "duration": "04:53",
+        "start": "31:02",
+        "end": "35:55"
+      },
+      "opponent": {
+        "seconds": 324,
+        "startSeconds": 1862,
+        "endSeconds": 2186,
+        "duration": "05:24",
+        "start": "31:02",
+        "end": "36:26"
+      }
+    },
+    "timeouts": [
+      {
+        "side": "own",
+        "seconds": 632,
+        "clock": "10:32",
+        "score": {
+          "own": 7,
+          "opponent": 9
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 4,
+          "opponent": 5
+        },
+        "goalsBefore": {
+          "own": 3,
+          "opponent": 4
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 9,
+          "opponent": 11
+        },
+        "goalsAfter": {
+          "own": 2,
+          "opponent": 2
+        }
+      },
+      {
+        "side": "own",
+        "seconds": 1831,
+        "clock": "30:31",
+        "score": {
+          "own": 18,
+          "opponent": 25
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 16,
+          "opponent": 23
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 2
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 18,
+          "opponent": 26
+        },
+        "goalsAfter": {
+          "own": 0,
+          "opponent": 1
+        }
+      },
+      {
+        "side": "opponent",
+        "seconds": 1862,
+        "clock": "31:02",
+        "score": {
+          "own": 20,
+          "opponent": 28
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 17,
+          "opponent": 23
+        },
+        "goalsBefore": {
+          "own": 3,
+          "opponent": 5
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 18,
+          "opponent": 26
+        },
+        "goalsAfter": {
+          "own": -2,
+          "opponent": -2
+        }
+      }
+    ],
+    "numericSituations": {
+      "suspensionsAffectPlayerCount": false,
+      "suspensions": [
+        {
+          "eventId": 66937140,
+          "side": "own",
+          "playerId": "1unz4hm",
+          "playerName": "Bosse Funda",
+          "startSeconds": 1275,
+          "endSeconds": 1395,
+          "start": "21:15",
+          "end": "23:15"
+        },
+        {
+          "eventId": 66937123,
+          "side": "opponent",
+          "playerId": "1ttg8ec",
+          "playerName": "Tim Frederik Bicker",
+          "startSeconds": 1862,
+          "endSeconds": 1982,
+          "start": "31:02",
+          "end": "33:02"
+        }
+      ],
+      "even": {
+        "seconds": 2400,
+        "goals": {
+          "own": 24,
+          "opponent": 31
+        }
+      },
+      "powerPlay": {
+        "seconds": 0,
+        "goals": {
+          "own": 0,
+          "opponent": 0
+        }
+      },
+      "shortHanded": {
+        "seconds": 0,
+        "goals": {
+          "own": 0,
+          "opponent": 0
+        }
+      }
+    },
+    "players": {
+      "own": [
+        {
+          "playerId": "1unz4hm",
+          "name": "Bosse Funda",
+          "number": 9,
+          "inLineup": true,
+          "goals": 9,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1sjtbh0",
+          "name": "Bela Twelkemeyer",
+          "number": 3,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "06ntphq",
+          "name": "Mats Obernberger",
+          "number": 14,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "09b3llv",
+          "name": "Lian Karow",
+          "number": 4,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0popg38",
+          "name": "Jesse Borde",
+          "number": 11,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "167evvc",
+          "name": "Friedrich Riedel",
+          "number": 12,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0lmc1n1",
+          "name": "Jaro Borde",
+          "number": 2,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1hd7oax",
+          "name": "Mattis Kröger",
+          "number": 22,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "10iwmej",
+          "name": "Ben Leihberg",
+          "number": 33,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ],
+      "opponent": [
+        {
+          "playerId": "05bs6zd",
+          "name": "Fiete Musiol",
+          "number": 2,
+          "inLineup": true,
+          "goals": 13,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1nvomam",
+          "name": "Felix Stamms",
+          "number": 12,
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "15fmgn9",
+          "name": "Philipp Maximilian Jeschke",
+          "number": 7,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1r9a7fn",
+          "name": "Nicolas Felipe Schröder",
+          "number": 3,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1ttg8ec",
+          "name": "Tim Frederik Bicker",
+          "number": 8,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1a4ifvt",
+          "name": "Henry Wolters",
+          "number": 6,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1rqjj4k",
+          "name": "Henrik Johannes Dreyer",
+          "number": 9,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0joxq5d",
+          "name": "Ole Bernhardt",
+          "number": 14,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ]
+    }
+  }
+}

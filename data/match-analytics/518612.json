@@ -1,0 +1,1453 @@
+{
+  "generatedAt": "2026-11-01T16:08:46.654Z",
+  "match": {
+    "id": 518612,
+    "date": "2026-11-01",
+    "time": "11:15",
+    "competitionId": 7241,
+    "competition": "Kreisoberliga mE Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 15496,
+      "name": "mE-KL-West"
+    },
+    "venue": {
+      "name": "KSV-HALLE NMS",
+      "address": "HANSARING 130, 24534 NEUMüNSTER"
+    },
+    "home": {
+      "id": 87107,
+      "name": "SG Handball Neumünster",
+      "clubId": "1yrb3n9"
+    },
+    "away": {
+      "id": 87119,
+      "name": "HSG 91 NORTORF",
+      "clubId": "08ocj2r"
+    },
+    "result": {
+      "home": 32,
+      "away": 17
+    },
+    "ownTeamId": "87107",
+    "ownTeam": {
+      "label": "MJE 1",
+      "name": "mJE 1",
+      "ageGroup": "youth",
+      "gender": "male",
+      "youthClass": "E",
+      "matchMinutes": 40,
+      "twoMinutePlayerReduction": false
+    },
+    "isHome": true,
+    "opponent": {
+      "id": 87119,
+      "name": "HSG 91 NORTORF",
+      "clubId": "08ocj2r"
+    }
+  },
+  "quality": {
+    "status": "verified",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 32,
+      "away": 17
+    },
+    "eventFinalScore": {
+      "home": 32,
+      "away": 17
+    },
+    "lineupGoalTotals": {
+      "home": 32,
+      "away": 17
+    },
+    "eventScoreMatchesOfficial": true,
+    "lineupScoreMatchesOfficial": true,
+    "scorerLineupCoverage": {
+      "goalEvents": 49,
+      "goalEventsWithPlayer": 49,
+      "matchedGoalEvents": 49,
+      "percentage": 100
+    },
+    "halftimeAvailable": true,
+    "halftimeSource": "event",
+    "expectedDurationSeconds": 2400,
+    "eventDurationSeconds": 2400,
+    "durationDeltaSeconds": 0,
+    "durationMatchesExpected": true,
+    "analyticsEligible": true,
+    "lineupEligible": true,
+    "warnings": []
+  },
+  "analytics": {
+    "duration": {
+      "expectedSeconds": 2400,
+      "eventSeconds": 2400,
+      "analysisSeconds": 2400,
+      "analysisClock": "40:00"
+    },
+    "score": {
+      "final": {
+        "own": 32,
+        "opponent": 17
+      },
+      "halftime": {
+        "own": 18,
+        "opponent": 7
+      },
+      "halftimeSource": "event"
+    },
+    "matchFlow": [
+      {
+        "eventId": 66240895,
+        "timestamp": "2026-11-01T11:15:58+00:00",
+        "seconds": 28,
+        "clock": "00:28",
+        "side": "opponent",
+        "playerId": "1q4s1q8",
+        "playerName": "Jarne Bremmert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 0,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66240894,
+        "timestamp": "2026-11-01T11:17:13+00:00",
+        "seconds": 78,
+        "clock": "01:18",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66240893,
+        "timestamp": "2026-11-01T11:17:42+00:00",
+        "seconds": 108,
+        "clock": "01:48",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66240892,
+        "timestamp": "2026-11-01T11:19:53+00:00",
+        "seconds": 238,
+        "clock": "03:58",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66240891,
+        "timestamp": "2026-11-01T11:20:22+00:00",
+        "seconds": 267,
+        "clock": "04:27",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66240890,
+        "timestamp": "2026-11-01T11:21:50+00:00",
+        "seconds": 356,
+        "clock": "05:56",
+        "side": "own",
+        "playerId": "04zb91m",
+        "playerName": "Emirhan Kadir Saritürk",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66240889,
+        "timestamp": "2026-11-01T11:23:07+00:00",
+        "seconds": 432,
+        "clock": "07:12",
+        "side": "own",
+        "playerId": "04zb91m",
+        "playerName": "Emirhan Kadir Saritürk",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 66240888,
+        "timestamp": "2026-11-01T11:24:53+00:00",
+        "seconds": 500,
+        "clock": "08:20",
+        "side": "opponent",
+        "playerId": "05l4ujt",
+        "playerName": "Finn Bruhn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 66240887,
+        "timestamp": "2026-11-01T11:25:06+00:00",
+        "seconds": 514,
+        "clock": "08:34",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 66240886,
+        "timestamp": "2026-11-01T11:25:30+00:00",
+        "seconds": 537,
+        "clock": "08:57",
+        "side": "opponent",
+        "playerId": "1q4s1q8",
+        "playerName": "Jarne Bremmert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66240885,
+        "timestamp": "2026-11-01T11:25:48+00:00",
+        "seconds": 555,
+        "clock": "09:15",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66240884,
+        "timestamp": "2026-11-01T11:27:26+00:00",
+        "seconds": 653,
+        "clock": "10:53",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66240883,
+        "timestamp": "2026-11-01T11:28:08+00:00",
+        "seconds": 695,
+        "clock": "11:35",
+        "side": "own",
+        "playerId": "04zb91m",
+        "playerName": "Emirhan Kadir Saritürk",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66240882,
+        "timestamp": "2026-11-01T11:28:37+00:00",
+        "seconds": 725,
+        "clock": "12:05",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66240881,
+        "timestamp": "2026-11-01T11:29:08+00:00",
+        "seconds": 756,
+        "clock": "12:36",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66240880,
+        "timestamp": "2026-11-01T11:29:44+00:00",
+        "seconds": 792,
+        "clock": "13:12",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 66240878,
+        "timestamp": "2026-11-01T11:32:11+00:00",
+        "seconds": 854,
+        "clock": "14:14",
+        "side": "opponent",
+        "playerId": "07tyw93",
+        "playerName": "Lukas Mattis Karger",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 66240877,
+        "timestamp": "2026-11-01T11:32:33+00:00",
+        "seconds": 875,
+        "clock": "14:35",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 66240876,
+        "timestamp": "2026-11-01T11:32:51+00:00",
+        "seconds": 894,
+        "clock": "14:54",
+        "side": "opponent",
+        "playerId": "00x402p",
+        "playerName": "Mattis Kriese",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 66240875,
+        "timestamp": "2026-11-01T11:33:44+00:00",
+        "seconds": 947,
+        "clock": "15:47",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 66240874,
+        "timestamp": "2026-11-01T11:34:59+00:00",
+        "seconds": 1021,
+        "clock": "17:01",
+        "side": "opponent",
+        "playerId": "00x402p",
+        "playerName": "Mattis Kriese",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 66240873,
+        "timestamp": "2026-11-01T11:35:48+00:00",
+        "seconds": 1071,
+        "clock": "17:51",
+        "side": "own",
+        "playerId": "04zb91m",
+        "playerName": "Emirhan Kadir Saritürk",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 66240872,
+        "timestamp": "2026-11-01T11:36:08+00:00",
+        "seconds": 1090,
+        "clock": "18:10",
+        "side": "own",
+        "playerId": "13fusx6",
+        "playerName": "Mika Becker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 66240871,
+        "timestamp": "2026-11-01T11:36:29+00:00",
+        "seconds": 1111,
+        "clock": "18:31",
+        "side": "own",
+        "playerId": "04zb91m",
+        "playerName": "Emirhan Kadir Saritürk",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 66240870,
+        "timestamp": "2026-11-01T11:37:50+00:00",
+        "seconds": 1192,
+        "clock": "19:52",
+        "side": "opponent",
+        "playerId": "00x402p",
+        "playerName": "Mattis Kriese",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 66240867,
+        "timestamp": "2026-11-01T11:48:35+00:00",
+        "seconds": 1239,
+        "clock": "20:39",
+        "side": "opponent",
+        "playerId": "1q4s1q8",
+        "playerName": "Jarne Bremmert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 66240866,
+        "timestamp": "2026-11-01T11:49:31+00:00",
+        "seconds": 1295,
+        "clock": "21:35",
+        "side": "opponent",
+        "playerId": "1q4s1q8",
+        "playerName": "Jarne Bremmert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 66240865,
+        "timestamp": "2026-11-01T11:50:40+00:00",
+        "seconds": 1364,
+        "clock": "22:44",
+        "side": "opponent",
+        "playerId": "1157xa9",
+        "playerName": "Johannes Rabe",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 66240864,
+        "timestamp": "2026-11-01T11:50:58+00:00",
+        "seconds": 1383,
+        "clock": "23:03",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 66240863,
+        "timestamp": "2026-11-01T11:52:31+00:00",
+        "seconds": 1475,
+        "clock": "24:35",
+        "side": "opponent",
+        "playerId": "00x402p",
+        "playerName": "Mattis Kriese",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 66240862,
+        "timestamp": "2026-11-01T11:52:40+00:00",
+        "seconds": 1485,
+        "clock": "24:45",
+        "side": "own",
+        "playerId": "0mcjoqo",
+        "playerName": "Henri Lange",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 66240861,
+        "timestamp": "2026-11-01T11:53:56+00:00",
+        "seconds": 1560,
+        "clock": "26:00",
+        "side": "opponent",
+        "playerId": "07tyw93",
+        "playerName": "Lukas Mattis Karger",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 66240860,
+        "timestamp": "2026-11-01T11:54:11+00:00",
+        "seconds": 1575,
+        "clock": "26:15",
+        "side": "own",
+        "playerId": "13fusx6",
+        "playerName": "Mika Becker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 66240859,
+        "timestamp": "2026-11-01T11:54:56+00:00",
+        "seconds": 1620,
+        "clock": "27:00",
+        "side": "own",
+        "playerId": "13fusx6",
+        "playerName": "Mika Becker",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 66240858,
+        "timestamp": "2026-11-01T11:55:27+00:00",
+        "seconds": 1652,
+        "clock": "27:32",
+        "side": "own",
+        "playerId": "0mcjoqo",
+        "playerName": "Henri Lange",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 66240857,
+        "timestamp": "2026-11-01T11:56:22+00:00",
+        "seconds": 1700,
+        "clock": "28:20",
+        "side": "opponent",
+        "playerId": "1vz3bqz",
+        "playerName": "Nevio Stark",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 66240856,
+        "timestamp": "2026-11-01T11:57:25+00:00",
+        "seconds": 1769,
+        "clock": "29:29",
+        "side": "opponent",
+        "playerId": "1q4s1q8",
+        "playerName": "Jarne Bremmert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 66240854,
+        "timestamp": "2026-11-01T11:59:25+00:00",
+        "seconds": 1861,
+        "clock": "31:01",
+        "side": "opponent",
+        "playerId": "0j1vrq6",
+        "playerName": "Janosch Bruno Zerbin",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 66240853,
+        "timestamp": "2026-11-01T11:59:35+00:00",
+        "seconds": 1873,
+        "clock": "31:13",
+        "side": "own",
+        "playerId": "0mcjoqo",
+        "playerName": "Henri Lange",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 66240852,
+        "timestamp": "2026-11-01T12:00:18+00:00",
+        "seconds": 1914,
+        "clock": "31:54",
+        "side": "own",
+        "playerId": "0psznnb",
+        "playerName": "Pelle Pfützenreuter",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 66240850,
+        "timestamp": "2026-11-01T12:02:03+00:00",
+        "seconds": 1934,
+        "clock": "32:14",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 66240849,
+        "timestamp": "2026-11-01T12:02:25+00:00",
+        "seconds": 1956,
+        "clock": "32:36",
+        "side": "opponent",
+        "playerId": "1157xa9",
+        "playerName": "Johannes Rabe",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 66240848,
+        "timestamp": "2026-11-01T12:03:03+00:00",
+        "seconds": 1993,
+        "clock": "33:13",
+        "side": "opponent",
+        "playerId": "1157xa9",
+        "playerName": "Johannes Rabe",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 66240847,
+        "timestamp": "2026-11-01T12:04:07+00:00",
+        "seconds": 2057,
+        "clock": "34:17",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 66240846,
+        "timestamp": "2026-11-01T12:04:42+00:00",
+        "seconds": 2094,
+        "clock": "34:54",
+        "side": "own",
+        "playerId": "0mcjoqo",
+        "playerName": "Henri Lange",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 66240845,
+        "timestamp": "2026-11-01T12:05:31+00:00",
+        "seconds": 2143,
+        "clock": "35:43",
+        "side": "own",
+        "playerId": "0mcjoqo",
+        "playerName": "Henri Lange",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 66240844,
+        "timestamp": "2026-11-01T12:07:16+00:00",
+        "seconds": 2247,
+        "clock": "37:27",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 30,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 66240843,
+        "timestamp": "2026-11-01T12:07:54+00:00",
+        "seconds": 2283,
+        "clock": "38:03",
+        "side": "own",
+        "playerId": "03olhtz",
+        "playerName": "Henry Leihberg",
+        "isSevenMeter": false,
+        "score": {
+          "own": 31,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 66240842,
+        "timestamp": "2026-11-01T12:09:10+00:00",
+        "seconds": 2362,
+        "clock": "39:22",
+        "side": "own",
+        "playerId": "032bhz7",
+        "playerName": "Bendix Kramer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 32,
+          "opponent": 17
+        }
+      }
+    ],
+    "fiveMinuteSplits": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 300,
+        "label": "0-5",
+        "goals": {
+          "own": 4,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 4,
+          "opponent": 1
+        },
+        "goalDifference": 3
+      },
+      {
+        "startSeconds": 300,
+        "endSeconds": 600,
+        "label": "5-10",
+        "goals": {
+          "own": 4,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 8,
+          "opponent": 3
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 600,
+        "endSeconds": 900,
+        "label": "10-15",
+        "goals": {
+          "own": 6,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 14,
+          "opponent": 5
+        },
+        "goalDifference": 4
+      },
+      {
+        "startSeconds": 900,
+        "endSeconds": 1200,
+        "label": "15-20",
+        "goals": {
+          "own": 4,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 18,
+          "opponent": 7
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 1200,
+        "endSeconds": 1500,
+        "label": "20-25",
+        "goals": {
+          "own": 2,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 20,
+          "opponent": 11
+        },
+        "goalDifference": -2
+      },
+      {
+        "startSeconds": 1500,
+        "endSeconds": 1800,
+        "label": "25-30",
+        "goals": {
+          "own": 3,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 23,
+          "opponent": 14
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 1800,
+        "endSeconds": 2100,
+        "label": "30-35",
+        "goals": {
+          "own": 5,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 28,
+          "opponent": 17
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 2100,
+        "endSeconds": 2400,
+        "label": "35-40",
+        "goals": {
+          "own": 4,
+          "opponent": 0
+        },
+        "scoreEnd": {
+          "own": 32,
+          "opponent": 17
+        },
+        "goalDifference": 4
+      }
+    ],
+    "gamePhases": [
+      {
+        "key": "threeOnThree",
+        "label": "1. Halbzeit",
+        "format": "2×3 gegen 3",
+        "startSeconds": 0,
+        "endSeconds": 1200,
+        "goals": {
+          "own": 18,
+          "opponent": 7
+        },
+        "goalDifference": 11
+      },
+      {
+        "key": "sixOnSix",
+        "label": "2. Halbzeit",
+        "format": "6 gegen 6",
+        "startSeconds": 1200,
+        "endSeconds": 2400,
+        "goals": {
+          "own": 14,
+          "opponent": 10
+        },
+        "goalDifference": 4
+      }
+    ],
+    "sevenMeters": {
+      "own": {
+        "goals": 0,
+        "misses": 0,
+        "attempts": 0,
+        "percentage": null
+      },
+      "opponent": {
+        "goals": 0,
+        "misses": 0,
+        "attempts": 0,
+        "percentage": null
+      }
+    },
+    "sanctions": {
+      "own": {
+        "warnings": 0,
+        "twoMinutes": 1,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      },
+      "opponent": {
+        "warnings": 0,
+        "twoMinutes": 0,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      }
+    },
+    "longestRuns": {
+      "own": {
+        "side": "home",
+        "goals": 6,
+        "startSeconds": 78,
+        "endSeconds": 432,
+        "startScore": {
+          "home": 0,
+          "away": 1
+        },
+        "endScore": {
+          "home": 6,
+          "away": 1
+        },
+        "start": "01:18",
+        "end": "07:12"
+      },
+      "opponent": {
+        "side": "away",
+        "goals": 4,
+        "startSeconds": 1192,
+        "endSeconds": 1364,
+        "startScore": {
+          "home": 18,
+          "away": 6
+        },
+        "endScore": {
+          "home": 18,
+          "away": 10
+        },
+        "start": "19:52",
+        "end": "22:44"
+      }
+    },
+    "scoringDroughts": {
+      "own": {
+        "seconds": 272,
+        "startSeconds": 1111,
+        "endSeconds": 1383,
+        "duration": "04:32",
+        "start": "18:31",
+        "end": "23:03"
+      },
+      "opponent": {
+        "seconds": 472,
+        "startSeconds": 28,
+        "endSeconds": 500,
+        "duration": "07:52",
+        "start": "00:28",
+        "end": "08:20"
+      }
+    },
+    "timeouts": [
+      {
+        "side": "opponent",
+        "seconds": 849,
+        "clock": "14:09",
+        "score": {
+          "own": 13,
+          "opponent": 3
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 9,
+          "opponent": 3
+        },
+        "goalsBefore": {
+          "own": 4,
+          "opponent": 0
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 15,
+          "opponent": 6
+        },
+        "goalsAfter": {
+          "own": 2,
+          "opponent": 3
+        }
+      },
+      {
+        "side": "opponent",
+        "seconds": 1920,
+        "clock": "32:00",
+        "score": {
+          "own": 25,
+          "opponent": 15
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 23,
+          "opponent": 13
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 2
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 28,
+          "opponent": 17
+        },
+        "goalsAfter": {
+          "own": 3,
+          "opponent": 2
+        }
+      }
+    ],
+    "numericSituations": {
+      "suspensionsAffectPlayerCount": false,
+      "suspensions": [
+        {
+          "eventId": 66240855,
+          "side": "own",
+          "playerId": "0lhzaiu",
+          "playerName": "Noah Friso Schelzig",
+          "startSeconds": 1830,
+          "endSeconds": 1950,
+          "start": "30:30",
+          "end": "32:30"
+        }
+      ],
+      "even": {
+        "seconds": 2400,
+        "goals": {
+          "own": 32,
+          "opponent": 17
+        }
+      },
+      "powerPlay": {
+        "seconds": 0,
+        "goals": {
+          "own": 0,
+          "opponent": 0
+        }
+      },
+      "shortHanded": {
+        "seconds": 0,
+        "goals": {
+          "own": 0,
+          "opponent": 0
+        }
+      }
+    },
+    "players": {
+      "own": [
+        {
+          "playerId": "03olhtz",
+          "name": "Henry Leihberg",
+          "number": 18,
+          "inLineup": true,
+          "goals": 10,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "032bhz7",
+          "name": "Bendix Kramer",
+          "number": 21,
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0mcjoqo",
+          "name": "Henri Lange",
+          "number": 3,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "04zb91m",
+          "name": "Emirhan Kadir Saritürk",
+          "number": 17,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "13fusx6",
+          "name": "Mika Becker",
+          "number": 28,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0psznnb",
+          "name": "Pelle Pfützenreuter",
+          "number": 19,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0kkjncp",
+          "name": "Leo Günter Beierke",
+          "number": 1,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "09r8cs4",
+          "name": "Oscar Pepe Jäger",
+          "number": 10,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0nkhfij",
+          "name": "Claas Mikkel Rostock",
+          "number": 12,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0lhzaiu",
+          "name": "Noah Friso Schelzig",
+          "number": 24,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ],
+      "opponent": [
+        {
+          "playerId": "1q4s1q8",
+          "name": "Jarne Bremmert",
+          "number": 23,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "00x402p",
+          "name": "Mattis Kriese",
+          "number": 18,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1157xa9",
+          "name": "Johannes Rabe",
+          "number": 33,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "07tyw93",
+          "name": "Lukas Mattis Karger",
+          "number": 31,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1vz3bqz",
+          "name": "Nevio Stark",
+          "number": 21,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0j1vrq6",
+          "name": "Janosch Bruno Zerbin",
+          "number": 22,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "05l4ujt",
+          "name": "Finn Bruhn",
+          "number": 30,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "00rr0ro",
+          "name": "Joris Breiholz",
+          "number": 20,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "022hng8",
+          "name": "Linus Laukien",
+          "number": 25,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ]
+    }
+  }
+}

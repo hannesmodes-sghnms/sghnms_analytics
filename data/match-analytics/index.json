@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:43:55.860Z",
+  "generatedAt": "2026-11-01T16:08:46.670Z",
   "matches": [
     {
       "id": 504541,
@@ -1104,6 +1104,102 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/504570.json"
+    },
+    {
+      "id": 509992,
+      "date": "2026-11-01",
+      "time": "10:00",
+      "ownTeamId": "87109",
+      "opponent": "Bramstedter TS",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/509992.json"
+    },
+    {
+      "id": 510200,
+      "date": "2026-11-01",
+      "time": "11:15",
+      "ownTeamId": "87105",
+      "opponent": "SV Weede II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/510200.json"
+    },
+    {
+      "id": 518612,
+      "date": "2026-11-01",
+      "time": "11:15",
+      "ownTeamId": "87107",
+      "opponent": "HSG 91 NORTORF",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/518612.json"
+    },
+    {
+      "id": 417880,
+      "date": "2026-11-01",
+      "time": "12:45",
+      "ownTeamId": "87274",
+      "opponent": "TSV Ellerau II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/417880.json"
+    },
+    {
+      "id": 598488,
+      "date": "2026-11-01",
+      "time": "13:00",
+      "ownTeamId": "87271",
+      "opponent": "Bramstedter TS",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/598488.json"
+    },
+    {
+      "id": 532828,
+      "date": "2026-11-01",
+      "time": "13:30",
+      "ownTeamId": "87103",
+      "opponent": "TSV Ellerau",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/532828.json"
+    },
+    {
+      "id": 506427,
+      "date": "2026-11-01",
+      "time": "14:30",
+      "ownTeamId": "94481",
+      "opponent": "SG HANDBALL EIDERTAL",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/506427.json"
+    },
+    {
+      "id": 514381,
+      "date": "2026-11-01",
+      "time": "14:30",
+      "ownTeamId": "94480",
+      "opponent": "HSG STÖRTAL HUMMELN",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/514381.json"
     }
   ]
 }
