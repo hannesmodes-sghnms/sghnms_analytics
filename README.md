@@ -78,6 +78,8 @@ Der eigenständige Hauptbereich zeigt den Besetzungsplan der SG-Heimspiele mit:
 
 Die Anwendung liest operations/kampfgericht.csv direkt ein. Leere Trennzeilen werden ignoriert; Spiele mit einer bereits vergangenen Anwurfzeit werden anhand der Europe/Berlin-Zeit automatisch ausgeblendet. Die Arbeitsdatei kann historische Zeilen behalten und muss nicht vor jeder Aktualisierung bereinigt werden.
 
+Die in der Arbeitsdatei verwendeten Kurzbezeichnungen werden für die Anzeige auf die Dashboard-Namen abgebildet, zum Beispiel Damen auf Frauen 1, wB auf WJB 1 und mB auf MJB. Die CSV selbst bleibt dabei unverändert.
+
 ## Wettbewerbsfilter
 
 Beide Bereiche bieten drei Modi:

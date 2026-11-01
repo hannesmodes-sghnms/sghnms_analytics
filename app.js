@@ -149,6 +149,25 @@ function normalizeKampfgerichtTime(value) {
   return `${String(hour).padStart(2, "0")}:${String(minute).padStart(2, "0")}`;
 }
 
+function normalizeKampfgerichtTeam(value) {
+  const name = String(value || "").trim();
+  const dashboardNames = {
+    damen: "Frauen 1",
+    "damen ii": "Frauen 2",
+    "damen iii": "Frauen 3",
+    "damen iv": "Frauen 4",
+    herren: "Herren 1",
+    "herren ii": "Herren 2",
+    "herren iii": "Herren 3",
+    mb: "MJB",
+    wa: "WJA 1",
+    "wa ii": "WJA 2",
+    wb: "WJB 1",
+    "wb ii": "WJB 2"
+  };
+  return dashboardNames[name.toLocaleLowerCase("de-DE")] || name;
+}
+
 function parseKampfgerichtCsv(text) {
   const [rawHeader = [], ...rawRows] = parseCsv(text);
   const header = rawHeader.map((item, index) => String(item || "").replace(index === 0 ? /^\uFEFF/ : /$^/, "").trim());
@@ -167,7 +186,7 @@ function parseKampfgerichtCsv(text) {
         hall: row.Halle || "Halle offen",
         home: row.Heimmannschaft,
         away: row.Gastmannschaft,
-        crew: row.Kampfgericht
+        crew: normalizeKampfgerichtTeam(row.Kampfgericht)
       };
     })
     .filter(Boolean)
