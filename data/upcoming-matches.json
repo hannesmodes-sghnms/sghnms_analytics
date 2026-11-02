@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:02:50.816Z",
+  "generatedAt": "2026-11-02T13:33:42.470Z",
   "matches": [
     {
       "id": 561276,
@@ -7396,19 +7396,33 @@
         "phaseName": "Vorrunde B",
         "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 2,
-          "draws": 1,
+          "draws": 2,
           "losses": 2,
-          "goalsFor": 157,
-          "goalsAgainst": 162,
+          "goalsFor": 190,
+          "goalsAgainst": 195,
           "goalDifference": -5,
-          "winRate": 40,
-          "goalsForAvg": 31.4,
-          "goalsAgainstAvg": 32.4,
-          "goalDifferenceAvg": -1
+          "winRate": 33.3,
+          "goalsForAvg": 31.67,
+          "goalsAgainstAvg": 32.5,
+          "goalDifferenceAvg": -0.83
         },
         "recent": [
+          {
+            "id": 450763,
+            "date": "2026-10-31",
+            "time": "14:30",
+            "isHome": true,
+            "opponent": {
+              "id": 87192,
+              "name": "SG GLINDE-REINBEK",
+              "clubId": "1muw0yi"
+            },
+            "goalsFor": 33,
+            "goalsAgainst": 33,
+            "result": "D"
+          },
           {
             "id": 450761,
             "date": "2026-09-26",
@@ -7464,20 +7478,6 @@
             "goalsFor": 26,
             "goalsAgainst": 32,
             "result": "L"
-          },
-          {
-            "id": 450748,
-            "date": "2026-08-29",
-            "time": "18:30",
-            "isHome": false,
-            "opponent": {
-              "id": 87192,
-              "name": "SG GLINDE-REINBEK",
-              "clubId": "1muw0yi"
-            },
-            "goalsFor": 21,
-            "goalsAgainst": 29,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -7485,61 +7485,61 @@
             "playerId": "0c1p9y2",
             "name": "Mattes Großmann",
             "number": 37,
-            "games": 5,
-            "goals": 49,
-            "sevenMeterGoals": 8,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 9.8,
+            "games": 6,
+            "goals": 69,
+            "sevenMeterGoals": 13,
+            "sevenMeterAttempts": 13,
+            "goalsPerGame": 11.5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1tltk56",
             "name": "Bjarne Jenß",
             "number": 4,
-            "games": 5,
-            "goals": 33,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 6,
-            "goalsPerGame": 6.6,
+            "games": 6,
+            "goals": 38,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 7,
+            "goalsPerGame": 6.33,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0dttloz",
             "name": "Ande Bräuer",
             "number": 27,
-            "games": 5,
-            "goals": 26,
+            "games": 6,
+            "goals": 27,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 5.2,
+            "goalsPerGame": 4.5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1s0kpwo",
             "name": "Alexander Walter",
             "number": 22,
-            "games": 4,
-            "goals": 17,
+            "games": 5,
+            "goals": 18,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.25,
+            "goalsPerGame": 3.6,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1lwg8td",
             "name": "Hannes Fischer",
             "number": 40,
-            "games": 5,
-            "goals": 13,
+            "games": 6,
+            "goals": 15,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.6,
+            "goalsPerGame": 2.5,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }

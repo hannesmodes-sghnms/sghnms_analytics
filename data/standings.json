@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:02:50.861Z",
+  "generatedAt": "2026-11-02T13:33:42.504Z",
   "teams": [
     {
       "teamId": "86801",
@@ -5532,10 +5532,6 @@
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 450748,
-                  "result": "W"
-                },
-                {
                   "matchId": 450751,
                   "result": "L"
                 },
@@ -5550,6 +5546,10 @@
                 {
                   "matchId": 450759,
                   "result": "W"
+                },
+                {
+                  "matchId": 450763,
+                  "result": "D"
                 }
               ]
             },
@@ -5673,10 +5673,6 @@
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 450748,
-                  "result": "L"
-                },
-                {
                   "matchId": 450752,
                   "result": "L"
                 },
@@ -5690,6 +5686,10 @@
                 },
                 {
                   "matchId": 450761,
+                  "result": "D"
+                },
+                {
+                  "matchId": 450763,
                   "result": "D"
                 }
               ]
