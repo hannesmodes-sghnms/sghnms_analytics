@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T18:28:44.461Z",
+  "generatedAt": "2026-11-02T02:02:50.544Z",
   "teams": [
     {
       "id": "86801",
@@ -342,14 +342,14 @@
       "ageGroup": "senior",
       "gender": "female",
       "matchMinutes": 60,
-      "games": 3,
+      "games": 4,
       "wins": 2,
       "draws": 0,
-      "losses": 1,
-      "goalsFor": 52,
-      "goalsAgainst": 44,
-      "goalDifference": 8,
-      "winRate": 66.7
+      "losses": 2,
+      "goalsFor": 70,
+      "goalsAgainst": 67,
+      "goalDifference": 3,
+      "winRate": 50
     },
     {
       "id": "94483",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T18:28:45.022Z",
+  "generatedAt": "2026-11-02T02:02:51.172Z",
   "matches": [
     {
       "id": 504541,
@@ -1200,6 +1200,18 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/514381.json"
+    },
+    {
+      "id": 514284,
+      "date": "2026-11-01",
+      "time": "16:00",
+      "ownTeamId": "94482",
+      "opponent": "WELLINGDORFER TV II",
+      "analyticsEligible": false,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "invalid",
+      "path": "match-analytics/514284.json"
     },
     {
       "id": 561271,

@@ -1,175 +1,6 @@
 {
-  "generatedAt": "2026-11-01T18:28:44.772Z",
+  "generatedAt": "2026-11-02T02:02:50.816Z",
   "matches": [
-    {
-      "id": 514284,
-      "date": "2026-11-01",
-      "time": "16:00",
-      "home": {
-        "id": 94482,
-        "name": "SG Handball Neumünster IV",
-        "clubId": "1yrb3n9"
-      },
-      "away": {
-        "id": 81933,
-        "name": "WELLINGDORFER TV II",
-        "clubId": "1j3isa8"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7950,
-      "competition": "Kreisklasse Frauen",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12993,
-        "name": "Kreisklasse Frauen Mitte"
-      },
-      "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
-      },
-      "ownTeamId": "94482",
-      "ownTeam": {
-        "label": "FRAUEN 4",
-        "name": "4. Frauen",
-        "ageGroup": "senior",
-        "gender": "female",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81933",
-        "name": "WELLINGDORFER TV II",
-        "phaseId": "12993",
-        "phaseName": "Kreisklasse Frauen Mitte",
-        "competition": "Kreisklasse Frauen",
-        "season": {
-          "games": 3,
-          "wins": 2,
-          "draws": 0,
-          "losses": 1,
-          "goalsFor": 92,
-          "goalsAgainst": 58,
-          "goalDifference": 34,
-          "winRate": 66.7,
-          "goalsForAvg": 30.67,
-          "goalsAgainstAvg": 19.33,
-          "goalDifferenceAvg": 11.33
-        },
-        "recent": [
-          {
-            "id": 514275,
-            "date": "2026-10-07",
-            "time": "20:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81897,
-              "name": "TV TRAPPENKAMP",
-              "clubId": "02z7nh5"
-            },
-            "goalsFor": 38,
-            "goalsAgainst": 11,
-            "result": "W"
-          },
-          {
-            "id": 514280,
-            "date": "2026-10-03",
-            "time": "14:40",
-            "isHome": false,
-            "opponent": {
-              "id": 81937,
-              "name": "SC KIELER FÖRDE III",
-              "clubId": "00xfnlm"
-            },
-            "goalsFor": 35,
-            "goalsAgainst": 21,
-            "result": "W"
-          },
-          {
-            "id": 514264,
-            "date": "2026-09-05",
-            "time": "16:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81936,
-              "name": "HSG 24109 II",
-              "clubId": "083hx46"
-            },
-            "goalsFor": 19,
-            "goalsAgainst": 26,
-            "result": "L"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1kaysfw",
-            "name": "Vanessa Kück",
-            "number": 27,
-            "games": 3,
-            "goals": 25,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 8.33,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "12i7hic",
-            "name": "Lina Reichardt",
-            "number": 33,
-            "games": 3,
-            "goals": 17,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 5.67,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1d6jsfu",
-            "name": "Leonie Peukert",
-            "number": 12,
-            "games": 3,
-            "goals": 15,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1ashvia",
-            "name": "Lea Hintz",
-            "number": 4,
-            "games": 1,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0f2sisv",
-            "name": "Sandra Reichardt",
-            "number": 3,
-            "games": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": null
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
-          "percentage": 100
-        }
-      }
-    },
     {
       "id": 561276,
       "date": "2026-11-06",
@@ -10602,19 +10433,33 @@
         "phaseName": "wJA-ROL-4",
         "competition": "wJA-Regionsoberliga",
         "season": {
-          "games": 3,
-          "wins": 1,
+          "games": 4,
+          "wins": 2,
           "draws": 1,
           "losses": 1,
-          "goalsFor": 84,
-          "goalsAgainst": 87,
-          "goalDifference": -3,
-          "winRate": 33.3,
-          "goalsForAvg": 28,
-          "goalsAgainstAvg": 29,
-          "goalDifferenceAvg": -1
+          "goalsFor": 123,
+          "goalsAgainst": 111,
+          "goalDifference": 12,
+          "winRate": 50,
+          "goalsForAvg": 30.75,
+          "goalsAgainstAvg": 27.75,
+          "goalDifferenceAvg": 3
         },
         "recent": [
+          {
+            "id": 508091,
+            "date": "2026-11-01",
+            "time": "17:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81968,
+              "name": "HSG OHLAU",
+              "clubId": "0vigdzt"
+            },
+            "goalsFor": 39,
+            "goalsAgainst": 24,
+            "result": "W"
+          },
           {
             "id": 508086,
             "date": "2026-09-27",
@@ -10663,61 +10508,61 @@
             "playerId": "11vqlym",
             "name": "Maya Franziska Makollus",
             "number": 10,
-            "games": 3,
-            "goals": 32,
-            "sevenMeterGoals": 9,
-            "sevenMeterAttempts": 9,
-            "goalsPerGame": 10.67,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "12l4bjc",
-            "name": "Antonia Kramp",
-            "number": 18,
-            "games": 3,
-            "goals": 16,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 5.33,
+            "games": 4,
+            "goals": 40,
+            "sevenMeterGoals": 12,
+            "sevenMeterAttempts": 12,
+            "goalsPerGame": 10,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1ts5rxs",
             "name": "Dascha Mantey",
             "number": 11,
-            "games": 3,
-            "goals": 12,
+            "games": 4,
+            "goals": 22,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": 0
           },
           {
             "playerId": "1n0hmlg",
             "name": "Emily Sophie Hund",
             "number": 2,
-            "games": 3,
-            "goals": 11,
-            "sevenMeterGoals": 8,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 3.67,
+            "games": 4,
+            "goals": 21,
+            "sevenMeterGoals": 12,
+            "sevenMeterAttempts": 13,
+            "goalsPerGame": 5.25,
+            "sevenMeterPercentage": 92.3
+          },
+          {
+            "playerId": "12l4bjc",
+            "name": "Antonia Kramp",
+            "number": 18,
+            "games": 4,
+            "goals": 20,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0my9omc",
             "name": "Emma-Marie Kohlsdorf",
             "number": 21,
-            "games": 2,
-            "goals": 5,
+            "games": 3,
+            "goals": 8,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
+            "goalsPerGame": 2.67,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -11628,6 +11473,146 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81896",
+        "name": "LEEZENER SC",
+        "phaseId": "12993",
+        "phaseName": "Kreisklasse Frauen Mitte",
+        "competition": "Kreisklasse Frauen",
+        "season": {
+          "games": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 121,
+          "goalsAgainst": 101,
+          "goalDifference": 20,
+          "winRate": 50,
+          "goalsForAvg": 30.25,
+          "goalsAgainstAvg": 25.25,
+          "goalDifferenceAvg": 5
+        },
+        "recent": [
+          {
+            "id": 514282,
+            "date": "2026-11-01",
+            "time": "16:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81935,
+              "name": "HSG GETTORF/OSDORF III",
+              "clubId": "1wy6z5h"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 30,
+            "result": "L"
+          },
+          {
+            "id": 514288,
+            "date": "2026-10-08",
+            "time": "20:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81944,
+              "name": "HEIKENDORFER SV",
+              "clubId": "1t76a9j"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 21,
+            "result": "D"
+          },
+          {
+            "id": 514274,
+            "date": "2026-09-19",
+            "time": "13:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81898,
+              "name": "HSG KALKBERG 06 III",
+              "clubId": "03erpv1"
+            },
+            "goalsFor": 39,
+            "goalsAgainst": 31,
+            "result": "W"
+          },
+          {
+            "id": 514265,
+            "date": "2026-09-06",
+            "time": "12:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81937,
+              "name": "SC KIELER FÖRDE III",
+              "clubId": "00xfnlm"
+            },
+            "goalsFor": 37,
+            "goalsAgainst": 19,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "04gx28d",
+            "name": "Melanie Heß",
+            "number": 13,
+            "games": 4,
+            "goals": 50,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 9,
+            "goalsPerGame": 12.5,
+            "sevenMeterPercentage": 77.8
+          },
+          {
+            "playerId": "1uw3ouc",
+            "name": "Jahira Dabelstein",
+            "number": 12,
+            "games": 4,
+            "goals": 19,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1ktvut4",
+            "name": "Lisa Johannsen",
+            "number": 20,
+            "games": 4,
+            "goals": 17,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4.25,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0tqg516",
+            "name": "Freya Hassan",
+            "number": 9,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "07kk1xm",
+            "name": "Finja Stüven",
+            "number": 11,
+            "games": 2,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {
@@ -12101,6 +12086,132 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81687",
+        "name": "SG Hörnerkirchen/Hohenfelde",
+        "phaseId": "12973",
+        "phaseName": "Kreisliga Männer - Staffel E",
+        "competition": "Kreisliga Männer",
+        "season": {
+          "games": 3,
+          "wins": 3,
+          "draws": 0,
+          "losses": 0,
+          "goalsFor": 92,
+          "goalsAgainst": 71,
+          "goalDifference": 21,
+          "winRate": 100,
+          "goalsForAvg": 30.67,
+          "goalsAgainstAvg": 23.67,
+          "goalDifferenceAvg": 7
+        },
+        "recent": [
+          {
+            "id": 561269,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81688,
+              "name": "SG Kollmar/Neuendorf II",
+              "clubId": "0txboff"
+            },
+            "goalsFor": 33,
+            "goalsAgainst": 22,
+            "result": "W"
+          },
+          {
+            "id": 561261,
+            "date": "2026-09-27",
+            "time": "17:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81671,
+              "name": "TSV HARDEBEK",
+              "clubId": "1atgz5r"
+            },
+            "goalsFor": 29,
+            "goalsAgainst": 24,
+            "result": "W"
+          },
+          {
+            "id": 561252,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81723,
+              "name": "SV HENSTEDT-ULZBURG II",
+              "clubId": "1j3w2i1"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 25,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "0jjl8br",
+            "name": "Marcel Albert Jung",
+            "number": 10,
+            "games": 3,
+            "goals": 25,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 8.33,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "1q17bn4",
+            "name": "Benjamin Bewernick",
+            "number": 33,
+            "games": 3,
+            "goals": 19,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 6.33,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "146ueqm",
+            "name": "Jan Pit Winter",
+            "number": 9,
+            "games": 3,
+            "goals": 15,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 33.3
+          },
+          {
+            "playerId": "1wr1ejr",
+            "name": "Till Helmbold",
+            "number": 44,
+            "games": 2,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0mgp7ko",
+            "name": "Markus von Holdt",
+            "number": 41,
+            "games": 2,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 0
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {
@@ -12152,19 +12263,33 @@
         "phaseName": "Meisterrunde",
         "competition": "Oberliga Schleswig-Holstein Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 2,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 130,
-          "goalsAgainst": 139,
-          "goalDifference": -9,
-          "winRate": 40,
-          "goalsForAvg": 26,
-          "goalsAgainstAvg": 27.8,
-          "goalDifferenceAvg": -1.8
+          "losses": 4,
+          "goalsFor": 151,
+          "goalsAgainst": 166,
+          "goalDifference": -15,
+          "winRate": 33.3,
+          "goalsForAvg": 25.17,
+          "goalsAgainstAvg": 27.67,
+          "goalDifferenceAvg": -2.5
         },
         "recent": [
+          {
+            "id": 448703,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81547,
+              "name": "DIE HAIE I HSG Horst/Kiebitzreihe",
+              "clubId": "1w9jsx8"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 27,
+            "result": "L"
+          },
           {
             "id": 448697,
             "date": "2026-09-26",
@@ -12220,20 +12345,6 @@
             "goalsFor": 35,
             "goalsAgainst": 25,
             "result": "W"
-          },
-          {
-            "id": 448671,
-            "date": "2026-08-30",
-            "time": "16:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81542,
-              "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-              "clubId": "1hf9d75"
-            },
-            "goalsFor": 21,
-            "goalsAgainst": 31,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -12241,61 +12352,61 @@
             "playerId": "1j03f47",
             "name": "Tanisha Kästner",
             "number": 24,
-            "games": 5,
-            "goals": 27,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 5.4,
-            "sevenMeterPercentage": 75
+            "games": 6,
+            "goals": 30,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 80
           },
           {
             "playerId": "1cyjopf",
             "name": "Annabell Hahn",
             "number": 18,
-            "games": 5,
-            "goals": 26,
+            "games": 6,
+            "goals": 27,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.2,
+            "goalsPerGame": 4.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "16a5533",
             "name": "Julia Studt",
             "number": 9,
-            "games": 5,
-            "goals": 22,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 9,
-            "goalsPerGame": 4.4,
-            "sevenMeterPercentage": 66.7
+            "games": 6,
+            "goals": 25,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 10,
+            "goalsPerGame": 4.17,
+            "sevenMeterPercentage": 70
           },
           {
             "playerId": "0sij6w9",
             "name": "Lena Treumann",
             "number": 22,
-            "games": 4,
-            "goals": 10,
+            "games": 5,
+            "goals": 16,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
+            "goalsPerGame": 3.2,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0mealw4",
             "name": "Nadine Klotz",
             "number": 10,
-            "games": 4,
-            "goals": 9,
+            "games": 5,
+            "goals": 10,
             "sevenMeterGoals": 3,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 2.25,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": 100
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -12575,19 +12686,33 @@
         "phaseName": "mJB-ROL-2",
         "competition": "Regionsoberliga MÄNNLICH",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 3,
           "draws": 0,
-          "losses": 1,
-          "goalsFor": 138,
-          "goalsAgainst": 73,
-          "goalDifference": 65,
-          "winRate": 75,
-          "goalsForAvg": 34.5,
-          "goalsAgainstAvg": 18.25,
-          "goalDifferenceAvg": 16.25
+          "losses": 2,
+          "goalsFor": 168,
+          "goalsAgainst": 112,
+          "goalDifference": 56,
+          "winRate": 60,
+          "goalsForAvg": 33.6,
+          "goalsAgainstAvg": 22.4,
+          "goalDifferenceAvg": 11.2
         },
         "recent": [
+          {
+            "id": 417878,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82010,
+              "name": "SG GLINDE-REINBEK",
+              "clubId": "1muw0yi"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 39,
+            "result": "L"
+          },
           {
             "id": 417871,
             "date": "2026-10-03",
@@ -12650,62 +12775,62 @@
             "playerId": "1wp9xsa",
             "name": "Lasse Giede",
             "number": 22,
-            "games": 3,
-            "goals": 27,
+            "games": 4,
+            "goals": 29,
             "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 9,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 7.25,
+            "sevenMeterPercentage": 60
           },
           {
             "playerId": "0eio52m",
             "name": "Jakob Böttcher",
             "number": 27,
-            "games": 3,
-            "goals": 21,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
+            "games": 4,
+            "goals": 28,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
             "goalsPerGame": 7,
             "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "15xt6nx",
-            "name": "John-Hartmut Baldin",
-            "number": 4,
-            "games": 3,
-            "goals": 17,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.67,
-            "sevenMeterPercentage": null
           },
           {
             "playerId": "1kaeu2l",
             "name": "Philip Noah Dombrowski",
             "number": 11,
-            "games": 3,
-            "goals": 14,
+            "games": 4,
+            "goals": 19,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.67,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "15xt6nx",
+            "name": "John-Hartmut Baldin",
+            "number": 4,
+            "games": 4,
+            "goals": 18,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1pe9t18",
             "name": "Aron Deutschendorf",
             "number": 32,
-            "games": 3,
-            "goals": 9,
+            "games": 4,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.5,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 3,
-          "percentage": 75
+          "finishedMatches": 5,
+          "lineupMatches": 4,
+          "percentage": 80
         }
       }
     },
@@ -13205,19 +13330,33 @@
         "phaseName": "wJB-RL-2",
         "competition": "Regionsliga WEIBLICH",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 2,
           "draws": 0,
-          "losses": 1,
-          "goalsFor": 70,
-          "goalsAgainst": 50,
-          "goalDifference": 20,
-          "winRate": 66.7,
-          "goalsForAvg": 23.33,
-          "goalsAgainstAvg": 16.67,
-          "goalDifferenceAvg": 6.67
+          "losses": 2,
+          "goalsFor": 93,
+          "goalsAgainst": 79,
+          "goalDifference": 14,
+          "winRate": 50,
+          "goalsForAvg": 23.25,
+          "goalsAgainstAvg": 19.75,
+          "goalDifferenceAvg": 3.5
         },
         "recent": [
+          {
+            "id": 419766,
+            "date": "2026-11-01",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82027,
+              "name": "HSG WABO 2011",
+              "clubId": "12j6jtz"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 29,
+            "result": "L"
+          },
           {
             "id": 419762,
             "date": "2026-09-27",
@@ -13263,55 +13402,55 @@
         ],
         "topScorers": [
           {
-            "playerId": "13cvoht",
-            "name": "* *",
-            "number": 32,
-            "games": 3,
-            "goals": 18,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": 100
-          },
-          {
             "playerId": "0hmjae4",
             "name": "* *",
             "number": 11,
-            "games": 3,
-            "goals": 17,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 5.67,
+            "games": 4,
+            "goals": 26,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 6,
+            "goalsPerGame": 6.5,
+            "sevenMeterPercentage": 83.3
+          },
+          {
+            "playerId": "13cvoht",
+            "name": "* *",
+            "number": 32,
+            "games": 4,
+            "goals": 22,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 5.5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0k2onv5",
             "name": "* *",
             "number": 17,
-            "games": 3,
-            "goals": 14,
+            "games": 4,
+            "goals": 17,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.67,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "03cxec9",
-            "name": "* *",
-            "number": 67,
-            "games": 3,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
+            "goalsPerGame": 4.25,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "147ndh0",
             "name": "* *",
             "number": 7,
-            "games": 3,
-            "goals": 9,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "03cxec9",
+            "name": "* *",
+            "number": 67,
+            "games": 4,
+            "goals": 12,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
             "goalsPerGame": 3,
@@ -13319,8 +13458,8 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -21056,19 +21195,33 @@
         "phaseName": "wJA-ROL-4",
         "competition": "wJA-Regionsoberliga",
         "season": {
-          "games": 3,
-          "wins": 1,
+          "games": 4,
+          "wins": 2,
           "draws": 1,
           "losses": 1,
-          "goalsFor": 84,
-          "goalsAgainst": 87,
-          "goalDifference": -3,
-          "winRate": 33.3,
-          "goalsForAvg": 28,
-          "goalsAgainstAvg": 29,
-          "goalDifferenceAvg": -1
+          "goalsFor": 123,
+          "goalsAgainst": 111,
+          "goalDifference": 12,
+          "winRate": 50,
+          "goalsForAvg": 30.75,
+          "goalsAgainstAvg": 27.75,
+          "goalDifferenceAvg": 3
         },
         "recent": [
+          {
+            "id": 508091,
+            "date": "2026-11-01",
+            "time": "17:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81968,
+              "name": "HSG OHLAU",
+              "clubId": "0vigdzt"
+            },
+            "goalsFor": 39,
+            "goalsAgainst": 24,
+            "result": "W"
+          },
           {
             "id": 508086,
             "date": "2026-09-27",
@@ -21117,61 +21270,61 @@
             "playerId": "11vqlym",
             "name": "Maya Franziska Makollus",
             "number": 10,
-            "games": 3,
-            "goals": 32,
-            "sevenMeterGoals": 9,
-            "sevenMeterAttempts": 9,
-            "goalsPerGame": 10.67,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "12l4bjc",
-            "name": "Antonia Kramp",
-            "number": 18,
-            "games": 3,
-            "goals": 16,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 5.33,
+            "games": 4,
+            "goals": 40,
+            "sevenMeterGoals": 12,
+            "sevenMeterAttempts": 12,
+            "goalsPerGame": 10,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "1ts5rxs",
             "name": "Dascha Mantey",
             "number": 11,
-            "games": 3,
-            "goals": 12,
+            "games": 4,
+            "goals": 22,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 5.5,
+            "sevenMeterPercentage": 0
           },
           {
             "playerId": "1n0hmlg",
             "name": "Emily Sophie Hund",
             "number": 2,
-            "games": 3,
-            "goals": 11,
-            "sevenMeterGoals": 8,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 3.67,
+            "games": 4,
+            "goals": 21,
+            "sevenMeterGoals": 12,
+            "sevenMeterAttempts": 13,
+            "goalsPerGame": 5.25,
+            "sevenMeterPercentage": 92.3
+          },
+          {
+            "playerId": "12l4bjc",
+            "name": "Antonia Kramp",
+            "number": 18,
+            "games": 4,
+            "goals": 20,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0my9omc",
             "name": "Emma-Marie Kohlsdorf",
             "number": 21,
-            "games": 2,
-            "goals": 5,
+            "games": 3,
+            "goals": 8,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
+            "goalsPerGame": 2.67,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -23414,6 +23567,146 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81896",
+        "name": "LEEZENER SC",
+        "phaseId": "12993",
+        "phaseName": "Kreisklasse Frauen Mitte",
+        "competition": "Kreisklasse Frauen",
+        "season": {
+          "games": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 121,
+          "goalsAgainst": 101,
+          "goalDifference": 20,
+          "winRate": 50,
+          "goalsForAvg": 30.25,
+          "goalsAgainstAvg": 25.25,
+          "goalDifferenceAvg": 5
+        },
+        "recent": [
+          {
+            "id": 514282,
+            "date": "2026-11-01",
+            "time": "16:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81935,
+              "name": "HSG GETTORF/OSDORF III",
+              "clubId": "1wy6z5h"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 30,
+            "result": "L"
+          },
+          {
+            "id": 514288,
+            "date": "2026-10-08",
+            "time": "20:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81944,
+              "name": "HEIKENDORFER SV",
+              "clubId": "1t76a9j"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 21,
+            "result": "D"
+          },
+          {
+            "id": 514274,
+            "date": "2026-09-19",
+            "time": "13:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81898,
+              "name": "HSG KALKBERG 06 III",
+              "clubId": "03erpv1"
+            },
+            "goalsFor": 39,
+            "goalsAgainst": 31,
+            "result": "W"
+          },
+          {
+            "id": 514265,
+            "date": "2026-09-06",
+            "time": "12:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81937,
+              "name": "SC KIELER FÖRDE III",
+              "clubId": "00xfnlm"
+            },
+            "goalsFor": 37,
+            "goalsAgainst": 19,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "04gx28d",
+            "name": "Melanie Heß",
+            "number": 13,
+            "games": 4,
+            "goals": 50,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 9,
+            "goalsPerGame": 12.5,
+            "sevenMeterPercentage": 77.8
+          },
+          {
+            "playerId": "1uw3ouc",
+            "name": "Jahira Dabelstein",
+            "number": 12,
+            "games": 4,
+            "goals": 19,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "1ktvut4",
+            "name": "Lisa Johannsen",
+            "number": 20,
+            "games": 4,
+            "goals": 17,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4.25,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0tqg516",
+            "name": "Freya Hassan",
+            "number": 9,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "07kk1xm",
+            "name": "Finja Stüven",
+            "number": 11,
+            "games": 2,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {
@@ -24753,6 +25046,132 @@
         "ageGroup": "senior",
         "gender": "male",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81687",
+        "name": "SG Hörnerkirchen/Hohenfelde",
+        "phaseId": "12973",
+        "phaseName": "Kreisliga Männer - Staffel E",
+        "competition": "Kreisliga Männer",
+        "season": {
+          "games": 3,
+          "wins": 3,
+          "draws": 0,
+          "losses": 0,
+          "goalsFor": 92,
+          "goalsAgainst": 71,
+          "goalDifference": 21,
+          "winRate": 100,
+          "goalsForAvg": 30.67,
+          "goalsAgainstAvg": 23.67,
+          "goalDifferenceAvg": 7
+        },
+        "recent": [
+          {
+            "id": 561269,
+            "date": "2026-10-31",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81688,
+              "name": "SG Kollmar/Neuendorf II",
+              "clubId": "0txboff"
+            },
+            "goalsFor": 33,
+            "goalsAgainst": 22,
+            "result": "W"
+          },
+          {
+            "id": 561261,
+            "date": "2026-09-27",
+            "time": "17:30",
+            "isHome": false,
+            "opponent": {
+              "id": 81671,
+              "name": "TSV HARDEBEK",
+              "clubId": "1atgz5r"
+            },
+            "goalsFor": 29,
+            "goalsAgainst": 24,
+            "result": "W"
+          },
+          {
+            "id": 561252,
+            "date": "2026-09-06",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81723,
+              "name": "SV HENSTEDT-ULZBURG II",
+              "clubId": "1j3w2i1"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 25,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "0jjl8br",
+            "name": "Marcel Albert Jung",
+            "number": 10,
+            "games": 3,
+            "goals": 25,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 8.33,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "1q17bn4",
+            "name": "Benjamin Bewernick",
+            "number": 33,
+            "games": 3,
+            "goals": 19,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 6.33,
+            "sevenMeterPercentage": 50
+          },
+          {
+            "playerId": "146ueqm",
+            "name": "Jan Pit Winter",
+            "number": 9,
+            "games": 3,
+            "goals": 15,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 33.3
+          },
+          {
+            "playerId": "1wr1ejr",
+            "name": "Till Helmbold",
+            "number": 44,
+            "games": 2,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0mgp7ko",
+            "name": "Markus von Holdt",
+            "number": 41,
+            "games": 2,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 0
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 3,
+          "lineupMatches": 3,
+          "percentage": 100
+        }
       }
     },
     {
@@ -25496,19 +25915,33 @@
         "phaseName": "Meisterrunde",
         "competition": "Oberliga Schleswig-Holstein Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 2,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 130,
-          "goalsAgainst": 139,
-          "goalDifference": -9,
-          "winRate": 40,
-          "goalsForAvg": 26,
-          "goalsAgainstAvg": 27.8,
-          "goalDifferenceAvg": -1.8
+          "losses": 4,
+          "goalsFor": 151,
+          "goalsAgainst": 166,
+          "goalDifference": -15,
+          "winRate": 33.3,
+          "goalsForAvg": 25.17,
+          "goalsAgainstAvg": 27.67,
+          "goalDifferenceAvg": -2.5
         },
         "recent": [
+          {
+            "id": 448703,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81547,
+              "name": "DIE HAIE I HSG Horst/Kiebitzreihe",
+              "clubId": "1w9jsx8"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 27,
+            "result": "L"
+          },
           {
             "id": 448697,
             "date": "2026-09-26",
@@ -25564,20 +25997,6 @@
             "goalsFor": 35,
             "goalsAgainst": 25,
             "result": "W"
-          },
-          {
-            "id": 448671,
-            "date": "2026-08-30",
-            "time": "16:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81542,
-              "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
-              "clubId": "1hf9d75"
-            },
-            "goalsFor": 21,
-            "goalsAgainst": 31,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -25585,61 +26004,61 @@
             "playerId": "1j03f47",
             "name": "Tanisha Kästner",
             "number": 24,
-            "games": 5,
-            "goals": 27,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 5.4,
-            "sevenMeterPercentage": 75
+            "games": 6,
+            "goals": 30,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": 80
           },
           {
             "playerId": "1cyjopf",
             "name": "Annabell Hahn",
             "number": 18,
-            "games": 5,
-            "goals": 26,
+            "games": 6,
+            "goals": 27,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.2,
+            "goalsPerGame": 4.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "16a5533",
             "name": "Julia Studt",
             "number": 9,
-            "games": 5,
-            "goals": 22,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 9,
-            "goalsPerGame": 4.4,
-            "sevenMeterPercentage": 66.7
+            "games": 6,
+            "goals": 25,
+            "sevenMeterGoals": 7,
+            "sevenMeterAttempts": 10,
+            "goalsPerGame": 4.17,
+            "sevenMeterPercentage": 70
           },
           {
             "playerId": "0sij6w9",
             "name": "Lena Treumann",
             "number": 22,
-            "games": 4,
-            "goals": 10,
+            "games": 5,
+            "goals": 16,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.5,
+            "goalsPerGame": 3.2,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0mealw4",
             "name": "Nadine Klotz",
             "number": 10,
-            "games": 4,
-            "goals": 9,
+            "games": 5,
+            "goals": 10,
             "sevenMeterGoals": 3,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 2.25,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": 100
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -26245,19 +26664,33 @@
         "phaseName": "mJB-ROL-2",
         "competition": "Regionsoberliga MÄNNLICH",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 3,
           "draws": 0,
-          "losses": 1,
-          "goalsFor": 138,
-          "goalsAgainst": 73,
-          "goalDifference": 65,
-          "winRate": 75,
-          "goalsForAvg": 34.5,
-          "goalsAgainstAvg": 18.25,
-          "goalDifferenceAvg": 16.25
+          "losses": 2,
+          "goalsFor": 168,
+          "goalsAgainst": 112,
+          "goalDifference": 56,
+          "winRate": 60,
+          "goalsForAvg": 33.6,
+          "goalsAgainstAvg": 22.4,
+          "goalDifferenceAvg": 11.2
         },
         "recent": [
+          {
+            "id": 417878,
+            "date": "2026-11-01",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82010,
+              "name": "SG GLINDE-REINBEK",
+              "clubId": "1muw0yi"
+            },
+            "goalsFor": 30,
+            "goalsAgainst": 39,
+            "result": "L"
+          },
           {
             "id": 417871,
             "date": "2026-10-03",
@@ -26320,62 +26753,62 @@
             "playerId": "1wp9xsa",
             "name": "Lasse Giede",
             "number": 22,
-            "games": 3,
-            "goals": 27,
+            "games": 4,
+            "goals": 29,
             "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 9,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 7.25,
+            "sevenMeterPercentage": 60
           },
           {
             "playerId": "0eio52m",
             "name": "Jakob Böttcher",
             "number": 27,
-            "games": 3,
-            "goals": 21,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
+            "games": 4,
+            "goals": 28,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 3,
             "goalsPerGame": 7,
             "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "15xt6nx",
-            "name": "John-Hartmut Baldin",
-            "number": 4,
-            "games": 3,
-            "goals": 17,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.67,
-            "sevenMeterPercentage": null
           },
           {
             "playerId": "1kaeu2l",
             "name": "Philip Noah Dombrowski",
             "number": 11,
-            "games": 3,
-            "goals": 14,
+            "games": 4,
+            "goals": 19,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.67,
+            "goalsPerGame": 4.75,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "15xt6nx",
+            "name": "John-Hartmut Baldin",
+            "number": 4,
+            "games": 4,
+            "goals": 18,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1pe9t18",
             "name": "Aron Deutschendorf",
             "number": 32,
-            "games": 3,
-            "goals": 9,
+            "games": 4,
+            "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.5,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 3,
-          "percentage": 75
+          "finishedMatches": 5,
+          "lineupMatches": 4,
+          "percentage": 80
         }
       }
     },
@@ -26471,19 +26904,33 @@
         "phaseName": "wJB-RL-2",
         "competition": "Regionsliga WEIBLICH",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 2,
           "draws": 0,
-          "losses": 1,
-          "goalsFor": 70,
-          "goalsAgainst": 50,
-          "goalDifference": 20,
-          "winRate": 66.7,
-          "goalsForAvg": 23.33,
-          "goalsAgainstAvg": 16.67,
-          "goalDifferenceAvg": 6.67
+          "losses": 2,
+          "goalsFor": 93,
+          "goalsAgainst": 79,
+          "goalDifference": 14,
+          "winRate": 50,
+          "goalsForAvg": 23.25,
+          "goalsAgainstAvg": 19.75,
+          "goalDifferenceAvg": 3.5
         },
         "recent": [
+          {
+            "id": 419766,
+            "date": "2026-11-01",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82027,
+              "name": "HSG WABO 2011",
+              "clubId": "12j6jtz"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 29,
+            "result": "L"
+          },
           {
             "id": 419762,
             "date": "2026-09-27",
@@ -26529,55 +26976,55 @@
         ],
         "topScorers": [
           {
-            "playerId": "13cvoht",
-            "name": "* *",
-            "number": 32,
-            "games": 3,
-            "goals": 18,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": 100
-          },
-          {
             "playerId": "0hmjae4",
             "name": "* *",
             "number": 11,
-            "games": 3,
-            "goals": 17,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 5.67,
+            "games": 4,
+            "goals": 26,
+            "sevenMeterGoals": 5,
+            "sevenMeterAttempts": 6,
+            "goalsPerGame": 6.5,
+            "sevenMeterPercentage": 83.3
+          },
+          {
+            "playerId": "13cvoht",
+            "name": "* *",
+            "number": 32,
+            "games": 4,
+            "goals": 22,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 5.5,
             "sevenMeterPercentage": 100
           },
           {
             "playerId": "0k2onv5",
             "name": "* *",
             "number": 17,
-            "games": 3,
-            "goals": 14,
+            "games": 4,
+            "goals": 17,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.67,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "03cxec9",
-            "name": "* *",
-            "number": 67,
-            "games": 3,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
+            "goalsPerGame": 4.25,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "147ndh0",
             "name": "* *",
             "number": 7,
-            "games": 3,
-            "goals": 9,
+            "games": 4,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "03cxec9",
+            "name": "* *",
+            "number": 67,
+            "games": 4,
+            "goals": 12,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
             "goalsPerGame": 3,
@@ -26585,8 +27032,8 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }

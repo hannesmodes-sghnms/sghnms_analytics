@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T18:28:44.463Z",
+  "generatedAt": "2026-11-02T02:02:50.547Z",
   "matches": [
     {
       "id": 504541,
@@ -7797,7 +7797,7 @@
       },
       "away": {
         "id": 87103,
-        "name": "SG Handball Neumünster",
+        "name": "Saudi-Arabien",
         "clubId": "1yrb3n9"
       },
       "result": {
@@ -8024,6 +8024,106 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/514381.json"
+    },
+    {
+      "id": 514284,
+      "date": "2026-11-01",
+      "time": "16:00",
+      "home": {
+        "id": 94482,
+        "name": "SG Handball Neumünster IV",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81933,
+        "name": "WELLINGDORFER TV II",
+        "clubId": "1j3isa8"
+      },
+      "result": {
+        "home": 18,
+        "away": 23
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7950,
+      "competition": "Kreisklasse Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12993,
+        "name": "Kreisklasse Frauen Mitte"
+      },
+      "venue": {
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
+      },
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 18,
+          "away": 23
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -3600,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 18:23."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 18:23."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 3600s by -3600s."
+          }
+        ]
+      },
+      "analyticsAvailable": false,
+      "analyticsPath": "match-analytics/514284.json"
     },
     {
       "id": 561271,
