@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:33:42.470Z",
+  "generatedAt": "2026-11-03T03:51:42.268Z",
   "matches": [
     {
       "id": 561276,
@@ -10568,6 +10568,203 @@
       }
     },
     {
+      "id": 450762,
+      "date": "2026-11-24",
+      "time": "17:30",
+      "home": {
+        "id": 87188,
+        "name": "VFL Lübeck-SCHWARTAU",
+        "clubId": "0gll3ig"
+      },
+      "away": {
+        "id": 87187,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competitionId": 9529,
+      "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14076,
+        "name": "Vorrunde B"
+      },
+      "venue": {
+        "name": "SZ JAHNSTRAßE SPORTHALLE 1",
+        "address": "LUDWIG-JAHN-STRAßE, 23611 BAD SCHWARTAU"
+      },
+      "ownTeamId": "87187",
+      "ownTeam": {
+        "label": "MJC 1",
+        "name": "mJC 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "87188",
+        "name": "VFL Lübeck-SCHWARTAU",
+        "phaseId": "14076",
+        "phaseName": "Vorrunde B",
+        "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+        "season": {
+          "games": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "goalsFor": 153,
+          "goalsAgainst": 127,
+          "goalDifference": 26,
+          "winRate": 60,
+          "goalsForAvg": 30.6,
+          "goalsAgainstAvg": 25.4,
+          "goalDifferenceAvg": 5.2
+        },
+        "recent": [
+          {
+            "id": 450760,
+            "date": "2026-10-04",
+            "time": "10:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87191,
+              "name": "HSG TILLS LÖWEN 08",
+              "clubId": "0okba70"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 21,
+            "result": "W"
+          },
+          {
+            "id": 450757,
+            "date": "2026-09-20",
+            "time": "17:15",
+            "isHome": false,
+            "opponent": {
+              "id": 87190,
+              "name": "TSV BARGTEHEIDE",
+              "clubId": "0b7tq6z"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 35,
+            "result": "L"
+          },
+          {
+            "id": 450754,
+            "date": "2026-09-12",
+            "time": "17:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87189,
+              "name": "MTV Lübeck II",
+              "clubId": "1j9nrl7"
+            },
+            "goalsFor": 28,
+            "goalsAgainst": 28,
+            "result": "D"
+          },
+          {
+            "id": 450751,
+            "date": "2026-09-06",
+            "time": "13:00",
+            "isHome": true,
+            "opponent": {
+              "id": 87192,
+              "name": "SG GLINDE-REINBEK",
+              "clubId": "1muw0yi"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 25,
+            "result": "W"
+          },
+          {
+            "id": 450747,
+            "date": "2026-08-30",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 87187,
+              "name": "SG Handball Neumünster",
+              "clubId": "1yrb3n9"
+            },
+            "goalsFor": 31,
+            "goalsAgainst": 18,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1hvc6z2",
+            "name": "Piet Holst",
+            "number": 11,
+            "games": 5,
+            "goals": 30,
+            "sevenMeterGoals": 10,
+            "sevenMeterAttempts": 10,
+            "goalsPerGame": 6,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "1pixxe0",
+            "name": "Theo Hering",
+            "number": 20,
+            "games": 5,
+            "goals": 26,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5.2,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "15649s7",
+            "name": "Justus Hammwöhner",
+            "number": 2,
+            "games": 4,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.75,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0o1fv6l",
+            "name": "Johann Erwin Tecklenburg",
+            "number": 49,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0np8mhj",
+            "name": "Lasse Paarmann",
+            "number": 71,
+            "games": 5,
+            "goals": 15,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 5,
+          "lineupMatches": 5,
+          "percentage": 100
+        }
+      }
+    },
+    {
       "id": 510193,
       "date": "2026-11-28",
       "time": "12:30",
@@ -15217,203 +15414,6 @@
       }
     },
     {
-      "id": 450762,
-      "date": "2026-12-31",
-      "time": "18:00",
-      "home": {
-        "id": 87188,
-        "name": "VFL Lübeck-SCHWARTAU",
-        "clubId": "0gll3ig"
-      },
-      "away": {
-        "id": 87187,
-        "name": "SG Handball Neumünster",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 9529,
-      "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 14076,
-        "name": "Vorrunde B"
-      },
-      "venue": {
-        "name": "SZ JAHNSTRAßE SPORTHALLE 1",
-        "address": "LUDWIG-JAHN-STRAßE, 23611 BAD SCHWARTAU"
-      },
-      "ownTeamId": "87187",
-      "ownTeam": {
-        "label": "MJC 1",
-        "name": "mJC 1",
-        "ageGroup": "youth",
-        "gender": "male",
-        "matchMinutes": 50
-      },
-      "opponentProfile": {
-        "teamId": "87188",
-        "name": "VFL Lübeck-SCHWARTAU",
-        "phaseId": "14076",
-        "phaseName": "Vorrunde B",
-        "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
-        "season": {
-          "games": 5,
-          "wins": 3,
-          "draws": 1,
-          "losses": 1,
-          "goalsFor": 153,
-          "goalsAgainst": 127,
-          "goalDifference": 26,
-          "winRate": 60,
-          "goalsForAvg": 30.6,
-          "goalsAgainstAvg": 25.4,
-          "goalDifferenceAvg": 5.2
-        },
-        "recent": [
-          {
-            "id": 450760,
-            "date": "2026-10-04",
-            "time": "10:00",
-            "isHome": true,
-            "opponent": {
-              "id": 87191,
-              "name": "HSG TILLS LÖWEN 08",
-              "clubId": "0okba70"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 21,
-            "result": "W"
-          },
-          {
-            "id": 450757,
-            "date": "2026-09-20",
-            "time": "17:15",
-            "isHome": false,
-            "opponent": {
-              "id": 87190,
-              "name": "TSV BARGTEHEIDE",
-              "clubId": "0b7tq6z"
-            },
-            "goalsFor": 32,
-            "goalsAgainst": 35,
-            "result": "L"
-          },
-          {
-            "id": 450754,
-            "date": "2026-09-12",
-            "time": "17:00",
-            "isHome": true,
-            "opponent": {
-              "id": 87189,
-              "name": "MTV Lübeck II",
-              "clubId": "1j9nrl7"
-            },
-            "goalsFor": 28,
-            "goalsAgainst": 28,
-            "result": "D"
-          },
-          {
-            "id": 450751,
-            "date": "2026-09-06",
-            "time": "13:00",
-            "isHome": true,
-            "opponent": {
-              "id": 87192,
-              "name": "SG GLINDE-REINBEK",
-              "clubId": "1muw0yi"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 25,
-            "result": "W"
-          },
-          {
-            "id": 450747,
-            "date": "2026-08-30",
-            "time": "16:00",
-            "isHome": false,
-            "opponent": {
-              "id": 87187,
-              "name": "SG Handball Neumünster",
-              "clubId": "1yrb3n9"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 18,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1hvc6z2",
-            "name": "Piet Holst",
-            "number": 11,
-            "games": 5,
-            "goals": 30,
-            "sevenMeterGoals": 10,
-            "sevenMeterAttempts": 10,
-            "goalsPerGame": 6,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1pixxe0",
-            "name": "Theo Hering",
-            "number": 20,
-            "games": 5,
-            "goals": 26,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.2,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "15649s7",
-            "name": "Justus Hammwöhner",
-            "number": 2,
-            "games": 4,
-            "goals": 15,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.75,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0o1fv6l",
-            "name": "Johann Erwin Tecklenburg",
-            "number": 49,
-            "games": 5,
-            "goals": 15,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "0np8mhj",
-            "name": "Lasse Paarmann",
-            "number": 71,
-            "games": 5,
-            "goals": 15,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3,
-            "sevenMeterPercentage": null
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
-          "percentage": 100
-        }
-      }
-    },
-    {
       "id": 510233,
       "date": "2027-01-09",
       "time": "12:00",
@@ -17816,8 +17816,8 @@
         "name": "wJA-ROL-3"
       },
       "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
       },
       "ownTeamId": "87271",
       "ownTeam": {

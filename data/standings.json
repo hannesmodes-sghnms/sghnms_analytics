@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:33:42.504Z",
+  "generatedAt": "2026-11-03T03:51:42.308Z",
   "teams": [
     {
       "teamId": "86801",
@@ -265,14 +265,14 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 117,
-              "goalsAgainst": 95,
-              "goalDifference": 22,
-              "points": 6,
+              "goalsFor": 152,
+              "goalsAgainst": 122,
+              "goalDifference": 30,
+              "points": 8,
               "qualifies": true,
               "form": [
                 {
@@ -285,6 +285,10 @@
                 },
                 {
                   "matchId": 448689,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448695,
                   "result": "W"
                 },
                 {
@@ -511,53 +515,6 @@
             {
               "position": 10,
               "team": {
-                "id": 81543,
-                "name": "TSV NORD HARRISLEE II",
-                "club": {
-                  "id": "0btnixw",
-                  "name": "TSV Nord Harrislee",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5520/square_67696e35666271696967.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 5,
-              "won": 1,
-              "drawn": 0,
-              "lost": 4,
-              "goalsFor": 124,
-              "goalsAgainst": 183,
-              "goalDifference": -59,
-              "points": 2,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 448672,
-                  "result": "W"
-                },
-                {
-                  "matchId": 448677,
-                  "result": "L"
-                },
-                {
-                  "matchId": 448681,
-                  "result": "L"
-                },
-                {
-                  "matchId": 448688,
-                  "result": "L"
-                },
-                {
-                  "matchId": 448702,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 11,
-              "team": {
                 "id": 81544,
                 "name": "IF STJERNEN FLENSBORG",
                 "club": {
@@ -598,6 +555,53 @@
                 },
                 {
                   "matchId": 448701,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 11,
+              "team": {
+                "id": 81543,
+                "name": "TSV NORD HARRISLEE II",
+                "club": {
+                  "id": "0btnixw",
+                  "name": "TSV Nord Harrislee",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5520/square_67696e35666271696967.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 6,
+              "won": 1,
+              "drawn": 0,
+              "lost": 5,
+              "goalsFor": 151,
+              "goalsAgainst": 218,
+              "goalDifference": -67,
+              "points": 2,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 448677,
+                  "result": "L"
+                },
+                {
+                  "matchId": 448681,
+                  "result": "L"
+                },
+                {
+                  "matchId": 448688,
+                  "result": "L"
+                },
+                {
+                  "matchId": 448695,
+                  "result": "L"
+                },
+                {
+                  "matchId": 448702,
                   "result": "L"
                 }
               ]
@@ -5409,7 +5413,7 @@
           "competitionScope": "league",
           "statsRelevant": true,
           "firstDate": "2026-08-30",
-          "lastDate": "2026-12-31",
+          "lastDate": "2026-12-06",
           "currentRound": 6,
           "teamCount": 6,
           "current": {
