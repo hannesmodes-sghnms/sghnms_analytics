@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T13:03:01.727Z",
+  "generatedAt": "2026-11-05T03:02:00.918Z",
   "teams": [
     {
       "teamId": "86801",
@@ -8762,45 +8762,6 @@
             {
               "position": 5,
               "team": {
-                "id": 82192,
-                "name": "SG DITHMARSCHEN SÜD",
-                "club": {
-                  "id": "0v7ucet",
-                  "name": "SG Dithmarschen Süd",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5835/square_39393635376637373034393930633837.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 3,
-              "won": 0,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 26,
-              "goalsAgainst": 27,
-              "goalDifference": -1,
-              "points": 0,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 677892,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677894,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677914,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 6,
-              "team": {
                 "id": 82214,
                 "name": "SV Weede",
                 "club": {
@@ -8833,6 +8794,49 @@
                 },
                 {
                   "matchId": 677917,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 6,
+              "team": {
+                "id": 82192,
+                "name": "SG DITHMARSCHEN SÜD",
+                "club": {
+                  "id": "0v7ucet",
+                  "name": "SG Dithmarschen Süd",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5835/square_39393635376637373034393930633837.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 4,
+              "won": 0,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 26,
+              "goalsAgainst": 27,
+              "goalDifference": -1,
+              "points": 0,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 677892,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677894,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677909,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677914,
                   "result": "L"
                 }
               ]
@@ -8989,7 +8993,7 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
               "lost": 0,
@@ -9010,6 +9014,10 @@
                 {
                   "matchId": 677905,
                   "result": "L"
+                },
+                {
+                  "matchId": 677909,
+                  "result": "W"
                 },
                 {
                   "matchId": 677935,
