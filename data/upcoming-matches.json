@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:16:47.427Z",
+  "generatedAt": "2026-11-06T03:02:52.663Z",
   "matches": [
     {
       "id": 561276,
@@ -11509,19 +11509,33 @@
         "phaseName": "Kreisklasse Frauen Mitte",
         "competition": "Kreisklasse Frauen",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 2,
-          "draws": 1,
+          "draws": 2,
           "losses": 1,
-          "goalsFor": 121,
-          "goalsAgainst": 101,
+          "goalsFor": 155,
+          "goalsAgainst": 135,
           "goalDifference": 20,
-          "winRate": 50,
-          "goalsForAvg": 30.25,
-          "goalsAgainstAvg": 25.25,
-          "goalDifferenceAvg": 5
+          "winRate": 40,
+          "goalsForAvg": 31,
+          "goalsAgainstAvg": 27,
+          "goalDifferenceAvg": 4
         },
         "recent": [
+          {
+            "id": 514269,
+            "date": "2026-11-05",
+            "time": "20:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81933,
+              "name": "WELLINGDORFER TV II",
+              "clubId": "1j3isa8"
+            },
+            "goalsFor": 34,
+            "goalsAgainst": 34,
+            "result": "D"
+          },
           {
             "id": 514282,
             "date": "2026-11-01",
@@ -11584,22 +11598,33 @@
             "playerId": "04gx28d",
             "name": "Melanie Heß",
             "number": 13,
-            "games": 4,
-            "goals": 50,
-            "sevenMeterGoals": 7,
-            "sevenMeterAttempts": 9,
-            "goalsPerGame": 12.5,
-            "sevenMeterPercentage": 77.8
+            "games": 5,
+            "goals": 65,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 13,
+            "sevenMeterPercentage": 81.8
+          },
+          {
+            "playerId": "0tqg516",
+            "name": "Freya Hassan",
+            "number": 9,
+            "games": 5,
+            "goals": 26,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 5.2,
+            "sevenMeterPercentage": 100
           },
           {
             "playerId": "1uw3ouc",
             "name": "Jahira Dabelstein",
             "number": 12,
-            "games": 4,
-            "goals": 19,
+            "games": 5,
+            "goals": 23,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.75,
+            "goalsPerGame": 4.6,
             "sevenMeterPercentage": null
           },
           {
@@ -11611,17 +11636,6 @@
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
             "goalsPerGame": 4.25,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0tqg516",
-            "name": "Freya Hassan",
-            "number": 9,
-            "games": 4,
-            "goals": 16,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 4,
             "sevenMeterPercentage": 100
           },
           {
@@ -11637,8 +11651,8 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -23729,19 +23743,33 @@
         "phaseName": "Kreisklasse Frauen Mitte",
         "competition": "Kreisklasse Frauen",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 2,
-          "draws": 1,
+          "draws": 2,
           "losses": 1,
-          "goalsFor": 121,
-          "goalsAgainst": 101,
+          "goalsFor": 155,
+          "goalsAgainst": 135,
           "goalDifference": 20,
-          "winRate": 50,
-          "goalsForAvg": 30.25,
-          "goalsAgainstAvg": 25.25,
-          "goalDifferenceAvg": 5
+          "winRate": 40,
+          "goalsForAvg": 31,
+          "goalsAgainstAvg": 27,
+          "goalDifferenceAvg": 4
         },
         "recent": [
+          {
+            "id": 514269,
+            "date": "2026-11-05",
+            "time": "20:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81933,
+              "name": "WELLINGDORFER TV II",
+              "clubId": "1j3isa8"
+            },
+            "goalsFor": 34,
+            "goalsAgainst": 34,
+            "result": "D"
+          },
           {
             "id": 514282,
             "date": "2026-11-01",
@@ -23804,22 +23832,33 @@
             "playerId": "04gx28d",
             "name": "Melanie Heß",
             "number": 13,
-            "games": 4,
-            "goals": 50,
-            "sevenMeterGoals": 7,
-            "sevenMeterAttempts": 9,
-            "goalsPerGame": 12.5,
-            "sevenMeterPercentage": 77.8
+            "games": 5,
+            "goals": 65,
+            "sevenMeterGoals": 9,
+            "sevenMeterAttempts": 11,
+            "goalsPerGame": 13,
+            "sevenMeterPercentage": 81.8
+          },
+          {
+            "playerId": "0tqg516",
+            "name": "Freya Hassan",
+            "number": 9,
+            "games": 5,
+            "goals": 26,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 2,
+            "goalsPerGame": 5.2,
+            "sevenMeterPercentage": 100
           },
           {
             "playerId": "1uw3ouc",
             "name": "Jahira Dabelstein",
             "number": 12,
-            "games": 4,
-            "goals": 19,
+            "games": 5,
+            "goals": 23,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.75,
+            "goalsPerGame": 4.6,
             "sevenMeterPercentage": null
           },
           {
@@ -23831,17 +23870,6 @@
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
             "goalsPerGame": 4.25,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0tqg516",
-            "name": "Freya Hassan",
-            "number": 9,
-            "games": 4,
-            "goals": 16,
-            "sevenMeterGoals": 2,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 4,
             "sevenMeterPercentage": 100
           },
           {
@@ -23857,8 +23885,8 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }

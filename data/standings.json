@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:16:47.454Z",
+  "generatedAt": "2026-11-06T03:02:52.704Z",
   "teams": [
     {
       "teamId": "86801",
@@ -10817,14 +10817,14 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 4,
+              "played": 5,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 101,
-              "goalsAgainst": 77,
-              "goalDifference": 24,
-              "points": 8,
+              "goalsFor": 124,
+              "goalsAgainst": 97,
+              "goalDifference": 27,
+              "points": 10,
               "qualifies": true,
               "form": [
                 {
@@ -10841,6 +10841,10 @@
                 },
                 {
                   "matchId": 514277,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514283,
                   "result": "W"
                 }
               ]
@@ -10860,19 +10864,23 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 3,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 1,
-              "goalsFor": 115,
-              "goalsAgainst": 76,
+              "goalsFor": 149,
+              "goalsAgainst": 110,
               "goalDifference": 39,
-              "points": 6,
+              "points": 7,
               "qualifies": true,
               "form": [
                 {
                   "matchId": 514264,
                   "result": "L"
+                },
+                {
+                  "matchId": 514269,
+                  "result": "D"
                 },
                 {
                   "matchId": 514275,
@@ -10891,45 +10899,6 @@
             {
               "position": 3,
               "team": {
-                "id": 81944,
-                "name": "HEIKENDORFER SV",
-                "club": {
-                  "id": "1t76a9j",
-                  "name": "Heikendorfer SV",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6669/square_33707364316a336f7336.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 3,
-              "won": 2,
-              "drawn": 1,
-              "lost": 0,
-              "goalsFor": 82,
-              "goalsAgainst": 56,
-              "goalDifference": 26,
-              "points": 5,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514266,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514272,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514288,
-                  "result": "D"
-                }
-              ]
-            },
-            {
-              "position": 4,
-              "team": {
                 "id": 81896,
                 "name": "LEEZENER SC",
                 "club": {
@@ -10942,14 +10911,14 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 2,
-              "drawn": 1,
+              "drawn": 2,
               "lost": 1,
-              "goalsFor": 121,
-              "goalsAgainst": 101,
+              "goalsFor": 155,
+              "goalsAgainst": 135,
               "goalDifference": 20,
-              "points": 5,
+              "points": 6,
               "qualifies": true,
               "form": [
                 {
@@ -10957,11 +10926,58 @@
                   "result": "W"
                 },
                 {
+                  "matchId": 514269,
+                  "result": "D"
+                },
+                {
                   "matchId": 514274,
                   "result": "W"
                 },
                 {
                   "matchId": 514282,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514288,
+                  "result": "D"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "team": {
+                "id": 81944,
+                "name": "HEIKENDORFER SV",
+                "club": {
+                  "id": "1t76a9j",
+                  "name": "Heikendorfer SV",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6669/square_33707364316a336f7336.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 4,
+              "won": 2,
+              "drawn": 1,
+              "lost": 1,
+              "goalsFor": 102,
+              "goalsAgainst": 79,
+              "goalDifference": 23,
+              "points": 5,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514266,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514272,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514283,
                   "result": "L"
                 },
                 {
