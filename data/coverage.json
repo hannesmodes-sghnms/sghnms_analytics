@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-11-06T13:00:58.602Z",
-  "finishedMatches": 102,
-  "analysesAvailable": 102,
+  "generatedAt": "2026-11-07T02:32:40.586Z",
+  "finishedMatches": 105,
+  "analysesAvailable": 105,
   "endpointCoverage": {
-    "eventsAvailable": 102,
+    "eventsAvailable": 105,
     "eventsPercent": 100,
-    "lineupsAvailable": 102,
+    "lineupsAvailable": 105,
     "lineupsPercent": 100,
-    "bothAvailable": 102,
+    "bothAvailable": 105,
     "bothPercent": 100
   },
   "verifiedAnalytics": {
-    "eligibleMatches": 99,
-    "excludedMatches": 3,
-    "percent": 97.1
+    "eligibleMatches": 101,
+    "excludedMatches": 4,
+    "percent": 96.2
   },
   "verification": {
-    "eventScoreMatchesOfficial": 99,
-    "lineupScoreMatchesOfficial": 99,
-    "halftimeAvailable": 101,
-    "halftimeEvent": 73,
+    "eventScoreMatchesOfficial": 101,
+    "lineupScoreMatchesOfficial": 101,
+    "halftimeAvailable": 103,
+    "halftimeEvent": 75,
     "halftimeDerived": 28,
-    "durationMatchesExpected": 94,
-    "scorerLineupCoverage100": 102,
-    "eventScorePercent": 97.1,
-    "lineupScorePercent": 97.1,
-    "halftimePercent": 99,
-    "durationPercent": 92.2,
+    "durationMatchesExpected": 96,
+    "scorerLineupCoverage100": 105,
+    "eventScorePercent": 96.2,
+    "lineupScorePercent": 96.2,
+    "halftimePercent": 98.1,
+    "durationPercent": 91.4,
     "scorerLineupCoverage100Percent": 100
   },
   "warningSummary": [
     {
       "code": "DURATION_MISMATCH",
       "severity": "warning",
-      "count": 8
+      "count": 9
     },
     {
       "code": "EVENT_SCORE_MISMATCH",
       "severity": "critical",
-      "count": 3
+      "count": 4
     },
     {
       "code": "LINEUP_SCORE_MISMATCH",
       "severity": "warning",
-      "count": 3
+      "count": 4
     },
     {
       "code": "HALFTIME_MISSING",
       "severity": "warning",
-      "count": 1
+      "count": 2
     }
   ],
   "teams": [
@@ -59,11 +59,11 @@
       "ageGroup": "senior",
       "gender": "female",
       "matchMinutes": 60,
-      "finishedMatches": 6,
-      "eventsAvailable": 6,
-      "lineupsAvailable": 6,
-      "bothAvailable": 6,
-      "analyticsEligible": 6,
+      "finishedMatches": 7,
+      "eventsAvailable": 7,
+      "lineupsAvailable": 7,
+      "bothAvailable": 7,
+      "analyticsEligible": 7,
       "analyticsExcluded": 0,
       "analyticsPercent": 100,
       "warnings": 0
@@ -201,14 +201,14 @@
       "youthClass": "E",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "finishedMatches": 4,
-      "eventsAvailable": 4,
-      "lineupsAvailable": 4,
-      "bothAvailable": 4,
+      "finishedMatches": 5,
+      "eventsAvailable": 5,
+      "lineupsAvailable": 5,
+      "bothAvailable": 5,
       "analyticsEligible": 4,
-      "analyticsExcluded": 0,
-      "analyticsPercent": 100,
-      "warnings": 0
+      "analyticsExcluded": 1,
+      "analyticsPercent": 80,
+      "warnings": 4
     },
     {
       "id": "87175",
@@ -425,11 +425,11 @@
       "ageGroup": "senior",
       "gender": "male",
       "matchMinutes": 60,
-      "finishedMatches": 5,
-      "eventsAvailable": 5,
-      "lineupsAvailable": 5,
-      "bothAvailable": 5,
-      "analyticsEligible": 5,
+      "finishedMatches": 6,
+      "eventsAvailable": 6,
+      "lineupsAvailable": 6,
+      "bothAvailable": 6,
+      "analyticsEligible": 6,
       "analyticsExcluded": 0,
       "analyticsPercent": 100,
       "warnings": 0

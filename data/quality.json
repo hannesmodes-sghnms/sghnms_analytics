@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:00:58.605Z",
+  "generatedAt": "2026-11-07T02:32:40.589Z",
   "matches": [
     {
       "id": 504541,
@@ -4836,6 +4836,167 @@
         "analyticsEligible": true,
         "lineupEligible": true,
         "warnings": []
+      }
+    },
+    {
+      "id": 561276,
+      "date": "2026-11-06",
+      "ownTeamId": "94484",
+      "ownTeam": {
+        "label": "HERREN 3",
+        "name": "3. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 34,
+          "away": 31
+        },
+        "eventFinalScore": {
+          "home": 34,
+          "away": 31
+        },
+        "lineupGoalTotals": {
+          "home": 34,
+          "away": 31
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 65,
+          "goalEventsWithPlayer": 65,
+          "matchedGoalEvents": 65,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 448709,
+      "date": "2026-11-06",
+      "ownTeamId": "86801",
+      "ownTeam": {
+        "label": "FRAUEN 1",
+        "name": "1. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 38,
+          "away": 22
+        },
+        "eventFinalScore": {
+          "home": 38,
+          "away": 22
+        },
+        "lineupGoalTotals": {
+          "home": 38,
+          "away": 22
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 60,
+          "goalEventsWithPlayer": 60,
+          "matchedGoalEvents": 60,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 509824,
+      "date": "2026-12-31",
+      "ownTeamId": "87110",
+      "ownTeam": {
+        "label": "WJE 2",
+        "name": "wJE 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 0,
+          "away": 2
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -2400,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 0:2."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 0:2."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 2400s by -2400s."
+          }
+        ]
       }
     }
   ]

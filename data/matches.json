@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T13:00:58.606Z",
+  "generatedAt": "2026-11-07T02:32:40.591Z",
   "matches": [
     {
       "id": 504541,
@@ -8203,6 +8203,266 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/561271.json"
+    },
+    {
+      "id": 561276,
+      "date": "2026-11-06",
+      "time": "20:15",
+      "home": {
+        "id": 81689,
+        "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
+        "clubId": "16gum8r"
+      },
+      "away": {
+        "id": 94484,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 34,
+        "away": 31
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7946,
+      "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12973,
+        "name": "Kreisliga Männer - Staffel E"
+      },
+      "venue": {
+        "name": "SPPORTHALLE ITZEHOE-WELLENKAMP",
+        "address": "DE-VOS-STRAßE, 25524 ITZEHOE"
+      },
+      "ownTeamId": "94484",
+      "ownTeam": {
+        "label": "HERREN 3",
+        "name": "3. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 34,
+          "away": 31
+        },
+        "eventFinalScore": {
+          "home": 34,
+          "away": 31
+        },
+        "lineupGoalTotals": {
+          "home": 34,
+          "away": 31
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 65,
+          "goalEventsWithPlayer": 65,
+          "matchedGoalEvents": 65,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/561276.json"
+    },
+    {
+      "id": 448709,
+      "date": "2026-11-06",
+      "time": "20:30",
+      "home": {
+        "id": 86801,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81549,
+        "name": "VfL Bad Schwartau",
+        "clubId": "0gll3ig"
+      },
+      "result": {
+        "home": 38,
+        "away": 22
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 6689,
+      "competition": "Oberliga Schleswig-Holstein Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14062,
+        "name": "Meisterrunde"
+      },
+      "venue": {
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
+      },
+      "ownTeamId": "86801",
+      "ownTeam": {
+        "label": "FRAUEN 1",
+        "name": "1. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 38,
+          "away": 22
+        },
+        "eventFinalScore": {
+          "home": 38,
+          "away": 22
+        },
+        "lineupGoalTotals": {
+          "home": 38,
+          "away": 22
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 60,
+          "goalEventsWithPlayer": 60,
+          "matchedGoalEvents": 60,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/448709.json"
+    },
+    {
+      "id": 509824,
+      "date": "2026-12-31",
+      "time": "14:30",
+      "home": {
+        "id": 87110,
+        "name": "SG HANDBALL NEUMÜNSTER II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 87127,
+        "name": "HSG WABO 2011 a.K.",
+        "clubId": "12j6jtz"
+      },
+      "result": {
+        "home": 0,
+        "away": 2
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7242,
+      "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15510,
+        "name": "wE-KL-Ost"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87110",
+      "ownTeam": {
+        "label": "WJE 2",
+        "name": "wJE 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 0,
+          "away": 2
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -2400,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 0:2."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 0:2."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 2400s by -2400s."
+          }
+        ]
+      },
+      "analyticsAvailable": false,
+      "analyticsPath": "match-analytics/509824.json"
     }
   ]
 }

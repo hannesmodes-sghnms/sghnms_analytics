@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-11-07T02:32:41.115Z",
+  "match": {
+    "id": 509824,
+    "date": "2026-12-31",
+    "time": "14:30",
+    "competitionId": 7242,
+    "competition": "Kreisoberliga wE Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 15510,
+      "name": "wE-KL-Ost"
+    },
+    "venue": {
+      "name": "PESTALOZZI-SCHULE",
+      "address": "AM KAMP 5, 24536 NEUMüNSTER"
+    },
+    "home": {
+      "id": 87110,
+      "name": "SG HANDBALL NEUMÜNSTER II",
+      "clubId": "1yrb3n9"
+    },
+    "away": {
+      "id": 87127,
+      "name": "HSG WABO 2011 a.K.",
+      "clubId": "12j6jtz"
+    },
+    "result": {
+      "home": 0,
+      "away": 2
+    },
+    "ownTeamId": "87110",
+    "ownTeam": {
+      "label": "WJE 2",
+      "name": "wJE 2",
+      "ageGroup": "youth",
+      "gender": "female",
+      "youthClass": "E",
+      "matchMinutes": 40,
+      "twoMinutePlayerReduction": false
+    },
+    "isHome": true,
+    "opponent": {
+      "id": 87127,
+      "name": "HSG WABO 2011 a.K.",
+      "clubId": "12j6jtz"
+    }
+  },
+  "quality": {
+    "status": "invalid",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 0,
+      "away": 2
+    },
+    "eventFinalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "lineupGoalTotals": {
+      "home": 0,
+      "away": 0
+    },
+    "eventScoreMatchesOfficial": false,
+    "lineupScoreMatchesOfficial": false,
+    "scorerLineupCoverage": {
+      "goalEvents": 0,
+      "goalEventsWithPlayer": 0,
+      "matchedGoalEvents": 0,
+      "percentage": 100
+    },
+    "halftimeAvailable": false,
+    "halftimeSource": null,
+    "expectedDurationSeconds": 2400,
+    "eventDurationSeconds": 0,
+    "durationDeltaSeconds": -2400,
+    "durationMatchesExpected": false,
+    "analyticsEligible": false,
+    "lineupEligible": true,
+    "warnings": [
+      {
+        "code": "EVENT_SCORE_MISMATCH",
+        "severity": "critical",
+        "message": "Event score 0:0 differs from official result 0:2."
+      },
+      {
+        "code": "LINEUP_SCORE_MISMATCH",
+        "severity": "warning",
+        "message": "Lineup goal totals 0:0 differ from official result 0:2."
+      },
+      {
+        "code": "HALFTIME_MISSING",
+        "severity": "warning",
+        "message": "No halftime score could be determined from the event stream."
+      },
+      {
+        "code": "DURATION_MISMATCH",
+        "severity": "warning",
+        "message": "Event duration 0s differs from expected duration 2400s by -2400s."
+      }
+    ]
+  },
+  "analytics": null
+}
