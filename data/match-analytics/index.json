@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T02:32:41.122Z",
+  "generatedAt": "2026-11-07T15:40:05.167Z",
   "matches": [
     {
       "id": 504541,
@@ -1248,6 +1248,54 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/448709.json"
+    },
+    {
+      "id": 518616,
+      "date": "2026-11-07",
+      "time": "10:00",
+      "ownTeamId": "87107",
+      "opponent": "TSV Ellerau",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/518616.json"
+    },
+    {
+      "id": 510206,
+      "date": "2026-11-07",
+      "time": "13:00",
+      "ownTeamId": "87105",
+      "opponent": "TSV Ellerau II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/510206.json"
+    },
+    {
+      "id": 504577,
+      "date": "2026-11-07",
+      "time": "15:00",
+      "ownTeamId": "86805",
+      "opponent": "MTV HERZHORN II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/504577.json"
+    },
+    {
+      "id": 509997,
+      "date": "2026-11-07",
+      "time": "15:30",
+      "ownTeamId": "87109",
+      "opponent": "SG BORDESHOLM/BRÜGGE",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/509997.json"
     },
     {
       "id": 509824,
