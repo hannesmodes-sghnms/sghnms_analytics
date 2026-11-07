@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:40:05.167Z",
+  "generatedAt": "2026-11-07T20:14:11.748Z",
   "matches": [
     {
       "id": 504541,
@@ -1296,6 +1296,78 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/509997.json"
+    },
+    {
+      "id": 417886,
+      "date": "2026-11-07",
+      "time": "16:00",
+      "ownTeamId": "87274",
+      "opponent": "SG HANDBALL EIDERTAL",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/417886.json"
+    },
+    {
+      "id": 450677,
+      "date": "2026-11-07",
+      "time": "16:15",
+      "ownTeamId": "87175",
+      "opponent": "SG BORDESHOLM/BRÜGGE",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/450677.json"
+    },
+    {
+      "id": 532831,
+      "date": "2026-11-07",
+      "time": "16:30",
+      "ownTeamId": "87103",
+      "opponent": "SV HENSTEDT-ULZBURG II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/532831.json"
+    },
+    {
+      "id": 514388,
+      "date": "2026-11-07",
+      "time": "17:00",
+      "ownTeamId": "94480",
+      "opponent": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/514388.json"
+    },
+    {
+      "id": 505420,
+      "date": "2026-11-07",
+      "time": "18:00",
+      "ownTeamId": "94483",
+      "opponent": "SC KIELER FÖRDE II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/505420.json"
+    },
+    {
+      "id": 598491,
+      "date": "2026-11-07",
+      "time": "18:00",
+      "ownTeamId": "87271",
+      "opponent": "HSG 91 NORTORF",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/598491.json"
     },
     {
       "id": 509824,

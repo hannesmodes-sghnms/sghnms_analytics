@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T15:40:05.034Z",
+  "generatedAt": "2026-11-07T20:14:11.577Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1407,19 +1407,19 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2026-12-12",
-          "currentRound": 8,
+          "currentRound": 7,
           "teamCount": 5,
           "current": {
-            "round": 8,
-            "position": 2,
-            "played": 4,
-            "won": 3,
+            "round": 7,
+            "position": 1,
+            "played": 5,
+            "won": 4,
             "drawn": 0,
             "lost": 1,
-            "goalsFor": 119,
-            "goalsAgainst": 84,
-            "goalDifference": 35,
-            "points": 6,
+            "goalsFor": 152,
+            "goalsAgainst": 101,
+            "goalDifference": 51,
+            "points": 8,
             "qualifies": true
           },
           "history": [
@@ -1502,65 +1502,22 @@
               "qualifies": true
             },
             {
-              "round": 8,
-              "position": 2,
-              "played": 4,
-              "won": 3,
+              "round": 7,
+              "position": 1,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 119,
-              "goalsAgainst": 84,
-              "goalDifference": 35,
-              "points": 6,
+              "goalsFor": 152,
+              "goalsAgainst": 101,
+              "goalDifference": 51,
+              "points": 8,
               "qualifies": true
             }
           ],
           "table": [
             {
               "position": 1,
-              "team": {
-                "id": 82514,
-                "name": "TSV Ellerau",
-                "club": {
-                  "id": "1u01tx2",
-                  "name": "TSV Ellerau",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5746/square_6c7130636e333437786c.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 123,
-              "goalsAgainst": 88,
-              "goalDifference": 35,
-              "points": 6,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 532820,
-                  "result": "W"
-                },
-                {
-                  "matchId": 532825,
-                  "result": "W"
-                },
-                {
-                  "matchId": 532827,
-                  "result": "L"
-                },
-                {
-                  "matchId": 532828,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 2,
               "team": {
                 "id": 87103,
                 "name": "SG Handball Neumünster",
@@ -1574,14 +1531,14 @@
                   "name": "Mixed"
                 }
               },
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 119,
-              "goalsAgainst": 84,
-              "goalDifference": 35,
-              "points": 6,
+              "goalsFor": 152,
+              "goalsAgainst": 101,
+              "goalDifference": 51,
+              "points": 8,
               "qualifies": true,
               "form": [
                 {
@@ -1599,54 +1556,62 @@
                 {
                   "matchId": 532828,
                   "result": "L"
+                },
+                {
+                  "matchId": 532831,
+                  "result": "W"
                 }
               ]
             },
             {
-              "position": 3,
+              "position": 2,
               "team": {
-                "id": 82511,
-                "name": "HSG KALKBERG 06",
+                "id": 82514,
+                "name": "TSV Ellerau",
                 "club": {
-                  "id": "03erpv1",
-                  "name": "HSG Kalkberg 06",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5640/square_71696276666771646578.jpg"
+                  "id": "1u01tx2",
+                  "name": "TSV Ellerau",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5746/square_6c7130636e333437786c.jpg"
                 },
                 "gender": {
                   "id": "M",
                   "name": "Male"
                 }
               },
-              "played": 4,
-              "won": 2,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 104,
-              "goalsAgainst": 99,
-              "goalDifference": 5,
-              "points": 4,
+              "lost": 1,
+              "goalsFor": 150,
+              "goalsAgainst": 107,
+              "goalDifference": 43,
+              "points": 8,
               "qualifies": true,
               "form": [
                 {
                   "matchId": 532820,
-                  "result": "L"
-                },
-                {
-                  "matchId": 532822,
                   "result": "W"
                 },
                 {
-                  "matchId": 532824,
+                  "matchId": 532825,
                   "result": "W"
                 },
                 {
-                  "matchId": 532826,
+                  "matchId": 532827,
                   "result": "L"
+                },
+                {
+                  "matchId": 532828,
+                  "result": "W"
+                },
+                {
+                  "matchId": 532830,
+                  "result": "W"
                 }
               ]
             },
             {
-              "position": 4,
+              "position": 3,
               "team": {
                 "id": 87085,
                 "name": "Bramstedter TS II",
@@ -1689,6 +1654,53 @@
               ]
             },
             {
+              "position": 4,
+              "team": {
+                "id": 82511,
+                "name": "HSG KALKBERG 06",
+                "club": {
+                  "id": "03erpv1",
+                  "name": "HSG Kalkberg 06",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5640/square_71696276666771646578.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 123,
+              "goalsAgainst": 126,
+              "goalDifference": -3,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 532820,
+                  "result": "L"
+                },
+                {
+                  "matchId": 532822,
+                  "result": "W"
+                },
+                {
+                  "matchId": 532824,
+                  "result": "W"
+                },
+                {
+                  "matchId": 532826,
+                  "result": "L"
+                },
+                {
+                  "matchId": 532830,
+                  "result": "L"
+                }
+              ]
+            },
+            {
               "position": 5,
               "team": {
                 "id": 82517,
@@ -1703,13 +1715,13 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 4,
-              "goalsFor": 49,
-              "goalsAgainst": 120,
-              "goalDifference": -71,
+              "lost": 5,
+              "goalsFor": 66,
+              "goalsAgainst": 153,
+              "goalDifference": -87,
               "points": 0,
               "qualifies": true,
               "form": [
@@ -1727,6 +1739,10 @@
                 },
                 {
                   "matchId": 532829,
+                  "result": "L"
+                },
+                {
+                  "matchId": 532831,
                   "result": "L"
                 }
               ]
@@ -5188,10 +5204,10 @@
           "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2026-12-06",
-          "currentRound": 6,
+          "currentRound": 9,
           "teamCount": 6,
           "current": {
-            "round": 6,
+            "round": 9,
             "position": 6,
             "played": 5,
             "won": 1,
@@ -5271,6 +5287,32 @@
             },
             {
               "round": 6,
+              "position": 6,
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 101,
+              "goalsAgainst": 135,
+              "goalDifference": -34,
+              "points": 2,
+              "qualifies": true
+            },
+            {
+              "round": 7,
+              "position": 6,
+              "played": 6,
+              "won": 1,
+              "drawn": 0,
+              "lost": 5,
+              "goalsFor": 122,
+              "goalsAgainst": 158,
+              "goalDifference": -36,
+              "points": 2,
+              "qualifies": true
+            },
+            {
+              "round": 9,
               "position": 6,
               "played": 5,
               "won": 1,
@@ -6617,10 +6659,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-04-17",
-          "currentRound": 6,
+          "currentRound": 9,
           "teamCount": 7,
           "current": {
-            "round": 6,
+            "round": 9,
             "position": 3,
             "played": 4,
             "won": 3,
@@ -6700,6 +6742,32 @@
             },
             {
               "round": 6,
+              "position": 3,
+              "played": 4,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 122,
+              "goalsAgainst": 69,
+              "goalDifference": 53,
+              "points": 6,
+              "qualifies": true
+            },
+            {
+              "round": 7,
+              "position": 2,
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 149,
+              "goalsAgainst": 83,
+              "goalDifference": 66,
+              "points": 8,
+              "qualifies": true
+            },
+            {
+              "round": 9,
               "position": 3,
               "played": 4,
               "won": 3,
@@ -7489,10 +7557,10 @@
           "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2027-04-24",
-          "currentRound": 10,
+          "currentRound": 13,
           "teamCount": 12,
           "current": {
-            "round": 10,
+            "round": 13,
             "position": 7,
             "played": 7,
             "won": 3,
@@ -7611,19 +7679,19 @@
             },
             {
               "round": 9,
-              "position": 9,
-              "played": 7,
-              "won": 3,
+              "position": 5,
+              "played": 8,
+              "won": 4,
               "drawn": 0,
               "lost": 4,
-              "goalsFor": 206,
-              "goalsAgainst": 186,
-              "goalDifference": 20,
-              "points": 6,
+              "goalsFor": 234,
+              "goalsAgainst": 211,
+              "goalDifference": 23,
+              "points": 8,
               "qualifies": true
             },
             {
-              "round": 10,
+              "round": 13,
               "position": 7,
               "played": 7,
               "won": 3,
@@ -9784,10 +9852,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-08",
           "lastDate": "2027-05-02",
-          "currentRound": 9,
+          "currentRound": 12,
           "teamCount": 12,
           "current": {
-            "round": 9,
+            "round": 12,
             "position": 8,
             "played": 4,
             "won": 1,
@@ -9893,19 +9961,19 @@
             },
             {
               "round": 8,
-              "position": 8,
+              "position": 9,
               "played": 5,
               "won": 1,
-              "drawn": 1,
-              "lost": 3,
-              "goalsFor": 100,
-              "goalsAgainst": 112,
-              "goalDifference": -12,
-              "points": 3,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 123,
+              "goalsAgainst": 147,
+              "goalDifference": -24,
+              "points": 2,
               "qualifies": true
             },
             {
-              "round": 9,
+              "round": 12,
               "position": 8,
               "played": 4,
               "won": 1,
@@ -11530,10 +11598,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-03-21",
-          "currentRound": 5,
+          "currentRound": 8,
           "teamCount": 9,
           "current": {
-            "round": 5,
+            "round": 8,
             "position": 5,
             "played": 4,
             "won": 1,
@@ -11600,6 +11668,32 @@
             },
             {
               "round": 5,
+              "position": 5,
+              "played": 4,
+              "won": 1,
+              "drawn": 1,
+              "lost": 2,
+              "goalsFor": 104,
+              "goalsAgainst": 112,
+              "goalDifference": -8,
+              "points": 3,
+              "qualifies": true
+            },
+            {
+              "round": 6,
+              "position": 2,
+              "played": 5,
+              "won": 2,
+              "drawn": 1,
+              "lost": 2,
+              "goalsFor": 137,
+              "goalsAgainst": 126,
+              "goalDifference": 11,
+              "points": 5,
+              "qualifies": true
+            },
+            {
+              "round": 8,
               "position": 5,
               "played": 4,
               "won": 1,
