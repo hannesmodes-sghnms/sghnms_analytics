@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:02:09.238Z",
+  "generatedAt": "2026-11-08T15:58:39.325Z",
   "matches": [
     {
       "id": 504541,
@@ -1368,6 +1368,90 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/598491.json"
+    },
+    {
+      "id": 518583,
+      "date": "2026-11-08",
+      "time": "09:30",
+      "ownTeamId": "87108",
+      "opponent": "TV TRAPPENKAMP",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/518583.json"
+    },
+    {
+      "id": 411581,
+      "date": "2026-11-08",
+      "time": "10:30",
+      "ownTeamId": "87265",
+      "opponent": "SV Henstedt-Ulzburg III",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/411581.json"
+    },
+    {
+      "id": 532869,
+      "date": "2026-11-08",
+      "time": "10:45",
+      "ownTeamId": "87104",
+      "opponent": "HSG 91 NORTORF",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/532869.json"
+    },
+    {
+      "id": 419773,
+      "date": "2026-11-08",
+      "time": "12:15",
+      "ownTeamId": "87275",
+      "opponent": "HSG MÖNKEBERG-SCHÖNKIRCHEN",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/419773.json"
+    },
+    {
+      "id": 508097,
+      "date": "2026-11-08",
+      "time": "14:00",
+      "ownTeamId": "87272",
+      "opponent": "VFL GEESTHACHT",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/508097.json"
+    },
+    {
+      "id": 553527,
+      "date": "2026-11-08",
+      "time": "15:15",
+      "ownTeamId": "87277",
+      "opponent": "WELLINGDORFER TV WEIBLICHE C 2",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/553527.json"
+    },
+    {
+      "id": 450765,
+      "date": "2026-11-08",
+      "time": "15:30",
+      "ownTeamId": "87187",
+      "opponent": "MTV Lübeck II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/450765.json"
     },
     {
       "id": 509824,

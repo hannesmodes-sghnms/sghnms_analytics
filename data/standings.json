@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T02:02:08.943Z",
+  "generatedAt": "2026-11-08T15:58:39.139Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1933,13 +1933,13 @@
           "current": {
             "round": 11,
             "position": 6,
-            "played": 4,
+            "played": 5,
             "won": 2,
             "drawn": 0,
-            "lost": 1,
-            "goalsFor": 52,
-            "goalsAgainst": 69,
-            "goalDifference": -17,
+            "lost": 2,
+            "goalsFor": 59,
+            "goalsAgainst": 100,
+            "goalDifference": -41,
             "points": 4,
             "qualifies": true
           },
@@ -2023,15 +2023,28 @@
               "qualifies": true
             },
             {
-              "round": 11,
+              "round": 10,
               "position": 6,
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 1,
-              "goalsFor": 52,
-              "goalsAgainst": 69,
-              "goalDifference": -17,
+              "lost": 2,
+              "goalsFor": 59,
+              "goalsAgainst": 100,
+              "goalDifference": -41,
+              "points": 4,
+              "qualifies": true
+            },
+            {
+              "round": 11,
+              "position": 6,
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 59,
+              "goalsAgainst": 100,
+              "goalDifference": -41,
               "points": 4,
               "qualifies": true
             }
@@ -2052,7 +2065,7 @@
                   "name": "Male"
                 }
               },
-              "played": 5,
+              "played": 6,
               "won": 5,
               "drawn": 0,
               "lost": 0,
@@ -2062,10 +2075,6 @@
               "points": 10,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 532840,
-                  "result": "W"
-                },
                 {
                   "matchId": 532845,
                   "result": "W"
@@ -2081,6 +2090,10 @@
                 {
                   "matchId": 532860,
                   "result": "W"
+                },
+                {
+                  "matchId": 532865,
+                  "result": "L"
                 }
               ]
             },
@@ -2099,14 +2112,14 @@
                   "name": "Mixed"
                 }
               },
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 1,
               "lost": 0,
-              "goalsFor": 89,
-              "goalsAgainst": 35,
-              "goalDifference": 54,
-              "points": 7,
+              "goalsFor": 120,
+              "goalsAgainst": 42,
+              "goalDifference": 78,
+              "points": 9,
               "qualifies": true,
               "form": [
                 {
@@ -2124,11 +2137,62 @@
                 {
                   "matchId": 532864,
                   "result": "D"
+                },
+                {
+                  "matchId": 532869,
+                  "result": "W"
                 }
               ]
             },
             {
               "position": 3,
+              "team": {
+                "id": 87094,
+                "name": "SG BORDESHOLM/BRÜGGE II",
+                "club": {
+                  "id": "0mjcjfn",
+                  "name": "SG Bordesholm/Brügge",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6038/square_357938366d7733773135.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 5,
+              "won": 3,
+              "drawn": 1,
+              "lost": 0,
+              "goalsFor": 129,
+              "goalsAgainst": 57,
+              "goalDifference": 72,
+              "points": 7,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 532844,
+                  "result": "W"
+                },
+                {
+                  "matchId": 532849,
+                  "result": "L"
+                },
+                {
+                  "matchId": 532859,
+                  "result": "W"
+                },
+                {
+                  "matchId": 532864,
+                  "result": "D"
+                },
+                {
+                  "matchId": 532868,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 4,
               "team": {
                 "id": 82513,
                 "name": "SV Weede",
@@ -2170,49 +2234,6 @@
                 },
                 {
                   "matchId": 532862,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 4,
-              "team": {
-                "id": 87094,
-                "name": "SG BORDESHOLM/BRÜGGE II",
-                "club": {
-                  "id": "0mjcjfn",
-                  "name": "SG Bordesholm/Brügge",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6038/square_357938366d7733773135.jpg"
-                },
-                "gender": {
-                  "id": "X",
-                  "name": "Mixed"
-                }
-              },
-              "played": 4,
-              "won": 2,
-              "drawn": 1,
-              "lost": 0,
-              "goalsFor": 97,
-              "goalsAgainst": 48,
-              "goalDifference": 49,
-              "points": 5,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 532849,
-                  "result": "L"
-                },
-                {
-                  "matchId": 532859,
-                  "result": "W"
-                },
-                {
-                  "matchId": 532864,
-                  "result": "D"
-                },
-                {
-                  "matchId": 532868,
                   "result": "W"
                 }
               ]
@@ -2275,13 +2296,13 @@
                   "name": "Mixed"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 1,
-              "goalsFor": 52,
-              "goalsAgainst": 69,
-              "goalDifference": -17,
+              "lost": 2,
+              "goalsFor": 59,
+              "goalsAgainst": 100,
+              "goalDifference": -41,
               "points": 4,
               "qualifies": true,
               "form": [
@@ -2299,6 +2320,10 @@
                 },
                 {
                   "matchId": 532859,
+                  "result": "L"
+                },
+                {
+                  "matchId": 532869,
                   "result": "L"
                 }
               ]
@@ -2408,13 +2433,13 @@
                   "name": "Mixed"
                 }
               },
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 1,
-              "lost": 3,
-              "goalsFor": 46,
-              "goalsAgainst": 89,
-              "goalDifference": -43,
+              "lost": 4,
+              "goalsFor": 55,
+              "goalsAgainst": 121,
+              "goalDifference": -66,
               "points": 1,
               "qualifies": true,
               "form": [
@@ -2502,7 +2527,7 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
               "lost": 0,
@@ -2522,6 +2547,10 @@
                 },
                 {
                   "matchId": 532863,
+                  "result": "W"
+                },
+                {
+                  "matchId": 532865,
                   "result": "W"
                 },
                 {
@@ -3692,15 +3721,15 @@
           "teamCount": 8,
           "current": {
             "round": 6,
-            "position": 5,
-            "played": 4,
-            "won": 2,
+            "position": 3,
+            "played": 5,
+            "won": 3,
             "drawn": 0,
             "lost": 2,
-            "goalsFor": 76,
-            "goalsAgainst": 74,
-            "goalDifference": 2,
-            "points": 4,
+            "goalsFor": 93,
+            "goalsAgainst": 85,
+            "goalDifference": 8,
+            "points": 6,
             "qualifies": true
           },
           "history": [
@@ -3757,16 +3786,29 @@
               "qualifies": true
             },
             {
-              "round": 6,
-              "position": 5,
-              "played": 4,
-              "won": 2,
+              "round": 5,
+              "position": 3,
+              "played": 5,
+              "won": 3,
               "drawn": 0,
               "lost": 2,
-              "goalsFor": 76,
-              "goalsAgainst": 74,
-              "goalDifference": 2,
-              "points": 4,
+              "goalsFor": 93,
+              "goalsAgainst": 85,
+              "goalDifference": 8,
+              "points": 6,
+              "qualifies": true
+            },
+            {
+              "round": 6,
+              "position": 3,
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 93,
+              "goalsAgainst": 85,
+              "goalDifference": 8,
+              "points": 6,
               "qualifies": true
             }
           ],
@@ -3786,14 +3828,14 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
-              "won": 3,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 73,
-              "goalsAgainst": 63,
-              "goalDifference": 10,
-              "points": 6,
+              "goalsFor": 104,
+              "goalsAgainst": 79,
+              "goalDifference": 25,
+              "points": 8,
               "qualifies": true,
               "form": [
                 {
@@ -3810,6 +3852,10 @@
                 },
                 {
                   "matchId": 518580,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518585,
                   "result": "W"
                 }
               ]
@@ -3829,20 +3875,16 @@
                   "name": "Mixed"
                 }
               },
-              "played": 5,
-              "won": 3,
+              "played": 6,
+              "won": 4,
               "drawn": 0,
               "lost": 2,
-              "goalsFor": 89,
-              "goalsAgainst": 68,
-              "goalDifference": 21,
-              "points": 6,
+              "goalsFor": 119,
+              "goalsAgainst": 73,
+              "goalDifference": 46,
+              "points": 8,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 518568,
-                  "result": "L"
-                },
                 {
                   "matchId": 518570,
                   "result": "W"
@@ -3856,6 +3898,10 @@
                   "result": "L"
                 },
                 {
+                  "matchId": 518584,
+                  "result": "W"
+                },
+                {
                   "matchId": 518588,
                   "result": "W"
                 }
@@ -3863,6 +3909,53 @@
             },
             {
               "position": 3,
+              "team": {
+                "id": 87108,
+                "name": "SG Handball Neumünster II",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 93,
+              "goalsAgainst": 85,
+              "goalDifference": 8,
+              "points": 6,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 518566,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518571,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518575,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518579,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518583,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 4,
               "team": {
                 "id": 87097,
                 "name": "SG Bordesholm/Brügge II",
@@ -3901,7 +3994,54 @@
               ]
             },
             {
-              "position": 4,
+              "position": 5,
+              "team": {
+                "id": 94064,
+                "name": "TV TRAPPENKAMP",
+                "club": {
+                  "id": "02z7nh5",
+                  "name": "TV Trappenkamp",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5903/square_66333267776c6f336e64.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 80,
+              "goalsAgainst": 84,
+              "goalDifference": -4,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 518567,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518573,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518577,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518583,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518588,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 6,
               "team": {
                 "id": 94061,
                 "name": "HSG KALKBERG 06",
@@ -3915,13 +4055,13 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 66,
-              "goalsAgainst": 55,
-              "goalDifference": 11,
+              "lost": 3,
+              "goalsFor": 71,
+              "goalsAgainst": 85,
+              "goalDifference": -14,
               "points": 4,
               "qualifies": true,
               "form": [
@@ -3940,91 +4080,9 @@
                 {
                   "matchId": 518579,
                   "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 5,
-              "team": {
-                "id": 87108,
-                "name": "SG Handball Neumünster II",
-                "club": {
-                  "id": "1yrb3n9",
-                  "name": "SG Handball Neumünster",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
-                },
-                "gender": {
-                  "id": "X",
-                  "name": "Mixed"
-                }
-              },
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 76,
-              "goalsAgainst": 74,
-              "goalDifference": 2,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 518566,
-                  "result": "L"
                 },
                 {
-                  "matchId": 518571,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518575,
-                  "result": "L"
-                },
-                {
-                  "matchId": 518579,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 6,
-              "team": {
-                "id": 94064,
-                "name": "TV TRAPPENKAMP",
-                "club": {
-                  "id": "02z7nh5",
-                  "name": "TV Trappenkamp",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5903/square_66333267776c6f336e64.jpg"
-                },
-                "gender": {
-                  "id": "X",
-                  "name": "Mixed"
-                }
-              },
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 69,
-              "goalsAgainst": 67,
-              "goalDifference": 2,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 518567,
-                  "result": "L"
-                },
-                {
-                  "matchId": 518573,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518577,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518588,
+                  "matchId": 518584,
                   "result": "L"
                 }
               ]
@@ -4044,13 +4102,13 @@
                   "name": "Mixed"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 19,
-              "goalsAgainst": 38,
-              "goalDifference": -19,
+              "lost": 3,
+              "goalsFor": 35,
+              "goalsAgainst": 69,
+              "goalDifference": -34,
               "points": 2,
               "qualifies": true,
               "form": [
@@ -4064,6 +4122,10 @@
                 },
                 {
                   "matchId": 518577,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518585,
                   "result": "L"
                 }
               ]
@@ -5623,10 +5685,10 @@
           "statsRelevant": true,
           "firstDate": "2026-08-30",
           "lastDate": "2026-12-06",
-          "currentRound": 6,
+          "currentRound": 9,
           "teamCount": 6,
           "current": {
-            "round": 6,
+            "round": 9,
             "position": 6,
             "played": 4,
             "won": 0,
@@ -5706,6 +5768,45 @@
             },
             {
               "round": 6,
+              "position": 6,
+              "played": 4,
+              "won": 0,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 109,
+              "goalsAgainst": 135,
+              "goalDifference": -26,
+              "points": 0,
+              "qualifies": true
+            },
+            {
+              "round": 7,
+              "position": 6,
+              "played": 4,
+              "won": 0,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 109,
+              "goalsAgainst": 135,
+              "goalDifference": -26,
+              "points": 0,
+              "qualifies": true
+            },
+            {
+              "round": 8,
+              "position": 6,
+              "played": 5,
+              "won": 1,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 144,
+              "goalsAgainst": 168,
+              "goalDifference": -24,
+              "points": 2,
+              "qualifies": true
+            },
+            {
+              "round": 9,
               "position": 6,
               "played": 4,
               "won": 0,
@@ -6021,10 +6122,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-04-24",
-          "currentRound": 7,
+          "currentRound": 10,
           "teamCount": 11,
           "current": {
-            "round": 7,
+            "round": 10,
             "position": 1,
             "played": 6,
             "won": 6,
@@ -6117,6 +6218,19 @@
             },
             {
               "round": 7,
+              "position": 1,
+              "played": 7,
+              "won": 7,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 266,
+              "goalsAgainst": 121,
+              "goalDifference": 145,
+              "points": 14,
+              "qualifies": true
+            },
+            {
+              "round": 10,
               "position": 1,
               "played": 6,
               "won": 6,
@@ -7122,13 +7236,13 @@
           "current": {
             "round": 12,
             "position": 6,
-            "played": 3,
+            "played": 4,
             "won": 1,
             "drawn": 1,
-            "lost": 1,
-            "goalsFor": 54,
-            "goalsAgainst": 73,
-            "goalDifference": -19,
+            "lost": 2,
+            "goalsFor": 74,
+            "goalsAgainst": 128,
+            "goalDifference": -54,
             "points": 3,
             "qualifies": true
           },
@@ -7199,15 +7313,28 @@
               "qualifies": true
             },
             {
-              "round": 12,
+              "round": 11,
               "position": 6,
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 1,
-              "lost": 1,
-              "goalsFor": 54,
-              "goalsAgainst": 73,
-              "goalDifference": -19,
+              "lost": 2,
+              "goalsFor": 74,
+              "goalsAgainst": 128,
+              "goalDifference": -54,
+              "points": 3,
+              "qualifies": true
+            },
+            {
+              "round": 12,
+              "position": 6,
+              "played": 4,
+              "won": 1,
+              "drawn": 1,
+              "lost": 2,
+              "goalsFor": 74,
+              "goalsAgainst": 128,
+              "goalDifference": -54,
               "points": 3,
               "qualifies": true
             }
@@ -7228,14 +7355,14 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 4,
+              "played": 5,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 175,
-              "goalsAgainst": 99,
-              "goalDifference": 76,
-              "points": 8,
+              "goalsFor": 230,
+              "goalsAgainst": 119,
+              "goalDifference": 111,
+              "points": 10,
               "qualifies": true,
               "form": [
                 {
@@ -7252,6 +7379,10 @@
                 },
                 {
                   "matchId": 508093,
+                  "result": "W"
+                },
+                {
+                  "matchId": 508097,
                   "result": "W"
                 }
               ]
@@ -7302,6 +7433,53 @@
             {
               "position": 3,
               "team": {
+                "id": 81960,
+                "name": "HSG WABO 2011",
+                "club": {
+                  "id": "12j6jtz",
+                  "name": "HSG WaBo 2011",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5846/square_746d3375636775616679.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 170,
+              "goalsAgainst": 113,
+              "goalDifference": 57,
+              "points": 6,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 508078,
+                  "result": "W"
+                },
+                {
+                  "matchId": 508082,
+                  "result": "L"
+                },
+                {
+                  "matchId": 508086,
+                  "result": "L"
+                },
+                {
+                  "matchId": 508090,
+                  "result": "W"
+                },
+                {
+                  "matchId": 508094,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "team": {
                 "id": 81971,
                 "name": "SC Buntekuh Lübeck wA",
                 "club": {
@@ -7347,49 +7525,6 @@
               ]
             },
             {
-              "position": 4,
-              "team": {
-                "id": 81960,
-                "name": "HSG WABO 2011",
-                "club": {
-                  "id": "12j6jtz",
-                  "name": "HSG WaBo 2011",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5846/square_746d3375636775616679.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 137,
-              "goalsAgainst": 90,
-              "goalDifference": 47,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 508078,
-                  "result": "W"
-                },
-                {
-                  "matchId": 508082,
-                  "result": "L"
-                },
-                {
-                  "matchId": 508086,
-                  "result": "L"
-                },
-                {
-                  "matchId": 508090,
-                  "result": "W"
-                }
-              ]
-            },
-            {
               "position": 5,
               "team": {
                 "id": 81973,
@@ -7404,13 +7539,13 @@
                   "name": "Female"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 1,
-              "lost": 1,
-              "goalsFor": 92,
-              "goalsAgainst": 92,
-              "goalDifference": 0,
+              "lost": 2,
+              "goalsFor": 115,
+              "goalsAgainst": 125,
+              "goalDifference": -10,
               "points": 3,
               "qualifies": true,
               "form": [
@@ -7424,6 +7559,10 @@
                 },
                 {
                   "matchId": 508093,
+                  "result": "L"
+                },
+                {
+                  "matchId": 508094,
                   "result": "L"
                 }
               ]
@@ -7443,13 +7582,13 @@
                   "name": "Female"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 1,
-              "lost": 1,
-              "goalsFor": 54,
-              "goalsAgainst": 73,
-              "goalDifference": -19,
+              "lost": 2,
+              "goalsFor": 74,
+              "goalsAgainst": 128,
+              "goalDifference": -54,
               "points": 3,
               "qualifies": true,
               "form": [
@@ -7463,6 +7602,10 @@
                 },
                 {
                   "matchId": 508088,
+                  "result": "L"
+                },
+                {
+                  "matchId": 508097,
                   "result": "L"
                 }
               ]
@@ -8291,10 +8434,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-04-24",
-          "currentRound": 9,
+          "currentRound": 12,
           "teamCount": 9,
           "current": {
-            "round": 9,
+            "round": 12,
             "position": 1,
             "played": 4,
             "won": 3,
@@ -8360,7 +8503,33 @@
               "qualifies": true
             },
             {
+              "round": 8,
+              "position": 1,
+              "played": 4,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 105,
+              "goalsAgainst": 87,
+              "goalDifference": 18,
+              "points": 6,
+              "qualifies": true
+            },
+            {
               "round": 9,
+              "position": 1,
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 128,
+              "goalsAgainst": 98,
+              "goalDifference": 30,
+              "points": 8,
+              "qualifies": true
+            },
+            {
+              "round": 12,
               "position": 1,
               "played": 4,
               "won": 3,
@@ -9338,10 +9507,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2026-12-13",
-          "currentRound": 5,
+          "currentRound": 8,
           "teamCount": 10,
           "current": {
-            "round": 5,
+            "round": 8,
             "position": 8,
             "played": 4,
             "won": 0,
@@ -9408,6 +9577,45 @@
             },
             {
               "round": 5,
+              "position": 8,
+              "played": 4,
+              "won": 0,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 60,
+              "goalsAgainst": 102,
+              "goalDifference": -42,
+              "points": 0,
+              "qualifies": true
+            },
+            {
+              "round": 6,
+              "position": 8,
+              "played": 4,
+              "won": 0,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 60,
+              "goalsAgainst": 102,
+              "goalDifference": -42,
+              "points": 0,
+              "qualifies": true
+            },
+            {
+              "round": 7,
+              "position": 8,
+              "played": 5,
+              "won": 0,
+              "drawn": 0,
+              "lost": 5,
+              "goalsFor": 73,
+              "goalsAgainst": 121,
+              "goalDifference": -48,
+              "points": 0,
+              "qualifies": true
+            },
+            {
+              "round": 8,
               "position": 8,
               "played": 4,
               "won": 0,
@@ -10536,10 +10744,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
-          "currentRound": 6,
+          "currentRound": 9,
           "teamCount": 10,
           "current": {
-            "round": 6,
+            "round": 9,
             "position": 3,
             "played": 3,
             "won": 3,
@@ -10619,6 +10827,19 @@
             },
             {
               "round": 6,
+              "position": 3,
+              "played": 3,
+              "won": 3,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 84,
+              "goalsAgainst": 70,
+              "goalDifference": 14,
+              "points": 6,
+              "qualifies": true
+            },
+            {
+              "round": 9,
               "position": 3,
               "played": 3,
               "won": 3,
