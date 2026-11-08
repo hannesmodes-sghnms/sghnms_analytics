@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:58:39.325Z",
+  "generatedAt": "2026-11-08T20:28:58.354Z",
   "matches": [
     {
       "id": 504541,
@@ -1452,6 +1452,30 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450765.json"
+    },
+    {
+      "id": 506432,
+      "date": "2026-11-08",
+      "time": "16:35",
+      "ownTeamId": "94481",
+      "opponent": "MTV Dänischenhagen III",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/506432.json"
+    },
+    {
+      "id": 677929,
+      "date": "2026-11-08",
+      "time": "17:00",
+      "ownTeamId": "87276",
+      "opponent": "HSG KREMPERHEIDE/MÜNSTERDORF",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/677929.json"
     },
     {
       "id": 509824,

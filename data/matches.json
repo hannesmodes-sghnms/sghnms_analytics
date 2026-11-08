@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:58:38.756Z",
+  "generatedAt": "2026-11-08T20:28:57.725Z",
   "matches": [
     {
       "id": 504541,
@@ -9716,6 +9716,164 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/450765.json"
+    },
+    {
+      "id": 506432,
+      "date": "2026-11-08",
+      "time": "16:35",
+      "home": {
+        "id": 81926,
+        "name": "MTV Dänischenhagen III",
+        "clubId": "1e2ucwp"
+      },
+      "away": {
+        "id": 94481,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 26,
+        "away": 27
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7949,
+      "competition": "Kreisliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12978,
+        "name": "Kreisliga Frauen - Staffel C"
+      },
+      "venue": {
+        "name": "HANS-BERND-HALLE",
+        "address": "ERLENWEG 15, 24229 DäNISCHENHAGEN"
+      },
+      "ownTeamId": "94481",
+      "ownTeam": {
+        "label": "FRAUEN 3",
+        "name": "3. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 26,
+          "away": 27
+        },
+        "eventFinalScore": {
+          "home": 26,
+          "away": 27
+        },
+        "lineupGoalTotals": {
+          "home": 26,
+          "away": 27
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 53,
+          "goalEventsWithPlayer": 53,
+          "matchedGoalEvents": 53,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/506432.json"
+    },
+    {
+      "id": 677929,
+      "date": "2026-11-08",
+      "time": "17:00",
+      "home": {
+        "id": 87276,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 82102,
+        "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
+        "clubId": "16gum8r"
+      },
+      "result": {
+        "home": 36,
+        "away": 42
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7194,
+      "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14617,
+        "name": "MJC-RL-2"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 36,
+          "away": 42
+        },
+        "eventFinalScore": {
+          "home": 36,
+          "away": 42
+        },
+        "lineupGoalTotals": {
+          "home": 36,
+          "away": 42
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 78,
+          "goalEventsWithPlayer": 78,
+          "matchedGoalEvents": 78,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/677929.json"
     },
     {
       "id": 509824,

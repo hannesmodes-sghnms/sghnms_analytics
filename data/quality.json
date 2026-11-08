@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:58:38.755Z",
+  "generatedAt": "2026-11-08T20:28:57.724Z",
   "matches": [
     {
       "id": 504541,
@@ -5711,6 +5711,98 @@
           "goalEvents": 68,
           "goalEventsWithPlayer": 68,
           "matchedGoalEvents": 68,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 506432,
+      "date": "2026-11-08",
+      "ownTeamId": "94481",
+      "ownTeam": {
+        "label": "FRAUEN 3",
+        "name": "3. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 26,
+          "away": 27
+        },
+        "eventFinalScore": {
+          "home": 26,
+          "away": 27
+        },
+        "lineupGoalTotals": {
+          "home": 26,
+          "away": 27
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 53,
+          "goalEventsWithPlayer": 53,
+          "matchedGoalEvents": 53,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 677929,
+      "date": "2026-11-08",
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 36,
+          "away": 42
+        },
+        "eventFinalScore": {
+          "home": 36,
+          "away": 42
+        },
+        "lineupGoalTotals": {
+          "home": 36,
+          "away": 42
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 78,
+          "goalEventsWithPlayer": 78,
+          "matchedGoalEvents": 78,
           "percentage": 100
         },
         "halftimeAvailable": true,

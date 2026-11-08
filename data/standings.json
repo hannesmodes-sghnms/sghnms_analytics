@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:58:39.139Z",
+  "generatedAt": "2026-11-08T20:28:58.114Z",
   "teams": [
     {
       "teamId": "86801",
@@ -8919,13 +8919,13 @@
           "current": {
             "round": 11,
             "position": 1,
-            "played": 4,
+            "played": 5,
             "won": 2,
             "drawn": 0,
-            "lost": 0,
-            "goalsFor": 55,
-            "goalsAgainst": 40,
-            "goalDifference": 15,
+            "lost": 1,
+            "goalsFor": 91,
+            "goalsAgainst": 82,
+            "goalDifference": 9,
             "points": 4,
             "qualifies": true
           },
@@ -9024,26 +9024,26 @@
             {
               "round": 10,
               "position": 1,
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 55,
-              "goalsAgainst": 40,
-              "goalDifference": 15,
+              "lost": 1,
+              "goalsFor": 91,
+              "goalsAgainst": 82,
+              "goalDifference": 9,
               "points": 4,
               "qualifies": true
             },
             {
               "round": 11,
               "position": 1,
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 55,
-              "goalsAgainst": 40,
-              "goalDifference": 15,
+              "lost": 1,
+              "goalsFor": 91,
+              "goalsAgainst": 82,
+              "goalDifference": 9,
               "points": 4,
               "qualifies": true
             }
@@ -9064,13 +9064,13 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 0,
-              "goalsFor": 55,
-              "goalsAgainst": 40,
-              "goalDifference": 15,
+              "lost": 1,
+              "goalsFor": 91,
+              "goalsAgainst": 82,
+              "goalDifference": 9,
               "points": 4,
               "qualifies": true,
               "form": [
@@ -9089,11 +9089,54 @@
                 {
                   "matchId": 677918,
                   "result": "L"
+                },
+                {
+                  "matchId": 677929,
+                  "result": "L"
                 }
               ]
             },
             {
               "position": 2,
+              "team": {
+                "id": 82102,
+                "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
+                "club": {
+                  "id": "16gum8r",
+                  "name": "HSG Kremperheide/Münsterdorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 3,
+              "won": 1,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 42,
+              "goalsAgainst": 36,
+              "goalDifference": 6,
+              "points": 2,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 677929,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677933,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677935,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 3,
               "team": {
                 "id": 82199,
                 "name": "HSG 91 NORTORF",
@@ -9136,7 +9179,7 @@
               ]
             },
             {
-              "position": 3,
+              "position": 4,
               "team": {
                 "id": 94455,
                 "name": "SG BORDESHOLM/BRÜGGE II",
@@ -9174,41 +9217,6 @@
                 },
                 {
                   "matchId": 677913,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 4,
-              "team": {
-                "id": 82102,
-                "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
-                "club": {
-                  "id": "16gum8r",
-                  "name": "HSG Kremperheide/Münsterdorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 2,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
-              "points": 0,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 677933,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677935,
                   "result": "W"
                 }
               ]
@@ -10744,10 +10752,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
-          "currentRound": 9,
+          "currentRound": 12,
           "teamCount": 10,
           "current": {
-            "round": 9,
+            "round": 12,
             "position": 3,
             "played": 3,
             "won": 3,
@@ -10839,7 +10847,20 @@
               "qualifies": true
             },
             {
-              "round": 9,
+              "round": 8,
+              "position": 1,
+              "played": 4,
+              "won": 4,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 111,
+              "goalsAgainst": 96,
+              "goalDifference": 15,
+              "points": 8,
+              "qualifies": true
+            },
+            {
+              "round": 12,
               "position": 3,
               "played": 3,
               "won": 3,
