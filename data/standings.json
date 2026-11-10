@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:58:28.392Z",
+  "generatedAt": "2026-11-10T04:29:57.074Z",
   "teams": [
     {
       "teamId": "86801",
@@ -3744,7 +3744,7 @@
           "teamCount": 8,
           "current": {
             "round": 6,
-            "position": 3,
+            "position": 4,
             "played": 5,
             "won": 3,
             "drawn": 0,
@@ -3810,7 +3810,7 @@
             },
             {
               "round": 5,
-              "position": 3,
+              "position": 4,
               "played": 5,
               "won": 3,
               "drawn": 0,
@@ -3823,7 +3823,7 @@
             },
             {
               "round": 6,
-              "position": 3,
+              "position": 4,
               "played": 5,
               "won": 3,
               "drawn": 0,
@@ -3933,6 +3933,49 @@
             {
               "position": 3,
               "team": {
+                "id": 87097,
+                "name": "SG Bordesholm/Brügge II",
+                "club": {
+                  "id": "0mjcjfn",
+                  "name": "SG Bordesholm/Brügge",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6038/square_357938366d7733773135.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 4,
+              "won": 3,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 88,
+              "goalsAgainst": 42,
+              "goalDifference": 46,
+              "points": 6,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 518566,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518570,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518574,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518582,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "team": {
                 "id": 87108,
                 "name": "SG Handball Neumünster II",
                 "club": {
@@ -3978,93 +4021,7 @@
               ]
             },
             {
-              "position": 4,
-              "team": {
-                "id": 87097,
-                "name": "SG Bordesholm/Brügge II",
-                "club": {
-                  "id": "0mjcjfn",
-                  "name": "SG Bordesholm/Brügge",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6038/square_357938366d7733773135.jpg"
-                },
-                "gender": {
-                  "id": "X",
-                  "name": "Mixed"
-                }
-              },
-              "played": 3,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 66,
-              "goalsAgainst": 40,
-              "goalDifference": 26,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 518566,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518570,
-                  "result": "L"
-                },
-                {
-                  "matchId": 518574,
-                  "result": "W"
-                }
-              ]
-            },
-            {
               "position": 5,
-              "team": {
-                "id": 94064,
-                "name": "TV TRAPPENKAMP",
-                "club": {
-                  "id": "02z7nh5",
-                  "name": "TV Trappenkamp",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5903/square_66333267776c6f336e64.jpg"
-                },
-                "gender": {
-                  "id": "X",
-                  "name": "Mixed"
-                }
-              },
-              "played": 5,
-              "won": 2,
-              "drawn": 0,
-              "lost": 3,
-              "goalsFor": 80,
-              "goalsAgainst": 84,
-              "goalDifference": -4,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 518567,
-                  "result": "L"
-                },
-                {
-                  "matchId": 518573,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518577,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518583,
-                  "result": "L"
-                },
-                {
-                  "matchId": 518588,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 6,
               "team": {
                 "id": 94061,
                 "name": "HSG KALKBERG 06",
@@ -4106,6 +4063,53 @@
                 },
                 {
                   "matchId": 518584,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 6,
+              "team": {
+                "id": 94064,
+                "name": "TV TRAPPENKAMP",
+                "club": {
+                  "id": "02z7nh5",
+                  "name": "TV Trappenkamp",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5903/square_66333267776c6f336e64.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 5,
+              "won": 2,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 80,
+              "goalsAgainst": 84,
+              "goalDifference": -4,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 518567,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518573,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518577,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518583,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518588,
                   "result": "L"
                 }
               ]
@@ -4168,13 +4172,13 @@
                   "name": "Mixed"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
-              "lost": 3,
-              "goalsFor": 16,
-              "goalsAgainst": 69,
-              "goalDifference": -53,
+              "lost": 4,
+              "goalsFor": 18,
+              "goalsAgainst": 91,
+              "goalDifference": -73,
               "points": 0,
               "qualifies": true,
               "form": [
@@ -4188,6 +4192,10 @@
                 },
                 {
                   "matchId": 518576,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518582,
                   "result": "L"
                 }
               ]

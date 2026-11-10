@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T13:58:28.371Z",
+  "generatedAt": "2026-11-10T04:29:57.040Z",
   "matches": [
     {
       "id": 506421,
@@ -3906,19 +3906,33 @@
         "phaseName": "mE-KL-Ost",
         "competition": "Kreisoberliga mE Neumünster",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 0,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 16,
-          "goalsAgainst": 69,
-          "goalDifference": -53,
+          "losses": 4,
+          "goalsFor": 18,
+          "goalsAgainst": 91,
+          "goalDifference": -73,
           "winRate": 0,
-          "goalsForAvg": 5.33,
-          "goalsAgainstAvg": 23,
-          "goalDifferenceAvg": -17.67
+          "goalsForAvg": 4.5,
+          "goalsAgainstAvg": 22.75,
+          "goalDifferenceAvg": -18.25
         },
         "recent": [
+          {
+            "id": 518582,
+            "date": "2026-11-08",
+            "time": "11:30",
+            "isHome": false,
+            "opponent": {
+              "id": 87097,
+              "name": "SG Bordesholm/Brügge II",
+              "clubId": "0mjcjfn"
+            },
+            "goalsFor": 2,
+            "goalsAgainst": 22,
+            "result": "L"
+          },
           {
             "id": 518569,
             "date": "2026-10-04",
@@ -4020,9 +4034,9 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
+          "finishedMatches": 4,
           "lineupMatches": 3,
-          "percentage": 100
+          "percentage": 75
         }
       }
     },
@@ -13420,8 +13434,8 @@
         "name": "mD-KK-Hin"
       },
       "venue": {
-        "name": "PESTALOZZI-SCHULE",
-        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
       },
       "ownTeamId": "87104",
       "ownTeam": {
