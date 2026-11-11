@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:32:09.067Z",
+  "generatedAt": "2026-11-11T02:26:45.627Z",
   "matches": [
     {
       "id": 506421,
@@ -8154,19 +8154,33 @@
         "phaseName": "Kreisliga Männer - Staffel D",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
           "draws": 1,
-          "losses": 1,
-          "goalsFor": 79,
-          "goalsAgainst": 77,
-          "goalDifference": 2,
-          "winRate": 33.3,
-          "goalsForAvg": 26.33,
-          "goalsAgainstAvg": 25.67,
-          "goalDifferenceAvg": 0.67
+          "losses": 2,
+          "goalsFor": 103,
+          "goalsAgainst": 105,
+          "goalDifference": -2,
+          "winRate": 25,
+          "goalsForAvg": 25.75,
+          "goalsAgainstAvg": 26.25,
+          "goalDifferenceAvg": -0.5
         },
         "recent": [
+          {
+            "id": 505403,
+            "date": "2026-11-10",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81774,
+              "name": "SG HANDBALL EIDERTAL",
+              "clubId": "1ftrwtg"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 28,
+            "result": "L"
+          },
           {
             "id": 505418,
             "date": "2026-11-07",
@@ -8215,61 +8229,61 @@
             "playerId": "0ge5m7k",
             "name": "Frank Maukel",
             "number": 8,
-            "games": 3,
-            "goals": 15,
+            "games": 4,
+            "goals": 18,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
+            "goalsPerGame": 4.5,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "09tnuvo",
+            "name": "Benjamin Petersen",
+            "number": 82,
+            "games": 4,
+            "goals": 15,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 3.75,
+            "sevenMeterPercentage": 60
           },
           {
             "playerId": "0fuxvbf",
             "name": "Florian Hossner",
             "number": 10,
-            "games": 3,
-            "goals": 12,
+            "games": 4,
+            "goals": 14,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 3.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0juf9ac",
             "name": "Christopher Kröger",
             "number": 81,
-            "games": 3,
-            "goals": 10,
+            "games": 4,
+            "goals": 12,
             "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 3.33,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 75
           },
           {
-            "playerId": "09tnuvo",
-            "name": "Benjamin Petersen",
-            "number": 82,
-            "games": 3,
-            "goals": 8,
+            "playerId": "1o5wegv",
+            "name": "Jan Johannsen",
+            "number": 9,
+            "games": 2,
+            "goals": 10,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2.67,
-            "sevenMeterPercentage": 0
-          },
-          {
-            "playerId": "1q7tdnc",
-            "name": "Florian Feick",
-            "number": 3,
-            "games": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": 0
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }
@@ -23709,19 +23723,33 @@
         "phaseName": "Kreisliga Männer - Staffel D",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
           "draws": 1,
-          "losses": 1,
-          "goalsFor": 79,
-          "goalsAgainst": 77,
-          "goalDifference": 2,
-          "winRate": 33.3,
-          "goalsForAvg": 26.33,
-          "goalsAgainstAvg": 25.67,
-          "goalDifferenceAvg": 0.67
+          "losses": 2,
+          "goalsFor": 103,
+          "goalsAgainst": 105,
+          "goalDifference": -2,
+          "winRate": 25,
+          "goalsForAvg": 25.75,
+          "goalsAgainstAvg": 26.25,
+          "goalDifferenceAvg": -0.5
         },
         "recent": [
+          {
+            "id": 505403,
+            "date": "2026-11-10",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81774,
+              "name": "SG HANDBALL EIDERTAL",
+              "clubId": "1ftrwtg"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 28,
+            "result": "L"
+          },
           {
             "id": 505418,
             "date": "2026-11-07",
@@ -23770,61 +23798,61 @@
             "playerId": "0ge5m7k",
             "name": "Frank Maukel",
             "number": 8,
-            "games": 3,
-            "goals": 15,
+            "games": 4,
+            "goals": 18,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
+            "goalsPerGame": 4.5,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "09tnuvo",
+            "name": "Benjamin Petersen",
+            "number": 82,
+            "games": 4,
+            "goals": 15,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 3.75,
+            "sevenMeterPercentage": 60
           },
           {
             "playerId": "0fuxvbf",
             "name": "Florian Hossner",
             "number": 10,
-            "games": 3,
-            "goals": 12,
+            "games": 4,
+            "goals": 14,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 3.5,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0juf9ac",
             "name": "Christopher Kröger",
             "number": 81,
-            "games": 3,
-            "goals": 10,
+            "games": 4,
+            "goals": 12,
             "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 3.33,
-            "sevenMeterPercentage": 100
+            "sevenMeterAttempts": 4,
+            "goalsPerGame": 3,
+            "sevenMeterPercentage": 75
           },
           {
-            "playerId": "09tnuvo",
-            "name": "Benjamin Petersen",
-            "number": 82,
-            "games": 3,
-            "goals": 8,
+            "playerId": "1o5wegv",
+            "name": "Jan Johannsen",
+            "number": 9,
+            "games": 2,
+            "goals": 10,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2.67,
-            "sevenMeterPercentage": 0
-          },
-          {
-            "playerId": "1q7tdnc",
-            "name": "Florian Feick",
-            "number": 3,
-            "games": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": 0
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 5,
+            "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 3,
-          "lineupMatches": 3,
+          "finishedMatches": 4,
+          "lineupMatches": 4,
           "percentage": 100
         }
       }

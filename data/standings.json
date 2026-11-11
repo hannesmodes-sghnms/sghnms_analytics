@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T13:32:09.094Z",
+  "generatedAt": "2026-11-11T02:26:45.654Z",
   "teams": [
     {
       "teamId": "86801",
@@ -11952,7 +11952,7 @@
           "teamCount": 9,
           "current": {
             "round": 6,
-            "position": 3,
+            "position": 4,
             "played": 5,
             "won": 2,
             "drawn": 1,
@@ -11992,7 +11992,7 @@
             },
             {
               "round": 3,
-              "position": 2,
+              "position": 3,
               "played": 3,
               "won": 1,
               "drawn": 1,
@@ -12018,7 +12018,7 @@
             },
             {
               "round": 5,
-              "position": 5,
+              "position": 6,
               "played": 4,
               "won": 1,
               "drawn": 1,
@@ -12031,7 +12031,7 @@
             },
             {
               "round": 6,
-              "position": 3,
+              "position": 4,
               "played": 5,
               "won": 2,
               "drawn": 1,
@@ -12133,6 +12133,53 @@
             {
               "position": 3,
               "team": {
+                "id": 81774,
+                "name": "SG HANDBALL EIDERTAL",
+                "club": {
+                  "id": "1ftrwtg",
+                  "name": "SG Handball Eidertal",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5710/square_3c19e64df72aed4a.jpeg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 5,
+              "won": 3,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 129,
+              "goalsAgainst": 143,
+              "goalDifference": -14,
+              "points": 6,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 505398,
+                  "result": "L"
+                },
+                {
+                  "matchId": 505403,
+                  "result": "W"
+                },
+                {
+                  "matchId": 505406,
+                  "result": "W"
+                },
+                {
+                  "matchId": 505410,
+                  "result": "W"
+                },
+                {
+                  "matchId": 505414,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "team": {
                 "id": 94483,
                 "name": "SG Handball Neumünster II",
                 "club": {
@@ -12178,49 +12225,6 @@
               ]
             },
             {
-              "position": 4,
-              "team": {
-                "id": 81774,
-                "name": "SG HANDBALL EIDERTAL",
-                "club": {
-                  "id": "1ftrwtg",
-                  "name": "SG Handball Eidertal",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5710/square_3c19e64df72aed4a.jpeg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 4,
-              "won": 2,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 101,
-              "goalsAgainst": 119,
-              "goalDifference": -18,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 505398,
-                  "result": "L"
-                },
-                {
-                  "matchId": 505406,
-                  "result": "W"
-                },
-                {
-                  "matchId": 505410,
-                  "result": "W"
-                },
-                {
-                  "matchId": 505414,
-                  "result": "L"
-                }
-              ]
-            },
-            {
               "position": 5,
               "team": {
                 "id": 81769,
@@ -12235,16 +12239,20 @@
                   "name": "Male"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 1,
               "drawn": 1,
-              "lost": 1,
-              "goalsFor": 79,
-              "goalsAgainst": 77,
-              "goalDifference": 2,
+              "lost": 2,
+              "goalsFor": 103,
+              "goalsAgainst": 105,
+              "goalDifference": -2,
               "points": 3,
               "qualifies": true,
               "form": [
+                {
+                  "matchId": 505403,
+                  "result": "L"
+                },
                 {
                   "matchId": 505405,
                   "result": "W"
