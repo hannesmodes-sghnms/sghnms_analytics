@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:47:39.818Z",
+  "generatedAt": "2026-11-12T03:33:45.217Z",
   "players": [
     {
       "key": "id:1c64ci9",
@@ -1807,6 +1807,105 @@
       ]
     },
     {
+      "key": "id:1jn5bvq",
+      "playerId": "1jn5bvq",
+      "name": "Lena Stegelmann",
+      "totalAppearances": 5,
+      "totalGoals": 34,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 5,
+          "goals": 34,
+          "sevenMeterGoals": 10,
+          "sevenMeterAttempts": 14
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506405,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SUCHSDORFER SV III",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 10,
+          "sevenMeterGoals": 4,
+          "sevenMeterAttempts": 5
+        },
+        {
+          "matchId": 506416,
+          "date": "2026-09-20",
+          "time": "16:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "HSG GETTORF/OSDORF II",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 11,
+          "sevenMeterGoals": 4,
+          "sevenMeterAttempts": 4
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 1
+        },
+        {
+          "matchId": 506432,
+          "date": "2026-11-08",
+          "time": "16:35",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 2
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 2
+        }
+      ]
+    },
+    {
       "key": "id:1xypytj",
       "playerId": "1xypytj",
       "name": "Hannah Lilly Paulsen",
@@ -2176,89 +2275,6 @@
       ]
     },
     {
-      "key": "id:1jn5bvq",
-      "playerId": "1jn5bvq",
-      "name": "Lena Stegelmann",
-      "totalAppearances": 4,
-      "totalGoals": 31,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 4,
-          "goals": 31,
-          "sevenMeterGoals": 9,
-          "sevenMeterAttempts": 12
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506405,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SUCHSDORFER SV III",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 10,
-          "sevenMeterGoals": 4,
-          "sevenMeterAttempts": 5
-        },
-        {
-          "matchId": 506416,
-          "date": "2026-09-20",
-          "time": "16:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "HSG GETTORF/OSDORF II",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 11,
-          "sevenMeterGoals": 4,
-          "sevenMeterAttempts": 4
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 1
-        },
-        {
-          "matchId": 506432,
-          "date": "2026-11-08",
-          "time": "16:35",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "MTV Dänischenhagen III",
-          "isHome": false,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 1,
-          "sevenMeterAttempts": 2
-        }
-      ]
-    },
-    {
       "key": "id:0gwys9c",
       "playerId": "0gwys9c",
       "name": "Nea Marie Vetterick",
@@ -2568,6 +2584,105 @@
           "goals": 2,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
+      "key": "id:0v1v5ls",
+      "playerId": "0v1v5ls",
+      "name": "Annalena Kumpmann",
+      "totalAppearances": 5,
+      "totalGoals": 28,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 5,
+          "goals": 28,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506405,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SUCHSDORFER SV III",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506416,
+          "date": "2026-09-20",
+          "time": "16:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "HSG GETTORF/OSDORF II",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 9,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506432,
+          "date": "2026-11-08",
+          "time": "16:35",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -4559,89 +4674,6 @@
           "phaseName": "wJB-RL-2",
           "inLineup": true,
           "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:0v1v5ls",
-      "playerId": "0v1v5ls",
-      "name": "Annalena Kumpmann",
-      "totalAppearances": 4,
-      "totalGoals": 22,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 4,
-          "goals": 22,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506405,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SUCHSDORFER SV III",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506416,
-          "date": "2026-09-20",
-          "time": "16:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "HSG GETTORF/OSDORF II",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 5,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 9,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506432,
-          "date": "2026-11-08",
-          "time": "16:35",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "MTV Dänischenhagen III",
-          "isHome": false,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -8840,6 +8872,105 @@
       ]
     },
     {
+      "key": "id:119f0zo",
+      "playerId": "119f0zo",
+      "name": "Merle Klug",
+      "totalAppearances": 5,
+      "totalGoals": 14,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 5,
+          "goals": 14,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506405,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SUCHSDORFER SV III",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506416,
+          "date": "2026-09-20",
+          "time": "16:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "HSG GETTORF/OSDORF II",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506432,
+          "date": "2026-11-08",
+          "time": "16:35",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:08t1k2s",
       "playerId": "08t1k2s",
       "name": "Mia-Sophie Behnsen",
@@ -8917,6 +9048,105 @@
           "phaseName": "wE-KL-West",
           "inLineup": true,
           "goals": 7,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1rwm55o",
+      "playerId": "1rwm55o",
+      "name": "Nele Katharina Bumann",
+      "totalAppearances": 5,
+      "totalGoals": 14,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 5,
+          "goals": 14,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506405,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SUCHSDORFER SV III",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506416,
+          "date": "2026-09-20",
+          "time": "16:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "HSG GETTORF/OSDORF II",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506432,
+          "date": "2026-11-08",
+          "time": "16:35",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 4,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -9803,89 +10033,6 @@
           "phaseName": "Vorrunde B",
           "inLineup": true,
           "goals": 9,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:119f0zo",
-      "playerId": "119f0zo",
-      "name": "Merle Klug",
-      "totalAppearances": 4,
-      "totalGoals": 12,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 4,
-          "goals": 12,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506405,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SUCHSDORFER SV III",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506416,
-          "date": "2026-09-20",
-          "time": "16:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "HSG GETTORF/OSDORF II",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506432,
-          "date": "2026-11-08",
-          "time": "16:35",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "MTV Dänischenhagen III",
-          "isHome": false,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 7,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -11436,89 +11583,6 @@
       ]
     },
     {
-      "key": "id:1rwm55o",
-      "playerId": "1rwm55o",
-      "name": "Nele Katharina Bumann",
-      "totalAppearances": 4,
-      "totalGoals": 10,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 4,
-          "goals": 10,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506405,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SUCHSDORFER SV III",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506416,
-          "date": "2026-09-20",
-          "time": "16:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "HSG GETTORF/OSDORF II",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506432,
-          "date": "2026-11-08",
-          "time": "16:35",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "MTV Dänischenhagen III",
-          "isHome": false,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:1u11it9",
       "playerId": "1u11it9",
       "name": "Piet Florian Steingräber",
@@ -12585,6 +12649,89 @@
           "goals": 3,
           "sevenMeterGoals": 1,
           "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
+      "key": "id:11akj44",
+      "playerId": "11akj44",
+      "name": "Julia Waldow",
+      "totalAppearances": 4,
+      "totalGoals": 9,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 4,
+          "goals": 9,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506416,
+          "date": "2026-09-20",
+          "time": "16:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "HSG GETTORF/OSDORF II",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506432,
+          "date": "2026-11-08",
+          "time": "16:35",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
         }
       ]
     },
@@ -15471,73 +15618,6 @@
       ]
     },
     {
-      "key": "id:11akj44",
-      "playerId": "11akj44",
-      "name": "Julia Waldow",
-      "totalAppearances": 3,
-      "totalGoals": 6,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 3,
-          "goals": 6,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506416,
-          "date": "2026-09-20",
-          "time": "16:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "HSG GETTORF/OSDORF II",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 4,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 2,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506432,
-          "date": "2026-11-08",
-          "time": "16:35",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "MTV Dänischenhagen III",
-          "isHome": false,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:0d1i8mt",
       "playerId": "0d1i8mt",
       "name": "Lele Feline Köster",
@@ -17637,6 +17717,105 @@
       ]
     },
     {
+      "key": "id:1xv36ly",
+      "playerId": "1xv36ly",
+      "name": "Julia Tonn",
+      "totalAppearances": 5,
+      "totalGoals": 4,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 5,
+          "goals": 4,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506405,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SUCHSDORFER SV III",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506416,
+          "date": "2026-09-20",
+          "time": "16:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "HSG GETTORF/OSDORF II",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506432,
+          "date": "2026-11-08",
+          "time": "16:35",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 1,
+          "sevenMeterAttempts": 1
+        }
+      ]
+    },
+    {
       "key": "id:15jvpar",
       "playerId": "15jvpar",
       "name": "Kjell Fahrenkrog",
@@ -18314,6 +18493,105 @@
           "phaseName": "Vorrunde A",
           "inLineup": true,
           "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:1suwys2",
+      "playerId": "1suwys2",
+      "name": "Thurid Helgard Schmalfeld",
+      "totalAppearances": 5,
+      "totalGoals": 4,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 5,
+          "goals": 4,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506405,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SUCHSDORFER SV III",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506416,
+          "date": "2026-09-20",
+          "time": "16:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "HSG GETTORF/OSDORF II",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506432,
+          "date": "2026-11-08",
+          "time": "16:35",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -19118,13 +19396,13 @@
       "key": "id:1as5tab",
       "playerId": "1as5tab",
       "name": "Fiona Deinert",
-      "totalAppearances": 5,
+      "totalAppearances": 6,
       "totalGoals": 3,
       "teams": [
         {
           "teamId": "94481",
           "teamName": "3. Frauen",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 3,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -19216,6 +19494,22 @@
           "phaseName": "Kreisliga Frauen - Staffel C",
           "inLineup": true,
           "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -19332,89 +19626,6 @@
           "competition": "Kreisoberliga wE Neumünster",
           "phaseId": "15509",
           "phaseName": "wE-KL-West",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:1xv36ly",
-      "playerId": "1xv36ly",
-      "name": "Julia Tonn",
-      "totalAppearances": 4,
-      "totalGoals": 3,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 4,
-          "goals": 3,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506405,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SUCHSDORFER SV III",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506416,
-          "date": "2026-09-20",
-          "time": "16:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "HSG GETTORF/OSDORF II",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506432,
-          "date": "2026-11-08",
-          "time": "16:35",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "MTV Dänischenhagen III",
-          "isHome": false,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
           "inLineup": true,
           "goals": 1,
           "sevenMeterGoals": 0,
@@ -20669,7 +20880,7 @@
       "key": "id:1ev13av",
       "playerId": "1ev13av",
       "name": "Amy Lee Voß",
-      "totalAppearances": 5,
+      "totalAppearances": 6,
       "totalGoals": 2,
       "teams": [
         {
@@ -20683,7 +20894,7 @@
         {
           "teamId": "94481",
           "teamName": "3. Frauen",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -20761,6 +20972,22 @@
           "teamId": "94481",
           "teamName": "3. Frauen",
           "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
           "isHome": false,
           "competition": "Kreisliga Frauen",
           "phaseId": "12978",
@@ -21174,6 +21401,73 @@
           "phaseName": "Kreisoberliga Frauen West",
           "inLineup": true,
           "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
+      "key": "id:048wubu",
+      "playerId": "048wubu",
+      "name": "Janne Fritz",
+      "totalAppearances": 3,
+      "totalGoals": 2,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 3,
+          "goals": 2,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506405,
+          "date": "2026-09-06",
+          "time": "17:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SUCHSDORFER SV III",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506427,
+          "date": "2026-11-01",
+          "time": "14:30",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "SG HANDBALL EIDERTAL",
+          "isHome": true,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -22603,57 +22897,6 @@
       ]
     },
     {
-      "key": "id:048wubu",
-      "playerId": "048wubu",
-      "name": "Janne Fritz",
-      "totalAppearances": 2,
-      "totalGoals": 1,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 2,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506405,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SUCHSDORFER SV III",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
       "key": "id:0n3ci24",
       "playerId": "0n3ci24",
       "name": "Jannick Neve",
@@ -22909,13 +23152,13 @@
       "key": "id:1atvkth",
       "playerId": "1atvkth",
       "name": "Kira Brethack",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 1,
       "teams": [
         {
           "teamId": "94481",
           "teamName": "3. Frauen",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 1,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -22961,6 +23204,22 @@
           "teamId": "94481",
           "teamName": "3. Frauen",
           "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
           "isHome": false,
           "competition": "Kreisliga Frauen",
           "phaseId": "12978",
@@ -23797,89 +24056,6 @@
           "phaseName": "Kreisoberliga Frauen West",
           "inLineup": true,
           "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ]
-    },
-    {
-      "key": "id:1suwys2",
-      "playerId": "1suwys2",
-      "name": "Thurid Helgard Schmalfeld",
-      "totalAppearances": 4,
-      "totalGoals": 1,
-      "teams": [
-        {
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "appearances": 4,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        }
-      ],
-      "matches": [
-        {
-          "matchId": 506405,
-          "date": "2026-09-06",
-          "time": "17:00",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SUCHSDORFER SV III",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 1,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506416,
-          "date": "2026-09-20",
-          "time": "16:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "HSG GETTORF/OSDORF II",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506427,
-          "date": "2026-11-01",
-          "time": "14:30",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "SG HANDBALL EIDERTAL",
-          "isHome": true,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 0,
-          "sevenMeterGoals": 0,
-          "sevenMeterAttempts": 0
-        },
-        {
-          "matchId": 506432,
-          "date": "2026-11-08",
-          "time": "16:35",
-          "teamId": "94481",
-          "teamName": "3. Frauen",
-          "opponent": "MTV Dänischenhagen III",
-          "isHome": false,
-          "competition": "Kreisliga Frauen",
-          "phaseId": "12978",
-          "phaseName": "Kreisliga Frauen - Staffel C",
-          "inLineup": true,
-          "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
         }
@@ -25089,13 +25265,13 @@
       "key": "id:1nunh9z",
       "playerId": "1nunh9z",
       "name": "Christine Kähler",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94481",
           "teamName": "3. Frauen",
-          "appearances": 4,
+          "appearances": 5,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -25157,6 +25333,22 @@
           "teamId": "94481",
           "teamName": "3. Frauen",
           "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
           "isHome": false,
           "competition": "Kreisliga Frauen",
           "phaseId": "12978",
@@ -26388,13 +26580,13 @@
       "key": "id:1weos3v",
       "playerId": "1weos3v",
       "name": "Janine Kähler",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94481",
           "teamName": "3. Frauen",
-          "appearances": 3,
+          "appearances": 4,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -26440,6 +26632,22 @@
           "teamId": "94481",
           "teamName": "3. Frauen",
           "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
           "isHome": false,
           "competition": "Kreisliga Frauen",
           "phaseId": "12978",
@@ -28503,6 +28711,41 @@
       ]
     },
     {
+      "key": "id:0h88xlg",
+      "playerId": "0h88xlg",
+      "name": "Luisa Locht",
+      "totalAppearances": 1,
+      "totalGoals": 0,
+      "teams": [
+        {
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "appearances": 1,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ],
+      "matches": [
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        }
+      ]
+    },
+    {
       "key": "id:0me88v5",
       "playerId": "0me88v5",
       "name": "Magdalena Barbara Schedlbauer",
@@ -28680,13 +28923,13 @@
       "key": "id:0aw2lpz",
       "playerId": "0aw2lpz",
       "name": "Mareike Hansen",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94481",
           "teamName": "3. Frauen",
-          "appearances": 2,
+          "appearances": 3,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -28716,6 +28959,22 @@
           "teamId": "94481",
           "teamName": "3. Frauen",
           "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
           "isHome": false,
           "competition": "Kreisliga Frauen",
           "phaseId": "12978",
@@ -28967,13 +29226,13 @@
       "key": "id:0hhsmw8",
       "playerId": "0hhsmw8",
       "name": "Melissa Hornauf",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "totalGoals": 0,
       "teams": [
         {
           "teamId": "94481",
           "teamName": "3. Frauen",
-          "appearances": 4,
+          "appearances": 5,
           "goals": 0,
           "sevenMeterGoals": 0,
           "sevenMeterAttempts": 0
@@ -29035,6 +29294,22 @@
           "teamId": "94481",
           "teamName": "3. Frauen",
           "opponent": "MTV Dänischenhagen III",
+          "isHome": false,
+          "competition": "Kreisliga Frauen",
+          "phaseId": "12978",
+          "phaseName": "Kreisliga Frauen - Staffel C",
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeterGoals": 0,
+          "sevenMeterAttempts": 0
+        },
+        {
+          "matchId": 506421,
+          "date": "2026-11-11",
+          "time": "19:00",
+          "teamId": "94481",
+          "teamName": "3. Frauen",
+          "opponent": "TSV ALTENHOLZ",
           "isHome": false,
           "competition": "Kreisliga Frauen",
           "phaseId": "12978",
@@ -32298,6 +32573,105 @@
         ]
       },
       {
+        "key": "id:1jn5bvq",
+        "playerId": "1jn5bvq",
+        "name": "Lena Stegelmann",
+        "totalAppearances": 5,
+        "totalGoals": 34,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 34,
+            "sevenMeterGoals": 10,
+            "sevenMeterAttempts": 14
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 10,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 11,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2
+          }
+        ]
+      },
+      {
         "key": "id:1xypytj",
         "playerId": "1xypytj",
         "name": "Hannah Lilly Paulsen",
@@ -32667,89 +33041,6 @@
         ]
       },
       {
-        "key": "id:1jn5bvq",
-        "playerId": "1jn5bvq",
-        "name": "Lena Stegelmann",
-        "totalAppearances": 4,
-        "totalGoals": 31,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 31,
-            "sevenMeterGoals": 9,
-            "sevenMeterAttempts": 12
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 10,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 5
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 11,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 4
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 2
-          }
-        ]
-      },
-      {
         "key": "id:0gwys9c",
         "playerId": "0gwys9c",
         "name": "Nea Marie Vetterick",
@@ -33059,6 +33350,105 @@
             "goals": 2,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:0v1v5ls",
+        "playerId": "0v1v5ls",
+        "name": "Annalena Kumpmann",
+        "totalAppearances": 5,
+        "totalGoals": 28,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 28,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -35050,89 +35440,6 @@
             "phaseName": "wJB-RL-2",
             "inLineup": true,
             "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0v1v5ls",
-        "playerId": "0v1v5ls",
-        "name": "Annalena Kumpmann",
-        "totalAppearances": 4,
-        "totalGoals": 22,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 22,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -39331,6 +39638,105 @@
         ]
       },
       {
+        "key": "id:119f0zo",
+        "playerId": "119f0zo",
+        "name": "Merle Klug",
+        "totalAppearances": 5,
+        "totalGoals": 14,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 14,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 7,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:08t1k2s",
         "playerId": "08t1k2s",
         "name": "Mia-Sophie Behnsen",
@@ -39408,6 +39814,105 @@
             "phaseName": "wE-KL-West",
             "inLineup": true,
             "goals": 7,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1rwm55o",
+        "playerId": "1rwm55o",
+        "name": "Nele Katharina Bumann",
+        "totalAppearances": 5,
+        "totalGoals": 14,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 14,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -40294,89 +40799,6 @@
             "phaseName": "Vorrunde B",
             "inLineup": true,
             "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:119f0zo",
-        "playerId": "119f0zo",
-        "name": "Merle Klug",
-        "totalAppearances": 4,
-        "totalGoals": 12,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 7,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -41927,89 +42349,6 @@
         ]
       },
       {
-        "key": "id:1rwm55o",
-        "playerId": "1rwm55o",
-        "name": "Nele Katharina Bumann",
-        "totalAppearances": 4,
-        "totalGoals": 10,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:1u11it9",
         "playerId": "1u11it9",
         "name": "Piet Florian Steingräber",
@@ -43076,6 +43415,89 @@
             "goals": 3,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:11akj44",
+        "playerId": "11akj44",
+        "name": "Julia Waldow",
+        "totalAppearances": 4,
+        "totalGoals": 9,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 4,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -45962,73 +46384,6 @@
         ]
       },
       {
-        "key": "id:11akj44",
-        "playerId": "11akj44",
-        "name": "Julia Waldow",
-        "totalAppearances": 3,
-        "totalGoals": 6,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:0d1i8mt",
         "playerId": "0d1i8mt",
         "name": "Lele Feline Köster",
@@ -48128,6 +48483,105 @@
         ]
       },
       {
+        "key": "id:1xv36ly",
+        "playerId": "1xv36ly",
+        "name": "Julia Tonn",
+        "totalAppearances": 5,
+        "totalGoals": 4,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
         "key": "id:15jvpar",
         "playerId": "15jvpar",
         "name": "Kjell Fahrenkrog",
@@ -48805,6 +49259,105 @@
             "phaseName": "Vorrunde A",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1suwys2",
+        "playerId": "1suwys2",
+        "name": "Thurid Helgard Schmalfeld",
+        "totalAppearances": 5,
+        "totalGoals": 4,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -49609,13 +50162,13 @@
         "key": "id:1as5tab",
         "playerId": "1as5tab",
         "name": "Fiona Deinert",
-        "totalAppearances": 5,
+        "totalAppearances": 6,
         "totalGoals": 3,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -49707,6 +50260,22 @@
             "phaseName": "Kreisliga Frauen - Staffel C",
             "inLineup": true,
             "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -49823,89 +50392,6 @@
             "competition": "Kreisoberliga wE Neumünster",
             "phaseId": "15509",
             "phaseName": "wE-KL-West",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1xv36ly",
-        "playerId": "1xv36ly",
-        "name": "Julia Tonn",
-        "totalAppearances": 4,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
             "inLineup": true,
             "goals": 1,
             "sevenMeterGoals": 0,
@@ -51160,7 +51646,7 @@
         "key": "id:1ev13av",
         "playerId": "1ev13av",
         "name": "Amy Lee Voß",
-        "totalAppearances": 5,
+        "totalAppearances": 6,
         "totalGoals": 2,
         "teams": [
           {
@@ -51174,7 +51660,7 @@
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -51252,6 +51738,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -51665,6 +52167,73 @@
             "phaseName": "Kreisoberliga Frauen West",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:048wubu",
+        "playerId": "048wubu",
+        "name": "Janne Fritz",
+        "totalAppearances": 3,
+        "totalGoals": 2,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 3,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -53094,57 +53663,6 @@
         ]
       },
       {
-        "key": "id:048wubu",
-        "playerId": "048wubu",
-        "name": "Janne Fritz",
-        "totalAppearances": 2,
-        "totalGoals": 1,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 2,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:0n3ci24",
         "playerId": "0n3ci24",
         "name": "Jannick Neve",
@@ -53400,13 +53918,13 @@
         "key": "id:1atvkth",
         "playerId": "1atvkth",
         "name": "Kira Brethack",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 1,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -53452,6 +53970,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -54288,89 +54822,6 @@
             "phaseName": "Kreisoberliga Frauen West",
             "inLineup": true,
             "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1suwys2",
-        "playerId": "1suwys2",
-        "name": "Thurid Helgard Schmalfeld",
-        "totalAppearances": 4,
-        "totalGoals": 1,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -55580,13 +56031,13 @@
         "key": "id:1nunh9z",
         "playerId": "1nunh9z",
         "name": "Christine Kähler",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 4,
+            "appearances": 5,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -55648,6 +56099,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -56879,13 +57346,13 @@
         "key": "id:1weos3v",
         "playerId": "1weos3v",
         "name": "Janine Kähler",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -56931,6 +57398,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -58994,6 +59477,41 @@
         ]
       },
       {
+        "key": "id:0h88xlg",
+        "playerId": "0h88xlg",
+        "name": "Luisa Locht",
+        "totalAppearances": 1,
+        "totalGoals": 0,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 1,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:0me88v5",
         "playerId": "0me88v5",
         "name": "Magdalena Barbara Schedlbauer",
@@ -59171,13 +59689,13 @@
         "key": "id:0aw2lpz",
         "playerId": "0aw2lpz",
         "name": "Mareike Hansen",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -59207,6 +59725,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -59458,13 +59992,13 @@
         "key": "id:0hhsmw8",
         "playerId": "0hhsmw8",
         "name": "Melissa Hornauf",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 4,
+            "appearances": 5,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -59526,6 +60060,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -62884,6 +63434,105 @@
         ]
       },
       {
+        "key": "id:1jn5bvq",
+        "playerId": "1jn5bvq",
+        "name": "Lena Stegelmann",
+        "totalAppearances": 5,
+        "totalGoals": 34,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 34,
+            "sevenMeterGoals": 10,
+            "sevenMeterAttempts": 14
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 10,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 11,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 4
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 2
+          }
+        ]
+      },
+      {
         "key": "id:1xypytj",
         "playerId": "1xypytj",
         "name": "Hannah Lilly Paulsen",
@@ -63253,89 +63902,6 @@
         ]
       },
       {
-        "key": "id:1jn5bvq",
-        "playerId": "1jn5bvq",
-        "name": "Lena Stegelmann",
-        "totalAppearances": 4,
-        "totalGoals": 31,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 31,
-            "sevenMeterGoals": 9,
-            "sevenMeterAttempts": 12
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 10,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 5
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 11,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 4
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 2
-          }
-        ]
-      },
-      {
         "key": "id:0gwys9c",
         "playerId": "0gwys9c",
         "name": "Nea Marie Vetterick",
@@ -63645,6 +64211,105 @@
             "goals": 2,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:0v1v5ls",
+        "playerId": "0v1v5ls",
+        "name": "Annalena Kumpmann",
+        "totalAppearances": 5,
+        "totalGoals": 28,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 28,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 5,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -66224,89 +66889,6 @@
             "phaseName": "wJB-RL-2",
             "inLineup": true,
             "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:0v1v5ls",
-        "playerId": "0v1v5ls",
-        "name": "Annalena Kumpmann",
-        "totalAppearances": 4,
-        "totalGoals": 22,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 22,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 5,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -70205,6 +70787,105 @@
         ]
       },
       {
+        "key": "id:119f0zo",
+        "playerId": "119f0zo",
+        "name": "Merle Klug",
+        "totalAppearances": 5,
+        "totalGoals": 14,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 14,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 7,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:08t1k2s",
         "playerId": "08t1k2s",
         "name": "Mia-Sophie Behnsen",
@@ -70282,6 +70963,105 @@
             "phaseName": "wE-KL-West",
             "inLineup": true,
             "goals": 7,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1rwm55o",
+        "playerId": "1rwm55o",
+        "name": "Nele Katharina Bumann",
+        "totalAppearances": 5,
+        "totalGoals": 14,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 14,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -71168,89 +71948,6 @@
             "phaseName": "Vorrunde B",
             "inLineup": true,
             "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:119f0zo",
-        "playerId": "119f0zo",
-        "name": "Merle Klug",
-        "totalAppearances": 4,
-        "totalGoals": 12,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 7,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -72849,89 +73546,6 @@
         ]
       },
       {
-        "key": "id:1rwm55o",
-        "playerId": "1rwm55o",
-        "name": "Nele Katharina Bumann",
-        "totalAppearances": 4,
-        "totalGoals": 10,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 10,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:1u11it9",
         "playerId": "1u11it9",
         "name": "Piet Florian Steingräber",
@@ -73998,6 +74612,89 @@
             "goals": 3,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
+        "key": "id:11akj44",
+        "playerId": "11akj44",
+        "name": "Julia Waldow",
+        "totalAppearances": 4,
+        "totalGoals": 9,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 4,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
           }
         ]
       },
@@ -76884,73 +77581,6 @@
         ]
       },
       {
-        "key": "id:11akj44",
-        "playerId": "11akj44",
-        "name": "Julia Waldow",
-        "totalAppearances": 3,
-        "totalGoals": 6,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 3,
-            "goals": 6,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 4,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 2,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:0d1i8mt",
         "playerId": "0d1i8mt",
         "name": "Lele Feline Köster",
@@ -79050,6 +79680,105 @@
         ]
       },
       {
+        "key": "id:1xv36ly",
+        "playerId": "1xv36ly",
+        "name": "Julia Tonn",
+        "totalAppearances": 5,
+        "totalGoals": 4,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 4,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1
+          }
+        ]
+      },
+      {
         "key": "id:15jvpar",
         "playerId": "15jvpar",
         "name": "Kjell Fahrenkrog",
@@ -79727,6 +80456,105 @@
             "phaseName": "Vorrunde A",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:1suwys2",
+        "playerId": "1suwys2",
+        "name": "Thurid Helgard Schmalfeld",
+        "totalAppearances": 5,
+        "totalGoals": 4,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 5,
+            "goals": 4,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506416,
+            "date": "2026-09-20",
+            "time": "16:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "HSG GETTORF/OSDORF II",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506432,
+            "date": "2026-11-08",
+            "time": "16:35",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -80531,13 +81359,13 @@
         "key": "id:1as5tab",
         "playerId": "1as5tab",
         "name": "Fiona Deinert",
-        "totalAppearances": 5,
+        "totalAppearances": 6,
         "totalGoals": 3,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -80629,6 +81457,22 @@
             "phaseName": "Kreisliga Frauen - Staffel C",
             "inLineup": true,
             "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -80745,89 +81589,6 @@
             "competition": "Kreisoberliga wE Neumünster",
             "phaseId": "15509",
             "phaseName": "wE-KL-West",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1xv36ly",
-        "playerId": "1xv36ly",
-        "name": "Julia Tonn",
-        "totalAppearances": 4,
-        "totalGoals": 3,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 3,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
             "inLineup": true,
             "goals": 1,
             "sevenMeterGoals": 0,
@@ -82082,7 +82843,7 @@
         "key": "id:1ev13av",
         "playerId": "1ev13av",
         "name": "Amy Lee Voß",
-        "totalAppearances": 5,
+        "totalAppearances": 6,
         "totalGoals": 2,
         "teams": [
           {
@@ -82096,7 +82857,7 @@
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -82174,6 +82935,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -82587,6 +83364,73 @@
             "phaseName": "Kreisoberliga Frauen West",
             "inLineup": true,
             "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
+        "key": "id:048wubu",
+        "playerId": "048wubu",
+        "name": "Janne Fritz",
+        "totalAppearances": 3,
+        "totalGoals": 2,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 3,
+            "goals": 2,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506405,
+            "date": "2026-09-06",
+            "time": "17:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SUCHSDORFER SV III",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506427,
+            "date": "2026-11-01",
+            "time": "14:30",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "SG HANDBALL EIDERTAL",
+            "isHome": true,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -84016,57 +84860,6 @@
         ]
       },
       {
-        "key": "id:048wubu",
-        "playerId": "048wubu",
-        "name": "Janne Fritz",
-        "totalAppearances": 2,
-        "totalGoals": 1,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 2,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
         "key": "id:0n3ci24",
         "playerId": "0n3ci24",
         "name": "Jannick Neve",
@@ -84322,13 +85115,13 @@
         "key": "id:1atvkth",
         "playerId": "1atvkth",
         "name": "Kira Brethack",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 1,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 1,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -84374,6 +85167,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -85210,89 +86019,6 @@
             "phaseName": "Kreisoberliga Frauen West",
             "inLineup": true,
             "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ]
-      },
-      {
-        "key": "id:1suwys2",
-        "playerId": "1suwys2",
-        "name": "Thurid Helgard Schmalfeld",
-        "totalAppearances": 4,
-        "totalGoals": 1,
-        "teams": [
-          {
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "appearances": 4,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          }
-        ],
-        "matches": [
-          {
-            "matchId": 506405,
-            "date": "2026-09-06",
-            "time": "17:00",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SUCHSDORFER SV III",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 1,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506416,
-            "date": "2026-09-20",
-            "time": "16:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "HSG GETTORF/OSDORF II",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506427,
-            "date": "2026-11-01",
-            "time": "14:30",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "SG HANDBALL EIDERTAL",
-            "isHome": true,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0
-          },
-          {
-            "matchId": 506432,
-            "date": "2026-11-08",
-            "time": "16:35",
-            "teamId": "94481",
-            "teamName": "3. Frauen",
-            "opponent": "MTV Dänischenhagen III",
-            "isHome": false,
-            "competition": "Kreisliga Frauen",
-            "phaseId": "12978",
-            "phaseName": "Kreisliga Frauen - Staffel C",
-            "inLineup": true,
-            "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
           }
@@ -86518,13 +87244,13 @@
         "key": "id:1nunh9z",
         "playerId": "1nunh9z",
         "name": "Christine Kähler",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 4,
+            "appearances": 5,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -86586,6 +87312,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -87857,13 +88599,13 @@
         "key": "id:1weos3v",
         "playerId": "1weos3v",
         "name": "Janine Kähler",
-        "totalAppearances": 3,
+        "totalAppearances": 4,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 3,
+            "appearances": 4,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -87909,6 +88651,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -89972,6 +90730,41 @@
         ]
       },
       {
+        "key": "id:0h88xlg",
+        "playerId": "0h88xlg",
+        "name": "Luisa Locht",
+        "totalAppearances": 1,
+        "totalGoals": 0,
+        "teams": [
+          {
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "appearances": 1,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ],
+        "matches": [
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          }
+        ]
+      },
+      {
         "key": "id:0me88v5",
         "playerId": "0me88v5",
         "name": "Magdalena Barbara Schedlbauer",
@@ -90149,13 +90942,13 @@
         "key": "id:0aw2lpz",
         "playerId": "0aw2lpz",
         "name": "Mareike Hansen",
-        "totalAppearances": 2,
+        "totalAppearances": 3,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 2,
+            "appearances": 3,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -90185,6 +90978,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",
@@ -90436,13 +91245,13 @@
         "key": "id:0hhsmw8",
         "playerId": "0hhsmw8",
         "name": "Melissa Hornauf",
-        "totalAppearances": 4,
+        "totalAppearances": 5,
         "totalGoals": 0,
         "teams": [
           {
             "teamId": "94481",
             "teamName": "3. Frauen",
-            "appearances": 4,
+            "appearances": 5,
             "goals": 0,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0
@@ -90504,6 +91313,22 @@
             "teamId": "94481",
             "teamName": "3. Frauen",
             "opponent": "MTV Dänischenhagen III",
+            "isHome": false,
+            "competition": "Kreisliga Frauen",
+            "phaseId": "12978",
+            "phaseName": "Kreisliga Frauen - Staffel C",
+            "inLineup": true,
+            "goals": 0,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0
+          },
+          {
+            "matchId": 506421,
+            "date": "2026-11-11",
+            "time": "19:00",
+            "teamId": "94481",
+            "teamName": "3. Frauen",
+            "opponent": "TSV ALTENHOLZ",
             "isHome": false,
             "competition": "Kreisliga Frauen",
             "phaseId": "12978",

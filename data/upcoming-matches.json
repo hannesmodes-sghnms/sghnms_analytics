@@ -1,203 +1,6 @@
 {
-  "generatedAt": "2026-11-11T12:47:39.194Z",
+  "generatedAt": "2026-11-12T03:33:44.857Z",
   "matches": [
-    {
-      "id": 506421,
-      "date": "2026-11-11",
-      "time": "19:00",
-      "home": {
-        "id": 81916,
-        "name": "TSV ALTENHOLZ",
-        "clubId": "0gqip3x"
-      },
-      "away": {
-        "id": 94481,
-        "name": "SG Handball Neumünster III",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7949,
-      "competition": "Kreisliga Frauen",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12978,
-        "name": "Kreisliga Frauen - Staffel C"
-      },
-      "venue": {
-        "name": "KREISHALLE ALTENHOLZ",
-        "address": "POSENER STRAßE, 24161 ALTENHOLZ-STIFT"
-      },
-      "ownTeamId": "94481",
-      "ownTeam": {
-        "label": "FRAUEN 3",
-        "name": "3. Frauen",
-        "ageGroup": "senior",
-        "gender": "female",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81916",
-        "name": "TSV ALTENHOLZ",
-        "phaseId": "12978",
-        "phaseName": "Kreisliga Frauen - Staffel C",
-        "competition": "Kreisliga Frauen",
-        "season": {
-          "games": 5,
-          "wins": 3,
-          "draws": 2,
-          "losses": 0,
-          "goalsFor": 165,
-          "goalsAgainst": 122,
-          "goalDifference": 43,
-          "winRate": 60,
-          "goalsForAvg": 33,
-          "goalsAgainstAvg": 24.4,
-          "goalDifferenceAvg": 8.6
-        },
-        "recent": [
-          {
-            "id": 506431,
-            "date": "2026-11-08",
-            "time": "12:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81928,
-              "name": "FT ADLER KIEL",
-              "clubId": "11s2uqh"
-            },
-            "goalsFor": 34,
-            "goalsAgainst": 34,
-            "result": "D"
-          },
-          {
-            "id": 506426,
-            "date": "2026-10-31",
-            "time": "16:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81926,
-              "name": "MTV Dänischenhagen III",
-              "clubId": "1e2ucwp"
-            },
-            "goalsFor": 33,
-            "goalsAgainst": 20,
-            "result": "W"
-          },
-          {
-            "id": 506415,
-            "date": "2026-09-19",
-            "time": "17:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81845,
-              "name": "ECKERNFÖRDER MTV",
-              "clubId": "1firuis"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 31,
-            "result": "D"
-          },
-          {
-            "id": 506409,
-            "date": "2026-09-12",
-            "time": "16:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81838,
-              "name": "SG BORDESHOLM/BRÜGGE II",
-              "clubId": "0mjcjfn"
-            },
-            "goalsFor": 36,
-            "goalsAgainst": 17,
-            "result": "W"
-          },
-          {
-            "id": 506406,
-            "date": "2026-09-06",
-            "time": "13:45",
-            "isHome": false,
-            "opponent": {
-              "id": 81932,
-              "name": "SC KIELER FÖRDE II",
-              "clubId": "00xfnlm"
-            },
-            "goalsFor": 31,
-            "goalsAgainst": 20,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "0innuqv",
-            "name": "Annbritt Besteher",
-            "number": 21,
-            "games": 5,
-            "goals": 83,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 16.6,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "13umyyf",
-            "name": "Pauline Bruch",
-            "number": 29,
-            "games": 5,
-            "goals": 21,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 4.2,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1osz3q3",
-            "name": "Carina Geyken",
-            "number": 4,
-            "games": 3,
-            "goals": 15,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
-            "sevenMeterPercentage": null
-          },
-          {
-            "playerId": "1sf82tr",
-            "name": "Julia Jürgensen",
-            "number": 18,
-            "games": 5,
-            "goals": 14,
-            "sevenMeterGoals": 4,
-            "sevenMeterAttempts": 5,
-            "goalsPerGame": 2.8,
-            "sevenMeterPercentage": 80
-          },
-          {
-            "playerId": "1i9b1y6",
-            "name": "Kim Celine Fey",
-            "number": 13,
-            "games": 5,
-            "goals": 7,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 2,
-            "goalsPerGame": 1.4,
-            "sevenMeterPercentage": 50
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
-          "percentage": 100
-        }
-      }
-    },
     {
       "id": 598495,
       "date": "2026-11-14",
@@ -6737,6 +6540,203 @@
       }
     },
     {
+      "id": 514289,
+      "date": "2026-11-23",
+      "time": "19:30",
+      "home": {
+        "id": 81936,
+        "name": "HSG 24109 II",
+        "clubId": "083hx46"
+      },
+      "away": {
+        "id": 94482,
+        "name": "SG Handball Neumünster IV",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competitionId": 7950,
+      "competition": "Kreisklasse Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12993,
+        "name": "Kreisklasse Frauen Mitte"
+      },
+      "venue": {
+        "name": "HALLE IM BZ METTENHOF 2",
+        "address": "VAASASTRAßE 43, 24109 KIEL"
+      },
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81936",
+        "name": "HSG 24109 II",
+        "phaseId": "12993",
+        "phaseName": "Kreisklasse Frauen Mitte",
+        "competition": "Kreisklasse Frauen",
+        "season": {
+          "games": 5,
+          "wins": 5,
+          "draws": 0,
+          "losses": 0,
+          "goalsFor": 124,
+          "goalsAgainst": 97,
+          "goalDifference": 27,
+          "winRate": 100,
+          "goalsForAvg": 24.8,
+          "goalsAgainstAvg": 19.4,
+          "goalDifferenceAvg": 5.4
+        },
+        "recent": [
+          {
+            "id": 514283,
+            "date": "2026-11-05",
+            "time": "20:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81944,
+              "name": "HEIKENDORFER SV",
+              "clubId": "1t76a9j"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
+          {
+            "id": 514277,
+            "date": "2026-10-04",
+            "time": "14:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81935,
+              "name": "HSG GETTORF/OSDORF III",
+              "clubId": "1wy6z5h"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
+          {
+            "id": 514271,
+            "date": "2026-09-20",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81934,
+              "name": "SC FORTUNA WELLSEE",
+              "clubId": "00tcvb1"
+            },
+            "goalsFor": 21,
+            "goalsAgainst": 17,
+            "result": "W"
+          },
+          {
+            "id": 514268,
+            "date": "2026-09-13",
+            "time": "16:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81898,
+              "name": "HSG KALKBERG 06 III",
+              "clubId": "03erpv1"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 21,
+            "result": "W"
+          },
+          {
+            "id": 514264,
+            "date": "2026-09-05",
+            "time": "16:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81933,
+              "name": "WELLINGDORFER TV II",
+              "clubId": "1j3isa8"
+            },
+            "goalsFor": 26,
+            "goalsAgainst": 19,
+            "result": "W"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1o6prhc",
+            "name": "Lisa Meier",
+            "number": 19,
+            "games": 5,
+            "goals": 32,
+            "sevenMeterGoals": 6,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 6.4,
+            "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "1344y49",
+            "name": "Sarah-Celine Stegemann",
+            "number": 23,
+            "games": 5,
+            "goals": 32,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 6.4,
+            "sevenMeterPercentage": 33.3
+          },
+          {
+            "playerId": "0qi906s",
+            "name": "Jessika Brömme",
+            "number": 13,
+            "games": 5,
+            "goals": 17,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 3.4,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "18fsmqk",
+            "name": "Mareike Dittmer",
+            "number": 30,
+            "games": 3,
+            "goals": 13,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 4.33,
+            "sevenMeterPercentage": 80
+          },
+          {
+            "playerId": "0a0vohp",
+            "name": "Kimberly Quistorf",
+            "number": 9,
+            "games": 1,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 9,
+            "sevenMeterPercentage": 0
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 5,
+          "lineupMatches": 5,
+          "percentage": 100
+        }
+      }
+    },
+    {
       "id": 450762,
       "date": "2026-11-24",
       "time": "17:30",
@@ -9869,6 +9869,146 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81928",
+        "name": "FT ADLER KIEL",
+        "phaseId": "12978",
+        "phaseName": "Kreisliga Frauen - Staffel C",
+        "competition": "Kreisliga Frauen",
+        "season": {
+          "games": 4,
+          "wins": 0,
+          "draws": 1,
+          "losses": 3,
+          "goalsFor": 103,
+          "goalsAgainst": 116,
+          "goalDifference": -13,
+          "winRate": 0,
+          "goalsForAvg": 25.75,
+          "goalsAgainstAvg": 29,
+          "goalDifferenceAvg": -3.25
+        },
+        "recent": [
+          {
+            "id": 506431,
+            "date": "2026-11-08",
+            "time": "12:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81916,
+              "name": "TSV ALTENHOLZ",
+              "clubId": "0gqip3x"
+            },
+            "goalsFor": 34,
+            "goalsAgainst": 34,
+            "result": "D"
+          },
+          {
+            "id": 506425,
+            "date": "2026-10-31",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81845,
+              "name": "ECKERNFÖRDER MTV",
+              "clubId": "1firuis"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 31,
+            "result": "L"
+          },
+          {
+            "id": 506419,
+            "date": "2026-09-27",
+            "time": "15:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81838,
+              "name": "SG BORDESHOLM/BRÜGGE II",
+              "clubId": "0mjcjfn"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 25,
+            "result": "L"
+          },
+          {
+            "id": 506417,
+            "date": "2026-09-19",
+            "time": "18:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81932,
+              "name": "SC KIELER FÖRDE II",
+              "clubId": "00xfnlm"
+            },
+            "goalsFor": 18,
+            "goalsAgainst": 26,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "0xatsxb",
+            "name": "Jördis Jöhnk",
+            "number": 4,
+            "games": 3,
+            "goals": 40,
+            "sevenMeterGoals": 8,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 13.33,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0b9qm3y",
+            "name": "Bente Hagemeier",
+            "number": 20,
+            "games": 4,
+            "goals": 13,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 3.25,
+            "sevenMeterPercentage": 60
+          },
+          {
+            "playerId": "1890z2j",
+            "name": "Eileen Wielert",
+            "number": 11,
+            "games": 3,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "058h4jv",
+            "name": "Katrin Weiler",
+            "number": 25,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "18hq9eb",
+            "name": "Sabrina Jackstadt",
+            "number": 22,
+            "games": 4,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 1.5,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {
@@ -13403,8 +13543,8 @@
         "name": "wD-KK"
       },
       "venue": {
-        "name": "PESTALOZZI-SCHULE",
-        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
       },
       "ownTeamId": "87105",
       "ownTeam": {
@@ -14084,189 +14224,6 @@
         "ageGroup": "youth",
         "gender": "male",
         "matchMinutes": 50
-      }
-    },
-    {
-      "id": 514289,
-      "date": "2026-12-31",
-      "time": "14:30",
-      "home": {
-        "id": 81936,
-        "name": "HSG 24109 II",
-        "clubId": "083hx46"
-      },
-      "away": {
-        "id": 94482,
-        "name": "SG Handball Neumünster IV",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7950,
-      "competition": "Kreisklasse Frauen",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12993,
-        "name": "Kreisklasse Frauen Mitte"
-      },
-      "venue": {
-        "name": "SPORTHALLE MELSDORF",
-        "address": "RADEBRüCHE, 24109 KIEL"
-      },
-      "ownTeamId": "94482",
-      "ownTeam": {
-        "label": "FRAUEN 4",
-        "name": "4. Frauen",
-        "ageGroup": "senior",
-        "gender": "female",
-        "matchMinutes": 60
-      },
-      "opponentProfile": {
-        "teamId": "81936",
-        "name": "HSG 24109 II",
-        "phaseId": "12993",
-        "phaseName": "Kreisklasse Frauen Mitte",
-        "competition": "Kreisklasse Frauen",
-        "season": {
-          "games": 4,
-          "wins": 4,
-          "draws": 0,
-          "losses": 0,
-          "goalsFor": 101,
-          "goalsAgainst": 77,
-          "goalDifference": 24,
-          "winRate": 100,
-          "goalsForAvg": 25.25,
-          "goalsAgainstAvg": 19.25,
-          "goalDifferenceAvg": 6
-        },
-        "recent": [
-          {
-            "id": 514277,
-            "date": "2026-10-04",
-            "time": "14:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81935,
-              "name": "HSG GETTORF/OSDORF III",
-              "clubId": "1wy6z5h"
-            },
-            "goalsFor": 27,
-            "goalsAgainst": 20,
-            "result": "W"
-          },
-          {
-            "id": 514271,
-            "date": "2026-09-20",
-            "time": "16:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81934,
-              "name": "SC FORTUNA WELLSEE",
-              "clubId": "00tcvb1"
-            },
-            "goalsFor": 21,
-            "goalsAgainst": 17,
-            "result": "W"
-          },
-          {
-            "id": 514268,
-            "date": "2026-09-13",
-            "time": "16:30",
-            "isHome": true,
-            "opponent": {
-              "id": 81898,
-              "name": "HSG KALKBERG 06 III",
-              "clubId": "03erpv1"
-            },
-            "goalsFor": 27,
-            "goalsAgainst": 21,
-            "result": "W"
-          },
-          {
-            "id": 514264,
-            "date": "2026-09-05",
-            "time": "16:00",
-            "isHome": false,
-            "opponent": {
-              "id": 81933,
-              "name": "WELLINGDORFER TV II",
-              "clubId": "1j3isa8"
-            },
-            "goalsFor": 26,
-            "goalsAgainst": 19,
-            "result": "W"
-          }
-        ],
-        "topScorers": [
-          {
-            "playerId": "1344y49",
-            "name": "Sarah-Celine Stegemann",
-            "number": 23,
-            "games": 4,
-            "goals": 27,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 6.75,
-            "sevenMeterPercentage": 33.3
-          },
-          {
-            "playerId": "1o6prhc",
-            "name": "Lisa Meier",
-            "number": 19,
-            "games": 4,
-            "goals": 26,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 6.5,
-            "sevenMeterPercentage": 75
-          },
-          {
-            "playerId": "0qi906s",
-            "name": "Jessika Brömme",
-            "number": 13,
-            "games": 4,
-            "goals": 15,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 3.75,
-            "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "0a0vohp",
-            "name": "Kimberly Quistorf",
-            "number": 9,
-            "games": 1,
-            "goals": 9,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 9,
-            "sevenMeterPercentage": 0
-          },
-          {
-            "playerId": "18fsmqk",
-            "name": "Mareike Dittmer",
-            "number": 30,
-            "games": 2,
-            "goals": 8,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": 100
-          }
-        ],
-        "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
-          "percentage": 100
-        }
       }
     },
     {
@@ -19695,19 +19652,33 @@
         "phaseName": "Kreisklasse Frauen Mitte",
         "competition": "Kreisklasse Frauen",
         "season": {
-          "games": 4,
-          "wins": 4,
+          "games": 5,
+          "wins": 5,
           "draws": 0,
           "losses": 0,
-          "goalsFor": 101,
-          "goalsAgainst": 77,
-          "goalDifference": 24,
+          "goalsFor": 124,
+          "goalsAgainst": 97,
+          "goalDifference": 27,
           "winRate": 100,
-          "goalsForAvg": 25.25,
-          "goalsAgainstAvg": 19.25,
-          "goalDifferenceAvg": 6
+          "goalsForAvg": 24.8,
+          "goalsAgainstAvg": 19.4,
+          "goalDifferenceAvg": 5.4
         },
         "recent": [
+          {
+            "id": 514283,
+            "date": "2026-11-05",
+            "time": "20:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81944,
+              "name": "HEIKENDORFER SV",
+              "clubId": "1t76a9j"
+            },
+            "goalsFor": 23,
+            "goalsAgainst": 20,
+            "result": "W"
+          },
           {
             "id": 514277,
             "date": "2026-10-04",
@@ -19767,37 +19738,48 @@
         ],
         "topScorers": [
           {
-            "playerId": "1344y49",
-            "name": "Sarah-Celine Stegemann",
-            "number": 23,
-            "games": 4,
-            "goals": 27,
-            "sevenMeterGoals": 1,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 6.75,
-            "sevenMeterPercentage": 33.3
-          },
-          {
             "playerId": "1o6prhc",
             "name": "Lisa Meier",
             "number": 19,
-            "games": 4,
-            "goals": 26,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 6.5,
+            "games": 5,
+            "goals": 32,
+            "sevenMeterGoals": 6,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 6.4,
             "sevenMeterPercentage": 75
+          },
+          {
+            "playerId": "1344y49",
+            "name": "Sarah-Celine Stegemann",
+            "number": 23,
+            "games": 5,
+            "goals": 32,
+            "sevenMeterGoals": 1,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 6.4,
+            "sevenMeterPercentage": 33.3
           },
           {
             "playerId": "0qi906s",
             "name": "Jessika Brömme",
             "number": 13,
-            "games": 4,
-            "goals": 15,
+            "games": 5,
+            "goals": 17,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 3.75,
+            "goalsPerGame": 3.4,
             "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "18fsmqk",
+            "name": "Mareike Dittmer",
+            "number": 30,
+            "games": 3,
+            "goals": 13,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 4.33,
+            "sevenMeterPercentage": 80
           },
           {
             "playerId": "0a0vohp",
@@ -19809,22 +19791,11 @@
             "sevenMeterAttempts": 1,
             "goalsPerGame": 9,
             "sevenMeterPercentage": 0
-          },
-          {
-            "playerId": "18fsmqk",
-            "name": "Mareike Dittmer",
-            "number": 30,
-            "games": 2,
-            "goals": 8,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 3,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": 100
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -24236,6 +24207,146 @@
         "ageGroup": "senior",
         "gender": "female",
         "matchMinutes": 60
+      },
+      "opponentProfile": {
+        "teamId": "81928",
+        "name": "FT ADLER KIEL",
+        "phaseId": "12978",
+        "phaseName": "Kreisliga Frauen - Staffel C",
+        "competition": "Kreisliga Frauen",
+        "season": {
+          "games": 4,
+          "wins": 0,
+          "draws": 1,
+          "losses": 3,
+          "goalsFor": 103,
+          "goalsAgainst": 116,
+          "goalDifference": -13,
+          "winRate": 0,
+          "goalsForAvg": 25.75,
+          "goalsAgainstAvg": 29,
+          "goalDifferenceAvg": -3.25
+        },
+        "recent": [
+          {
+            "id": 506431,
+            "date": "2026-11-08",
+            "time": "12:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81916,
+              "name": "TSV ALTENHOLZ",
+              "clubId": "0gqip3x"
+            },
+            "goalsFor": 34,
+            "goalsAgainst": 34,
+            "result": "D"
+          },
+          {
+            "id": 506425,
+            "date": "2026-10-31",
+            "time": "17:00",
+            "isHome": false,
+            "opponent": {
+              "id": 81845,
+              "name": "ECKERNFÖRDER MTV",
+              "clubId": "1firuis"
+            },
+            "goalsFor": 27,
+            "goalsAgainst": 31,
+            "result": "L"
+          },
+          {
+            "id": 506419,
+            "date": "2026-09-27",
+            "time": "15:00",
+            "isHome": true,
+            "opponent": {
+              "id": 81838,
+              "name": "SG BORDESHOLM/BRÜGGE II",
+              "clubId": "0mjcjfn"
+            },
+            "goalsFor": 24,
+            "goalsAgainst": 25,
+            "result": "L"
+          },
+          {
+            "id": 506417,
+            "date": "2026-09-19",
+            "time": "18:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81932,
+              "name": "SC KIELER FÖRDE II",
+              "clubId": "00xfnlm"
+            },
+            "goalsFor": 18,
+            "goalsAgainst": 26,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "0xatsxb",
+            "name": "Jördis Jöhnk",
+            "number": 4,
+            "games": 3,
+            "goals": 40,
+            "sevenMeterGoals": 8,
+            "sevenMeterAttempts": 8,
+            "goalsPerGame": 13.33,
+            "sevenMeterPercentage": 100
+          },
+          {
+            "playerId": "0b9qm3y",
+            "name": "Bente Hagemeier",
+            "number": 20,
+            "games": 4,
+            "goals": 13,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 5,
+            "goalsPerGame": 3.25,
+            "sevenMeterPercentage": 60
+          },
+          {
+            "playerId": "1890z2j",
+            "name": "Eileen Wielert",
+            "number": 11,
+            "games": 3,
+            "goals": 12,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "058h4jv",
+            "name": "Katrin Weiler",
+            "number": 25,
+            "games": 3,
+            "goals": 8,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.67,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "18hq9eb",
+            "name": "Sabrina Jackstadt",
+            "number": 22,
+            "games": 4,
+            "goals": 6,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 1.5,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 4,
+          "lineupMatches": 4,
+          "percentage": 100
+        }
       }
     },
     {

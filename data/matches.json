@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:47:38.560Z",
+  "generatedAt": "2026-11-12T03:33:44.568Z",
   "matches": [
     {
       "id": 504541,
@@ -9874,6 +9874,85 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/677929.json"
+    },
+    {
+      "id": 506421,
+      "date": "2026-11-11",
+      "time": "19:00",
+      "home": {
+        "id": 81916,
+        "name": "TSV ALTENHOLZ",
+        "clubId": "0gqip3x"
+      },
+      "away": {
+        "id": 94481,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 26,
+        "away": 23
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7949,
+      "competition": "Kreisliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12978,
+        "name": "Kreisliga Frauen - Staffel C"
+      },
+      "venue": {
+        "name": "KREISHALLE ALTENHOLZ",
+        "address": "POSENER STRAßE, 24161 ALTENHOLZ-STIFT"
+      },
+      "ownTeamId": "94481",
+      "ownTeam": {
+        "label": "FRAUEN 3",
+        "name": "3. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 26,
+          "away": 23
+        },
+        "eventFinalScore": {
+          "home": 26,
+          "away": 23
+        },
+        "lineupGoalTotals": {
+          "home": 26,
+          "away": 23
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 49,
+          "goalEventsWithPlayer": 49,
+          "matchedGoalEvents": 49,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/506421.json"
     },
     {
       "id": 509824,

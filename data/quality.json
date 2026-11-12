@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T12:47:38.559Z",
+  "generatedAt": "2026-11-12T03:33:44.566Z",
   "matches": [
     {
       "id": 504541,
@@ -5809,6 +5809,52 @@
         "halftimeSource": "event",
         "expectedDurationSeconds": 3000,
         "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 506421,
+      "date": "2026-11-11",
+      "ownTeamId": "94481",
+      "ownTeam": {
+        "label": "FRAUEN 3",
+        "name": "3. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 26,
+          "away": 23
+        },
+        "eventFinalScore": {
+          "home": 26,
+          "away": 23
+        },
+        "lineupGoalTotals": {
+          "home": 26,
+          "away": 23
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 49,
+          "goalEventsWithPlayer": 49,
+          "matchedGoalEvents": 49,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
         "durationDeltaSeconds": 0,
         "durationMatchesExpected": true,
         "analyticsEligible": true,
