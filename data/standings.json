@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:33:44.891Z",
+  "generatedAt": "2026-11-12T13:49:39.259Z",
   "teams": [
     {
       "teamId": "86801",
@@ -8972,7 +8972,7 @@
           "competitionScope": "league",
           "statsRelevant": true,
           "firstDate": "2026-08-30",
-          "lastDate": "2026-12-31",
+          "lastDate": "2026-12-18",
           "currentRound": 11,
           "teamCount": 10,
           "current": {
@@ -9213,7 +9213,7 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
               "lost": 1,
@@ -9223,6 +9223,10 @@
               "points": 4,
               "qualifies": true,
               "form": [
+                {
+                  "matchId": 677890,
+                  "result": "L"
+                },
                 {
                   "matchId": 677894,
                   "result": "W"
@@ -9479,7 +9483,7 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
               "lost": 0,
@@ -9489,6 +9493,10 @@
               "points": 0,
               "qualifies": false,
               "form": [
+                {
+                  "matchId": 677890,
+                  "result": "W"
+                },
                 {
                   "matchId": 677896,
                   "result": "W"

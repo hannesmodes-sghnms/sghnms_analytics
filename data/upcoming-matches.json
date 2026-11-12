@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T03:33:44.857Z",
+  "generatedAt": "2026-11-12T13:49:39.224Z",
   "matches": [
     {
       "id": 598495,
@@ -4288,17 +4288,17 @@
         "phaseName": "MJC-RL-2",
         "competition": "Regionsliga MÄNNLICH",
         "season": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "draws": 0,
           "losses": 2,
-          "goalsFor": 102,
-          "goalsAgainst": 129,
-          "goalDifference": -27,
-          "winRate": 50,
-          "goalsForAvg": 25.5,
-          "goalsAgainstAvg": 32.25,
-          "goalDifferenceAvg": -6.75
+          "goalsFor": 134,
+          "goalsAgainst": 141,
+          "goalDifference": -7,
+          "winRate": 60,
+          "goalsForAvg": 26.8,
+          "goalsAgainstAvg": 28.2,
+          "goalDifferenceAvg": -1.4
         },
         "recent": [
           {
@@ -4356,6 +4356,20 @@
             "goalsFor": 19,
             "goalsAgainst": 17,
             "result": "W"
+          },
+          {
+            "id": 677890,
+            "date": "2026-09-06",
+            "time": "14:00",
+            "isHome": true,
+            "opponent": {
+              "id": 82199,
+              "name": "HSG 91 NORTORF",
+              "clubId": "08ocj2r"
+            },
+            "goalsFor": 32,
+            "goalsAgainst": 12,
+            "result": "W"
           }
         ],
         "topScorers": [
@@ -4363,61 +4377,61 @@
             "playerId": "07oezv6",
             "name": "Emilian Adametz",
             "number": 32,
-            "games": 3,
+            "games": 4,
             "goals": 32,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 10.67,
+            "goalsPerGame": 8,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1e8qnnc",
             "name": "Maximilian Hülse",
             "number": 20,
-            "games": 4,
+            "games": 5,
             "goals": 23,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.75,
+            "goalsPerGame": 4.6,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1mic96k",
             "name": "Tim Bruno Rohde",
             "number": 22,
-            "games": 3,
+            "games": 4,
             "goals": 15,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 5,
+            "goalsPerGame": 3.75,
             "sevenMeterPercentage": 0
           },
           {
             "playerId": "1ski7fs",
             "name": "Louis Ronny Wagner",
             "number": 9,
-            "games": 2,
+            "games": 3,
             "goals": 10,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
+            "goalsPerGame": 3.33,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1fmjfk4",
             "name": "Jack Maddox Gregor",
             "number": 46,
-            "games": 3,
+            "games": 4,
             "goals": 9,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 2,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.25,
             "sevenMeterPercentage": 0
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -10589,6 +10603,203 @@
       }
     },
     {
+      "id": 677908,
+      "date": "2026-12-01",
+      "time": "18:00",
+      "home": {
+        "id": 87276,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 82192,
+        "name": "SG DITHMARSCHEN SÜD",
+        "clubId": "0v7ucet"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competitionId": 7194,
+      "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14617,
+        "name": "MJC-RL-2"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "opponentProfile": {
+        "teamId": "82192",
+        "name": "SG DITHMARSCHEN SÜD",
+        "phaseId": "14617",
+        "phaseName": "MJC-RL-2",
+        "competition": "Regionsliga MÄNNLICH",
+        "season": {
+          "games": 6,
+          "wins": 0,
+          "draws": 0,
+          "losses": 6,
+          "goalsFor": 194,
+          "goalsAgainst": 227,
+          "goalDifference": -33,
+          "winRate": 0,
+          "goalsForAvg": 32.33,
+          "goalsAgainstAvg": 37.83,
+          "goalDifferenceAvg": -5.5
+        },
+        "recent": [
+          {
+            "id": 677937,
+            "date": "2026-11-11",
+            "time": "18:15",
+            "isHome": true,
+            "opponent": {
+              "id": 82102,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 25,
+            "goalsAgainst": 43,
+            "result": "L"
+          },
+          {
+            "id": 677899,
+            "date": "2026-11-07",
+            "time": "13:15",
+            "isHome": true,
+            "opponent": {
+              "id": 82193,
+              "name": "SG PAHLHUDE/TELLINGSTEDT",
+              "clubId": "0odgr6l"
+            },
+            "goalsFor": 34,
+            "goalsAgainst": 37,
+            "result": "L"
+          },
+          {
+            "id": 677909,
+            "date": "2026-11-04",
+            "time": "18:15",
+            "isHome": true,
+            "opponent": {
+              "id": 82205,
+              "name": "HSG HOHE GEEST",
+              "clubId": "1hslhxe"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 40,
+            "result": "L"
+          },
+          {
+            "id": 677914,
+            "date": "2026-10-31",
+            "time": "15:00",
+            "isHome": true,
+            "opponent": {
+              "id": 82194,
+              "name": "TSV BÜSUM",
+              "clubId": "0g678x7"
+            },
+            "goalsFor": 35,
+            "goalsAgainst": 40,
+            "result": "L"
+          },
+          {
+            "id": 677894,
+            "date": "2026-09-12",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82199,
+              "name": "HSG 91 NORTORF",
+              "clubId": "08ocj2r"
+            },
+            "goalsFor": 26,
+            "goalsAgainst": 27,
+            "result": "L"
+          }
+        ],
+        "topScorers": [
+          {
+            "playerId": "1dbh2hs",
+            "name": "Lucas Damien Behrendt",
+            "number": 23,
+            "games": 6,
+            "goals": 69,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 11.5,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "0zedk5c",
+            "name": "Lukas Lewin",
+            "number": 10,
+            "games": 6,
+            "goals": 59,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 6,
+            "goalsPerGame": 9.83,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1k61yba",
+            "name": "Lasse Döring",
+            "number": 11,
+            "games": 6,
+            "goals": 22,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 3.67,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "14s6t5t",
+            "name": "Mathis Stephan Mohr",
+            "number": 3,
+            "games": 5,
+            "goals": 19,
+            "sevenMeterGoals": 2,
+            "sevenMeterAttempts": 3,
+            "goalsPerGame": 3.8,
+            "sevenMeterPercentage": 66.7
+          },
+          {
+            "playerId": "1oe1x37",
+            "name": "Max Arthur Paustian",
+            "number": 17,
+            "games": 5,
+            "goals": 9,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 1.8,
+            "sevenMeterPercentage": null
+          }
+        ],
+        "scoringCoverage": {
+          "finishedMatches": 6,
+          "lineupMatches": 6,
+          "percentage": 100
+        }
+      }
+    },
+    {
       "id": 448728,
       "date": "2026-12-04",
       "time": "20:30",
@@ -14181,49 +14392,6 @@
           "lineupMatches": 3,
           "percentage": 100
         }
-      }
-    },
-    {
-      "id": 677908,
-      "date": "2026-12-31",
-      "time": "10:30",
-      "home": {
-        "id": 87276,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "away": {
-        "id": 82192,
-        "name": "SG DITHMARSCHEN SÜD",
-        "clubId": "0v7ucet"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7194,
-      "competition": "Regionsliga MÄNNLICH",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 14617,
-        "name": "MJC-RL-2"
-      },
-      "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
-      },
-      "ownTeamId": "87276",
-      "ownTeam": {
-        "label": "MJC 2",
-        "name": "mJC 2",
-        "ageGroup": "youth",
-        "gender": "male",
-        "matchMinutes": 50
       }
     },
     {
