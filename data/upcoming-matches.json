@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:06:05.876Z",
+  "generatedAt": "2026-11-13T13:10:06.630Z",
   "matches": [
     {
       "id": 598495,
@@ -4288,19 +4288,33 @@
         "phaseName": "MJC-RL-2",
         "competition": "Regionsliga MÄNNLICH",
         "season": {
-          "games": 5,
+          "games": 7,
           "wins": 3,
           "draws": 0,
-          "losses": 2,
+          "losses": 4,
           "goalsFor": 134,
-          "goalsAgainst": 141,
-          "goalDifference": -7,
-          "winRate": 60,
-          "goalsForAvg": 26.8,
-          "goalsAgainstAvg": 28.2,
-          "goalDifferenceAvg": -1.4
+          "goalsAgainst": 143,
+          "goalDifference": -9,
+          "winRate": 42.9,
+          "goalsForAvg": 19.14,
+          "goalsAgainstAvg": 20.43,
+          "goalDifferenceAvg": -1.29
         },
         "recent": [
+          {
+            "id": 677921,
+            "date": "2026-11-15",
+            "time": "14:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82214,
+              "name": "SV Weede",
+              "clubId": "1kccyht"
+            },
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "result": "L"
+          },
           {
             "id": 677914,
             "date": "2026-10-31",
@@ -4314,6 +4328,20 @@
             "goalsFor": 40,
             "goalsAgainst": 35,
             "result": "W"
+          },
+          {
+            "id": 677936,
+            "date": "2026-10-24",
+            "time": "15:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82102,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 0,
+            "goalsAgainst": 1,
+            "result": "L"
           },
           {
             "id": 677912,
@@ -4342,34 +4370,6 @@
             "goalsFor": 23,
             "goalsAgainst": 39,
             "result": "L"
-          },
-          {
-            "id": 677896,
-            "date": "2026-09-13",
-            "time": "13:00",
-            "isHome": true,
-            "opponent": {
-              "id": 94455,
-              "name": "SG BORDESHOLM/BRÜGGE II",
-              "clubId": "0mjcjfn"
-            },
-            "goalsFor": 19,
-            "goalsAgainst": 17,
-            "result": "W"
-          },
-          {
-            "id": 677890,
-            "date": "2026-09-06",
-            "time": "14:00",
-            "isHome": true,
-            "opponent": {
-              "id": 82199,
-              "name": "HSG 91 NORTORF",
-              "clubId": "08ocj2r"
-            },
-            "goalsFor": 32,
-            "goalsAgainst": 12,
-            "result": "W"
           }
         ],
         "topScorers": [
@@ -4430,9 +4430,9 @@
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
+          "finishedMatches": 7,
           "lineupMatches": 5,
-          "percentage": 100
+          "percentage": 71.4
         }
       }
     },

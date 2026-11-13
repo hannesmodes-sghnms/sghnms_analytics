@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:06:05.909Z",
+  "generatedAt": "2026-11-13T13:10:06.667Z",
   "teams": [
     {
       "teamId": "86801",
@@ -9081,6 +9081,19 @@
               "qualifies": true
             },
             {
+              "round": 8,
+              "position": 1,
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 55,
+              "goalsAgainst": 40,
+              "goalDifference": 15,
+              "points": 4,
+              "qualifies": true
+            },
+            {
               "round": 10,
               "position": 1,
               "played": 5,
@@ -9123,7 +9136,7 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
               "lost": 0,
@@ -9143,6 +9156,10 @@
                 },
                 {
                   "matchId": 677935,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677936,
                   "result": "W"
                 },
                 {
@@ -9303,7 +9320,7 @@
                   "name": "Male"
                 }
               },
-              "played": 3,
+              "played": 4,
               "won": 0,
               "drawn": 0,
               "lost": 2,
@@ -9324,6 +9341,10 @@
                 {
                   "matchId": 677917,
                   "result": "L"
+                },
+                {
+                  "matchId": 677921,
+                  "result": "W"
                 }
               ]
             },
@@ -9483,7 +9504,7 @@
                   "name": "Male"
                 }
               },
-              "played": 5,
+              "played": 7,
               "won": 0,
               "drawn": 0,
               "lost": 0,
@@ -9493,14 +9514,6 @@
               "points": 0,
               "qualifies": false,
               "form": [
-                {
-                  "matchId": 677890,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677896,
-                  "result": "W"
-                },
                 {
                   "matchId": 677901,
                   "result": "L"
@@ -9512,6 +9525,14 @@
                 {
                   "matchId": 677914,
                   "result": "W"
+                },
+                {
+                  "matchId": 677921,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677936,
+                  "result": "L"
                 }
               ]
             },
