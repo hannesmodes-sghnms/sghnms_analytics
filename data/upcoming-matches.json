@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:49:39.224Z",
+  "generatedAt": "2026-11-13T03:06:05.876Z",
   "matches": [
     {
       "id": 598495,
@@ -14395,6 +14395,49 @@
       }
     },
     {
+      "id": 514379,
+      "date": "2026-12-19",
+      "time": "15:00",
+      "home": {
+        "id": 81853,
+        "name": "HSG Herzhorn/Kollmar/Neuendorf II",
+        "clubId": "0crfeig"
+      },
+      "away": {
+        "id": 94480,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": null,
+        "away": null
+      },
+      "status": {
+        "finished": false,
+        "live": false
+      },
+      "competitionId": 7948,
+      "competition": "Kreisoberliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12967,
+        "name": "Kreisoberliga Frauen West"
+      },
+      "venue": {
+        "name": "SPORTHALLE KOLLMAR",
+        "address": "SCHULSTRAßE 97, 25377 KOLLMAR"
+      },
+      "ownTeamId": "94480",
+      "ownTeam": {
+        "label": "FRAUEN 2",
+        "name": "2. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      }
+    },
+    {
       "id": 508092,
       "date": "2026-12-31",
       "time": "16:00",
@@ -14561,49 +14604,6 @@
           "lineupMatches": 3,
           "percentage": 100
         }
-      }
-    },
-    {
-      "id": 514379,
-      "date": "2026-12-31",
-      "time": "16:00",
-      "home": {
-        "id": 81853,
-        "name": "HSG Herzhorn/Kollmar/Neuendorf II",
-        "clubId": "0crfeig"
-      },
-      "away": {
-        "id": 94480,
-        "name": "SG Handball Neumünster II",
-        "clubId": "1yrb3n9"
-      },
-      "result": {
-        "home": null,
-        "away": null
-      },
-      "status": {
-        "finished": false,
-        "live": false
-      },
-      "competitionId": 7948,
-      "competition": "Kreisoberliga Frauen",
-      "competitionScope": "league",
-      "statsRelevant": true,
-      "phase": {
-        "id": 12967,
-        "name": "Kreisoberliga Frauen West"
-      },
-      "venue": {
-        "name": "SPORTHALLE KOLLMAR",
-        "address": "SCHULSTRAßE 97, 25377 KOLLMAR"
-      },
-      "ownTeamId": "94480",
-      "ownTeam": {
-        "label": "FRAUEN 2",
-        "name": "2. Frauen",
-        "ageGroup": "senior",
-        "gender": "female",
-        "matchMinutes": 60
       }
     },
     {
@@ -21183,8 +21183,8 @@
         "name": "Kreisoberliga Frauen West"
       },
       "venue": {
-        "name": "SCHULZENTRUM KELLINGHUSEN",
-        "address": "DANZIGER-STRAßE, 25548 KELLINGHUSEN"
+        "name": "SPORTHALLE WRIST",
+        "address": "WITTENKAMPSWEG, 25563 WRIST"
       },
       "ownTeamId": "94480",
       "ownTeam": {
