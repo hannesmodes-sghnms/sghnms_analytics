@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:53:01.839Z",
+  "generatedAt": "2026-11-14T15:48:56.509Z",
   "matches": [
     {
       "id": 504541,
@@ -9953,6 +9953,247 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/506421.json"
+    },
+    {
+      "id": 598495,
+      "date": "2026-11-14",
+      "time": "13:00",
+      "home": {
+        "id": 81961,
+        "name": "SG BORDESHOLM/BRÜGGE",
+        "clubId": "0mjcjfn"
+      },
+      "away": {
+        "id": 87271,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 28,
+        "away": 32
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7188,
+      "competition": "wJA-Regionsoberliga",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 13872,
+        "name": "wJA-ROL-3"
+      },
+      "venue": {
+        "name": "HANS BRüGGEMANN REALSCHULE",
+        "address": "LANGENHEISCH 27 - 29, 24582 BORDESHOLM"
+      },
+      "ownTeamId": "87271",
+      "ownTeam": {
+        "label": "WJA 1",
+        "name": "wJA 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 28,
+          "away": 32
+        },
+        "eventFinalScore": {
+          "home": 28,
+          "away": 32
+        },
+        "lineupGoalTotals": {
+          "home": 28,
+          "away": 32
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 60,
+          "goalEventsWithPlayer": 60,
+          "matchedGoalEvents": 60,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/598495.json"
+    },
+    {
+      "id": 510213,
+      "date": "2026-11-14",
+      "time": "14:30",
+      "home": {
+        "id": 87105,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 87087,
+        "name": "Bramstedter TS II",
+        "clubId": "030n5ma"
+      },
+      "result": {
+        "home": 29,
+        "away": 9
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 9955,
+      "competition": "Kreisklasse wD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15531,
+        "name": "wD-KK"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87105",
+      "ownTeam": {
+        "label": "WJD",
+        "name": "wJD",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 29,
+          "away": 9
+        },
+        "eventFinalScore": {
+          "home": 29,
+          "away": 9
+        },
+        "lineupGoalTotals": {
+          "home": 29,
+          "away": 9
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 38,
+          "goalEventsWithPlayer": 38,
+          "matchedGoalEvents": 38,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/510213.json"
+    },
+    {
+      "id": 532874,
+      "date": "2026-11-14",
+      "time": "15:30",
+      "home": {
+        "id": 87125,
+        "name": "HSG WABO 2011",
+        "clubId": "12j6jtz"
+      },
+      "away": {
+        "id": 87104,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 21,
+        "away": 18
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 9981,
+      "competition": "Kreisklasse mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15702,
+        "name": "mD-KK-Hin"
+      },
+      "venue": {
+        "name": "BALLSPORTHALLE WANKENDORF",
+        "address": "AUF DEM BöS 2, 24601 WANKENDORF"
+      },
+      "ownTeamId": "87104",
+      "ownTeam": {
+        "label": "MJD 2",
+        "name": "mJD 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 21,
+          "away": 18
+        },
+        "eventFinalScore": {
+          "home": 21,
+          "away": 18
+        },
+        "lineupGoalTotals": {
+          "home": 21,
+          "away": 18
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 39,
+          "goalEventsWithPlayer": 39,
+          "matchedGoalEvents": 39,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/532874.json"
     },
     {
       "id": 509824,

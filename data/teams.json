@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:53:01.838Z",
+  "generatedAt": "2026-11-14T15:48:56.508Z",
   "teams": [
     {
       "id": "86801",
@@ -60,14 +60,14 @@
       "youthClass": "D",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "draws": 0,
-      "losses": 3,
-      "goalsFor": 68,
-      "goalsAgainst": 122,
-      "goalDifference": -54,
-      "winRate": 40
+      "losses": 4,
+      "goalsFor": 86,
+      "goalsAgainst": 143,
+      "goalDifference": -57,
+      "winRate": 33.3
     },
     {
       "id": "87105",
@@ -78,13 +78,13 @@
       "youthClass": "D",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "games": 4,
-      "wins": 4,
+      "games": 5,
+      "wins": 5,
       "draws": 0,
       "losses": 0,
-      "goalsFor": 124,
-      "goalsAgainst": 35,
-      "goalDifference": 89,
+      "goalsFor": 153,
+      "goalsAgainst": 44,
+      "goalDifference": 109,
       "winRate": 100
     },
     {
@@ -214,14 +214,14 @@
       "ageGroup": "youth",
       "gender": "female",
       "matchMinutes": 60,
-      "games": 5,
-      "wins": 4,
+      "games": 6,
+      "wins": 5,
       "draws": 0,
       "losses": 1,
-      "goalsFor": 149,
-      "goalsAgainst": 83,
-      "goalDifference": 66,
-      "winRate": 80
+      "goalsFor": 181,
+      "goalsAgainst": 111,
+      "goalDifference": 70,
+      "winRate": 83.3
     },
     {
       "id": "87272",

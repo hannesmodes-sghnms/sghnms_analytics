@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:53:02.279Z",
+  "generatedAt": "2026-11-14T15:48:57.034Z",
   "matches": [
     {
       "id": 504541,
@@ -1488,6 +1488,42 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/506421.json"
+    },
+    {
+      "id": 598495,
+      "date": "2026-11-14",
+      "time": "13:00",
+      "ownTeamId": "87271",
+      "opponent": "SG BORDESHOLM/BRÜGGE",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/598495.json"
+    },
+    {
+      "id": 510213,
+      "date": "2026-11-14",
+      "time": "14:30",
+      "ownTeamId": "87105",
+      "opponent": "Bramstedter TS II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/510213.json"
+    },
+    {
+      "id": 532874,
+      "date": "2026-11-14",
+      "time": "15:30",
+      "ownTeamId": "87104",
+      "opponent": "HSG WABO 2011",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/532874.json"
     },
     {
       "id": 509824,

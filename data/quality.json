@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:53:01.838Z",
+  "generatedAt": "2026-11-14T15:48:56.508Z",
   "matches": [
     {
       "id": 504541,
@@ -5855,6 +5855,148 @@
         "halftimeSource": "event",
         "expectedDurationSeconds": 3600,
         "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 598495,
+      "date": "2026-11-14",
+      "ownTeamId": "87271",
+      "ownTeam": {
+        "label": "WJA 1",
+        "name": "wJA 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 28,
+          "away": 32
+        },
+        "eventFinalScore": {
+          "home": 28,
+          "away": 32
+        },
+        "lineupGoalTotals": {
+          "home": 28,
+          "away": 32
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 60,
+          "goalEventsWithPlayer": 60,
+          "matchedGoalEvents": 60,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 510213,
+      "date": "2026-11-14",
+      "ownTeamId": "87105",
+      "ownTeam": {
+        "label": "WJD",
+        "name": "wJD",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 29,
+          "away": 9
+        },
+        "eventFinalScore": {
+          "home": 29,
+          "away": 9
+        },
+        "lineupGoalTotals": {
+          "home": 29,
+          "away": 9
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 38,
+          "goalEventsWithPlayer": 38,
+          "matchedGoalEvents": 38,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 532874,
+      "date": "2026-11-14",
+      "ownTeamId": "87104",
+      "ownTeam": {
+        "label": "MJD 2",
+        "name": "mJD 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 21,
+          "away": 18
+        },
+        "eventFinalScore": {
+          "home": 21,
+          "away": 18
+        },
+        "lineupGoalTotals": {
+          "home": 21,
+          "away": 18
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 39,
+          "goalEventsWithPlayer": 39,
+          "matchedGoalEvents": 39,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
         "durationDeltaSeconds": 0,
         "durationMatchesExpected": true,
         "analyticsEligible": true,
