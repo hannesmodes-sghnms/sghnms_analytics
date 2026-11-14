@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:10:06.630Z",
+  "generatedAt": "2026-11-14T02:53:02.051Z",
   "matches": [
     {
       "id": 598495,
@@ -9314,19 +9314,33 @@
         "phaseName": "Kreisliga Männer - Staffel E",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 4,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
-          "goalsFor": 135,
-          "goalsAgainst": 95,
+          "goalsFor": 164,
+          "goalsAgainst": 124,
           "goalDifference": 40,
-          "winRate": 100,
-          "goalsForAvg": 33.75,
-          "goalsAgainstAvg": 23.75,
-          "goalDifferenceAvg": 10
+          "winRate": 80,
+          "goalsForAvg": 32.8,
+          "goalsAgainstAvg": 24.8,
+          "goalDifferenceAvg": 8
         },
         "recent": [
+          {
+            "id": 561281,
+            "date": "2026-11-13",
+            "time": "20:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81689,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 29,
+            "goalsAgainst": 29,
+            "result": "D"
+          },
           {
             "id": 561275,
             "date": "2026-11-08",
@@ -9389,61 +9403,61 @@
             "playerId": "0jjl8br",
             "name": "Marcel Albert Jung",
             "number": 10,
-            "games": 4,
-            "goals": 29,
+            "games": 5,
+            "goals": 35,
             "sevenMeterGoals": 5,
             "sevenMeterAttempts": 5,
-            "goalsPerGame": 7.25,
+            "goalsPerGame": 7,
             "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1q17bn4",
-            "name": "Benjamin Bewernick",
-            "number": 33,
-            "games": 4,
-            "goals": 23,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 6,
-            "goalsPerGame": 5.75,
-            "sevenMeterPercentage": 50
           },
           {
             "playerId": "146ueqm",
             "name": "Jan Pit Winter",
             "number": 9,
-            "games": 4,
-            "goals": 22,
+            "games": 5,
+            "goals": 25,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 5.5,
+            "goalsPerGame": 5,
             "sevenMeterPercentage": 33.3
           },
           {
-            "playerId": "0mgp7ko",
-            "name": "Markus von Holdt",
-            "number": 41,
-            "games": 3,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": 0
+            "playerId": "1q17bn4",
+            "name": "Benjamin Bewernick",
+            "number": 33,
+            "games": 5,
+            "goals": 24,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 6,
+            "goalsPerGame": 4.8,
+            "sevenMeterPercentage": 50
           },
           {
             "playerId": "1wr1ejr",
             "name": "Till Helmbold",
             "number": 44,
-            "games": 3,
-            "goals": 12,
+            "games": 4,
+            "goals": 17,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 4.25,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0mgp7ko",
+            "name": "Markus von Holdt",
+            "number": 41,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 0
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
@@ -25143,19 +25157,33 @@
         "phaseName": "Kreisliga Männer - Staffel E",
         "competition": "Kreisliga Männer",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 4,
-          "draws": 0,
+          "draws": 1,
           "losses": 0,
-          "goalsFor": 135,
-          "goalsAgainst": 95,
+          "goalsFor": 164,
+          "goalsAgainst": 124,
           "goalDifference": 40,
-          "winRate": 100,
-          "goalsForAvg": 33.75,
-          "goalsAgainstAvg": 23.75,
-          "goalDifferenceAvg": 10
+          "winRate": 80,
+          "goalsForAvg": 32.8,
+          "goalsAgainstAvg": 24.8,
+          "goalDifferenceAvg": 8
         },
         "recent": [
+          {
+            "id": 561281,
+            "date": "2026-11-13",
+            "time": "20:15",
+            "isHome": false,
+            "opponent": {
+              "id": 81689,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 29,
+            "goalsAgainst": 29,
+            "result": "D"
+          },
           {
             "id": 561275,
             "date": "2026-11-08",
@@ -25218,61 +25246,61 @@
             "playerId": "0jjl8br",
             "name": "Marcel Albert Jung",
             "number": 10,
-            "games": 4,
-            "goals": 29,
+            "games": 5,
+            "goals": 35,
             "sevenMeterGoals": 5,
             "sevenMeterAttempts": 5,
-            "goalsPerGame": 7.25,
+            "goalsPerGame": 7,
             "sevenMeterPercentage": 100
-          },
-          {
-            "playerId": "1q17bn4",
-            "name": "Benjamin Bewernick",
-            "number": 33,
-            "games": 4,
-            "goals": 23,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 6,
-            "goalsPerGame": 5.75,
-            "sevenMeterPercentage": 50
           },
           {
             "playerId": "146ueqm",
             "name": "Jan Pit Winter",
             "number": 9,
-            "games": 4,
-            "goals": 22,
+            "games": 5,
+            "goals": 25,
             "sevenMeterGoals": 1,
             "sevenMeterAttempts": 3,
-            "goalsPerGame": 5.5,
+            "goalsPerGame": 5,
             "sevenMeterPercentage": 33.3
           },
           {
-            "playerId": "0mgp7ko",
-            "name": "Markus von Holdt",
-            "number": 41,
-            "games": 3,
-            "goals": 12,
-            "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 1,
-            "goalsPerGame": 4,
-            "sevenMeterPercentage": 0
+            "playerId": "1q17bn4",
+            "name": "Benjamin Bewernick",
+            "number": 33,
+            "games": 5,
+            "goals": 24,
+            "sevenMeterGoals": 3,
+            "sevenMeterAttempts": 6,
+            "goalsPerGame": 4.8,
+            "sevenMeterPercentage": 50
           },
           {
             "playerId": "1wr1ejr",
             "name": "Till Helmbold",
             "number": 44,
-            "games": 3,
-            "goals": 12,
+            "games": 4,
+            "goals": 17,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 4.25,
             "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0mgp7ko",
+            "name": "Markus von Holdt",
+            "number": 41,
+            "games": 4,
+            "goals": 16,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 4,
+            "sevenMeterPercentage": 0
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 4,
+          "finishedMatches": 5,
+          "lineupMatches": 5,
           "percentage": 100
         }
       }
