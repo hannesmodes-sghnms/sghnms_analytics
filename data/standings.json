@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:48:56.846Z",
+  "generatedAt": "2026-11-14T20:43:13.901Z",
   "teams": [
     {
       "teamId": "86801",
@@ -9680,18 +9680,18 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2026-12-13",
-          "currentRound": 8,
+          "currentRound": 7,
           "teamCount": 10,
           "current": {
-            "round": 8,
-            "position": 8,
-            "played": 5,
+            "round": 7,
+            "position": 9,
+            "played": 6,
             "won": 0,
             "drawn": 0,
-            "lost": 5,
-            "goalsFor": 73,
-            "goalsAgainst": 121,
-            "goalDifference": -48,
+            "lost": 6,
+            "goalsFor": 94,
+            "goalsAgainst": 150,
+            "goalDifference": -56,
             "points": 0,
             "qualifies": true
           },
@@ -9775,15 +9775,15 @@
               "qualifies": true
             },
             {
-              "round": 8,
-              "position": 8,
-              "played": 5,
+              "round": 7,
+              "position": 9,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "goalsFor": 73,
-              "goalsAgainst": 121,
-              "goalDifference": -48,
+              "lost": 6,
+              "goalsFor": 94,
+              "goalsAgainst": 150,
+              "goalDifference": -56,
               "points": 0,
               "qualifies": true
             }
@@ -9804,20 +9804,16 @@
                   "name": "Female"
                 }
               },
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 105,
-              "goalsAgainst": 64,
-              "goalDifference": 41,
-              "points": 8,
+              "goalsFor": 130,
+              "goalsAgainst": 77,
+              "goalDifference": 53,
+              "points": 10,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 553507,
-                  "result": "W"
-                },
                 {
                   "matchId": 553511,
                   "result": "W"
@@ -9832,6 +9828,10 @@
                 },
                 {
                   "matchId": 553526,
+                  "result": "W"
+                },
+                {
+                  "matchId": 553532,
                   "result": "W"
                 }
               ]
@@ -9886,53 +9886,6 @@
             {
               "position": 3,
               "team": {
-                "id": 95274,
-                "name": "WELLINGDORFER TV WEIBLICHE C 2",
-                "club": {
-                  "id": "1j3isa8",
-                  "name": "Wellingdorfer TV",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6004/square_6a38356c6c6e6933646a.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 62,
-              "goalsAgainst": 57,
-              "goalDifference": 5,
-              "points": 6,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 553505,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553510,
-                  "result": "W"
-                },
-                {
-                  "matchId": 553516,
-                  "result": "W"
-                },
-                {
-                  "matchId": 553521,
-                  "result": "W"
-                },
-                {
-                  "matchId": 553527,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 4,
-              "team": {
                 "id": 94450,
                 "name": "HSG OHLAU II",
                 "club": {
@@ -9945,20 +9898,16 @@
                   "name": "Female"
                 }
               },
-              "played": 5,
-              "won": 3,
+              "played": 6,
+              "won": 4,
               "drawn": 0,
               "lost": 2,
-              "goalsFor": 98,
-              "goalsAgainst": 86,
-              "goalDifference": 12,
-              "points": 6,
+              "goalsFor": 127,
+              "goalsAgainst": 107,
+              "goalDifference": 20,
+              "points": 8,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 553506,
-                  "result": "W"
-                },
                 {
                   "matchId": 553511,
                   "result": "L"
@@ -9974,54 +9923,62 @@
                 {
                   "matchId": 553528,
                   "result": "W"
+                },
+                {
+                  "matchId": 553533,
+                  "result": "W"
                 }
               ]
             },
             {
-              "position": 5,
+              "position": 4,
               "team": {
-                "id": 82140,
-                "name": "HSG 91 NORTORF",
+                "id": 95274,
+                "name": "WELLINGDORFER TV WEIBLICHE C 2",
                 "club": {
-                  "id": "08ocj2r",
-                  "name": "HSG 91 Nortorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5941/square_346e3173737635303070.jpg"
+                  "id": "1j3isa8",
+                  "name": "Wellingdorfer TV",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6004/square_6a38356c6c6e6933646a.jpg"
                 },
                 "gender": {
                   "id": "F",
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 2,
+              "played": 6,
+              "won": 3,
               "drawn": 0,
-              "lost": 1,
-              "goalsFor": 70,
-              "goalsAgainst": 52,
-              "goalDifference": 18,
-              "points": 4,
+              "lost": 2,
+              "goalsFor": 75,
+              "goalsAgainst": 82,
+              "goalDifference": -7,
+              "points": 6,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 553504,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553509,
+                  "matchId": 553510,
                   "result": "W"
                 },
                 {
-                  "matchId": 553514,
-                  "result": "L"
+                  "matchId": 553516,
+                  "result": "W"
                 },
                 {
-                  "matchId": 553524,
+                  "matchId": 553521,
                   "result": "W"
+                },
+                {
+                  "matchId": 553527,
+                  "result": "W"
+                },
+                {
+                  "matchId": 553532,
+                  "result": "L"
                 }
               ]
             },
             {
-              "position": 6,
+              "position": 5,
               "team": {
                 "id": 82151,
                 "name": "TSV WACKEN",
@@ -10060,6 +10017,49 @@
                 {
                   "matchId": 553525,
                   "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 6,
+              "team": {
+                "id": 82140,
+                "name": "HSG 91 NORTORF",
+                "club": {
+                  "id": "08ocj2r",
+                  "name": "HSG 91 Nortorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5941/square_346e3173737635303070.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 4,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 70,
+              "goalsAgainst": 52,
+              "goalDifference": 18,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 553504,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553509,
+                  "result": "W"
+                },
+                {
+                  "matchId": 553514,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553524,
+                  "result": "W"
                 }
               ]
             },
@@ -10113,53 +10113,6 @@
             {
               "position": 8,
               "team": {
-                "id": 87277,
-                "name": "SG Handball Neumünster II",
-                "club": {
-                  "id": "1yrb3n9",
-                  "name": "SG Handball Neumünster",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 5,
-              "won": 0,
-              "drawn": 0,
-              "lost": 5,
-              "goalsFor": 73,
-              "goalsAgainst": 121,
-              "goalDifference": -48,
-              "points": 0,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 553507,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553512,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553518,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553523,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553527,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 9,
-              "team": {
                 "id": 82149,
                 "name": "HSG STÖRTAL HUMMELN",
                 "club": {
@@ -10200,6 +10153,53 @@
                 },
                 {
                   "matchId": 553526,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 9,
+              "team": {
+                "id": 87277,
+                "name": "SG Handball Neumünster II",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "goalsFor": 94,
+              "goalsAgainst": 150,
+              "goalDifference": -56,
+              "points": 0,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 553512,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553518,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553523,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553527,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553533,
                   "result": "L"
                 }
               ]
@@ -10936,10 +10936,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-21",
-          "currentRound": 6,
+          "currentRound": 9,
           "teamCount": 10,
           "current": {
-            "round": 6,
+            "round": 9,
             "position": 3,
             "played": 5,
             "won": 4,
@@ -11019,6 +11019,32 @@
             },
             {
               "round": 6,
+              "position": 3,
+              "played": 5,
+              "won": 4,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 134,
+              "goalsAgainst": 122,
+              "goalDifference": 12,
+              "points": 8,
+              "qualifies": true
+            },
+            {
+              "round": 7,
+              "position": 2,
+              "played": 6,
+              "won": 5,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 167,
+              "goalsAgainst": 143,
+              "goalDifference": 24,
+              "points": 10,
+              "qualifies": true
+            },
+            {
+              "round": 9,
               "position": 3,
               "played": 5,
               "won": 4,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:48:56.509Z",
+  "generatedAt": "2026-11-14T20:43:13.680Z",
   "matches": [
     {
       "id": 504541,
@@ -10194,6 +10194,164 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/532874.json"
+    },
+    {
+      "id": 553533,
+      "date": "2026-11-14",
+      "time": "16:00",
+      "home": {
+        "id": 87277,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 94450,
+        "name": "HSG OHLAU II",
+        "clubId": "0vigdzt"
+      },
+      "result": {
+        "home": 21,
+        "away": 29
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7196,
+      "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14626,
+        "name": "WJC-RL-4"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87277",
+      "ownTeam": {
+        "label": "WJC 2",
+        "name": "wJC 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 21,
+          "away": 29
+        },
+        "eventFinalScore": {
+          "home": 21,
+          "away": 29
+        },
+        "lineupGoalTotals": {
+          "home": 21,
+          "away": 29
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 50,
+          "goalEventsWithPlayer": 50,
+          "matchedGoalEvents": 50,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/553533.json"
+    },
+    {
+      "id": 506438,
+      "date": "2026-11-14",
+      "time": "17:45",
+      "home": {
+        "id": 94481,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81932,
+        "name": "SC KIELER FÖRDE II",
+        "clubId": "00xfnlm"
+      },
+      "result": {
+        "home": 33,
+        "away": 21
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7949,
+      "competition": "Kreisliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12978,
+        "name": "Kreisliga Frauen - Staffel C"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "94481",
+      "ownTeam": {
+        "label": "FRAUEN 3",
+        "name": "3. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 33,
+          "away": 21
+        },
+        "eventFinalScore": {
+          "home": 33,
+          "away": 21
+        },
+        "lineupGoalTotals": {
+          "home": 33,
+          "away": 21
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 54,
+          "goalEventsWithPlayer": 54,
+          "matchedGoalEvents": 54,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/506438.json"
     },
     {
       "id": 509824,

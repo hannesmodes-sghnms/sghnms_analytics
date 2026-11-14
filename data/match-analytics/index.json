@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:48:57.034Z",
+  "generatedAt": "2026-11-14T20:43:14.046Z",
   "matches": [
     {
       "id": 504541,
@@ -1524,6 +1524,30 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/532874.json"
+    },
+    {
+      "id": 553533,
+      "date": "2026-11-14",
+      "time": "16:00",
+      "ownTeamId": "87277",
+      "opponent": "HSG OHLAU II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/553533.json"
+    },
+    {
+      "id": 506438,
+      "date": "2026-11-14",
+      "time": "17:45",
+      "ownTeamId": "94481",
+      "opponent": "SC KIELER FÖRDE II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/506438.json"
     },
     {
       "id": 509824,
