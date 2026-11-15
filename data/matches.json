@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:21:49.874Z",
+  "generatedAt": "2026-11-15T21:48:56.605Z",
   "matches": [
     {
       "id": 504541,
@@ -11150,6 +11150,322 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/510002.json"
+    },
+    {
+      "id": 417893,
+      "date": "2026-11-15",
+      "time": "16:15",
+      "home": {
+        "id": 87274,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 87231,
+        "name": "TSV SCHWARZENBEK",
+        "clubId": "0x4hx7u"
+      },
+      "result": {
+        "home": 27,
+        "away": 25
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7189,
+      "competition": "Regionsoberliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14694,
+        "name": "mJB-ROL-2"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87274",
+      "ownTeam": {
+        "label": "MJB",
+        "name": "mJB",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 27,
+          "away": 25
+        },
+        "eventFinalScore": {
+          "home": 27,
+          "away": 25
+        },
+        "lineupGoalTotals": {
+          "home": 27,
+          "away": 25
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/417893.json"
+    },
+    {
+      "id": 450768,
+      "date": "2026-11-15",
+      "time": "16:15",
+      "home": {
+        "id": 87190,
+        "name": "TSV BARGTEHEIDE",
+        "clubId": "0b7tq6z"
+      },
+      "away": {
+        "id": 87187,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 34,
+        "away": 28
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 9529,
+      "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14076,
+        "name": "Vorrunde B"
+      },
+      "venue": {
+        "name": "RS DIETRICH BONHOEFFER",
+        "address": "AM SCHULZENTRUM, 22941 BARGTEHEIDE"
+      },
+      "ownTeamId": "87187",
+      "ownTeam": {
+        "label": "MJC 1",
+        "name": "mJC 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 34,
+          "away": 28
+        },
+        "eventFinalScore": {
+          "home": 34,
+          "away": 28
+        },
+        "lineupGoalTotals": {
+          "home": 34,
+          "away": 28
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 62,
+          "goalEventsWithPlayer": 62,
+          "matchedGoalEvents": 62,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/450768.json"
+    },
+    {
+      "id": 561282,
+      "date": "2026-11-15",
+      "time": "16:15",
+      "home": {
+        "id": 94484,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81671,
+        "name": "TSV HARDEBEK",
+        "clubId": "1atgz5r"
+      },
+      "result": {
+        "home": 27,
+        "away": 28
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7946,
+      "competition": "Kreisliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12973,
+        "name": "Kreisliga Männer - Staffel E"
+      },
+      "venue": {
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "94484",
+      "ownTeam": {
+        "label": "HERREN 3",
+        "name": "3. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 27,
+          "away": 28
+        },
+        "eventFinalScore": {
+          "home": 27,
+          "away": 28
+        },
+        "lineupGoalTotals": {
+          "home": 27,
+          "away": 28
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 55,
+          "goalEventsWithPlayer": 55,
+          "matchedGoalEvents": 55,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/561282.json"
+    },
+    {
+      "id": 504584,
+      "date": "2026-11-15",
+      "time": "18:00",
+      "home": {
+        "id": 86805,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81686,
+        "name": "DIE HAIE I HSG Horst/Kiebitzreihe II",
+        "clubId": "1w9jsx8"
+      },
+      "result": {
+        "home": 35,
+        "away": 24
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7945,
+      "competition": "Kreisoberliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12963,
+        "name": "Kreisoberliga Männer West"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "86805",
+      "ownTeam": {
+        "label": "HERREN 1",
+        "name": "1. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 35,
+          "away": 24
+        },
+        "eventFinalScore": {
+          "home": 35,
+          "away": 24
+        },
+        "lineupGoalTotals": {
+          "home": 35,
+          "away": 24
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 59,
+          "goalEventsWithPlayer": 59,
+          "matchedGoalEvents": 59,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/504584.json"
     },
     {
       "id": 509824,

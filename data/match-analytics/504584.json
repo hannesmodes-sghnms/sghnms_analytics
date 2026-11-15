@@ -1,0 +1,1770 @@
+{
+  "generatedAt": "2026-11-15T21:48:57.110Z",
+  "match": {
+    "id": 504584,
+    "date": "2026-11-15",
+    "time": "18:00",
+    "competitionId": 7945,
+    "competition": "Kreisoberliga Männer",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 12963,
+      "name": "Kreisoberliga Männer West"
+    },
+    "venue": {
+      "name": "PESTALOZZI-SCHULE",
+      "address": "AM KAMP 5, 24536 NEUMüNSTER"
+    },
+    "home": {
+      "id": 86805,
+      "name": "SG Handball Neumünster",
+      "clubId": "1yrb3n9"
+    },
+    "away": {
+      "id": 81686,
+      "name": "DIE HAIE I HSG Horst/Kiebitzreihe II",
+      "clubId": "1w9jsx8"
+    },
+    "result": {
+      "home": 35,
+      "away": 24
+    },
+    "ownTeamId": "86805",
+    "ownTeam": {
+      "label": "HERREN 1",
+      "name": "1. Herren",
+      "ageGroup": "senior",
+      "gender": "male",
+      "matchMinutes": 60
+    },
+    "isHome": true,
+    "opponent": {
+      "id": 81686,
+      "name": "DIE HAIE I HSG Horst/Kiebitzreihe II",
+      "clubId": "1w9jsx8"
+    }
+  },
+  "quality": {
+    "status": "verified",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 35,
+      "away": 24
+    },
+    "eventFinalScore": {
+      "home": 35,
+      "away": 24
+    },
+    "lineupGoalTotals": {
+      "home": 35,
+      "away": 24
+    },
+    "eventScoreMatchesOfficial": true,
+    "lineupScoreMatchesOfficial": true,
+    "scorerLineupCoverage": {
+      "goalEvents": 59,
+      "goalEventsWithPlayer": 59,
+      "matchedGoalEvents": 59,
+      "percentage": 100
+    },
+    "halftimeAvailable": true,
+    "halftimeSource": "event",
+    "expectedDurationSeconds": 3600,
+    "eventDurationSeconds": 3600,
+    "durationDeltaSeconds": 0,
+    "durationMatchesExpected": true,
+    "analyticsEligible": true,
+    "lineupEligible": true,
+    "warnings": []
+  },
+  "analytics": {
+    "duration": {
+      "expectedSeconds": 3600,
+      "eventSeconds": 3600,
+      "analysisSeconds": 3600,
+      "analysisClock": "60:00"
+    },
+    "score": {
+      "final": {
+        "own": 35,
+        "opponent": 24
+      },
+      "halftime": {
+        "own": 21,
+        "opponent": 9
+      },
+      "halftimeSource": "event"
+    },
+    "matchFlow": [
+      {
+        "eventId": 91920382,
+        "timestamp": "2026-11-15T18:01:39+00:00",
+        "seconds": 29,
+        "clock": "00:29",
+        "side": "own",
+        "playerId": "1u6hfvn",
+        "playerName": "Joris Alexander Penske",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 0
+        }
+      },
+      {
+        "eventId": 91920381,
+        "timestamp": "2026-11-15T18:04:46+00:00",
+        "seconds": 211,
+        "clock": "03:31",
+        "side": "own",
+        "playerId": "0s2pgfl",
+        "playerName": "Erwin Mirzaguliyev",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 0
+        }
+      },
+      {
+        "eventId": 91920379,
+        "timestamp": "2026-11-15T18:05:46+00:00",
+        "seconds": 275,
+        "clock": "04:35",
+        "side": "opponent",
+        "playerId": "19resg0",
+        "playerName": "Tim Gallert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 91920378,
+        "timestamp": "2026-11-15T18:08:00+00:00",
+        "seconds": 346,
+        "clock": "05:46",
+        "side": "own",
+        "playerId": "0s2pgfl",
+        "playerName": "Erwin Mirzaguliyev",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 91920376,
+        "timestamp": "2026-11-15T18:10:54+00:00",
+        "seconds": 447,
+        "clock": "07:27",
+        "side": "opponent",
+        "playerId": "05cio09",
+        "playerName": "Malte Schnell",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 91920375,
+        "timestamp": "2026-11-15T18:11:14+00:00",
+        "seconds": 467,
+        "clock": "07:47",
+        "side": "own",
+        "playerId": "0tooyml",
+        "playerName": "Dominique Dyon Mannke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 91920374,
+        "timestamp": "2026-11-15T18:11:52+00:00",
+        "seconds": 505,
+        "clock": "08:25",
+        "side": "own",
+        "playerId": "1u6hfvn",
+        "playerName": "Joris Alexander Penske",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 91920372,
+        "timestamp": "2026-11-15T18:14:20+00:00",
+        "seconds": 653,
+        "clock": "10:53",
+        "side": "own",
+        "playerId": "1azghcr",
+        "playerName": "Jorres Wieben",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 91920371,
+        "timestamp": "2026-11-15T18:14:51+00:00",
+        "seconds": 684,
+        "clock": "11:24",
+        "side": "own",
+        "playerId": "1eajsjy",
+        "playerName": "Nikola Tim Kraljevic",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 91920370,
+        "timestamp": "2026-11-15T18:15:39+00:00",
+        "seconds": 732,
+        "clock": "12:12",
+        "side": "opponent",
+        "playerId": "0zgg9cu",
+        "playerName": "Jonas Jermies",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 91920369,
+        "timestamp": "2026-11-15T18:16:23+00:00",
+        "seconds": 776,
+        "clock": "12:56",
+        "side": "own",
+        "playerId": "0us8u6l",
+        "playerName": "Jan-Philip May",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 91920368,
+        "timestamp": "2026-11-15T18:17:02+00:00",
+        "seconds": 815,
+        "clock": "13:35",
+        "side": "own",
+        "playerId": "0j29e9h",
+        "playerName": "Tim Krause",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 91920367,
+        "timestamp": "2026-11-15T18:17:43+00:00",
+        "seconds": 856,
+        "clock": "14:16",
+        "side": "own",
+        "playerId": "1eajsjy",
+        "playerName": "Nikola Tim Kraljevic",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 91920365,
+        "timestamp": "2026-11-15T18:19:40+00:00",
+        "seconds": 887,
+        "clock": "14:47",
+        "side": "opponent",
+        "playerId": "0emp2wn",
+        "playerName": "Robin Schettler",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 91920364,
+        "timestamp": "2026-11-15T18:19:47+00:00",
+        "seconds": 894,
+        "clock": "14:54",
+        "side": "own",
+        "playerId": "0s2pgfl",
+        "playerName": "Erwin Mirzaguliyev",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 91920361,
+        "timestamp": "2026-11-15T18:21:26+00:00",
+        "seconds": 980,
+        "clock": "16:20",
+        "side": "own",
+        "playerId": "1u6hfvn",
+        "playerName": "Joris Alexander Penske",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 91920360,
+        "timestamp": "2026-11-15T18:21:56+00:00",
+        "seconds": 1009,
+        "clock": "16:49",
+        "side": "own",
+        "playerId": "0tooyml",
+        "playerName": "Dominique Dyon Mannke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 91920358,
+        "timestamp": "2026-11-15T18:23:33+00:00",
+        "seconds": 1068,
+        "clock": "17:48",
+        "side": "own",
+        "playerId": "1azghcr",
+        "playerName": "Jorres Wieben",
+        "isSevenMeter": true,
+        "score": {
+          "own": 14,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 91920357,
+        "timestamp": "2026-11-15T18:24:12+00:00",
+        "seconds": 1108,
+        "clock": "18:28",
+        "side": "opponent",
+        "playerId": "19b6l7k",
+        "playerName": "Bjarne Lars Strüven",
+        "isSevenMeter": true,
+        "score": {
+          "own": 14,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 91920356,
+        "timestamp": "2026-11-15T18:25:22+00:00",
+        "seconds": 1179,
+        "clock": "19:39",
+        "side": "opponent",
+        "playerId": "05h2aoq",
+        "playerName": "Bennet Alexander Kruse",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 91920355,
+        "timestamp": "2026-11-15T18:26:22+00:00",
+        "seconds": 1217,
+        "clock": "20:17",
+        "side": "own",
+        "playerId": "1azghcr",
+        "playerName": "Jorres Wieben",
+        "isSevenMeter": true,
+        "score": {
+          "own": 15,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 91920354,
+        "timestamp": "2026-11-15T18:27:07+00:00",
+        "seconds": 1265,
+        "clock": "21:05",
+        "side": "opponent",
+        "playerId": "19b6l7k",
+        "playerName": "Bjarne Lars Strüven",
+        "isSevenMeter": true,
+        "score": {
+          "own": 15,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 91920353,
+        "timestamp": "2026-11-15T18:28:17+00:00",
+        "seconds": 1334,
+        "clock": "22:14",
+        "side": "own",
+        "playerId": "0s2pgfl",
+        "playerName": "Erwin Mirzaguliyev",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 91920352,
+        "timestamp": "2026-11-15T18:29:08+00:00",
+        "seconds": 1386,
+        "clock": "23:06",
+        "side": "opponent",
+        "playerId": "19b6l7k",
+        "playerName": "Bjarne Lars Strüven",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 91920351,
+        "timestamp": "2026-11-15T18:30:48+00:00",
+        "seconds": 1486,
+        "clock": "24:46",
+        "side": "own",
+        "playerId": "1u6hfvn",
+        "playerName": "Joris Alexander Penske",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 91920349,
+        "timestamp": "2026-11-15T18:32:39+00:00",
+        "seconds": 1553,
+        "clock": "25:53",
+        "side": "own",
+        "playerId": "1azghcr",
+        "playerName": "Jorres Wieben",
+        "isSevenMeter": true,
+        "score": {
+          "own": 18,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 91920348,
+        "timestamp": "2026-11-15T18:33:05+00:00",
+        "seconds": 1581,
+        "clock": "26:21",
+        "side": "opponent",
+        "playerId": "03ez6t1",
+        "playerName": "Kai Kruppa",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 91920346,
+        "timestamp": "2026-11-15T18:35:14+00:00",
+        "seconds": 1608,
+        "clock": "26:48",
+        "side": "own",
+        "playerId": "1u6hfvn",
+        "playerName": "Joris Alexander Penske",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 91920345,
+        "timestamp": "2026-11-15T18:36:22+00:00",
+        "seconds": 1677,
+        "clock": "27:57",
+        "side": "own",
+        "playerId": "0tooyml",
+        "playerName": "Dominique Dyon Mannke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 91920344,
+        "timestamp": "2026-11-15T18:36:50+00:00",
+        "seconds": 1705,
+        "clock": "28:25",
+        "side": "own",
+        "playerId": "1eajsjy",
+        "playerName": "Nikola Tim Kraljevic",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 91920341,
+        "timestamp": "2026-11-15T18:52:09+00:00",
+        "seconds": 1860,
+        "clock": "31:00",
+        "side": "own",
+        "playerId": "1u6hfvn",
+        "playerName": "Joris Alexander Penske",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 91920340,
+        "timestamp": "2026-11-15T18:52:45+00:00",
+        "seconds": 1895,
+        "clock": "31:35",
+        "side": "opponent",
+        "playerId": "05cio09",
+        "playerName": "Malte Schnell",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 91920339,
+        "timestamp": "2026-11-15T18:54:01+00:00",
+        "seconds": 1970,
+        "clock": "32:50",
+        "side": "opponent",
+        "playerId": "0zgg9cu",
+        "playerName": "Jonas Jermies",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 91920338,
+        "timestamp": "2026-11-15T18:55:35+00:00",
+        "seconds": 2066,
+        "clock": "34:26",
+        "side": "opponent",
+        "playerId": "05cio09",
+        "playerName": "Malte Schnell",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 91920337,
+        "timestamp": "2026-11-15T18:56:15+00:00",
+        "seconds": 2104,
+        "clock": "35:04",
+        "side": "own",
+        "playerId": "0s2pgfl",
+        "playerName": "Erwin Mirzaguliyev",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 91920334,
+        "timestamp": "2026-11-15T18:58:49+00:00",
+        "seconds": 2232,
+        "clock": "37:12",
+        "side": "own",
+        "playerId": "0tooyml",
+        "playerName": "Dominique Dyon Mannke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 91920333,
+        "timestamp": "2026-11-15T18:59:17+00:00",
+        "seconds": 2261,
+        "clock": "37:41",
+        "side": "opponent",
+        "playerId": "05cio09",
+        "playerName": "Malte Schnell",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 91920332,
+        "timestamp": "2026-11-15T18:59:28+00:00",
+        "seconds": 2271,
+        "clock": "37:51",
+        "side": "own",
+        "playerId": "1azghcr",
+        "playerName": "Jorres Wieben",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 91920330,
+        "timestamp": "2026-11-15T19:02:31+00:00",
+        "seconds": 2454,
+        "clock": "40:54",
+        "side": "opponent",
+        "playerId": "19b6l7k",
+        "playerName": "Bjarne Lars Strüven",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 91920329,
+        "timestamp": "2026-11-15T19:02:58+00:00",
+        "seconds": 2481,
+        "clock": "41:21",
+        "side": "own",
+        "playerId": "0j29e9h",
+        "playerName": "Tim Krause",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 91920328,
+        "timestamp": "2026-11-15T19:03:55+00:00",
+        "seconds": 2539,
+        "clock": "42:19",
+        "side": "own",
+        "playerId": "0s2pgfl",
+        "playerName": "Erwin Mirzaguliyev",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 91920327,
+        "timestamp": "2026-11-15T19:04:34+00:00",
+        "seconds": 2577,
+        "clock": "42:57",
+        "side": "opponent",
+        "playerId": "19resg0",
+        "playerName": "Tim Gallert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 91920326,
+        "timestamp": "2026-11-15T19:04:59+00:00",
+        "seconds": 2603,
+        "clock": "43:23",
+        "side": "own",
+        "playerId": "0tooyml",
+        "playerName": "Dominique Dyon Mannke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 91920325,
+        "timestamp": "2026-11-15T19:07:02+00:00",
+        "seconds": 2714,
+        "clock": "45:14",
+        "side": "own",
+        "playerId": "1u6hfvn",
+        "playerName": "Joris Alexander Penske",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 91920324,
+        "timestamp": "2026-11-15T19:08:02+00:00",
+        "seconds": 2774,
+        "clock": "46:14",
+        "side": "opponent",
+        "playerId": "19b6l7k",
+        "playerName": "Bjarne Lars Strüven",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 91920323,
+        "timestamp": "2026-11-15T19:08:54+00:00",
+        "seconds": 2823,
+        "clock": "47:03",
+        "side": "own",
+        "playerId": "0tf0590",
+        "playerName": "Yendrick Weißhaar",
+        "isSevenMeter": true,
+        "score": {
+          "own": 30,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 91920322,
+        "timestamp": "2026-11-15T19:09:45+00:00",
+        "seconds": 2874,
+        "clock": "47:54",
+        "side": "opponent",
+        "playerId": "05h2aoq",
+        "playerName": "Bennet Alexander Kruse",
+        "isSevenMeter": false,
+        "score": {
+          "own": 30,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 91920321,
+        "timestamp": "2026-11-15T19:10:12+00:00",
+        "seconds": 2904,
+        "clock": "48:24",
+        "side": "own",
+        "playerId": "0tf0590",
+        "playerName": "Yendrick Weißhaar",
+        "isSevenMeter": false,
+        "score": {
+          "own": 31,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 91920320,
+        "timestamp": "2026-11-15T19:10:29+00:00",
+        "seconds": 2920,
+        "clock": "48:40",
+        "side": "own",
+        "playerId": "0j29e9h",
+        "playerName": "Tim Krause",
+        "isSevenMeter": false,
+        "score": {
+          "own": 32,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 91920319,
+        "timestamp": "2026-11-15T19:11:13+00:00",
+        "seconds": 2965,
+        "clock": "49:25",
+        "side": "opponent",
+        "playerId": "19resg0",
+        "playerName": "Tim Gallert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 32,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 91920318,
+        "timestamp": "2026-11-15T19:11:51+00:00",
+        "seconds": 3003,
+        "clock": "50:03",
+        "side": "own",
+        "playerId": "0us8u6l",
+        "playerName": "Jan-Philip May",
+        "isSevenMeter": false,
+        "score": {
+          "own": 33,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 91920317,
+        "timestamp": "2026-11-15T19:12:47+00:00",
+        "seconds": 3058,
+        "clock": "50:58",
+        "side": "opponent",
+        "playerId": "0zgg9cu",
+        "playerName": "Jonas Jermies",
+        "isSevenMeter": false,
+        "score": {
+          "own": 33,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 91920315,
+        "timestamp": "2026-11-15T19:15:16+00:00",
+        "seconds": 3185,
+        "clock": "53:05",
+        "side": "opponent",
+        "playerId": "05cio09",
+        "playerName": "Malte Schnell",
+        "isSevenMeter": false,
+        "score": {
+          "own": 33,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 91920314,
+        "timestamp": "2026-11-15T19:15:45+00:00",
+        "seconds": 3214,
+        "clock": "53:34",
+        "side": "own",
+        "playerId": "1ewrb52",
+        "playerName": "Barne Holdorf",
+        "isSevenMeter": false,
+        "score": {
+          "own": 34,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 91920313,
+        "timestamp": "2026-11-15T19:16:36+00:00",
+        "seconds": 3263,
+        "clock": "54:23",
+        "side": "opponent",
+        "playerId": "19resg0",
+        "playerName": "Tim Gallert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 34,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 91920311,
+        "timestamp": "2026-11-15T19:18:43+00:00",
+        "seconds": 3373,
+        "clock": "56:13",
+        "side": "opponent",
+        "playerId": "0emp2wn",
+        "playerName": "Robin Schettler",
+        "isSevenMeter": false,
+        "score": {
+          "own": 34,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 91920310,
+        "timestamp": "2026-11-15T19:20:56+00:00",
+        "seconds": 3506,
+        "clock": "58:26",
+        "side": "own",
+        "playerId": "1azghcr",
+        "playerName": "Jorres Wieben",
+        "isSevenMeter": false,
+        "score": {
+          "own": 35,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 91920309,
+        "timestamp": "2026-11-15T19:21:28+00:00",
+        "seconds": 3537,
+        "clock": "58:57",
+        "side": "opponent",
+        "playerId": "19resg0",
+        "playerName": "Tim Gallert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 35,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 91920308,
+        "timestamp": "2026-11-15T19:21:59+00:00",
+        "seconds": 3564,
+        "clock": "59:24",
+        "side": "opponent",
+        "playerId": "0emp2wn",
+        "playerName": "Robin Schettler",
+        "isSevenMeter": false,
+        "score": {
+          "own": 35,
+          "opponent": 24
+        }
+      }
+    ],
+    "fiveMinuteSplits": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 300,
+        "label": "0-5",
+        "goals": {
+          "own": 2,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 2,
+          "opponent": 1
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 300,
+        "endSeconds": 600,
+        "label": "5-10",
+        "goals": {
+          "own": 3,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 5,
+          "opponent": 2
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 600,
+        "endSeconds": 900,
+        "label": "10-15",
+        "goals": {
+          "own": 6,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 11,
+          "opponent": 4
+        },
+        "goalDifference": 4
+      },
+      {
+        "startSeconds": 900,
+        "endSeconds": 1200,
+        "label": "15-20",
+        "goals": {
+          "own": 3,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 14,
+          "opponent": 6
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 1200,
+        "endSeconds": 1500,
+        "label": "20-25",
+        "goals": {
+          "own": 3,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 17,
+          "opponent": 8
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 1500,
+        "endSeconds": 1800,
+        "label": "25-30",
+        "goals": {
+          "own": 4,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 21,
+          "opponent": 9
+        },
+        "goalDifference": 3
+      },
+      {
+        "startSeconds": 1800,
+        "endSeconds": 2100,
+        "label": "30-35",
+        "goals": {
+          "own": 1,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 22,
+          "opponent": 12
+        },
+        "goalDifference": -2
+      },
+      {
+        "startSeconds": 2100,
+        "endSeconds": 2400,
+        "label": "35-40",
+        "goals": {
+          "own": 3,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 25,
+          "opponent": 13
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 2400,
+        "endSeconds": 2700,
+        "label": "40-45",
+        "goals": {
+          "own": 3,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 28,
+          "opponent": 15
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 2700,
+        "endSeconds": 3000,
+        "label": "45-50",
+        "goals": {
+          "own": 4,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 32,
+          "opponent": 18
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 3000,
+        "endSeconds": 3300,
+        "label": "50-55",
+        "goals": {
+          "own": 2,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 34,
+          "opponent": 21
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 3300,
+        "endSeconds": 3600,
+        "label": "55-60",
+        "goals": {
+          "own": 1,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 35,
+          "opponent": 24
+        },
+        "goalDifference": -2
+      }
+    ],
+    "gamePhases": null,
+    "sevenMeters": {
+      "own": {
+        "goals": 4,
+        "misses": 2,
+        "attempts": 6,
+        "percentage": 66.7
+      },
+      "opponent": {
+        "goals": 2,
+        "misses": 3,
+        "attempts": 5,
+        "percentage": 40
+      }
+    },
+    "sanctions": {
+      "own": {
+        "warnings": 1,
+        "twoMinutes": 0,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      },
+      "opponent": {
+        "warnings": 1,
+        "twoMinutes": 5,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      }
+    },
+    "longestRuns": {
+      "own": {
+        "side": "home",
+        "goals": 4,
+        "startSeconds": 467,
+        "endSeconds": 684,
+        "startScore": {
+          "home": 3,
+          "away": 2
+        },
+        "endScore": {
+          "home": 7,
+          "away": 2
+        },
+        "start": "07:47",
+        "end": "11:24"
+      },
+      "opponent": {
+        "side": "away",
+        "goals": 3,
+        "startSeconds": 1895,
+        "endSeconds": 2066,
+        "startScore": {
+          "home": 22,
+          "away": 9
+        },
+        "endScore": {
+          "home": 22,
+          "away": 12
+        },
+        "start": "31:35",
+        "end": "34:26"
+      }
+    },
+    "scoringDroughts": {
+      "own": {
+        "seconds": 292,
+        "startSeconds": 3214,
+        "endSeconds": 3506,
+        "duration": "04:52",
+        "start": "53:34",
+        "end": "58:26"
+      },
+      "opponent": {
+        "seconds": 314,
+        "startSeconds": 1581,
+        "endSeconds": 1895,
+        "duration": "05:14",
+        "start": "26:21",
+        "end": "31:35"
+      }
+    },
+    "timeouts": [
+      {
+        "side": "opponent",
+        "seconds": 861,
+        "clock": "14:21",
+        "score": {
+          "own": 10,
+          "opponent": 3
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 6,
+          "opponent": 2
+        },
+        "goalsBefore": {
+          "own": 4,
+          "opponent": 1
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 13,
+          "opponent": 4
+        },
+        "goalsAfter": {
+          "own": 3,
+          "opponent": 1
+        }
+      },
+      {
+        "side": "own",
+        "seconds": 1590,
+        "clock": "26:30",
+        "score": {
+          "own": 18,
+          "opponent": 9
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 16,
+          "opponent": 8
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 1
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 21,
+          "opponent": 9
+        },
+        "goalsAfter": {
+          "own": 3,
+          "opponent": 0
+        }
+      }
+    ],
+    "numericSituations": {
+      "suspensionsAffectPlayerCount": true,
+      "suspensions": [
+        {
+          "eventId": 91920377,
+          "side": "opponent",
+          "playerId": "0zgg9cu",
+          "playerName": "Jonas Jermies",
+          "startSeconds": 346,
+          "endSeconds": 466,
+          "start": "05:46",
+          "end": "07:46"
+        },
+        {
+          "eventId": 91920359,
+          "side": "opponent",
+          "playerId": "03ez6t1",
+          "playerName": "Kai Kruppa",
+          "startSeconds": 1067,
+          "endSeconds": 1187,
+          "start": "17:47",
+          "end": "19:47"
+        },
+        {
+          "eventId": 91920350,
+          "side": "opponent",
+          "playerId": "05cio09",
+          "playerName": "Malte Schnell",
+          "startSeconds": 1552,
+          "endSeconds": 1672,
+          "start": "25:52",
+          "end": "27:52"
+        },
+        {
+          "eventId": 91920336,
+          "side": "opponent",
+          "playerId": "05h2aoq",
+          "playerName": "Bennet Alexander Kruse",
+          "startSeconds": 2176,
+          "endSeconds": 2296,
+          "start": "36:16",
+          "end": "38:16"
+        },
+        {
+          "eventId": 91920316,
+          "side": "opponent",
+          "playerId": "05h2aoq",
+          "playerName": "Bennet Alexander Kruse",
+          "startSeconds": 3091,
+          "endSeconds": 3211,
+          "start": "51:31",
+          "end": "53:31"
+        }
+      ],
+      "even": {
+        "seconds": 3000,
+        "goals": {
+          "own": 29,
+          "opponent": 18
+        }
+      },
+      "powerPlay": {
+        "seconds": 600,
+        "goals": {
+          "own": 6,
+          "opponent": 6
+        }
+      },
+      "shortHanded": {
+        "seconds": 0,
+        "goals": {
+          "own": 0,
+          "opponent": 0
+        }
+      }
+    },
+    "players": {
+      "own": [
+        {
+          "playerId": "1u6hfvn",
+          "name": "Joris Alexander Penske",
+          "number": 7,
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 1,
+            "attempts": 1,
+            "percentage": 0
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1azghcr",
+          "name": "Jorres Wieben",
+          "number": 22,
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 3,
+            "misses": 1,
+            "attempts": 4,
+            "percentage": 75
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0s2pgfl",
+          "name": "Erwin Mirzaguliyev",
+          "number": 33,
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0tooyml",
+          "name": "Dominique Dyon Mannke",
+          "number": 3,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0j29e9h",
+          "name": "Tim Krause",
+          "number": 8,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1eajsjy",
+          "name": "Nikola Tim Kraljevic",
+          "number": 13,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0us8u6l",
+          "name": "Jan-Philip May",
+          "number": 6,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0tf0590",
+          "name": "Yendrick Weißhaar",
+          "number": 16,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1ewrb52",
+          "name": "Barne Holdorf",
+          "number": 5,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "15i24gc",
+          "name": "Maximilian Frederik Geertz",
+          "number": 1,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0py2kbh",
+          "name": "Thorben Pultar",
+          "number": 12,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "002ztgg",
+          "name": "Tim Mauersberger",
+          "number": 21,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1ysvzvo",
+          "name": "Clemens Brimm",
+          "number": 64,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ],
+      "opponent": [
+        {
+          "playerId": "19b6l7k",
+          "name": "Bjarne Lars Strüven",
+          "number": 4,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 2,
+            "misses": 1,
+            "attempts": 3,
+            "percentage": 66.7
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "05cio09",
+          "name": "Malte Schnell",
+          "number": 8,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 2,
+            "attempts": 2,
+            "percentage": 0
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "19resg0",
+          "name": "Tim Gallert",
+          "number": 24,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0emp2wn",
+          "name": "Robin Schettler",
+          "number": 23,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0zgg9cu",
+          "name": "Jonas Jermies",
+          "number": 58,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "05h2aoq",
+          "name": "Bennet Alexander Kruse",
+          "number": 73,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 2,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "03ez6t1",
+          "name": "Kai Kruppa",
+          "number": 15,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1n0yybs",
+          "name": "Luca Marcel Jessen",
+          "number": 33,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0wgiqml",
+          "name": "Jannik Mohr",
+          "number": 50,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1y83y10",
+          "name": "Levin Phillip Mohrdiek",
+          "number": 53,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "172ywy7",
+          "name": "Mats-Christer Krohn",
+          "number": 54,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "121ld2k",
+          "name": "Fabian Gottwald",
+          "number": 93,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ]
+    }
+  }
+}

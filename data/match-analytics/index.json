@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:21:50.575Z",
+  "generatedAt": "2026-11-15T21:48:57.119Z",
   "matches": [
     {
       "id": 504541,
@@ -1668,6 +1668,54 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/510002.json"
+    },
+    {
+      "id": 417893,
+      "date": "2026-11-15",
+      "time": "16:15",
+      "ownTeamId": "87274",
+      "opponent": "TSV SCHWARZENBEK",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/417893.json"
+    },
+    {
+      "id": 450768,
+      "date": "2026-11-15",
+      "time": "16:15",
+      "ownTeamId": "87187",
+      "opponent": "TSV BARGTEHEIDE",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/450768.json"
+    },
+    {
+      "id": 561282,
+      "date": "2026-11-15",
+      "time": "16:15",
+      "ownTeamId": "94484",
+      "opponent": "TSV HARDEBEK",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/561282.json"
+    },
+    {
+      "id": 504584,
+      "date": "2026-11-15",
+      "time": "18:00",
+      "ownTeamId": "86805",
+      "opponent": "DIE HAIE I HSG Horst/Kiebitzreihe II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/504584.json"
     },
     {
       "id": 509824,
