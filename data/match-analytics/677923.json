@@ -1,0 +1,1887 @@
+{
+  "generatedAt": "2026-11-15T16:21:50.561Z",
+  "match": {
+    "id": 677923,
+    "date": "2026-11-15",
+    "time": "14:30",
+    "competitionId": 7194,
+    "competition": "Regionsliga MÄNNLICH",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 14617,
+      "name": "MJC-RL-2"
+    },
+    "venue": {
+      "name": "PESTALOZZI-SCHULE",
+      "address": "AM KAMP 5, 24536 NEUMüNSTER"
+    },
+    "home": {
+      "id": 87276,
+      "name": "SG Handball Neumünster II",
+      "clubId": "1yrb3n9"
+    },
+    "away": {
+      "id": 82205,
+      "name": "HSG HOHE GEEST",
+      "clubId": "1hslhxe"
+    },
+    "result": {
+      "home": 44,
+      "away": 34
+    },
+    "ownTeamId": "87276",
+    "ownTeam": {
+      "label": "MJC 2",
+      "name": "mJC 2",
+      "ageGroup": "youth",
+      "gender": "male",
+      "matchMinutes": 50
+    },
+    "isHome": true,
+    "opponent": {
+      "id": 82205,
+      "name": "HSG HOHE GEEST",
+      "clubId": "1hslhxe"
+    }
+  },
+  "quality": {
+    "status": "verified",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 44,
+      "away": 34
+    },
+    "eventFinalScore": {
+      "home": 44,
+      "away": 34
+    },
+    "lineupGoalTotals": {
+      "home": 44,
+      "away": 34
+    },
+    "eventScoreMatchesOfficial": true,
+    "lineupScoreMatchesOfficial": true,
+    "scorerLineupCoverage": {
+      "goalEvents": 78,
+      "goalEventsWithPlayer": 78,
+      "matchedGoalEvents": 78,
+      "percentage": 100
+    },
+    "halftimeAvailable": true,
+    "halftimeSource": "event",
+    "expectedDurationSeconds": 3000,
+    "eventDurationSeconds": 3000,
+    "durationDeltaSeconds": 0,
+    "durationMatchesExpected": true,
+    "analyticsEligible": true,
+    "lineupEligible": true,
+    "warnings": []
+  },
+  "analytics": {
+    "duration": {
+      "expectedSeconds": 3000,
+      "eventSeconds": 3000,
+      "analysisSeconds": 3000,
+      "analysisClock": "50:00"
+    },
+    "score": {
+      "final": {
+        "own": 44,
+        "opponent": 34
+      },
+      "halftime": {
+        "own": 19,
+        "opponent": 19
+      },
+      "halftimeSource": "event"
+    },
+    "matchFlow": [
+      {
+        "eventId": 89356450,
+        "timestamp": "2026-11-15T14:28:16+00:00",
+        "seconds": 60,
+        "clock": "01:00",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 0,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 89356449,
+        "timestamp": "2026-11-15T14:28:32+00:00",
+        "seconds": 77,
+        "clock": "01:17",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 89356448,
+        "timestamp": "2026-11-15T14:29:01+00:00",
+        "seconds": 108,
+        "clock": "01:48",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 89356447,
+        "timestamp": "2026-11-15T14:29:33+00:00",
+        "seconds": 140,
+        "clock": "02:20",
+        "side": "opponent",
+        "playerId": "14f75t0",
+        "playerName": "Klaas Jens Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 89356446,
+        "timestamp": "2026-11-15T14:30:21+00:00",
+        "seconds": 188,
+        "clock": "03:08",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 89356445,
+        "timestamp": "2026-11-15T14:30:40+00:00",
+        "seconds": 208,
+        "clock": "03:28",
+        "side": "own",
+        "playerId": "0aj6hf4",
+        "playerName": "Fabian Helmut Dieter Lohmüller",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 89356444,
+        "timestamp": "2026-11-15T14:31:34+00:00",
+        "seconds": 260,
+        "clock": "04:20",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 89356443,
+        "timestamp": "2026-11-15T14:32:05+00:00",
+        "seconds": 290,
+        "clock": "04:50",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89356442,
+        "timestamp": "2026-11-15T14:32:42+00:00",
+        "seconds": 330,
+        "clock": "05:30",
+        "side": "own",
+        "playerId": "18q9e8a",
+        "playerName": "Gerrit Springborn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89356441,
+        "timestamp": "2026-11-15T14:33:19+00:00",
+        "seconds": 366,
+        "clock": "06:06",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 89356440,
+        "timestamp": "2026-11-15T14:33:59+00:00",
+        "seconds": 406,
+        "clock": "06:46",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 89356439,
+        "timestamp": "2026-11-15T14:34:43+00:00",
+        "seconds": 450,
+        "clock": "07:30",
+        "side": "opponent",
+        "playerId": "1wrxy78",
+        "playerName": "Henning Gillert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 89356438,
+        "timestamp": "2026-11-15T14:34:56+00:00",
+        "seconds": 463,
+        "clock": "07:43",
+        "side": "own",
+        "playerId": "18q9e8a",
+        "playerName": "Gerrit Springborn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 89356437,
+        "timestamp": "2026-11-15T14:35:51+00:00",
+        "seconds": 518,
+        "clock": "08:38",
+        "side": "own",
+        "playerId": "0aj6hf4",
+        "playerName": "Fabian Helmut Dieter Lohmüller",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 89356436,
+        "timestamp": "2026-11-15T14:36:46+00:00",
+        "seconds": 573,
+        "clock": "09:33",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 89356435,
+        "timestamp": "2026-11-15T14:37:18+00:00",
+        "seconds": 602,
+        "clock": "10:02",
+        "side": "own",
+        "playerId": "0bzp386",
+        "playerName": "Arian Luca Dongowsky",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 89356434,
+        "timestamp": "2026-11-15T14:37:51+00:00",
+        "seconds": 638,
+        "clock": "10:38",
+        "side": "opponent",
+        "playerId": "14f75t0",
+        "playerName": "Klaas Jens Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 89356433,
+        "timestamp": "2026-11-15T14:38:05+00:00",
+        "seconds": 652,
+        "clock": "10:52",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 89356432,
+        "timestamp": "2026-11-15T14:38:31+00:00",
+        "seconds": 678,
+        "clock": "11:18",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 89356431,
+        "timestamp": "2026-11-15T14:38:46+00:00",
+        "seconds": 693,
+        "clock": "11:33",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 89356430,
+        "timestamp": "2026-11-15T14:39:39+00:00",
+        "seconds": 746,
+        "clock": "12:26",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 89356428,
+        "timestamp": "2026-11-15T14:40:28+00:00",
+        "seconds": 794,
+        "clock": "13:14",
+        "side": "opponent",
+        "playerId": "19i9l1u",
+        "playerName": "Ben Kruse",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 89356427,
+        "timestamp": "2026-11-15T14:42:02+00:00",
+        "seconds": 889,
+        "clock": "14:49",
+        "side": "own",
+        "playerId": "0aj6hf4",
+        "playerName": "Fabian Helmut Dieter Lohmüller",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 89356426,
+        "timestamp": "2026-11-15T14:42:47+00:00",
+        "seconds": 933,
+        "clock": "15:33",
+        "side": "opponent",
+        "playerId": "1i5rbtw",
+        "playerName": "Arek Ehlert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 89356425,
+        "timestamp": "2026-11-15T14:43:03+00:00",
+        "seconds": 948,
+        "clock": "15:48",
+        "side": "own",
+        "playerId": "0aj6hf4",
+        "playerName": "Fabian Helmut Dieter Lohmüller",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 89356424,
+        "timestamp": "2026-11-15T14:43:23+00:00",
+        "seconds": 968,
+        "clock": "16:08",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 89356423,
+        "timestamp": "2026-11-15T14:43:43+00:00",
+        "seconds": 990,
+        "clock": "16:30",
+        "side": "opponent",
+        "playerId": "1i5rbtw",
+        "playerName": "Arek Ehlert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 89356422,
+        "timestamp": "2026-11-15T14:44:26+00:00",
+        "seconds": 1030,
+        "clock": "17:10",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89356421,
+        "timestamp": "2026-11-15T14:44:42+00:00",
+        "seconds": 1048,
+        "clock": "17:28",
+        "side": "own",
+        "playerId": "1yeih8j",
+        "playerName": "Tobias Mielke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89356420,
+        "timestamp": "2026-11-15T14:45:26+00:00",
+        "seconds": 1092,
+        "clock": "18:12",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89356419,
+        "timestamp": "2026-11-15T14:46:17+00:00",
+        "seconds": 1143,
+        "clock": "19:03",
+        "side": "opponent",
+        "playerId": "1i5rbtw",
+        "playerName": "Arek Ehlert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 89356417,
+        "timestamp": "2026-11-15T14:48:47+00:00",
+        "seconds": 1212,
+        "clock": "20:12",
+        "side": "opponent",
+        "playerId": "1i5rbtw",
+        "playerName": "Arek Ehlert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 89356416,
+        "timestamp": "2026-11-15T14:49:09+00:00",
+        "seconds": 1233,
+        "clock": "20:33",
+        "side": "own",
+        "playerId": "18q9e8a",
+        "playerName": "Gerrit Springborn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 89356415,
+        "timestamp": "2026-11-15T14:49:29+00:00",
+        "seconds": 1253,
+        "clock": "20:53",
+        "side": "opponent",
+        "playerId": "1wrxy78",
+        "playerName": "Henning Gillert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 89356414,
+        "timestamp": "2026-11-15T14:49:46+00:00",
+        "seconds": 1270,
+        "clock": "21:10",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 89356413,
+        "timestamp": "2026-11-15T14:50:18+00:00",
+        "seconds": 1302,
+        "clock": "21:42",
+        "side": "opponent",
+        "playerId": "1i5rbtw",
+        "playerName": "Arek Ehlert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 89356411,
+        "timestamp": "2026-11-15T14:53:52+00:00",
+        "seconds": 1430,
+        "clock": "23:50",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 89356409,
+        "timestamp": "2026-11-15T14:54:58+00:00",
+        "seconds": 1495,
+        "clock": "24:55",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 89356406,
+        "timestamp": "2026-11-15T15:04:43+00:00",
+        "seconds": 1534,
+        "clock": "25:34",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 89356405,
+        "timestamp": "2026-11-15T15:05:03+00:00",
+        "seconds": 1554,
+        "clock": "25:54",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 89356404,
+        "timestamp": "2026-11-15T15:05:41+00:00",
+        "seconds": 1592,
+        "clock": "26:32",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 89356403,
+        "timestamp": "2026-11-15T15:07:08+00:00",
+        "seconds": 1679,
+        "clock": "27:59",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 89356402,
+        "timestamp": "2026-11-15T15:08:02+00:00",
+        "seconds": 1732,
+        "clock": "28:52",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 89356401,
+        "timestamp": "2026-11-15T15:08:26+00:00",
+        "seconds": 1757,
+        "clock": "29:17",
+        "side": "opponent",
+        "playerId": "19i9l1u",
+        "playerName": "Ben Kruse",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 89356400,
+        "timestamp": "2026-11-15T15:09:00+00:00",
+        "seconds": 1791,
+        "clock": "29:51",
+        "side": "own",
+        "playerId": "1y3yeg3",
+        "playerName": "Aryan Mohammad",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 89356399,
+        "timestamp": "2026-11-15T15:09:22+00:00",
+        "seconds": 1814,
+        "clock": "30:14",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 89356398,
+        "timestamp": "2026-11-15T15:09:40+00:00",
+        "seconds": 1831,
+        "clock": "30:31",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 89356397,
+        "timestamp": "2026-11-15T15:10:31+00:00",
+        "seconds": 1882,
+        "clock": "31:22",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 89356396,
+        "timestamp": "2026-11-15T15:10:57+00:00",
+        "seconds": 1909,
+        "clock": "31:49",
+        "side": "opponent",
+        "playerId": "1wrxy78",
+        "playerName": "Henning Gillert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 24
+        }
+      },
+      {
+        "eventId": 89356395,
+        "timestamp": "2026-11-15T15:11:28+00:00",
+        "seconds": 1939,
+        "clock": "32:19",
+        "side": "opponent",
+        "playerId": "1i5rbtw",
+        "playerName": "Arek Ehlert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 25
+        }
+      },
+      {
+        "eventId": 89356394,
+        "timestamp": "2026-11-15T15:12:07+00:00",
+        "seconds": 1978,
+        "clock": "32:58",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 25
+        }
+      },
+      {
+        "eventId": 89356393,
+        "timestamp": "2026-11-15T15:12:54+00:00",
+        "seconds": 2025,
+        "clock": "33:45",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 25
+        }
+      },
+      {
+        "eventId": 89356392,
+        "timestamp": "2026-11-15T15:13:19+00:00",
+        "seconds": 2050,
+        "clock": "34:10",
+        "side": "opponent",
+        "playerId": "14f75t0",
+        "playerName": "Klaas Jens Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 26
+        }
+      },
+      {
+        "eventId": 89356391,
+        "timestamp": "2026-11-15T15:14:16+00:00",
+        "seconds": 2105,
+        "clock": "35:05",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 26
+        }
+      },
+      {
+        "eventId": 89356390,
+        "timestamp": "2026-11-15T15:14:43+00:00",
+        "seconds": 2134,
+        "clock": "35:34",
+        "side": "opponent",
+        "playerId": "19i9l1u",
+        "playerName": "Ben Kruse",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 27
+        }
+      },
+      {
+        "eventId": 89356389,
+        "timestamp": "2026-11-15T15:14:57+00:00",
+        "seconds": 2148,
+        "clock": "35:48",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 27
+        }
+      },
+      {
+        "eventId": 89356388,
+        "timestamp": "2026-11-15T15:15:10+00:00",
+        "seconds": 2161,
+        "clock": "36:01",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 89356387,
+        "timestamp": "2026-11-15T15:16:09+00:00",
+        "seconds": 2217,
+        "clock": "36:57",
+        "side": "own",
+        "playerId": "1yeih8j",
+        "playerName": "Tobias Mielke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 30,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 89356385,
+        "timestamp": "2026-11-15T15:17:24+00:00",
+        "seconds": 2296,
+        "clock": "38:16",
+        "side": "own",
+        "playerId": "1yeih8j",
+        "playerName": "Tobias Mielke",
+        "isSevenMeter": false,
+        "score": {
+          "own": 31,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 89356384,
+        "timestamp": "2026-11-15T15:18:47+00:00",
+        "seconds": 2378,
+        "clock": "39:38",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 32,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 89356383,
+        "timestamp": "2026-11-15T15:20:51+00:00",
+        "seconds": 2502,
+        "clock": "41:42",
+        "side": "own",
+        "playerId": "18q9e8a",
+        "playerName": "Gerrit Springborn",
+        "isSevenMeter": false,
+        "score": {
+          "own": 33,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 89356381,
+        "timestamp": "2026-11-15T15:22:40+00:00",
+        "seconds": 2533,
+        "clock": "42:13",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 34,
+          "opponent": 28
+        }
+      },
+      {
+        "eventId": 89356380,
+        "timestamp": "2026-11-15T15:23:31+00:00",
+        "seconds": 2584,
+        "clock": "43:04",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 34,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 89356379,
+        "timestamp": "2026-11-15T15:24:02+00:00",
+        "seconds": 2616,
+        "clock": "43:36",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 35,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 89356378,
+        "timestamp": "2026-11-15T15:24:35+00:00",
+        "seconds": 2648,
+        "clock": "44:08",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 36,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 89356377,
+        "timestamp": "2026-11-15T15:24:55+00:00",
+        "seconds": 2668,
+        "clock": "44:28",
+        "side": "own",
+        "playerId": "199o4ev",
+        "playerName": "Berkant Sasmaz",
+        "isSevenMeter": false,
+        "score": {
+          "own": 37,
+          "opponent": 29
+        }
+      },
+      {
+        "eventId": 89356376,
+        "timestamp": "2026-11-15T15:25:15+00:00",
+        "seconds": 2688,
+        "clock": "44:48",
+        "side": "opponent",
+        "playerId": "1wrxy78",
+        "playerName": "Henning Gillert",
+        "isSevenMeter": false,
+        "score": {
+          "own": 37,
+          "opponent": 30
+        }
+      },
+      {
+        "eventId": 89356375,
+        "timestamp": "2026-11-15T15:25:30+00:00",
+        "seconds": 2702,
+        "clock": "45:02",
+        "side": "own",
+        "playerId": "0bzp386",
+        "playerName": "Arian Luca Dongowsky",
+        "isSevenMeter": false,
+        "score": {
+          "own": 38,
+          "opponent": 30
+        }
+      },
+      {
+        "eventId": 89356374,
+        "timestamp": "2026-11-15T15:25:54+00:00",
+        "seconds": 2726,
+        "clock": "45:26",
+        "side": "opponent",
+        "playerId": "0ongb4i",
+        "playerName": "Falk Georg Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 38,
+          "opponent": 31
+        }
+      },
+      {
+        "eventId": 89356372,
+        "timestamp": "2026-11-15T15:27:05+00:00",
+        "seconds": 2780,
+        "clock": "46:20",
+        "side": "own",
+        "playerId": "1u4xeci",
+        "playerName": "Marian Magnus Geist",
+        "isSevenMeter": true,
+        "score": {
+          "own": 39,
+          "opponent": 31
+        }
+      },
+      {
+        "eventId": 89356371,
+        "timestamp": "2026-11-15T15:27:33+00:00",
+        "seconds": 2809,
+        "clock": "46:49",
+        "side": "own",
+        "playerId": "0aj6hf4",
+        "playerName": "Fabian Helmut Dieter Lohmüller",
+        "isSevenMeter": false,
+        "score": {
+          "own": 40,
+          "opponent": 31
+        }
+      },
+      {
+        "eventId": 89356370,
+        "timestamp": "2026-11-15T15:28:10+00:00",
+        "seconds": 2845,
+        "clock": "47:25",
+        "side": "opponent",
+        "playerId": "14f75t0",
+        "playerName": "Klaas Jens Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 40,
+          "opponent": 32
+        }
+      },
+      {
+        "eventId": 89356369,
+        "timestamp": "2026-11-15T15:28:17+00:00",
+        "seconds": 2854,
+        "clock": "47:34",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 41,
+          "opponent": 32
+        }
+      },
+      {
+        "eventId": 89356368,
+        "timestamp": "2026-11-15T15:28:30+00:00",
+        "seconds": 2868,
+        "clock": "47:48",
+        "side": "opponent",
+        "playerId": "106lrfo",
+        "playerName": "Jan-Tinus Holling",
+        "isSevenMeter": false,
+        "score": {
+          "own": 41,
+          "opponent": 33
+        }
+      },
+      {
+        "eventId": 89356367,
+        "timestamp": "2026-11-15T15:29:04+00:00",
+        "seconds": 2902,
+        "clock": "48:22",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 42,
+          "opponent": 33
+        }
+      },
+      {
+        "eventId": 89356366,
+        "timestamp": "2026-11-15T15:29:25+00:00",
+        "seconds": 2922,
+        "clock": "48:42",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 43,
+          "opponent": 33
+        }
+      },
+      {
+        "eventId": 89356365,
+        "timestamp": "2026-11-15T15:29:46+00:00",
+        "seconds": 2944,
+        "clock": "49:04",
+        "side": "own",
+        "playerId": "1vo8zia",
+        "playerName": "Luis Thien Ho Kim",
+        "isSevenMeter": false,
+        "score": {
+          "own": 44,
+          "opponent": 33
+        }
+      },
+      {
+        "eventId": 89356364,
+        "timestamp": "2026-11-15T15:30:23+00:00",
+        "seconds": 2980,
+        "clock": "49:40",
+        "side": "opponent",
+        "playerId": "14f75t0",
+        "playerName": "Klaas Jens Niemeyer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 44,
+          "opponent": 34
+        }
+      }
+    ],
+    "fiveMinuteSplits": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 300,
+        "label": "0-5",
+        "goals": {
+          "own": 4,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 4,
+          "opponent": 4
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 300,
+        "endSeconds": 600,
+        "label": "5-10",
+        "goals": {
+          "own": 3,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 7,
+          "opponent": 8
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 600,
+        "endSeconds": 900,
+        "label": "10-15",
+        "goals": {
+          "own": 4,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 11,
+          "opponent": 12
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 900,
+        "endSeconds": 1200,
+        "label": "15-20",
+        "goals": {
+          "own": 4,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 15,
+          "opponent": 16
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 1200,
+        "endSeconds": 1500,
+        "label": "20-25",
+        "goals": {
+          "own": 4,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 19,
+          "opponent": 19
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 1500,
+        "endSeconds": 1800,
+        "label": "25-30",
+        "goals": {
+          "own": 4,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 23,
+          "opponent": 22
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 1800,
+        "endSeconds": 2100,
+        "label": "30-35",
+        "goals": {
+          "own": 4,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 27,
+          "opponent": 26
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 2100,
+        "endSeconds": 2400,
+        "label": "35-40",
+        "goals": {
+          "own": 5,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 32,
+          "opponent": 28
+        },
+        "goalDifference": 3
+      },
+      {
+        "startSeconds": 2400,
+        "endSeconds": 2700,
+        "label": "40-45",
+        "goals": {
+          "own": 5,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 37,
+          "opponent": 30
+        },
+        "goalDifference": 3
+      },
+      {
+        "startSeconds": 2700,
+        "endSeconds": 3000,
+        "label": "45-50",
+        "goals": {
+          "own": 7,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 44,
+          "opponent": 34
+        },
+        "goalDifference": 3
+      }
+    ],
+    "gamePhases": null,
+    "sevenMeters": {
+      "own": {
+        "goals": 1,
+        "misses": 0,
+        "attempts": 1,
+        "percentage": 100
+      },
+      "opponent": {
+        "goals": 0,
+        "misses": 2,
+        "attempts": 2,
+        "percentage": 0
+      }
+    },
+    "sanctions": {
+      "own": {
+        "warnings": 0,
+        "twoMinutes": 0,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      },
+      "opponent": {
+        "warnings": 1,
+        "twoMinutes": 1,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      }
+    },
+    "longestRuns": {
+      "own": {
+        "side": "home",
+        "goals": 5,
+        "startSeconds": 2217,
+        "endSeconds": 2533,
+        "startScore": {
+          "home": 29,
+          "away": 28
+        },
+        "endScore": {
+          "home": 34,
+          "away": 28
+        },
+        "start": "36:57",
+        "end": "42:13"
+      },
+      "opponent": {
+        "side": "away",
+        "goals": 3,
+        "startSeconds": 366,
+        "endSeconds": 450,
+        "startScore": {
+          "home": 5,
+          "away": 4
+        },
+        "endScore": {
+          "home": 5,
+          "away": 7
+        },
+        "start": "06:06",
+        "end": "07:30"
+      }
+    },
+    "scoringDroughts": {
+      "own": {
+        "seconds": 196,
+        "startSeconds": 693,
+        "endSeconds": 889,
+        "duration": "03:16",
+        "start": "11:33",
+        "end": "14:49"
+      },
+      "opponent": {
+        "seconds": 423,
+        "startSeconds": 2161,
+        "endSeconds": 2584,
+        "duration": "07:03",
+        "start": "36:01",
+        "end": "43:04"
+      }
+    },
+    "timeouts": [
+      {
+        "side": "opponent",
+        "seconds": 1174,
+        "clock": "19:34",
+        "score": {
+          "own": 15,
+          "opponent": 16
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 13,
+          "opponent": 14
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 2
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 17,
+          "opponent": 19
+        },
+        "goalsAfter": {
+          "own": 2,
+          "opponent": 3
+        }
+      },
+      {
+        "side": "own",
+        "seconds": 1346,
+        "clock": "22:26",
+        "score": {
+          "own": 17,
+          "opponent": 19
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 15,
+          "opponent": 16
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 3
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 19,
+          "opponent": 19
+        },
+        "goalsAfter": {
+          "own": 2,
+          "opponent": 0
+        }
+      },
+      {
+        "side": "opponent",
+        "seconds": 2506,
+        "clock": "41:46",
+        "score": {
+          "own": 33,
+          "opponent": 28
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 31,
+          "opponent": 28
+        },
+        "goalsBefore": {
+          "own": 2,
+          "opponent": 0
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 37,
+          "opponent": 29
+        },
+        "goalsAfter": {
+          "own": 4,
+          "opponent": 1
+        }
+      }
+    ],
+    "numericSituations": {
+      "suspensionsAffectPlayerCount": true,
+      "suspensions": [
+        {
+          "eventId": 89356373,
+          "side": "opponent",
+          "playerId": "0ongb4i",
+          "playerName": "Falk Georg Niemeyer",
+          "startSeconds": 2772,
+          "endSeconds": 2892,
+          "start": "46:12",
+          "end": "48:12"
+        }
+      ],
+      "even": {
+        "seconds": 2880,
+        "goals": {
+          "own": 41,
+          "opponent": 32
+        }
+      },
+      "powerPlay": {
+        "seconds": 120,
+        "goals": {
+          "own": 3,
+          "opponent": 2
+        }
+      },
+      "shortHanded": {
+        "seconds": 0,
+        "goals": {
+          "own": 0,
+          "opponent": 0
+        }
+      }
+    },
+    "players": {
+      "own": [
+        {
+          "playerId": "1vo8zia",
+          "name": "Luis Thien Ho Kim",
+          "number": 2,
+          "inLineup": true,
+          "goals": 16,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "199o4ev",
+          "name": "Berkant Sasmaz",
+          "number": 15,
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1y3yeg3",
+          "name": "Aryan Mohammad",
+          "number": 8,
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0aj6hf4",
+          "name": "Fabian Helmut Dieter Lohmüller",
+          "number": 3,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "18q9e8a",
+          "name": "Gerrit Springborn",
+          "number": 7,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1yeih8j",
+          "name": "Tobias Mielke",
+          "number": 55,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0bzp386",
+          "name": "Arian Luca Dongowsky",
+          "number": 11,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1u4xeci",
+          "name": "Marian Magnus Geist",
+          "number": 77,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0n9r7pq",
+          "name": "Jonte Krüger",
+          "number": 9,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0boll4i",
+          "name": "John Siebold",
+          "number": 12,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1aa3vsl",
+          "name": "Jon Luca Bellgardt",
+          "number": 64,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ],
+      "opponent": [
+        {
+          "playerId": "0ongb4i",
+          "name": "Falk Georg Niemeyer",
+          "number": 8,
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 1,
+            "attempts": 1,
+            "percentage": 0
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "106lrfo",
+          "name": "Jan-Tinus Holling",
+          "number": 15,
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 1,
+            "attempts": 1,
+            "percentage": 0
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1i5rbtw",
+          "name": "Arek Ehlert",
+          "number": 6,
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "14f75t0",
+          "name": "Klaas Jens Niemeyer",
+          "number": 14,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1wrxy78",
+          "name": "Henning Gillert",
+          "number": 7,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "19i9l1u",
+          "name": "Ben Kruse",
+          "number": 5,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0vxct31",
+          "name": "Anton Ludwig Gesterkamp",
+          "number": 1,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0bwtt8q",
+          "name": "Jakob Knopf",
+          "number": 20,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ]
+    }
+  }
+}

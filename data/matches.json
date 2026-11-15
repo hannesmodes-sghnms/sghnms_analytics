@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T02:21:20.446Z",
+  "generatedAt": "2026-11-15T16:21:49.874Z",
   "matches": [
     {
       "id": 504541,
@@ -10352,6 +10352,804 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/506438.json"
+    },
+    {
+      "id": 518620,
+      "date": "2026-11-15",
+      "time": "09:30",
+      "home": {
+        "id": 87107,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 94066,
+        "name": "SV HENSTEDT-ULZBURG",
+        "clubId": "1j3w2i1"
+      },
+      "result": {
+        "home": 40,
+        "away": 16
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7241,
+      "competition": "Kreisoberliga mE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15496,
+        "name": "mE-KL-West"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87107",
+      "ownTeam": {
+        "label": "MJE 1",
+        "name": "mJE 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 40,
+          "away": 16
+        },
+        "eventFinalScore": {
+          "home": 40,
+          "away": 16
+        },
+        "lineupGoalTotals": {
+          "home": 40,
+          "away": 16
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 56,
+          "goalEventsWithPlayer": 56,
+          "matchedGoalEvents": 56,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/518620.json"
+    },
+    {
+      "id": 509825,
+      "date": "2026-11-15",
+      "time": "10:00",
+      "home": {
+        "id": 82490,
+        "name": "SV Henstedt-Ulzburg",
+        "clubId": "1j3w2i1"
+      },
+      "away": {
+        "id": 87110,
+        "name": "SG HANDBALL NEUMÜNSTER II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 24,
+        "away": 5
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7242,
+      "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15510,
+        "name": "wE-KL-Ost"
+      },
+      "venue": {
+        "name": "ALSTERGYMNASIUM 1",
+        "address": "MAUREPASS STRAßE 67, 24558 HENSTEDT-ULZBURG"
+      },
+      "ownTeamId": "87110",
+      "ownTeam": {
+        "label": "WJE 2",
+        "name": "wJE 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 24,
+          "away": 5
+        },
+        "eventFinalScore": {
+          "home": 24,
+          "away": 5
+        },
+        "lineupGoalTotals": {
+          "home": 24,
+          "away": 5
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 29,
+          "goalEventsWithPlayer": 29,
+          "matchedGoalEvents": 29,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/509825.json"
+    },
+    {
+      "id": 532833,
+      "date": "2026-11-15",
+      "time": "10:45",
+      "home": {
+        "id": 87103,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 87085,
+        "name": "Bramstedter TS II",
+        "clubId": "030n5ma"
+      },
+      "result": {
+        "home": 21,
+        "away": 12
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7239,
+      "competition": "Kreisliga mD Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15492,
+        "name": "mD-KL-Hin"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 21,
+          "away": 12
+        },
+        "eventFinalScore": {
+          "home": 21,
+          "away": 12
+        },
+        "lineupGoalTotals": {
+          "home": 21,
+          "away": 12
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 33,
+          "goalEventsWithPlayer": 33,
+          "matchedGoalEvents": 33,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/532833.json"
+    },
+    {
+      "id": 411586,
+      "date": "2026-11-15",
+      "time": "11:30",
+      "home": {
+        "id": 87265,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 82082,
+        "name": "HSG HERZHORN/KOLLMAR/NEUENDORF",
+        "clubId": "0crfeig"
+      },
+      "result": {
+        "home": 34,
+        "away": 27
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7195,
+      "competition": "Regionsoberliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14637,
+        "name": "WJC-ROL-2"
+      },
+      "venue": {
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87265",
+      "ownTeam": {
+        "label": "WJC 1",
+        "name": "wJC 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 34,
+          "away": 27
+        },
+        "eventFinalScore": {
+          "home": 34,
+          "away": 27
+        },
+        "lineupGoalTotals": {
+          "home": 34,
+          "away": 27
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 61,
+          "goalEventsWithPlayer": 61,
+          "matchedGoalEvents": 61,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/411586.json"
+    },
+    {
+      "id": 450680,
+      "date": "2026-11-15",
+      "time": "12:45",
+      "home": {
+        "id": 87175,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 87176,
+        "name": "Bramstedter TS",
+        "clubId": "030n5ma"
+      },
+      "result": {
+        "home": 18,
+        "away": 28
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 9528,
+      "competition": "Oberliga Schleswig-Holstein weibliche B-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14073,
+        "name": "Vorrunde A"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87175",
+      "ownTeam": {
+        "label": "WJB 1",
+        "name": "wJB 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 18,
+          "away": 28
+        },
+        "eventFinalScore": {
+          "home": 18,
+          "away": 28
+        },
+        "lineupGoalTotals": {
+          "home": 18,
+          "away": 28
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 46,
+          "goalEventsWithPlayer": 46,
+          "matchedGoalEvents": 46,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/450680.json"
+    },
+    {
+      "id": 514295,
+      "date": "2026-11-15",
+      "time": "13:00",
+      "home": {
+        "id": 94482,
+        "name": "SG Handball Neumünster IV",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81898,
+        "name": "HSG KALKBERG 06 III",
+        "clubId": "03erpv1"
+      },
+      "result": {
+        "home": 17,
+        "away": 30
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7950,
+      "competition": "Kreisklasse Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12993,
+        "name": "Kreisklasse Frauen Mitte"
+      },
+      "venue": {
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 17,
+          "away": 30
+        },
+        "eventFinalScore": {
+          "home": 17,
+          "away": 30
+        },
+        "lineupGoalTotals": {
+          "home": 17,
+          "away": 30
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 47,
+          "goalEventsWithPlayer": 47,
+          "matchedGoalEvents": 47,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/514295.json"
+    },
+    {
+      "id": 419777,
+      "date": "2026-11-15",
+      "time": "14:15",
+      "home": {
+        "id": 82032,
+        "name": "HSG OHLAU",
+        "clubId": "0vigdzt"
+      },
+      "away": {
+        "id": 87275,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 24,
+        "away": 29
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7192,
+      "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14688,
+        "name": "wJB-RL-2"
+      },
+      "venue": {
+        "name": "LAKWEGHALLE",
+        "address": "LAKWEG 20, 24568 KALTENKIRCHEN"
+      },
+      "ownTeamId": "87275",
+      "ownTeam": {
+        "label": "WJB 2",
+        "name": "wJB 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 24,
+          "away": 29
+        },
+        "eventFinalScore": {
+          "home": 24,
+          "away": 29
+        },
+        "lineupGoalTotals": {
+          "home": 24,
+          "away": 29
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 53,
+          "goalEventsWithPlayer": 53,
+          "matchedGoalEvents": 53,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/419777.json"
+    },
+    {
+      "id": 677923,
+      "date": "2026-11-15",
+      "time": "14:30",
+      "home": {
+        "id": 87276,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 82205,
+        "name": "HSG HOHE GEEST",
+        "clubId": "1hslhxe"
+      },
+      "result": {
+        "home": 44,
+        "away": 34
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7194,
+      "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14617,
+        "name": "MJC-RL-2"
+      },
+      "venue": {
+        "name": "PESTALOZZI-SCHULE",
+        "address": "AM KAMP 5, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 44,
+          "away": 34
+        },
+        "eventFinalScore": {
+          "home": 44,
+          "away": 34
+        },
+        "lineupGoalTotals": {
+          "home": 44,
+          "away": 34
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 78,
+          "goalEventsWithPlayer": 78,
+          "matchedGoalEvents": 78,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/677923.json"
+    },
+    {
+      "id": 514395,
+      "date": "2026-11-15",
+      "time": "14:45",
+      "home": {
+        "id": 94480,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81836,
+        "name": "Bramstedter TS",
+        "clubId": "030n5ma"
+      },
+      "result": {
+        "home": 22,
+        "away": 30
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7948,
+      "competition": "Kreisoberliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12967,
+        "name": "Kreisoberliga Frauen West"
+      },
+      "venue": {
+        "name": "IGS-HALLE",
+        "address": "PLöNER STRAßE 121, 24536 NEUMüNSTER"
+      },
+      "ownTeamId": "94480",
+      "ownTeam": {
+        "label": "FRAUEN 2",
+        "name": "2. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 22,
+          "away": 30
+        },
+        "eventFinalScore": {
+          "home": 22,
+          "away": 30
+        },
+        "lineupGoalTotals": {
+          "home": 22,
+          "away": 30
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/514395.json"
+    },
+    {
+      "id": 510002,
+      "date": "2026-11-15",
+      "time": "15:00",
+      "home": {
+        "id": 87120,
+        "name": "HSG 91 NORTORF",
+        "clubId": "08ocj2r"
+      },
+      "away": {
+        "id": 87109,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 9,
+        "away": 29
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7242,
+      "competition": "Kreisoberliga wE Neumünster",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 15509,
+        "name": "wE-KL-West"
+      },
+      "venue": {
+        "name": "BüRGERMEISTER JENSEN HALLE",
+        "address": "ZIEGELEIWEG 13, 24613 AUKRUG"
+      },
+      "ownTeamId": "87109",
+      "ownTeam": {
+        "label": "WJE 1",
+        "name": "wJE 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 9,
+          "away": 29
+        },
+        "eventFinalScore": {
+          "home": 9,
+          "away": 29
+        },
+        "lineupGoalTotals": {
+          "home": 9,
+          "away": 29
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 38,
+          "goalEventsWithPlayer": 38,
+          "matchedGoalEvents": 38,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/510002.json"
     },
     {
       "id": 509824,

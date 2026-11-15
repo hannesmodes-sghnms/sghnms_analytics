@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T02:21:20.917Z",
+  "generatedAt": "2026-11-15T16:21:50.575Z",
   "matches": [
     {
       "id": 504541,
@@ -1548,6 +1548,126 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/506438.json"
+    },
+    {
+      "id": 518620,
+      "date": "2026-11-15",
+      "time": "09:30",
+      "ownTeamId": "87107",
+      "opponent": "SV HENSTEDT-ULZBURG",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/518620.json"
+    },
+    {
+      "id": 509825,
+      "date": "2026-11-15",
+      "time": "10:00",
+      "ownTeamId": "87110",
+      "opponent": "SV Henstedt-Ulzburg",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/509825.json"
+    },
+    {
+      "id": 532833,
+      "date": "2026-11-15",
+      "time": "10:45",
+      "ownTeamId": "87103",
+      "opponent": "Bramstedter TS II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/532833.json"
+    },
+    {
+      "id": 411586,
+      "date": "2026-11-15",
+      "time": "11:30",
+      "ownTeamId": "87265",
+      "opponent": "HSG HERZHORN/KOLLMAR/NEUENDORF",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/411586.json"
+    },
+    {
+      "id": 450680,
+      "date": "2026-11-15",
+      "time": "12:45",
+      "ownTeamId": "87175",
+      "opponent": "Bramstedter TS",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/450680.json"
+    },
+    {
+      "id": 514295,
+      "date": "2026-11-15",
+      "time": "13:00",
+      "ownTeamId": "94482",
+      "opponent": "HSG KALKBERG 06 III",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/514295.json"
+    },
+    {
+      "id": 419777,
+      "date": "2026-11-15",
+      "time": "14:15",
+      "ownTeamId": "87275",
+      "opponent": "HSG OHLAU",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/419777.json"
+    },
+    {
+      "id": 677923,
+      "date": "2026-11-15",
+      "time": "14:30",
+      "ownTeamId": "87276",
+      "opponent": "HSG HOHE GEEST",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/677923.json"
+    },
+    {
+      "id": 514395,
+      "date": "2026-11-15",
+      "time": "14:45",
+      "ownTeamId": "94480",
+      "opponent": "Bramstedter TS",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/514395.json"
+    },
+    {
+      "id": 510002,
+      "date": "2026-11-15",
+      "time": "15:00",
+      "ownTeamId": "87109",
+      "opponent": "HSG 91 NORTORF",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/510002.json"
     },
     {
       "id": 509824,

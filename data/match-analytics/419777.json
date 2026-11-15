@@ -1,0 +1,1557 @@
+{
+  "generatedAt": "2026-11-15T16:21:50.560Z",
+  "match": {
+    "id": 419777,
+    "date": "2026-11-15",
+    "time": "14:15",
+    "competitionId": 7192,
+    "competition": "Regionsliga WEIBLICH",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 14688,
+      "name": "wJB-RL-2"
+    },
+    "venue": {
+      "name": "LAKWEGHALLE",
+      "address": "LAKWEG 20, 24568 KALTENKIRCHEN"
+    },
+    "home": {
+      "id": 82032,
+      "name": "HSG OHLAU",
+      "clubId": "0vigdzt"
+    },
+    "away": {
+      "id": 87275,
+      "name": "SG Handball Neumünster II",
+      "clubId": "1yrb3n9"
+    },
+    "result": {
+      "home": 24,
+      "away": 29
+    },
+    "ownTeamId": "87275",
+    "ownTeam": {
+      "label": "WJB 2",
+      "name": "wJB 2",
+      "ageGroup": "youth",
+      "gender": "female",
+      "matchMinutes": 50
+    },
+    "isHome": false,
+    "opponent": {
+      "id": 82032,
+      "name": "HSG OHLAU",
+      "clubId": "0vigdzt"
+    }
+  },
+  "quality": {
+    "status": "verified",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 24,
+      "away": 29
+    },
+    "eventFinalScore": {
+      "home": 24,
+      "away": 29
+    },
+    "lineupGoalTotals": {
+      "home": 24,
+      "away": 29
+    },
+    "eventScoreMatchesOfficial": true,
+    "lineupScoreMatchesOfficial": true,
+    "scorerLineupCoverage": {
+      "goalEvents": 53,
+      "goalEventsWithPlayer": 53,
+      "matchedGoalEvents": 53,
+      "percentage": 100
+    },
+    "halftimeAvailable": true,
+    "halftimeSource": "event",
+    "expectedDurationSeconds": 3000,
+    "eventDurationSeconds": 3000,
+    "durationDeltaSeconds": 0,
+    "durationMatchesExpected": true,
+    "analyticsEligible": true,
+    "lineupEligible": true,
+    "warnings": []
+  },
+  "analytics": {
+    "duration": {
+      "expectedSeconds": 3000,
+      "eventSeconds": 3000,
+      "analysisSeconds": 3000,
+      "analysisClock": "50:00"
+    },
+    "score": {
+      "final": {
+        "own": 29,
+        "opponent": 24
+      },
+      "halftime": {
+        "own": 14,
+        "opponent": 9
+      },
+      "halftimeSource": "event"
+    },
+    "matchFlow": [
+      {
+        "eventId": 89333249,
+        "timestamp": "2026-11-15T14:19:33+00:00",
+        "seconds": 147,
+        "clock": "02:27",
+        "side": "own",
+        "playerId": "19jt45h",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 0
+        }
+      },
+      {
+        "eventId": 89333248,
+        "timestamp": "2026-11-15T14:21:18+00:00",
+        "seconds": 253,
+        "clock": "04:13",
+        "side": "opponent",
+        "playerId": "0qg4v97",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 89333246,
+        "timestamp": "2026-11-15T14:22:38+00:00",
+        "seconds": 331,
+        "clock": "05:31",
+        "side": "own",
+        "playerId": "19jt45h",
+        "playerName": "* *",
+        "isSevenMeter": true,
+        "score": {
+          "own": 2,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 89333245,
+        "timestamp": "2026-11-15T14:22:52+00:00",
+        "seconds": 348,
+        "clock": "05:48",
+        "side": "opponent",
+        "playerId": "1ocr39t",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 89333244,
+        "timestamp": "2026-11-15T14:24:08+00:00",
+        "seconds": 424,
+        "clock": "07:04",
+        "side": "opponent",
+        "playerId": "0qg4v97",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 89333243,
+        "timestamp": "2026-11-15T14:26:24+00:00",
+        "seconds": 559,
+        "clock": "09:19",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 89333242,
+        "timestamp": "2026-11-15T14:26:48+00:00",
+        "seconds": 583,
+        "clock": "09:43",
+        "side": "own",
+        "playerId": "1ceoq5u",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 89333241,
+        "timestamp": "2026-11-15T14:26:59+00:00",
+        "seconds": 595,
+        "clock": "09:55",
+        "side": "opponent",
+        "playerId": "1k26684",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89333240,
+        "timestamp": "2026-11-15T14:28:28+00:00",
+        "seconds": 642,
+        "clock": "10:42",
+        "side": "own",
+        "playerId": "1vk83v2",
+        "playerName": "* *",
+        "isSevenMeter": true,
+        "score": {
+          "own": 5,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89333238,
+        "timestamp": "2026-11-15T14:29:15+00:00",
+        "seconds": 690,
+        "clock": "11:30",
+        "side": "own",
+        "playerId": "19jt45h",
+        "playerName": "* *",
+        "isSevenMeter": true,
+        "score": {
+          "own": 6,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89333237,
+        "timestamp": "2026-11-15T14:30:07+00:00",
+        "seconds": 742,
+        "clock": "12:22",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89333236,
+        "timestamp": "2026-11-15T14:31:56+00:00",
+        "seconds": 852,
+        "clock": "14:12",
+        "side": "own",
+        "playerId": "1ceoq5u",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89333235,
+        "timestamp": "2026-11-15T14:32:54+00:00",
+        "seconds": 909,
+        "clock": "15:09",
+        "side": "own",
+        "playerId": "1cwda29",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89333234,
+        "timestamp": "2026-11-15T14:35:45+00:00",
+        "seconds": 978,
+        "clock": "16:18",
+        "side": "own",
+        "playerId": "19jt45h",
+        "playerName": "* *",
+        "isSevenMeter": true,
+        "score": {
+          "own": 10,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 89333233,
+        "timestamp": "2026-11-15T14:36:25+00:00",
+        "seconds": 1019,
+        "clock": "16:59",
+        "side": "opponent",
+        "playerId": "1c6c6jb",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 89333231,
+        "timestamp": "2026-11-15T14:38:24+00:00",
+        "seconds": 1096,
+        "clock": "18:16",
+        "side": "opponent",
+        "playerId": "0o8begz",
+        "playerName": "* *",
+        "isSevenMeter": true,
+        "score": {
+          "own": 10,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 89333230,
+        "timestamp": "2026-11-15T14:38:33+00:00",
+        "seconds": 1106,
+        "clock": "18:26",
+        "side": "own",
+        "playerId": "1vk83v2",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 89333229,
+        "timestamp": "2026-11-15T14:39:02+00:00",
+        "seconds": 1133,
+        "clock": "18:53",
+        "side": "opponent",
+        "playerId": "07we8s4",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 89333228,
+        "timestamp": "2026-11-15T14:39:36+00:00",
+        "seconds": 1168,
+        "clock": "19:28",
+        "side": "own",
+        "playerId": "1cwda29",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 89333227,
+        "timestamp": "2026-11-15T14:39:58+00:00",
+        "seconds": 1190,
+        "clock": "19:50",
+        "side": "own",
+        "playerId": "17ap9av",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 89333226,
+        "timestamp": "2026-11-15T14:40:32+00:00",
+        "seconds": 1222,
+        "clock": "20:22",
+        "side": "opponent",
+        "playerId": "0r4wu1g",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 89333225,
+        "timestamp": "2026-11-15T14:42:28+00:00",
+        "seconds": 1326,
+        "clock": "22:06",
+        "side": "opponent",
+        "playerId": "1c6c6jb",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 89333223,
+        "timestamp": "2026-11-15T14:45:58+00:00",
+        "seconds": 1467,
+        "clock": "24:27",
+        "side": "own",
+        "playerId": "17cbyrp",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 89333220,
+        "timestamp": "2026-11-15T14:57:04+00:00",
+        "seconds": 1535,
+        "clock": "25:35",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 89333219,
+        "timestamp": "2026-11-15T14:58:34+00:00",
+        "seconds": 1626,
+        "clock": "27:06",
+        "side": "own",
+        "playerId": "1ceoq5u",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 89333218,
+        "timestamp": "2026-11-15T14:59:35+00:00",
+        "seconds": 1687,
+        "clock": "28:07",
+        "side": "opponent",
+        "playerId": "0r4wu1g",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 89333217,
+        "timestamp": "2026-11-15T15:00:37+00:00",
+        "seconds": 1749,
+        "clock": "29:09",
+        "side": "own",
+        "playerId": "1ceoq5u",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 89333216,
+        "timestamp": "2026-11-15T15:01:20+00:00",
+        "seconds": 1792,
+        "clock": "29:52",
+        "side": "opponent",
+        "playerId": "0w135vw",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 89333215,
+        "timestamp": "2026-11-15T15:01:39+00:00",
+        "seconds": 1809,
+        "clock": "30:09",
+        "side": "own",
+        "playerId": "1ceoq5u",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 89333214,
+        "timestamp": "2026-11-15T15:02:00+00:00",
+        "seconds": 1832,
+        "clock": "30:32",
+        "side": "own",
+        "playerId": "1ceoq5u",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 89333213,
+        "timestamp": "2026-11-15T15:03:12+00:00",
+        "seconds": 1904,
+        "clock": "31:44",
+        "side": "opponent",
+        "playerId": "1ocr39t",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 89333212,
+        "timestamp": "2026-11-15T15:05:15+00:00",
+        "seconds": 2028,
+        "clock": "33:48",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 89333211,
+        "timestamp": "2026-11-15T15:05:43+00:00",
+        "seconds": 2055,
+        "clock": "34:15",
+        "side": "opponent",
+        "playerId": "0o8begz",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 89333210,
+        "timestamp": "2026-11-15T15:07:51+00:00",
+        "seconds": 2150,
+        "clock": "35:50",
+        "side": "own",
+        "playerId": "1cwda29",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 89333209,
+        "timestamp": "2026-11-15T15:07:54+00:00",
+        "seconds": 2158,
+        "clock": "35:58",
+        "side": "opponent",
+        "playerId": "1k26684",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 89333208,
+        "timestamp": "2026-11-15T15:08:03+00:00",
+        "seconds": 2166,
+        "clock": "36:06",
+        "side": "own",
+        "playerId": "1ceoq5u",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 22,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 89333207,
+        "timestamp": "2026-11-15T15:08:37+00:00",
+        "seconds": 2201,
+        "clock": "36:41",
+        "side": "own",
+        "playerId": "19jt45h",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 89333206,
+        "timestamp": "2026-11-15T15:09:41+00:00",
+        "seconds": 2225,
+        "clock": "37:05",
+        "side": "opponent",
+        "playerId": "0r4wu1g",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 23,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89333205,
+        "timestamp": "2026-11-15T15:10:05+00:00",
+        "seconds": 2249,
+        "clock": "37:29",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 24,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89333204,
+        "timestamp": "2026-11-15T15:10:52+00:00",
+        "seconds": 2296,
+        "clock": "38:16",
+        "side": "own",
+        "playerId": "1cwda29",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 25,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89333203,
+        "timestamp": "2026-11-15T15:13:26+00:00",
+        "seconds": 2373,
+        "clock": "39:33",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 26,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89333201,
+        "timestamp": "2026-11-15T15:13:59+00:00",
+        "seconds": 2406,
+        "clock": "40:06",
+        "side": "own",
+        "playerId": "1vk83v2",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 89333199,
+        "timestamp": "2026-11-15T15:14:29+00:00",
+        "seconds": 2434,
+        "clock": "40:34",
+        "side": "opponent",
+        "playerId": "0o8begz",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 89333198,
+        "timestamp": "2026-11-15T15:15:05+00:00",
+        "seconds": 2471,
+        "clock": "41:11",
+        "side": "opponent",
+        "playerId": "1c6c6jb",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 27,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 89333196,
+        "timestamp": "2026-11-15T15:15:32+00:00",
+        "seconds": 2499,
+        "clock": "41:39",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 89333192,
+        "timestamp": "2026-11-15T15:16:29+00:00",
+        "seconds": 2524,
+        "clock": "42:04",
+        "side": "opponent",
+        "playerId": "0r4wu1g",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 28,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 89333189,
+        "timestamp": "2026-11-15T15:16:51+00:00",
+        "seconds": 2543,
+        "clock": "42:23",
+        "side": "own",
+        "playerId": "18w742e",
+        "playerName": "* *",
+        "isSevenMeter": true,
+        "score": {
+          "own": 29,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 89333187,
+        "timestamp": "2026-11-15T15:19:16+00:00",
+        "seconds": 2689,
+        "clock": "44:49",
+        "side": "opponent",
+        "playerId": "0r4wu1g",
+        "playerName": "* *",
+        "isSevenMeter": true,
+        "score": {
+          "own": 29,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 89333185,
+        "timestamp": "2026-11-15T15:19:47+00:00",
+        "seconds": 2719,
+        "clock": "45:19",
+        "side": "opponent",
+        "playerId": "1k26684",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 89333183,
+        "timestamp": "2026-11-15T15:20:01+00:00",
+        "seconds": 2733,
+        "clock": "45:33",
+        "side": "opponent",
+        "playerId": "0w135vw",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 89333181,
+        "timestamp": "2026-11-15T15:21:12+00:00",
+        "seconds": 2804,
+        "clock": "46:44",
+        "side": "opponent",
+        "playerId": "0r4wu1g",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 89333173,
+        "timestamp": "2026-11-15T15:27:06+00:00",
+        "seconds": 2984,
+        "clock": "49:44",
+        "side": "opponent",
+        "playerId": "10z05ku",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 89333170,
+        "timestamp": "2026-11-15T15:27:29+00:00",
+        "seconds": 3000,
+        "clock": "50:00",
+        "side": "opponent",
+        "playerId": "10z05ku",
+        "playerName": "* *",
+        "isSevenMeter": false,
+        "score": {
+          "own": 29,
+          "opponent": 24
+        }
+      }
+    ],
+    "fiveMinuteSplits": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 300,
+        "label": "0-5",
+        "goals": {
+          "own": 1,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 1,
+          "opponent": 1
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 300,
+        "endSeconds": 600,
+        "label": "5-10",
+        "goals": {
+          "own": 3,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 4,
+          "opponent": 4
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 600,
+        "endSeconds": 900,
+        "label": "10-15",
+        "goals": {
+          "own": 4,
+          "opponent": 0
+        },
+        "scoreEnd": {
+          "own": 8,
+          "opponent": 4
+        },
+        "goalDifference": 4
+      },
+      {
+        "startSeconds": 900,
+        "endSeconds": 1200,
+        "label": "15-20",
+        "goals": {
+          "own": 5,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 13,
+          "opponent": 7
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 1200,
+        "endSeconds": 1500,
+        "label": "20-25",
+        "goals": {
+          "own": 1,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 14,
+          "opponent": 9
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 1500,
+        "endSeconds": 1800,
+        "label": "25-30",
+        "goals": {
+          "own": 3,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 17,
+          "opponent": 11
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 1800,
+        "endSeconds": 2100,
+        "label": "30-35",
+        "goals": {
+          "own": 3,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 20,
+          "opponent": 13
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 2100,
+        "endSeconds": 2400,
+        "label": "35-40",
+        "goals": {
+          "own": 6,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 26,
+          "opponent": 15
+        },
+        "goalDifference": 4
+      },
+      {
+        "startSeconds": 2400,
+        "endSeconds": 2700,
+        "label": "40-45",
+        "goals": {
+          "own": 3,
+          "opponent": 4
+        },
+        "scoreEnd": {
+          "own": 29,
+          "opponent": 19
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 2700,
+        "endSeconds": 3000,
+        "label": "45-50",
+        "goals": {
+          "own": 0,
+          "opponent": 5
+        },
+        "scoreEnd": {
+          "own": 29,
+          "opponent": 24
+        },
+        "goalDifference": -5
+      }
+    ],
+    "gamePhases": null,
+    "sevenMeters": {
+      "own": {
+        "goals": 5,
+        "misses": 2,
+        "attempts": 7,
+        "percentage": 71.4
+      },
+      "opponent": {
+        "goals": 2,
+        "misses": 0,
+        "attempts": 2,
+        "percentage": 100
+      }
+    },
+    "sanctions": {
+      "own": {
+        "warnings": 0,
+        "twoMinutes": 2,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      },
+      "opponent": {
+        "warnings": 2,
+        "twoMinutes": 2,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      }
+    },
+    "longestRuns": {
+      "own": {
+        "side": "away",
+        "goals": 6,
+        "startSeconds": 642,
+        "endSeconds": 978,
+        "startScore": {
+          "home": 4,
+          "away": 4
+        },
+        "endScore": {
+          "home": 4,
+          "away": 10
+        },
+        "start": "10:42",
+        "end": "16:18"
+      },
+      "opponent": {
+        "side": "home",
+        "goals": 6,
+        "startSeconds": 2689,
+        "endSeconds": 3000,
+        "startScore": {
+          "home": 18,
+          "away": 29
+        },
+        "endScore": {
+          "home": 24,
+          "away": 29
+        },
+        "start": "44:49",
+        "end": "50:00"
+      }
+    },
+    "scoringDroughts": {
+      "own": {
+        "seconds": 457,
+        "startSeconds": 2543,
+        "endSeconds": 3000,
+        "duration": "07:37",
+        "start": "42:23",
+        "end": "50:00"
+      },
+      "opponent": {
+        "seconds": 424,
+        "startSeconds": 595,
+        "endSeconds": 1019,
+        "duration": "07:04",
+        "start": "09:55",
+        "end": "16:59"
+      }
+    },
+    "timeouts": [],
+    "numericSituations": {
+      "suspensionsAffectPlayerCount": true,
+      "suspensions": [
+        {
+          "eventId": 89333232,
+          "side": "own",
+          "playerId": "19jt45h",
+          "playerName": "* *",
+          "startSeconds": 1088,
+          "endSeconds": 1208,
+          "start": "18:08",
+          "end": "20:08"
+        },
+        {
+          "eventId": 89333224,
+          "side": "own",
+          "playerId": "1cwda29",
+          "playerName": "* *",
+          "startSeconds": 1361,
+          "endSeconds": 1481,
+          "start": "22:41",
+          "end": "24:41"
+        },
+        {
+          "eventId": 89333194,
+          "side": "opponent",
+          "playerId": "0w135vw",
+          "playerName": "* *",
+          "startSeconds": 2508,
+          "endSeconds": 2628,
+          "start": "41:48",
+          "end": "43:48"
+        },
+        {
+          "eventId": 89333179,
+          "side": "opponent",
+          "playerId": "0w135vw",
+          "playerName": "* *",
+          "startSeconds": 2878,
+          "endSeconds": 2998,
+          "start": "47:58",
+          "end": "49:58"
+        }
+      ],
+      "even": {
+        "seconds": 2520,
+        "goals": {
+          "own": 24,
+          "opponent": 20
+        }
+      },
+      "powerPlay": {
+        "seconds": 240,
+        "goals": {
+          "own": 1,
+          "opponent": 2
+        }
+      },
+      "shortHanded": {
+        "seconds": 240,
+        "goals": {
+          "own": 4,
+          "opponent": 2
+        }
+      }
+    },
+    "players": {
+      "own": [
+        {
+          "playerId": "18w742e",
+          "name": "* *",
+          "number": 4,
+          "inLineup": true,
+          "goals": 8,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 1,
+            "attempts": 2,
+            "percentage": 50
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1ceoq5u",
+          "name": "* *",
+          "number": 5,
+          "inLineup": true,
+          "goals": 7,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "19jt45h",
+          "name": "* *",
+          "number": 2,
+          "inLineup": true,
+          "goals": 5,
+          "sevenMeters": {
+            "goals": 3,
+            "misses": 0,
+            "attempts": 3,
+            "percentage": 100
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1cwda29",
+          "name": "* *",
+          "number": 11,
+          "inLineup": true,
+          "goals": 4,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1vk83v2",
+          "name": "* *",
+          "number": 3,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 1,
+            "attempts": 2,
+            "percentage": 50
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "17ap9av",
+          "name": "* *",
+          "number": 6,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "17cbyrp",
+          "name": "* *",
+          "number": 15,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0audvy3",
+          "name": "* *",
+          "number": 1,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "112xbdh",
+          "name": "* *",
+          "number": 9,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1feql7b",
+          "name": "* *",
+          "number": 12,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1dsd3jy",
+          "name": "* *",
+          "number": 14,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1od4ijp",
+          "name": "* *",
+          "number": 17,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ],
+      "opponent": [
+        {
+          "playerId": "0r4wu1g",
+          "name": "* *",
+          "number": 5,
+          "inLineup": true,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1k26684",
+          "name": "* *",
+          "number": 6,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1c6c6jb",
+          "name": "* *",
+          "number": 11,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0o8begz",
+          "name": "* *",
+          "number": 14,
+          "inLineup": true,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0w135vw",
+          "name": "* *",
+          "number": 8,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 2,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1ocr39t",
+          "name": "* *",
+          "number": 9,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "10z05ku",
+          "name": "* *",
+          "number": 12,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0qg4v97",
+          "name": "* *",
+          "number": 13,
+          "inLineup": true,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "07we8s4",
+          "name": "* *",
+          "number": 4,
+          "inLineup": true,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1g8bi83",
+          "name": "* *",
+          "number": 2,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1gwbn9m",
+          "name": "* *",
+          "number": 7,
+          "inLineup": true,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ]
+    }
+  }
+}

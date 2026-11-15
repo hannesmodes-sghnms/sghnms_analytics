@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T02:21:20.445Z",
+  "generatedAt": "2026-11-15T16:21:49.873Z",
   "matches": [
     {
       "id": 504541,
@@ -6089,6 +6089,474 @@
         "halftimeSource": "event",
         "expectedDurationSeconds": 3600,
         "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 518620,
+      "date": "2026-11-15",
+      "ownTeamId": "87107",
+      "ownTeam": {
+        "label": "MJE 1",
+        "name": "mJE 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 40,
+          "away": 16
+        },
+        "eventFinalScore": {
+          "home": 40,
+          "away": 16
+        },
+        "lineupGoalTotals": {
+          "home": 40,
+          "away": 16
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 56,
+          "goalEventsWithPlayer": 56,
+          "matchedGoalEvents": 56,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 509825,
+      "date": "2026-11-15",
+      "ownTeamId": "87110",
+      "ownTeam": {
+        "label": "WJE 2",
+        "name": "wJE 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 24,
+          "away": 5
+        },
+        "eventFinalScore": {
+          "home": 24,
+          "away": 5
+        },
+        "lineupGoalTotals": {
+          "home": 24,
+          "away": 5
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 29,
+          "goalEventsWithPlayer": 29,
+          "matchedGoalEvents": 29,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 532833,
+      "date": "2026-11-15",
+      "ownTeamId": "87103",
+      "ownTeam": {
+        "label": "MJD 1",
+        "name": "mJD 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "D",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 21,
+          "away": 12
+        },
+        "eventFinalScore": {
+          "home": 21,
+          "away": 12
+        },
+        "lineupGoalTotals": {
+          "home": 21,
+          "away": 12
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 33,
+          "goalEventsWithPlayer": 33,
+          "matchedGoalEvents": 33,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 411586,
+      "date": "2026-11-15",
+      "ownTeamId": "87265",
+      "ownTeam": {
+        "label": "WJC 1",
+        "name": "wJC 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 34,
+          "away": 27
+        },
+        "eventFinalScore": {
+          "home": 34,
+          "away": 27
+        },
+        "lineupGoalTotals": {
+          "home": 34,
+          "away": 27
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 61,
+          "goalEventsWithPlayer": 61,
+          "matchedGoalEvents": 61,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 450680,
+      "date": "2026-11-15",
+      "ownTeamId": "87175",
+      "ownTeam": {
+        "label": "WJB 1",
+        "name": "wJB 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 18,
+          "away": 28
+        },
+        "eventFinalScore": {
+          "home": 18,
+          "away": 28
+        },
+        "lineupGoalTotals": {
+          "home": 18,
+          "away": 28
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 46,
+          "goalEventsWithPlayer": 46,
+          "matchedGoalEvents": 46,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 514295,
+      "date": "2026-11-15",
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 17,
+          "away": 30
+        },
+        "eventFinalScore": {
+          "home": 17,
+          "away": 30
+        },
+        "lineupGoalTotals": {
+          "home": 17,
+          "away": 30
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 47,
+          "goalEventsWithPlayer": 47,
+          "matchedGoalEvents": 47,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 419777,
+      "date": "2026-11-15",
+      "ownTeamId": "87275",
+      "ownTeam": {
+        "label": "WJB 2",
+        "name": "wJB 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 24,
+          "away": 29
+        },
+        "eventFinalScore": {
+          "home": 24,
+          "away": 29
+        },
+        "lineupGoalTotals": {
+          "home": 24,
+          "away": 29
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 53,
+          "goalEventsWithPlayer": 53,
+          "matchedGoalEvents": 53,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 677923,
+      "date": "2026-11-15",
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 44,
+          "away": 34
+        },
+        "eventFinalScore": {
+          "home": 44,
+          "away": 34
+        },
+        "lineupGoalTotals": {
+          "home": 44,
+          "away": 34
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 78,
+          "goalEventsWithPlayer": 78,
+          "matchedGoalEvents": 78,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 514395,
+      "date": "2026-11-15",
+      "ownTeamId": "94480",
+      "ownTeam": {
+        "label": "FRAUEN 2",
+        "name": "2. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 22,
+          "away": 30
+        },
+        "eventFinalScore": {
+          "home": 22,
+          "away": 30
+        },
+        "lineupGoalTotals": {
+          "home": 22,
+          "away": 30
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 52,
+          "goalEventsWithPlayer": 52,
+          "matchedGoalEvents": 52,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      }
+    },
+    {
+      "id": 510002,
+      "date": "2026-11-15",
+      "ownTeamId": "87109",
+      "ownTeam": {
+        "label": "WJE 1",
+        "name": "wJE 1",
+        "ageGroup": "youth",
+        "gender": "female",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 9,
+          "away": 29
+        },
+        "eventFinalScore": {
+          "home": 9,
+          "away": 29
+        },
+        "lineupGoalTotals": {
+          "home": 9,
+          "away": 29
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 38,
+          "goalEventsWithPlayer": 38,
+          "matchedGoalEvents": 38,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 2400,
         "durationDeltaSeconds": 0,
         "durationMatchesExpected": true,
         "analyticsEligible": true,
