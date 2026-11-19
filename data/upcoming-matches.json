@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:29:53.513Z",
+  "generatedAt": "2026-11-19T03:59:27.609Z",
   "matches": [
     {
       "id": 518587,
@@ -6698,19 +6698,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
           "draws": 0,
-          "losses": 4,
-          "goalsFor": 108,
-          "goalsAgainst": 126,
-          "goalDifference": -18,
-          "winRate": 20,
-          "goalsForAvg": 21.6,
-          "goalsAgainstAvg": 25.2,
-          "goalDifferenceAvg": -3.6
+          "losses": 5,
+          "goalsFor": 133,
+          "goalsAgainst": 154,
+          "goalDifference": -21,
+          "winRate": 16.7,
+          "goalsForAvg": 22.17,
+          "goalsAgainstAvg": 25.67,
+          "goalDifferenceAvg": -3.5
         },
         "recent": [
+          {
+            "id": 514359,
+            "date": "2026-11-17",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81853,
+              "name": "HSG Herzhorn/Kollmar/Neuendorf II",
+              "clubId": "0crfeig"
+            },
+            "goalsFor": 25,
+            "goalsAgainst": 28,
+            "result": "L"
+          },
           {
             "id": 514396,
             "date": "2026-11-14",
@@ -6766,20 +6780,6 @@
             "goalsFor": 21,
             "goalsAgainst": 20,
             "result": "W"
-          },
-          {
-            "id": 514363,
-            "date": "2026-09-12",
-            "time": "19:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81851,
-              "name": "HSG STÖRTAL HUMMELN",
-              "clubId": "1qw4nbk"
-            },
-            "goalsFor": 24,
-            "goalsAgainst": 27,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -6798,22 +6798,33 @@
             "playerId": "0s8waxz",
             "name": "Linda Tzschöckel",
             "number": 33,
-            "games": 5,
-            "goals": 15,
+            "games": 6,
+            "goals": 17,
             "sevenMeterGoals": 5,
             "sevenMeterAttempts": 11,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.83,
             "sevenMeterPercentage": 45.5
           },
           {
             "playerId": "0fd44xv",
             "name": "Nele Petsch",
             "number": 21,
-            "games": 5,
-            "goals": 13,
+            "games": 6,
+            "goals": 15,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.6,
+            "goalsPerGame": 2.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0tekd0q",
+            "name": "Anne Hübner",
+            "number": 20,
+            "games": 4,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.5,
             "sevenMeterPercentage": null
           },
           {
@@ -6826,22 +6837,11 @@
             "sevenMeterAttempts": 2,
             "goalsPerGame": 2.25,
             "sevenMeterPercentage": 50
-          },
-          {
-            "playerId": "0xngbgi",
-            "name": "Hannah Zölitz",
-            "number": 11,
-            "games": 4,
-            "goals": 8,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": 75
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -7245,14 +7245,14 @@
       "date": "2026-12-04",
       "time": "20:30",
       "home": {
-        "id": 86801,
-        "name": "SG HANDBALL NEUMÜNSTER",
-        "clubId": "1yrb3n9"
-      },
-      "away": {
         "id": 81545,
         "name": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT",
         "clubId": "1sz55yy"
+      },
+      "away": {
+        "id": 86801,
+        "name": "SG HANDBALL NEUMÜNSTER",
+        "clubId": "1yrb3n9"
       },
       "result": {
         "home": null,
@@ -7271,8 +7271,8 @@
         "name": "Meisterrunde"
       },
       "venue": {
-        "name": "KSV-HALLE NMS",
-        "address": "HANSARING 130, 24534 NEUMüNSTER"
+        "name": "SPORTHALLE ALT DUVENSTEDT",
+        "address": "DORFSTRAßE / SCHULE, 24791 ALT DUVENSTEDT"
       },
       "ownTeamId": "86801",
       "ownTeam": {
@@ -25736,14 +25736,14 @@
       "date": "2027-04-09",
       "time": "20:30",
       "home": {
-        "id": 81545,
-        "name": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT",
-        "clubId": "1sz55yy"
-      },
-      "away": {
         "id": 86801,
         "name": "SG HANDBALL NEUMÜNSTER",
         "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 81545,
+        "name": "HSG FOCKBEK/NÜBBEL/ALT DUVENSTEDT",
+        "clubId": "1sz55yy"
       },
       "result": {
         "home": null,
@@ -25762,8 +25762,8 @@
         "name": "Meisterrunde"
       },
       "venue": {
-        "name": "SPORTHALLE ALT DUVENSTEDT",
-        "address": "DORFSTRAßE / SCHULE, 24791 ALT DUVENSTEDT"
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
       },
       "ownTeamId": "86801",
       "ownTeam": {
@@ -26160,19 +26160,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
           "draws": 0,
-          "losses": 4,
-          "goalsFor": 108,
-          "goalsAgainst": 126,
-          "goalDifference": -18,
-          "winRate": 20,
-          "goalsForAvg": 21.6,
-          "goalsAgainstAvg": 25.2,
-          "goalDifferenceAvg": -3.6
+          "losses": 5,
+          "goalsFor": 133,
+          "goalsAgainst": 154,
+          "goalDifference": -21,
+          "winRate": 16.7,
+          "goalsForAvg": 22.17,
+          "goalsAgainstAvg": 25.67,
+          "goalDifferenceAvg": -3.5
         },
         "recent": [
+          {
+            "id": 514359,
+            "date": "2026-11-17",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81853,
+              "name": "HSG Herzhorn/Kollmar/Neuendorf II",
+              "clubId": "0crfeig"
+            },
+            "goalsFor": 25,
+            "goalsAgainst": 28,
+            "result": "L"
+          },
           {
             "id": 514396,
             "date": "2026-11-14",
@@ -26228,20 +26242,6 @@
             "goalsFor": 21,
             "goalsAgainst": 20,
             "result": "W"
-          },
-          {
-            "id": 514363,
-            "date": "2026-09-12",
-            "time": "19:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81851,
-              "name": "HSG STÖRTAL HUMMELN",
-              "clubId": "1qw4nbk"
-            },
-            "goalsFor": 24,
-            "goalsAgainst": 27,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -26260,22 +26260,33 @@
             "playerId": "0s8waxz",
             "name": "Linda Tzschöckel",
             "number": 33,
-            "games": 5,
-            "goals": 15,
+            "games": 6,
+            "goals": 17,
             "sevenMeterGoals": 5,
             "sevenMeterAttempts": 11,
-            "goalsPerGame": 3,
+            "goalsPerGame": 2.83,
             "sevenMeterPercentage": 45.5
           },
           {
             "playerId": "0fd44xv",
             "name": "Nele Petsch",
             "number": 21,
-            "games": 5,
-            "goals": 13,
+            "games": 6,
+            "goals": 15,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 2.6,
+            "goalsPerGame": 2.5,
+            "sevenMeterPercentage": null
+          },
+          {
+            "playerId": "0tekd0q",
+            "name": "Anne Hübner",
+            "number": 20,
+            "games": 4,
+            "goals": 10,
+            "sevenMeterGoals": 0,
+            "sevenMeterAttempts": 0,
+            "goalsPerGame": 2.5,
             "sevenMeterPercentage": null
           },
           {
@@ -26288,22 +26299,11 @@
             "sevenMeterAttempts": 2,
             "goalsPerGame": 2.25,
             "sevenMeterPercentage": 50
-          },
-          {
-            "playerId": "0xngbgi",
-            "name": "Hannah Zölitz",
-            "number": 11,
-            "games": 4,
-            "goals": 8,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 4,
-            "goalsPerGame": 2,
-            "sevenMeterPercentage": 75
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }

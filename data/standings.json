@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T14:29:53.534Z",
+  "generatedAt": "2026-11-19T03:59:27.657Z",
   "teams": [
     {
       "teamId": "86801",
@@ -4682,53 +4682,6 @@
             {
               "position": 6,
               "team": {
-                "id": 87120,
-                "name": "HSG 91 NORTORF",
-                "club": {
-                  "id": "08ocj2r",
-                  "name": "HSG 91 Nortorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5941/square_346e3173737635303070.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 5,
-              "won": 2,
-              "drawn": 1,
-              "lost": 2,
-              "goalsFor": 74,
-              "goalsAgainst": 72,
-              "goalDifference": 2,
-              "points": 5,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 509969,
-                  "result": "D"
-                },
-                {
-                  "matchId": 509980,
-                  "result": "L"
-                },
-                {
-                  "matchId": 509985,
-                  "result": "W"
-                },
-                {
-                  "matchId": 509991,
-                  "result": "W"
-                },
-                {
-                  "matchId": 510002,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 7,
-              "team": {
                 "id": 82496,
                 "name": "TUS HARTENHOLM",
                 "club": {
@@ -4741,20 +4694,16 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
-              "won": 2,
+              "played": 7,
+              "won": 3,
               "drawn": 0,
               "lost": 4,
-              "goalsFor": 94,
-              "goalsAgainst": 91,
-              "goalDifference": 3,
-              "points": 4,
+              "goalsFor": 114,
+              "goalsAgainst": 107,
+              "goalDifference": 7,
+              "points": 6,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 509975,
-                  "result": "L"
-                },
                 {
                   "matchId": 509978,
                   "result": "L"
@@ -4768,7 +4717,58 @@
                   "result": "W"
                 },
                 {
+                  "matchId": 509996,
+                  "result": "W"
+                },
+                {
                   "matchId": 510001,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 7,
+              "team": {
+                "id": 87120,
+                "name": "HSG 91 NORTORF",
+                "club": {
+                  "id": "08ocj2r",
+                  "name": "HSG 91 Nortorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5941/square_346e3173737635303070.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 6,
+              "won": 2,
+              "drawn": 1,
+              "lost": 3,
+              "goalsFor": 90,
+              "goalsAgainst": 92,
+              "goalDifference": -2,
+              "points": 5,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 509980,
+                  "result": "L"
+                },
+                {
+                  "matchId": 509985,
+                  "result": "W"
+                },
+                {
+                  "matchId": 509991,
+                  "result": "W"
+                },
+                {
+                  "matchId": 509996,
+                  "result": "L"
+                },
+                {
+                  "matchId": 510002,
                   "result": "L"
                 }
               ]
@@ -10489,7 +10489,7 @@
             },
             {
               "round": 2,
-              "position": 8,
+              "position": 10,
               "played": 1,
               "won": 0,
               "drawn": 0,
@@ -10502,7 +10502,7 @@
             },
             {
               "round": 3,
-              "position": 8,
+              "position": 10,
               "played": 2,
               "won": 0,
               "drawn": 0,
@@ -10515,7 +10515,7 @@
             },
             {
               "round": 4,
-              "position": 10,
+              "position": 11,
               "played": 3,
               "won": 0,
               "drawn": 0,
@@ -10528,7 +10528,7 @@
             },
             {
               "round": 5,
-              "position": 10,
+              "position": 11,
               "played": 3,
               "won": 0,
               "drawn": 0,
@@ -10783,16 +10783,20 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 2,
+              "played": 5,
+              "won": 3,
               "drawn": 0,
               "lost": 2,
-              "goalsFor": 108,
-              "goalsAgainst": 112,
-              "goalDifference": -4,
-              "points": 4,
+              "goalsFor": 136,
+              "goalsAgainst": 137,
+              "goalDifference": -1,
+              "points": 6,
               "qualifies": true,
               "form": [
+                {
+                  "matchId": 514359,
+                  "result": "W"
+                },
                 {
                   "matchId": 514366,
                   "result": "W"
@@ -10916,13 +10920,13 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
+              "played": 7,
               "won": 2,
               "drawn": 0,
-              "lost": 4,
-              "goalsFor": 134,
-              "goalsAgainst": 150,
-              "goalDifference": -16,
+              "lost": 5,
+              "goalsFor": 159,
+              "goalsAgainst": 178,
+              "goalDifference": -19,
               "points": 4,
               "qualifies": true,
               "form": [
