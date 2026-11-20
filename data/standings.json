@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:59:27.657Z",
+  "generatedAt": "2026-11-20T03:50:52.053Z",
   "teams": [
     {
       "teamId": "86801",
@@ -25,7 +25,7 @@
           "teamCount": 12,
           "current": {
             "round": 7,
-            "position": 5,
+            "position": 6,
             "played": 7,
             "won": 4,
             "drawn": 0,
@@ -65,7 +65,7 @@
             },
             {
               "round": 3,
-              "position": 3,
+              "position": 4,
               "played": 3,
               "won": 2,
               "drawn": 0,
@@ -117,7 +117,7 @@
             },
             {
               "round": 7,
-              "position": 5,
+              "position": 6,
               "played": 7,
               "won": 4,
               "drawn": 0,
@@ -180,6 +180,53 @@
             {
               "position": 2,
               "team": {
+                "id": 81542,
+                "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+                "club": {
+                  "id": "1hf9d75",
+                  "name": "HSG Holstein Kiel/Kronshagen",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5985/square_6b7537666e763379636f.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 7,
+              "won": 6,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 215,
+              "goalsAgainst": 171,
+              "goalDifference": 44,
+              "points": 12,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 448682,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448689,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448695,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448701,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448707,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 3,
+              "team": {
                 "id": 81540,
                 "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
                 "club": {
@@ -225,7 +272,7 @@
               ]
             },
             {
-              "position": 3,
+              "position": 4,
               "team": {
                 "id": 81541,
                 "name": "ATSV STOCKELSDORF II",
@@ -239,19 +286,19 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
+              "played": 7,
               "won": 5,
               "drawn": 0,
-              "lost": 1,
-              "goalsFor": 170,
-              "goalsAgainst": 172,
-              "goalDifference": -2,
+              "lost": 2,
+              "goalsFor": 195,
+              "goalsAgainst": 208,
+              "goalDifference": -13,
               "points": 10,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 448676,
-                  "result": "W"
+                  "matchId": 448682,
+                  "result": "L"
                 },
                 {
                   "matchId": 448688,
@@ -272,54 +319,54 @@
               ]
             },
             {
-              "position": 4,
+              "position": 5,
               "team": {
-                "id": 81542,
-                "name": "HSG HOLSTEIN KIEL/KRONSHAGEN",
+                "id": 81547,
+                "name": "DIE HAIE I HSG Horst/Kiebitzreihe",
                 "club": {
-                  "id": "1hf9d75",
-                  "name": "HSG Holstein Kiel/Kronshagen",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5985/square_6b7537666e763379636f.jpg"
+                  "id": "1w9jsx8",
+                  "name": "HSG Horst/Kiebitzreihe",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5725/square_71717761363269617577.jpg"
                 },
                 "gender": {
                   "id": "F",
                   "name": "Female"
                 }
               },
-              "played": 6,
-              "won": 5,
+              "played": 5,
+              "won": 4,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 179,
-              "goalsAgainst": 146,
-              "goalDifference": 33,
-              "points": 10,
+              "goalsFor": 152,
+              "goalsAgainst": 133,
+              "goalDifference": 19,
+              "points": 8,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 448675,
+                  "matchId": 448674,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448680,
+                  "result": "W"
+                },
+                {
+                  "matchId": 448683,
                   "result": "L"
                 },
                 {
-                  "matchId": 448689,
+                  "matchId": 448698,
                   "result": "W"
                 },
                 {
-                  "matchId": 448695,
-                  "result": "W"
-                },
-                {
-                  "matchId": 448701,
-                  "result": "W"
-                },
-                {
-                  "matchId": 448707,
+                  "matchId": 448703,
                   "result": "W"
                 }
               ]
             },
             {
-              "position": 5,
+              "position": 6,
               "team": {
                 "id": 86801,
                 "name": "SG HANDBALL NEUMÜNSTER",
@@ -361,49 +408,6 @@
                 },
                 {
                   "matchId": 448709,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 6,
-              "team": {
-                "id": 81547,
-                "name": "DIE HAIE I HSG Horst/Kiebitzreihe",
-                "club": {
-                  "id": "1w9jsx8",
-                  "name": "HSG Horst/Kiebitzreihe",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5725/square_71717761363269617577.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 4,
-              "won": 3,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 112,
-              "goalsAgainst": 103,
-              "goalDifference": 9,
-              "points": 6,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 448674,
-                  "result": "W"
-                },
-                {
-                  "matchId": 448680,
-                  "result": "W"
-                },
-                {
-                  "matchId": 448683,
-                  "result": "L"
-                },
-                {
-                  "matchId": 448703,
                   "result": "W"
                 }
               ]
@@ -658,26 +662,26 @@
                   "name": "Female"
                 }
               },
-              "played": 5,
+              "played": 6,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "goalsFor": 105,
-              "goalsAgainst": 145,
-              "goalDifference": -40,
+              "lost": 6,
+              "goalsFor": 135,
+              "goalsAgainst": 185,
+              "goalDifference": -50,
               "points": 0,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 448672,
-                  "result": "L"
-                },
                 {
                   "matchId": 448678,
                   "result": "L"
                 },
                 {
                   "matchId": 448691,
+                  "result": "L"
+                },
+                {
+                  "matchId": 448698,
                   "result": "L"
                 },
                 {
@@ -10462,7 +10466,7 @@
           "teamCount": 12,
           "current": {
             "round": 8,
-            "position": 11,
+            "position": 10,
             "played": 6,
             "won": 1,
             "drawn": 0,
@@ -10515,7 +10519,7 @@
             },
             {
               "round": 4,
-              "position": 11,
+              "position": 9,
               "played": 3,
               "won": 0,
               "drawn": 0,
@@ -10528,7 +10532,7 @@
             },
             {
               "round": 5,
-              "position": 11,
+              "position": 9,
               "played": 3,
               "won": 0,
               "drawn": 0,
@@ -10567,7 +10571,7 @@
             },
             {
               "round": 8,
-              "position": 11,
+              "position": 10,
               "played": 6,
               "won": 1,
               "drawn": 0,
@@ -10830,14 +10834,14 @@
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 2,
+              "played": 5,
+              "won": 3,
               "drawn": 0,
               "lost": 2,
-              "goalsFor": 103,
-              "goalsAgainst": 106,
-              "goalDifference": -3,
-              "points": 4,
+              "goalsFor": 130,
+              "goalsAgainst": 131,
+              "goalDifference": -1,
+              "points": 6,
               "qualifies": true,
               "form": [
                 {
@@ -10846,6 +10850,10 @@
                 },
                 {
                   "matchId": 514363,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514369,
                   "result": "W"
                 },
                 {
@@ -11002,53 +11010,6 @@
             {
               "position": 10,
               "team": {
-                "id": 81850,
-                "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
-                "club": {
-                  "id": "16gum8r",
-                  "name": "HSG Kremperheide/Münsterdorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 6,
-              "won": 1,
-              "drawn": 0,
-              "lost": 5,
-              "goalsFor": 146,
-              "goalsAgainst": 177,
-              "goalDifference": -31,
-              "points": 2,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514355,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514360,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514366,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514383,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514397,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 11,
-              "team": {
                 "id": 94480,
                 "name": "SG Handball Neumünster II",
                 "club": {
@@ -11090,6 +11051,53 @@
                 {
                   "matchId": 514395,
                   "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 11,
+              "team": {
+                "id": 81850,
+                "name": "HSG KREMPERHEIDE/MÜNSTERDORF II",
+                "club": {
+                  "id": "16gum8r",
+                  "name": "HSG Kremperheide/Münsterdorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 7,
+              "won": 1,
+              "drawn": 0,
+              "lost": 6,
+              "goalsFor": 171,
+              "goalsAgainst": 204,
+              "goalDifference": -33,
+              "points": 2,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514360,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514366,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514369,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514383,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514397,
+                  "result": "W"
                 }
               ]
             },

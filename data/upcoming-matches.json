@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:59:27.609Z",
+  "generatedAt": "2026-11-20T03:50:52.014Z",
   "matches": [
     {
       "id": 518587,
@@ -10468,19 +10468,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
           "draws": 0,
-          "losses": 4,
-          "goalsFor": 122,
-          "goalsAgainst": 151,
-          "goalDifference": -29,
-          "winRate": 20,
-          "goalsForAvg": 24.4,
-          "goalsAgainstAvg": 30.2,
-          "goalDifferenceAvg": -5.8
+          "losses": 5,
+          "goalsFor": 147,
+          "goalsAgainst": 178,
+          "goalDifference": -31,
+          "winRate": 16.7,
+          "goalsForAvg": 24.5,
+          "goalsAgainstAvg": 29.67,
+          "goalDifferenceAvg": -5.17
         },
         "recent": [
+          {
+            "id": 514369,
+            "date": "2026-11-19",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81851,
+              "name": "HSG STÖRTAL HUMMELN",
+              "clubId": "1qw4nbk"
+            },
+            "goalsFor": 25,
+            "goalsAgainst": 27,
+            "result": "L"
+          },
           {
             "id": 514397,
             "date": "2026-11-14",
@@ -10536,20 +10550,6 @@
             "goalsFor": 28,
             "goalsAgainst": 29,
             "result": "L"
-          },
-          {
-            "id": 514360,
-            "date": "2026-09-05",
-            "time": "17:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81889,
-              "name": "SV Henstedt-Ulzburg III",
-              "clubId": "1j3w2i1"
-            },
-            "goalsFor": 27,
-            "goalsAgainst": 38,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -10557,61 +10557,61 @@
             "playerId": "0ousgi8",
             "name": "Johanna-Katharina Christiane Ellerbrock",
             "number": 2,
-            "games": 4,
-            "goals": 23,
+            "games": 5,
+            "goals": 28,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.75,
+            "goalsPerGame": 5.6,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0biajd0",
             "name": "Lara Vivien Biermann",
             "number": 4,
-            "games": 5,
-            "goals": 19,
+            "games": 6,
+            "goals": 23,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 3.8,
+            "goalsPerGame": 3.83,
             "sevenMeterPercentage": 0
-          },
-          {
-            "playerId": "1wyzi9m",
-            "name": "Franziska Herrmann",
-            "number": 15,
-            "games": 4,
-            "goals": 14,
-            "sevenMeterGoals": 5,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": 71.4
-          },
-          {
-            "playerId": "133jktp",
-            "name": "Sabrina Simon",
-            "number": 22,
-            "games": 3,
-            "goals": 13,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 5,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": 60
           },
           {
             "playerId": "08w94dy",
             "name": "Jennifer Farrel Pekeler",
             "number": 23,
+            "games": 5,
+            "goals": 18,
+            "sevenMeterGoals": 8,
+            "sevenMeterAttempts": 10,
+            "goalsPerGame": 3.6,
+            "sevenMeterPercentage": 80
+          },
+          {
+            "playerId": "15ihze3",
+            "name": "Mia Bansemer",
+            "number": 20,
+            "games": 5,
+            "goals": 16,
+            "sevenMeterGoals": 10,
+            "sevenMeterAttempts": 17,
+            "goalsPerGame": 3.2,
+            "sevenMeterPercentage": 58.8
+          },
+          {
+            "playerId": "133jktp",
+            "name": "Sabrina Simon",
+            "number": 22,
             "games": 4,
-            "goals": 13,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 3.25,
-            "sevenMeterPercentage": 75
+            "goals": 14,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 6,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": 66.7
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
@@ -27428,19 +27428,33 @@
         "phaseName": "Kreisoberliga Frauen West",
         "competition": "Kreisoberliga Frauen",
         "season": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
           "draws": 0,
-          "losses": 4,
-          "goalsFor": 122,
-          "goalsAgainst": 151,
-          "goalDifference": -29,
-          "winRate": 20,
-          "goalsForAvg": 24.4,
-          "goalsAgainstAvg": 30.2,
-          "goalDifferenceAvg": -5.8
+          "losses": 5,
+          "goalsFor": 147,
+          "goalsAgainst": 178,
+          "goalDifference": -31,
+          "winRate": 16.7,
+          "goalsForAvg": 24.5,
+          "goalsAgainstAvg": 29.67,
+          "goalDifferenceAvg": -5.17
         },
         "recent": [
+          {
+            "id": 514369,
+            "date": "2026-11-19",
+            "time": "20:30",
+            "isHome": true,
+            "opponent": {
+              "id": 81851,
+              "name": "HSG STÖRTAL HUMMELN",
+              "clubId": "1qw4nbk"
+            },
+            "goalsFor": 25,
+            "goalsAgainst": 27,
+            "result": "L"
+          },
           {
             "id": 514397,
             "date": "2026-11-14",
@@ -27496,20 +27510,6 @@
             "goalsFor": 28,
             "goalsAgainst": 29,
             "result": "L"
-          },
-          {
-            "id": 514360,
-            "date": "2026-09-05",
-            "time": "17:00",
-            "isHome": true,
-            "opponent": {
-              "id": 81889,
-              "name": "SV Henstedt-Ulzburg III",
-              "clubId": "1j3w2i1"
-            },
-            "goalsFor": 27,
-            "goalsAgainst": 38,
-            "result": "L"
           }
         ],
         "topScorers": [
@@ -27517,61 +27517,61 @@
             "playerId": "0ousgi8",
             "name": "Johanna-Katharina Christiane Ellerbrock",
             "number": 2,
-            "games": 4,
-            "goals": 23,
+            "games": 5,
+            "goals": 28,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5.75,
+            "goalsPerGame": 5.6,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "0biajd0",
             "name": "Lara Vivien Biermann",
             "number": 4,
-            "games": 5,
-            "goals": 19,
+            "games": 6,
+            "goals": 23,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 1,
-            "goalsPerGame": 3.8,
+            "goalsPerGame": 3.83,
             "sevenMeterPercentage": 0
-          },
-          {
-            "playerId": "1wyzi9m",
-            "name": "Franziska Herrmann",
-            "number": 15,
-            "games": 4,
-            "goals": 14,
-            "sevenMeterGoals": 5,
-            "sevenMeterAttempts": 7,
-            "goalsPerGame": 3.5,
-            "sevenMeterPercentage": 71.4
-          },
-          {
-            "playerId": "133jktp",
-            "name": "Sabrina Simon",
-            "number": 22,
-            "games": 3,
-            "goals": 13,
-            "sevenMeterGoals": 3,
-            "sevenMeterAttempts": 5,
-            "goalsPerGame": 4.33,
-            "sevenMeterPercentage": 60
           },
           {
             "playerId": "08w94dy",
             "name": "Jennifer Farrel Pekeler",
             "number": 23,
+            "games": 5,
+            "goals": 18,
+            "sevenMeterGoals": 8,
+            "sevenMeterAttempts": 10,
+            "goalsPerGame": 3.6,
+            "sevenMeterPercentage": 80
+          },
+          {
+            "playerId": "15ihze3",
+            "name": "Mia Bansemer",
+            "number": 20,
+            "games": 5,
+            "goals": 16,
+            "sevenMeterGoals": 10,
+            "sevenMeterAttempts": 17,
+            "goalsPerGame": 3.2,
+            "sevenMeterPercentage": 58.8
+          },
+          {
+            "playerId": "133jktp",
+            "name": "Sabrina Simon",
+            "number": 22,
             "games": 4,
-            "goals": 13,
-            "sevenMeterGoals": 6,
-            "sevenMeterAttempts": 8,
-            "goalsPerGame": 3.25,
-            "sevenMeterPercentage": 75
+            "goals": 14,
+            "sevenMeterGoals": 4,
+            "sevenMeterAttempts": 6,
+            "goalsPerGame": 3.5,
+            "sevenMeterPercentage": 66.7
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 5,
-          "lineupMatches": 5,
+          "finishedMatches": 6,
+          "lineupMatches": 6,
           "percentage": 100
         }
       }
