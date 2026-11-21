@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:42:28.544Z",
+  "generatedAt": "2026-11-21T16:47:30.834Z",
   "teams": [
     {
       "id": "86801",
@@ -8,14 +8,14 @@
       "ageGroup": "senior",
       "gender": "female",
       "matchMinutes": 60,
-      "games": 7,
-      "wins": 4,
+      "games": 8,
+      "wins": 5,
       "draws": 0,
       "losses": 3,
-      "goalsFor": 232,
-      "goalsAgainst": 185,
-      "goalDifference": 47,
-      "winRate": 57.1
+      "goalsFor": 265,
+      "goalsAgainst": 214,
+      "goalDifference": 51,
+      "winRate": 62.5
     },
     {
       "id": "86805",
@@ -60,14 +60,14 @@
       "youthClass": "D",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "games": 6,
+      "games": 7,
       "wins": 2,
       "draws": 0,
-      "losses": 4,
-      "goalsFor": 86,
-      "goalsAgainst": 143,
-      "goalDifference": -57,
-      "winRate": 33.3
+      "losses": 5,
+      "goalsFor": 104,
+      "goalsAgainst": 171,
+      "goalDifference": -67,
+      "winRate": 28.6
     },
     {
       "id": "87105",
@@ -114,14 +114,14 @@
       "youthClass": "E",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "games": 5,
-      "wins": 3,
+      "games": 6,
+      "wins": 4,
       "draws": 0,
       "losses": 2,
-      "goalsFor": 93,
-      "goalsAgainst": 85,
-      "goalDifference": 8,
-      "winRate": 60
+      "goalsFor": 119,
+      "goalsAgainst": 90,
+      "goalDifference": 29,
+      "winRate": 66.7
     },
     {
       "id": "87109",
@@ -166,14 +166,14 @@
       "ageGroup": "youth",
       "gender": "female",
       "matchMinutes": 50,
-      "games": 7,
+      "games": 8,
       "wins": 1,
       "draws": 0,
-      "losses": 6,
-      "goalsFor": 140,
-      "goalsAgainst": 186,
-      "goalDifference": -46,
-      "winRate": 14.3
+      "losses": 7,
+      "goalsFor": 161,
+      "goalsAgainst": 219,
+      "goalDifference": -58,
+      "winRate": 12.5
     },
     {
       "id": "87187",
@@ -182,14 +182,14 @@
       "ageGroup": "youth",
       "gender": "male",
       "matchMinutes": 50,
-      "games": 6,
-      "wins": 1,
+      "games": 7,
+      "wins": 2,
       "draws": 0,
       "losses": 5,
-      "goalsFor": 172,
-      "goalsAgainst": 202,
-      "goalDifference": -30,
-      "winRate": 16.7
+      "goalsFor": 202,
+      "goalsAgainst": 222,
+      "goalDifference": -20,
+      "winRate": 28.6
     },
     {
       "id": "87265",

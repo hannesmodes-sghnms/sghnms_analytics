@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:42:29.028Z",
+  "generatedAt": "2026-11-21T16:47:31.342Z",
   "matches": [
     {
       "id": 504541,
@@ -1716,6 +1716,66 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/504584.json"
+    },
+    {
+      "id": 518587,
+      "date": "2026-11-21",
+      "time": "09:30",
+      "ownTeamId": "87108",
+      "opponent": "SV WAHLSTEDT",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/518587.json"
+    },
+    {
+      "id": 532875,
+      "date": "2026-11-21",
+      "time": "12:15",
+      "ownTeamId": "87104",
+      "opponent": "TSV Ellerau II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/532875.json"
+    },
+    {
+      "id": 450674,
+      "date": "2026-11-21",
+      "time": "12:45",
+      "ownTeamId": "87175",
+      "opponent": "HSG Schülp/Westerrönfeld/Rendsburg",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/450674.json"
+    },
+    {
+      "id": 448715,
+      "date": "2026-11-21",
+      "time": "14:00",
+      "ownTeamId": "86801",
+      "opponent": "IF STJERNEN FLENSBORG",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/448715.json"
+    },
+    {
+      "id": 450771,
+      "date": "2026-11-21",
+      "time": "15:30",
+      "ownTeamId": "87187",
+      "opponent": "HSG TILLS LÖWEN 08",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/450771.json"
     },
     {
       "id": 509824,
