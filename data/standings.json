@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:04:39.128Z",
+  "generatedAt": "2026-11-21T03:42:28.782Z",
   "teams": [
     {
       "teamId": "86801",
@@ -9397,20 +9397,16 @@
                   "name": "Male"
                 }
               },
-              "played": 5,
-              "won": 2,
+              "played": 6,
+              "won": 3,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 85,
-              "goalsAgainst": 61,
-              "goalDifference": 24,
-              "points": 4,
+              "goalsFor": 132,
+              "goalsAgainst": 73,
+              "goalDifference": 59,
+              "points": 6,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 677929,
-                  "result": "W"
-                },
                 {
                   "matchId": 677933,
                   "result": "L"
@@ -9425,6 +9421,10 @@
                 },
                 {
                   "matchId": 677937,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677938,
                   "result": "W"
                 }
               ]
@@ -9585,13 +9585,13 @@
                   "name": "Male"
                 }
               },
-              "played": 4,
+              "played": 5,
               "won": 0,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 32,
-              "goalsAgainst": 72,
-              "goalDifference": -40,
+              "lost": 3,
+              "goalsFor": 44,
+              "goalsAgainst": 119,
+              "goalDifference": -75,
               "points": 0,
               "qualifies": true,
               "form": [
@@ -9610,6 +9610,10 @@
                 {
                   "matchId": 677921,
                   "result": "W"
+                },
+                {
+                  "matchId": 677938,
+                  "result": "L"
                 }
               ]
             },
@@ -9663,53 +9667,6 @@
             {
               "position": 7,
               "team": {
-                "id": 82193,
-                "name": "SG PAHLHUDE/TELLINGSTEDT",
-                "club": {
-                  "id": "0odgr6l",
-                  "name": "SG Pahlhude/Tellingstedt",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5677/square_35737767707766787337.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 8,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
-              "points": 0,
-              "qualifies": false,
-              "form": [
-                {
-                  "matchId": 677906,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677912,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677918,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677920,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677933,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 8,
-              "team": {
                 "id": 82195,
                 "name": "TURA MELDORF II",
                 "club": {
@@ -9751,6 +9708,53 @@
                 {
                   "matchId": 677922,
                   "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 8,
+              "team": {
+                "id": 82205,
+                "name": "HSG HOHE GEEST",
+                "club": {
+                  "id": "1hslhxe",
+                  "name": "HSG Hohe Geest",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5822/square_7961726e646f6e636432.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 6,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": false,
+              "form": [
+                {
+                  "matchId": 677895,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677905,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677909,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677923,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677935,
+                  "result": "L"
                 }
               ]
             },
@@ -9804,19 +9808,19 @@
             {
               "position": 10,
               "team": {
-                "id": 82205,
-                "name": "HSG HOHE GEEST",
+                "id": 82193,
+                "name": "SG PAHLHUDE/TELLINGSTEDT",
                 "club": {
-                  "id": "1hslhxe",
-                  "name": "HSG Hohe Geest",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5822/square_7961726e646f6e636432.jpg"
+                  "id": "0odgr6l",
+                  "name": "SG Pahlhude/Tellingstedt",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5677/square_35737767707766787337.jpg"
                 },
                 "gender": {
                   "id": "M",
                   "name": "Male"
                 }
               },
-              "played": 6,
+              "played": 8,
               "won": 0,
               "drawn": 0,
               "lost": 0,
@@ -9827,24 +9831,24 @@
               "qualifies": false,
               "form": [
                 {
-                  "matchId": 677895,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677905,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677909,
+                  "matchId": 677906,
                   "result": "W"
                 },
                 {
-                  "matchId": 677923,
-                  "result": "L"
+                  "matchId": 677912,
+                  "result": "W"
                 },
                 {
-                  "matchId": 677935,
-                  "result": "L"
+                  "matchId": 677918,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677920,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677933,
+                  "result": "W"
                 }
               ]
             }
@@ -11230,7 +11234,7 @@
             },
             {
               "round": 5,
-              "position": 3,
+              "position": 2,
               "played": 4,
               "won": 3,
               "drawn": 0,
@@ -11243,7 +11247,7 @@
             },
             {
               "round": 6,
-              "position": 3,
+              "position": 2,
               "played": 5,
               "won": 4,
               "drawn": 0,
@@ -11613,14 +11617,14 @@
                   "name": "Female"
                 }
               },
-              "played": 5,
+              "played": 6,
               "won": 1,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 4,
-              "goalsFor": 99,
-              "goalsAgainst": 122,
+              "goalsFor": 119,
+              "goalsAgainst": 142,
               "goalDifference": -23,
-              "points": 2,
+              "points": 3,
               "qualifies": true,
               "form": [
                 {
@@ -11707,14 +11711,14 @@
                   "name": "Female"
                 }
               },
-              "played": 5,
+              "played": 6,
               "won": 0,
-              "drawn": 0,
+              "drawn": 1,
               "lost": 5,
-              "goalsFor": 120,
-              "goalsAgainst": 139,
+              "goalsFor": 140,
+              "goalsAgainst": 159,
               "goalDifference": -19,
-              "points": 0,
+              "points": 1,
               "qualifies": true,
               "form": [
                 {
@@ -13022,6 +13026,53 @@
             {
               "position": 1,
               "team": {
+                "id": 81689,
+                "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
+                "club": {
+                  "id": "16gum8r",
+                  "name": "HSG Kremperheide/Münsterdorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 7,
+              "won": 5,
+              "drawn": 1,
+              "lost": 1,
+              "goalsFor": 233,
+              "goalsAgainst": 192,
+              "goalDifference": 41,
+              "points": 11,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 561258,
+                  "result": "L"
+                },
+                {
+                  "matchId": 561264,
+                  "result": "W"
+                },
+                {
+                  "matchId": 561270,
+                  "result": "W"
+                },
+                {
+                  "matchId": 561276,
+                  "result": "W"
+                },
+                {
+                  "matchId": 561281,
+                  "result": "D"
+                }
+              ]
+            },
+            {
+              "position": 2,
+              "team": {
                 "id": 81687,
                 "name": "SG Hörnerkirchen/Hohenfelde",
                 "club": {
@@ -13067,7 +13118,7 @@
               ]
             },
             {
-              "position": 2,
+              "position": 3,
               "team": {
                 "id": 81724,
                 "name": "HSG OHLAU",
@@ -13110,53 +13161,6 @@
                 {
                   "matchId": 561280,
                   "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 3,
-              "team": {
-                "id": 81689,
-                "name": "HSG KREMPERHEIDE/MÜNSTERDORF III",
-                "club": {
-                  "id": "16gum8r",
-                  "name": "HSG Kremperheide/Münsterdorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5741/square_6337736d317275746934.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 6,
-              "won": 4,
-              "drawn": 1,
-              "lost": 1,
-              "goalsFor": 195,
-              "goalsAgainst": 169,
-              "goalDifference": 26,
-              "points": 9,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 561255,
-                  "result": "W"
-                },
-                {
-                  "matchId": 561258,
-                  "result": "L"
-                },
-                {
-                  "matchId": 561270,
-                  "result": "W"
-                },
-                {
-                  "matchId": 561276,
-                  "result": "W"
-                },
-                {
-                  "matchId": 561281,
-                  "result": "D"
                 }
               ]
             },
@@ -13402,26 +13406,26 @@
                   "name": "Male"
                 }
               },
-              "played": 5,
+              "played": 6,
               "won": 1,
               "drawn": 0,
-              "lost": 4,
-              "goalsFor": 118,
-              "goalsAgainst": 163,
-              "goalDifference": -45,
+              "lost": 5,
+              "goalsFor": 141,
+              "goalsAgainst": 201,
+              "goalDifference": -60,
               "points": 2,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 561248,
-                  "result": "L"
-                },
                 {
                   "matchId": 561254,
                   "result": "W"
                 },
                 {
                   "matchId": 561259,
+                  "result": "L"
+                },
+                {
+                  "matchId": 561264,
                   "result": "L"
                 },
                 {

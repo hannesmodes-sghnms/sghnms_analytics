@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:04:39.095Z",
+  "generatedAt": "2026-11-21T03:42:28.751Z",
   "matches": [
     {
       "id": 518587,
@@ -12577,19 +12577,33 @@
         "phaseName": "MJC-RL-2",
         "competition": "Regionsliga MÄNNLICH",
         "season": {
-          "games": 4,
+          "games": 5,
           "wins": 1,
           "draws": 0,
-          "losses": 3,
-          "goalsFor": 57,
-          "goalsAgainst": 110,
-          "goalDifference": -53,
-          "winRate": 25,
-          "goalsForAvg": 14.25,
-          "goalsAgainstAvg": 27.5,
-          "goalDifferenceAvg": -13.25
+          "losses": 4,
+          "goalsFor": 69,
+          "goalsAgainst": 157,
+          "goalDifference": -88,
+          "winRate": 20,
+          "goalsForAvg": 13.8,
+          "goalsAgainstAvg": 31.4,
+          "goalDifferenceAvg": -17.6
         },
         "recent": [
+          {
+            "id": 677938,
+            "date": "2026-11-20",
+            "time": "18:00",
+            "isHome": false,
+            "opponent": {
+              "id": 82102,
+              "name": "HSG KREMPERHEIDE/MÜNSTERDORF",
+              "clubId": "16gum8r"
+            },
+            "goalsFor": 12,
+            "goalsAgainst": 47,
+            "result": "L"
+          },
           {
             "id": 677921,
             "date": "2026-11-15",
@@ -12652,62 +12666,62 @@
             "playerId": "1azox52",
             "name": "Henning Alexander Frank",
             "number": 15,
-            "games": 3,
-            "goals": 21,
+            "games": 4,
+            "goals": 27,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 7,
+            "goalsPerGame": 6.75,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1sehzss",
             "name": "Ferdinand Johannes Ludwig Frank",
             "number": 29,
-            "games": 3,
-            "goals": 15,
+            "games": 4,
+            "goals": 17,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 5,
+            "goalsPerGame": 4.25,
             "sevenMeterPercentage": null
           },
           {
             "playerId": "1dr93ko",
             "name": "Noa Langholf",
             "number": 10,
-            "games": 3,
-            "goals": 10,
+            "games": 4,
+            "goals": 11,
             "sevenMeterGoals": 0,
-            "sevenMeterAttempts": 0,
-            "goalsPerGame": 3.33,
-            "sevenMeterPercentage": null
+            "sevenMeterAttempts": 1,
+            "goalsPerGame": 2.75,
+            "sevenMeterPercentage": 0
           },
           {
             "playerId": "0sdgxcl",
             "name": "Tajo Springmann",
-            "number": 5,
-            "games": 1,
+            "number": 3,
+            "games": 2,
             "goals": 4,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 4,
+            "goalsPerGame": 2,
             "sevenMeterPercentage": null
           },
           {
-            "playerId": "0zctxb3",
-            "name": "Jaspen Noel Klein",
-            "number": 9,
-            "games": 3,
-            "goals": 2,
+            "playerId": "0qvnebn",
+            "name": "Lasse Haacks",
+            "number": 18,
+            "games": 2,
+            "goals": 3,
             "sevenMeterGoals": 0,
             "sevenMeterAttempts": 0,
-            "goalsPerGame": 0.67,
+            "goalsPerGame": 1.5,
             "sevenMeterPercentage": null
           }
         ],
         "scoringCoverage": {
-          "finishedMatches": 4,
-          "lineupMatches": 3,
-          "percentage": 75
+          "finishedMatches": 5,
+          "lineupMatches": 4,
+          "percentage": 80
         }
       }
     },
