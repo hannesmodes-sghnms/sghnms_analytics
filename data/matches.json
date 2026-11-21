@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:47:30.837Z",
+  "generatedAt": "2026-11-21T22:12:42.888Z",
   "matches": [
     {
       "id": 504541,
@@ -11865,6 +11865,164 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/450771.json"
+    },
+    {
+      "id": 504557,
+      "date": "2026-11-21",
+      "time": "19:00",
+      "home": {
+        "id": 81697,
+        "name": "SG PAHLHUDE/TELLINGSTEDT",
+        "clubId": "0odgr6l"
+      },
+      "away": {
+        "id": 86805,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 22,
+        "away": 29
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7945,
+      "competition": "Kreisoberliga Männer",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12963,
+        "name": "Kreisoberliga Männer West"
+      },
+      "venue": {
+        "name": "SPORTHALLE",
+        "address": "TöPFERSTRAßE, 25782 TELLINGSTEDT"
+      },
+      "ownTeamId": "86805",
+      "ownTeam": {
+        "label": "HERREN 1",
+        "name": "1. Herren",
+        "ageGroup": "senior",
+        "gender": "male",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 22,
+          "away": 29
+        },
+        "eventFinalScore": {
+          "home": 22,
+          "away": 29
+        },
+        "lineupGoalTotals": {
+          "home": 22,
+          "away": 29
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 51,
+          "goalEventsWithPlayer": 51,
+          "matchedGoalEvents": 51,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/504557.json"
+    },
+    {
+      "id": 506410,
+      "date": "2026-11-21",
+      "time": "19:00",
+      "home": {
+        "id": 81845,
+        "name": "ECKERNFÖRDER MTV",
+        "clubId": "1firuis"
+      },
+      "away": {
+        "id": 94481,
+        "name": "SG Handball Neumünster III",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 34,
+        "away": 28
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7949,
+      "competition": "Kreisliga Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12978,
+        "name": "Kreisliga Frauen - Staffel C"
+      },
+      "venue": {
+        "name": "WULFSTEERTHALLE",
+        "address": "WULFSTEERT 6, 24340 ECKERNFöRDE"
+      },
+      "ownTeamId": "94481",
+      "ownTeam": {
+        "label": "FRAUEN 3",
+        "name": "3. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 34,
+          "away": 28
+        },
+        "eventFinalScore": {
+          "home": 34,
+          "away": 28
+        },
+        "lineupGoalTotals": {
+          "home": 34,
+          "away": 28
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 62,
+          "goalEventsWithPlayer": 62,
+          "matchedGoalEvents": 62,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/506410.json"
     },
     {
       "id": 509824,

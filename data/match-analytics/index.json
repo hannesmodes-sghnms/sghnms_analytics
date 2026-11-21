@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:47:31.342Z",
+  "generatedAt": "2026-11-21T22:12:43.965Z",
   "matches": [
     {
       "id": 504541,
@@ -1776,6 +1776,30 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450771.json"
+    },
+    {
+      "id": 504557,
+      "date": "2026-11-21",
+      "time": "19:00",
+      "ownTeamId": "86805",
+      "opponent": "SG PAHLHUDE/TELLINGSTEDT",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/504557.json"
+    },
+    {
+      "id": 506410,
+      "date": "2026-11-21",
+      "time": "19:00",
+      "ownTeamId": "94481",
+      "opponent": "ECKERNFÖRDER MTV",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/506410.json"
     },
     {
       "id": 509824,
