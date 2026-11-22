@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:48:43.239Z",
+  "generatedAt": "2026-11-22T17:09:24.374Z",
   "matches": [
     {
       "id": 504541,
@@ -1800,6 +1800,66 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/506410.json"
+    },
+    {
+      "id": 509830,
+      "date": "2026-11-22",
+      "time": "13:00",
+      "ownTeamId": "87110",
+      "opponent": "HSG OHLAU",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/509830.json"
+    },
+    {
+      "id": 510219,
+      "date": "2026-11-22",
+      "time": "13:30",
+      "ownTeamId": "87105",
+      "opponent": "SV SÜLFELD",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/510219.json"
+    },
+    {
+      "id": 598484,
+      "date": "2026-11-22",
+      "time": "15:00",
+      "ownTeamId": "87271",
+      "opponent": "TUS FELDE",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/598484.json"
+    },
+    {
+      "id": 505448,
+      "date": "2026-11-22",
+      "time": "16:00",
+      "ownTeamId": "94483",
+      "opponent": "FT ADLER KIEL II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/505448.json"
+    },
+    {
+      "id": 508101,
+      "date": "2026-11-22",
+      "time": "16:00",
+      "ownTeamId": "87272",
+      "opponent": "SC Buntekuh Lübeck wA",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/508101.json"
     },
     {
       "id": 509824,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:48:42.930Z",
+  "generatedAt": "2026-11-22T17:09:24.095Z",
   "teams": [
     {
       "teamId": "86801",
@@ -2695,10 +2695,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-01-09",
-          "currentRound": 8,
+          "currentRound": 11,
           "teamCount": 11,
           "current": {
-            "round": 8,
+            "round": 11,
             "position": 2,
             "played": 4,
             "won": 4,
@@ -2804,6 +2804,19 @@
             },
             {
               "round": 8,
+              "position": 2,
+              "played": 5,
+              "won": 5,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 136,
+              "goalsAgainst": 58,
+              "goalDifference": 78,
+              "points": 10,
+              "qualifies": true
+            },
+            {
+              "round": 11,
               "position": 2,
               "played": 4,
               "won": 4,
@@ -5018,13 +5031,13 @@
           "current": {
             "round": 8,
             "position": 8,
-            "played": 6,
+            "played": 7,
             "won": 0,
             "drawn": 0,
-            "lost": 5,
-            "goalsFor": 27,
-            "goalsAgainst": 94,
-            "goalDifference": -67,
+            "lost": 6,
+            "goalsFor": 32,
+            "goalsAgainst": 110,
+            "goalDifference": -78,
             "points": 0,
             "qualifies": true
           },
@@ -5123,13 +5136,13 @@
             {
               "round": 8,
               "position": 8,
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "goalsFor": 27,
-              "goalsAgainst": 94,
-              "goalDifference": -67,
+              "lost": 6,
+              "goalsFor": 32,
+              "goalsAgainst": 110,
+              "goalDifference": -78,
               "points": 0,
               "qualifies": true
             }
@@ -5197,20 +5210,16 @@
                   "name": "Female"
                 }
               },
-              "played": 5,
-              "won": 4,
+              "played": 6,
+              "won": 5,
               "drawn": 0,
               "lost": 1,
-              "goalsFor": 75,
-              "goalsAgainst": 40,
-              "goalDifference": 35,
-              "points": 8,
+              "goalsFor": 92,
+              "goalsAgainst": 54,
+              "goalDifference": 38,
+              "points": 10,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 509808,
-                  "result": "W"
-                },
                 {
                   "matchId": 509812,
                   "result": "W"
@@ -5225,6 +5234,10 @@
                 },
                 {
                   "matchId": 509827,
+                  "result": "W"
+                },
+                {
+                  "matchId": 509832,
                   "result": "W"
                 }
               ]
@@ -5291,20 +5304,16 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
+              "played": 7,
               "won": 3,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 74,
-              "goalsAgainst": 59,
-              "goalDifference": 15,
+              "lost": 3,
+              "goalsFor": 88,
+              "goalsAgainst": 76,
+              "goalDifference": 12,
               "points": 6,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 509806,
-                  "result": "L"
-                },
                 {
                   "matchId": 509809,
                   "result": "L"
@@ -5319,6 +5328,10 @@
                 },
                 {
                   "matchId": 509828,
+                  "result": "L"
+                },
+                {
+                  "matchId": 509832,
                   "result": "L"
                 }
               ]
@@ -5338,20 +5351,16 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
-              "won": 2,
+              "played": 7,
+              "won": 3,
               "drawn": 0,
               "lost": 4,
-              "goalsFor": 90,
-              "goalsAgainst": 80,
-              "goalDifference": 10,
-              "points": 4,
+              "goalsFor": 106,
+              "goalsAgainst": 85,
+              "goalDifference": 21,
+              "points": 6,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 509810,
-                  "result": "W"
-                },
                 {
                   "matchId": 509814,
                   "result": "L"
@@ -5366,6 +5375,10 @@
                 },
                 {
                   "matchId": 509826,
+                  "result": "W"
+                },
+                {
+                  "matchId": 509830,
                   "result": "W"
                 }
               ]
@@ -5479,20 +5492,16 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
-              "lost": 5,
-              "goalsFor": 27,
-              "goalsAgainst": 94,
-              "goalDifference": -67,
+              "lost": 6,
+              "goalsFor": 32,
+              "goalsAgainst": 110,
+              "goalDifference": -78,
               "points": 0,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 509807,
-                  "result": "L"
-                },
                 {
                   "matchId": 509812,
                   "result": "L"
@@ -5507,6 +5516,10 @@
                 },
                 {
                   "matchId": 509825,
+                  "result": "L"
+                },
+                {
+                  "matchId": 509830,
                   "result": "L"
                 }
               ]
@@ -7123,10 +7136,10 @@
           "statsRelevant": true,
           "firstDate": "2026-09-05",
           "lastDate": "2027-04-17",
-          "currentRound": 8,
+          "currentRound": 11,
           "teamCount": 7,
           "current": {
-            "round": 8,
+            "round": 11,
             "position": 2,
             "played": 6,
             "won": 5,
@@ -7220,18 +7233,31 @@
             {
               "round": 7,
               "position": 3,
-              "played": 5,
+              "played": 6,
               "won": 4,
               "drawn": 0,
-              "lost": 1,
-              "goalsFor": 149,
-              "goalsAgainst": 83,
-              "goalDifference": 66,
+              "lost": 2,
+              "goalsFor": 182,
+              "goalsAgainst": 121,
+              "goalDifference": 61,
               "points": 8,
               "qualifies": true
             },
             {
               "round": 8,
+              "position": 2,
+              "played": 7,
+              "won": 5,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 214,
+              "goalsAgainst": 149,
+              "goalDifference": 65,
+              "points": 10,
+              "qualifies": true
+            },
+            {
+              "round": 11,
               "position": 2,
               "played": 6,
               "won": 5,
@@ -7598,11 +7624,11 @@
           "statsRelevant": true,
           "firstDate": "2026-09-06",
           "lastDate": "2027-03-07",
-          "currentRound": 12,
+          "currentRound": 14,
           "teamCount": 8,
           "current": {
-            "round": 12,
-            "position": 6,
+            "round": 14,
+            "position": 5,
             "played": 4,
             "won": 1,
             "drawn": 1,
@@ -7693,8 +7719,34 @@
               "qualifies": true
             },
             {
+              "round": 11,
+              "position": 6,
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "goalsFor": 89,
+              "goalsAgainst": 177,
+              "goalDifference": -88,
+              "points": 3,
+              "qualifies": true
+            },
+            {
               "round": 12,
               "position": 6,
+              "played": 5,
+              "won": 1,
+              "drawn": 1,
+              "lost": 3,
+              "goalsFor": 89,
+              "goalsAgainst": 177,
+              "goalDifference": -88,
+              "points": 3,
+              "qualifies": true
+            },
+            {
+              "round": 14,
+              "position": 5,
               "played": 4,
               "won": 1,
               "drawn": 1,
@@ -7722,20 +7774,16 @@
                   "name": "Female"
                 }
               },
-              "played": 5,
-              "won": 5,
+              "played": 6,
+              "won": 6,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 230,
-              "goalsAgainst": 119,
-              "goalDifference": 111,
-              "points": 10,
+              "goalsFor": 258,
+              "goalsAgainst": 136,
+              "goalDifference": 122,
+              "points": 12,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 508080,
-                  "result": "W"
-                },
                 {
                   "matchId": 508084,
                   "result": "W"
@@ -7750,6 +7798,10 @@
                 },
                 {
                   "matchId": 508097,
+                  "result": "W"
+                },
+                {
+                  "matchId": 508098,
                   "result": "W"
                 }
               ]
@@ -7804,53 +7856,6 @@
             {
               "position": 3,
               "team": {
-                "id": 81960,
-                "name": "HSG WABO 2011",
-                "club": {
-                  "id": "12j6jtz",
-                  "name": "HSG WaBo 2011",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5846/square_746d3375636775616679.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 5,
-              "won": 3,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 170,
-              "goalsAgainst": 113,
-              "goalDifference": 57,
-              "points": 6,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 508078,
-                  "result": "W"
-                },
-                {
-                  "matchId": 508082,
-                  "result": "L"
-                },
-                {
-                  "matchId": 508086,
-                  "result": "L"
-                },
-                {
-                  "matchId": 508090,
-                  "result": "W"
-                },
-                {
-                  "matchId": 508094,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 4,
-              "team": {
                 "id": 81971,
                 "name": "SC Buntekuh Lübeck wA",
                 "club": {
@@ -7896,50 +7901,54 @@
               ]
             },
             {
-              "position": 5,
+              "position": 4,
               "team": {
-                "id": 81973,
-                "name": "DHG Sandesneben",
+                "id": 81960,
+                "name": "HSG WABO 2011",
                 "club": {
-                  "id": "0q0phxv",
-                  "name": "DHG Sandesneben",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5740/square_6b786670303031756665.jpg"
+                  "id": "12j6jtz",
+                  "name": "HSG WaBo 2011",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5846/square_746d3375636775616679.jpg"
                 },
                 "gender": {
                   "id": "F",
                   "name": "Female"
                 }
               },
-              "played": 4,
-              "won": 1,
-              "drawn": 1,
-              "lost": 2,
-              "goalsFor": 115,
-              "goalsAgainst": 125,
-              "goalDifference": -10,
-              "points": 3,
+              "played": 6,
+              "won": 3,
+              "drawn": 0,
+              "lost": 3,
+              "goalsFor": 187,
+              "goalsAgainst": 141,
+              "goalDifference": 46,
+              "points": 6,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 508081,
-                  "result": "D"
-                },
-                {
-                  "matchId": 508088,
-                  "result": "W"
-                },
-                {
-                  "matchId": 508093,
+                  "matchId": 508082,
                   "result": "L"
                 },
                 {
+                  "matchId": 508086,
+                  "result": "L"
+                },
+                {
+                  "matchId": 508090,
+                  "result": "W"
+                },
+                {
                   "matchId": 508094,
+                  "result": "W"
+                },
+                {
+                  "matchId": 508098,
                   "result": "L"
                 }
               ]
             },
             {
-              "position": 6,
+              "position": 5,
               "team": {
                 "id": 87272,
                 "name": "SG Handball Neumünster II",
@@ -7977,6 +7986,49 @@
                 },
                 {
                   "matchId": 508097,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 6,
+              "team": {
+                "id": 81973,
+                "name": "DHG Sandesneben",
+                "club": {
+                  "id": "0q0phxv",
+                  "name": "DHG Sandesneben",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5740/square_6b786670303031756665.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 4,
+              "won": 1,
+              "drawn": 1,
+              "lost": 2,
+              "goalsFor": 115,
+              "goalsAgainst": 125,
+              "goalDifference": -10,
+              "points": 3,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 508081,
+                  "result": "D"
+                },
+                {
+                  "matchId": 508088,
+                  "result": "W"
+                },
+                {
+                  "matchId": 508093,
+                  "result": "L"
+                },
+                {
+                  "matchId": 508094,
                   "result": "L"
                 }
               ]

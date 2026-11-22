@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:48:42.584Z",
+  "generatedAt": "2026-11-22T17:09:23.634Z",
   "teams": [
     {
       "id": "86801",
@@ -78,13 +78,13 @@
       "youthClass": "D",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "games": 5,
-      "wins": 5,
+      "games": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
-      "goalsFor": 153,
-      "goalsAgainst": 44,
-      "goalDifference": 109,
+      "goalsFor": 174,
+      "goalsAgainst": 59,
+      "goalDifference": 115,
       "winRate": 100
     },
     {
@@ -150,13 +150,13 @@
       "youthClass": "E",
       "matchMinutes": 40,
       "twoMinutePlayerReduction": false,
-      "games": 6,
+      "games": 7,
       "wins": 0,
       "draws": 0,
-      "losses": 6,
-      "goalsFor": 27,
-      "goalsAgainst": 96,
-      "goalDifference": -69,
+      "losses": 7,
+      "goalsFor": 32,
+      "goalsAgainst": 112,
+      "goalDifference": -80,
       "winRate": 0
     },
     {
@@ -214,14 +214,14 @@
       "ageGroup": "youth",
       "gender": "female",
       "matchMinutes": 60,
-      "games": 6,
+      "games": 7,
       "wins": 5,
       "draws": 0,
-      "losses": 1,
-      "goalsFor": 181,
-      "goalsAgainst": 111,
-      "goalDifference": 70,
-      "winRate": 83.3
+      "losses": 2,
+      "goalsFor": 214,
+      "goalsAgainst": 149,
+      "goalDifference": 65,
+      "winRate": 71.4
     },
     {
       "id": "87272",
@@ -230,14 +230,14 @@
       "ageGroup": "youth",
       "gender": "female",
       "matchMinutes": 60,
-      "games": 4,
+      "games": 5,
       "wins": 1,
       "draws": 1,
-      "losses": 2,
-      "goalsFor": 74,
-      "goalsAgainst": 128,
-      "goalDifference": -54,
-      "winRate": 25
+      "losses": 3,
+      "goalsFor": 89,
+      "goalsAgainst": 177,
+      "goalDifference": -88,
+      "winRate": 20
     },
     {
       "id": "87274",
@@ -358,14 +358,14 @@
       "ageGroup": "senior",
       "gender": "male",
       "matchMinutes": 60,
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "draws": 1,
-      "losses": 2,
-      "goalsFor": 137,
-      "goalsAgainst": 126,
-      "goalDifference": 11,
-      "winRate": 40
+      "losses": 3,
+      "goalsFor": 162,
+      "goalsAgainst": 152,
+      "goalDifference": 10,
+      "winRate": 33.3
     },
     {
       "id": "94484",
