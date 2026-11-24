@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:27:13.159Z",
+  "generatedAt": "2026-11-24T06:41:08.864Z",
   "matches": [
     {
       "id": 504541,
@@ -6891,6 +6891,73 @@
       }
     },
     {
+      "id": 677924,
+      "date": "2026-11-21",
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 0,
+          "away": 1
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -3000,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 0:1."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 0:1."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 3000s by -3000s."
+          }
+        ]
+      }
+    },
+    {
       "id": 448715,
       "date": "2026-11-21",
       "ownTeamId": "86801",
@@ -7306,6 +7373,63 @@
         "analyticsEligible": true,
         "lineupEligible": true,
         "warnings": []
+      }
+    },
+    {
+      "id": 514289,
+      "date": "2026-11-23",
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "warning",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 23,
+          "away": 22
+        },
+        "eventFinalScore": {
+          "home": 23,
+          "away": 22
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 45,
+          "goalEventsWithPlayer": 45,
+          "matchedGoalEvents": 0,
+          "percentage": 0
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": false,
+        "warnings": [
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 23:22."
+          },
+          {
+            "code": "SCORER_LINEUP_MISMATCH",
+            "severity": "warning",
+            "message": "0/45 goal events with a player match the corresponding lineup."
+          }
+        ]
       }
     },
     {

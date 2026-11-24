@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:27:14.078Z",
+  "generatedAt": "2026-11-24T06:41:09.525Z",
   "matches": [
     {
       "id": 504541,
@@ -1754,6 +1754,18 @@
       "path": "match-analytics/450674.json"
     },
     {
+      "id": 677924,
+      "date": "2026-11-21",
+      "time": "13:00",
+      "ownTeamId": "87276",
+      "opponent": "TSV BÜSUM",
+      "analyticsEligible": false,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "invalid",
+      "path": "match-analytics/677924.json"
+    },
+    {
       "id": 448715,
       "date": "2026-11-21",
       "time": "14:00",
@@ -1860,6 +1872,18 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/508101.json"
+    },
+    {
+      "id": 514289,
+      "date": "2026-11-23",
+      "time": "19:30",
+      "ownTeamId": "94482",
+      "opponent": "HSG 24109 II",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "warning",
+      "path": "match-analytics/514289.json"
     },
     {
       "id": 509824,

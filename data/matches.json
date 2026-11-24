@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:27:13.160Z",
+  "generatedAt": "2026-11-24T06:41:08.865Z",
   "matches": [
     {
       "id": 504541,
@@ -11709,6 +11709,106 @@
       "analyticsPath": "match-analytics/450674.json"
     },
     {
+      "id": 677924,
+      "date": "2026-11-21",
+      "time": "13:00",
+      "home": {
+        "id": 82194,
+        "name": "TSV BÜSUM",
+        "clubId": "0g678x7"
+      },
+      "away": {
+        "id": 87276,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 0,
+        "away": 1
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7194,
+      "competition": "Regionsliga MÄNNLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14617,
+        "name": "MJC-RL-2"
+      },
+      "venue": {
+        "name": "MEHRZWECKHALLE",
+        "address": "AN DER MüHLE 9, 25761 BüSUM"
+      },
+      "ownTeamId": "87276",
+      "ownTeam": {
+        "label": "MJC 2",
+        "name": "mJC 2",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 0,
+          "away": 1
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -3000,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 0:1."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 0:1."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 3000s by -3000s."
+          }
+        ]
+      },
+      "analyticsAvailable": false,
+      "analyticsPath": "match-analytics/677924.json"
+    },
+    {
       "id": 448715,
       "date": "2026-11-21",
       "time": "14:00",
@@ -12422,6 +12522,96 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/508101.json"
+    },
+    {
+      "id": 514289,
+      "date": "2026-11-23",
+      "time": "19:30",
+      "home": {
+        "id": 81936,
+        "name": "HSG 24109 II",
+        "clubId": "083hx46"
+      },
+      "away": {
+        "id": 94482,
+        "name": "SG Handball Neumünster IV",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 23,
+        "away": 22
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7950,
+      "competition": "Kreisklasse Frauen",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 12993,
+        "name": "Kreisklasse Frauen Mitte"
+      },
+      "venue": {
+        "name": "HALLE IM BZ METTENHOF 2",
+        "address": "VAASASTRAßE 43, 24109 KIEL"
+      },
+      "ownTeamId": "94482",
+      "ownTeam": {
+        "label": "FRAUEN 4",
+        "name": "4. Frauen",
+        "ageGroup": "senior",
+        "gender": "female",
+        "matchMinutes": 60
+      },
+      "quality": {
+        "status": "warning",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 23,
+          "away": 22
+        },
+        "eventFinalScore": {
+          "home": 23,
+          "away": 22
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 45,
+          "goalEventsWithPlayer": 45,
+          "matchedGoalEvents": 0,
+          "percentage": 0
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3600,
+        "eventDurationSeconds": 3600,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": false,
+        "warnings": [
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 23:22."
+          },
+          {
+            "code": "SCORER_LINEUP_MISMATCH",
+            "severity": "warning",
+            "message": "0/45 goal events with a player match the corresponding lineup."
+          }
+        ]
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/514289.json"
     },
     {
       "id": 509824,

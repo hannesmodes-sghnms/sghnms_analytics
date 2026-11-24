@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:27:13.158Z",
+  "generatedAt": "2026-11-24T06:41:08.864Z",
   "teams": [
     {
       "id": "86801",
@@ -278,14 +278,14 @@
       "ageGroup": "youth",
       "gender": "male",
       "matchMinutes": 50,
-      "games": 6,
-      "wins": 4,
+      "games": 7,
+      "wins": 5,
       "draws": 0,
       "losses": 2,
-      "goalsFor": 200,
+      "goalsFor": 201,
       "goalsAgainst": 173,
-      "goalDifference": 27,
-      "winRate": 66.7
+      "goalDifference": 28,
+      "winRate": 71.4
     },
     {
       "id": "87277",
@@ -342,14 +342,14 @@
       "ageGroup": "senior",
       "gender": "female",
       "matchMinutes": 60,
-      "games": 5,
+      "games": 6,
       "wins": 2,
       "draws": 0,
-      "losses": 3,
-      "goalsFor": 87,
-      "goalsAgainst": 97,
-      "goalDifference": -10,
-      "winRate": 40
+      "losses": 4,
+      "goalsFor": 109,
+      "goalsAgainst": 120,
+      "goalDifference": -11,
+      "winRate": 33.3
     },
     {
       "id": "94483",

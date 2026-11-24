@@ -1,0 +1,1432 @@
+{
+  "generatedAt": "2026-11-24T06:41:09.516Z",
+  "match": {
+    "id": 514289,
+    "date": "2026-11-23",
+    "time": "19:30",
+    "competitionId": 7950,
+    "competition": "Kreisklasse Frauen",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 12993,
+      "name": "Kreisklasse Frauen Mitte"
+    },
+    "venue": {
+      "name": "HALLE IM BZ METTENHOF 2",
+      "address": "VAASASTRAßE 43, 24109 KIEL"
+    },
+    "home": {
+      "id": 81936,
+      "name": "HSG 24109 II",
+      "clubId": "083hx46"
+    },
+    "away": {
+      "id": 94482,
+      "name": "SG Handball Neumünster IV",
+      "clubId": "1yrb3n9"
+    },
+    "result": {
+      "home": 23,
+      "away": 22
+    },
+    "ownTeamId": "94482",
+    "ownTeam": {
+      "label": "FRAUEN 4",
+      "name": "4. Frauen",
+      "ageGroup": "senior",
+      "gender": "female",
+      "matchMinutes": 60
+    },
+    "isHome": false,
+    "opponent": {
+      "id": 81936,
+      "name": "HSG 24109 II",
+      "clubId": "083hx46"
+    }
+  },
+  "quality": {
+    "status": "warning",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 23,
+      "away": 22
+    },
+    "eventFinalScore": {
+      "home": 23,
+      "away": 22
+    },
+    "lineupGoalTotals": {
+      "home": 0,
+      "away": 0
+    },
+    "eventScoreMatchesOfficial": true,
+    "lineupScoreMatchesOfficial": false,
+    "scorerLineupCoverage": {
+      "goalEvents": 45,
+      "goalEventsWithPlayer": 45,
+      "matchedGoalEvents": 0,
+      "percentage": 0
+    },
+    "halftimeAvailable": true,
+    "halftimeSource": "event",
+    "expectedDurationSeconds": 3600,
+    "eventDurationSeconds": 3600,
+    "durationDeltaSeconds": 0,
+    "durationMatchesExpected": true,
+    "analyticsEligible": true,
+    "lineupEligible": false,
+    "warnings": [
+      {
+        "code": "LINEUP_SCORE_MISMATCH",
+        "severity": "warning",
+        "message": "Lineup goal totals 0:0 differ from official result 23:22."
+      },
+      {
+        "code": "SCORER_LINEUP_MISMATCH",
+        "severity": "warning",
+        "message": "0/45 goal events with a player match the corresponding lineup."
+      }
+    ]
+  },
+  "analytics": {
+    "duration": {
+      "expectedSeconds": 3600,
+      "eventSeconds": 3600,
+      "analysisSeconds": 3600,
+      "analysisClock": "60:00"
+    },
+    "score": {
+      "final": {
+        "own": 22,
+        "opponent": 23
+      },
+      "halftime": {
+        "own": 13,
+        "opponent": 11
+      },
+      "halftimeSource": "event"
+    },
+    "matchFlow": [
+      {
+        "eventId": 99157737,
+        "timestamp": "2026-11-23T19:31:05+00:00",
+        "seconds": 47,
+        "clock": "00:47",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 1,
+          "opponent": 0
+        }
+      },
+      {
+        "eventId": 99157736,
+        "timestamp": "2026-11-23T19:32:07+00:00",
+        "seconds": 108,
+        "clock": "01:48",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": true,
+        "score": {
+          "own": 2,
+          "opponent": 0
+        }
+      },
+      {
+        "eventId": 99157735,
+        "timestamp": "2026-11-23T19:32:39+00:00",
+        "seconds": 140,
+        "clock": "02:20",
+        "side": "opponent",
+        "playerId": "0qi906s",
+        "playerName": "Jessika Brömme",
+        "isSevenMeter": false,
+        "score": {
+          "own": 2,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 99157732,
+        "timestamp": "2026-11-23T19:34:28+00:00",
+        "seconds": 251,
+        "clock": "04:11",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": true,
+        "score": {
+          "own": 3,
+          "opponent": 1
+        }
+      },
+      {
+        "eventId": 99157731,
+        "timestamp": "2026-11-23T19:34:47+00:00",
+        "seconds": 270,
+        "clock": "04:30",
+        "side": "opponent",
+        "playerId": "1o6prhc",
+        "playerName": "Lisa Meier",
+        "isSevenMeter": false,
+        "score": {
+          "own": 3,
+          "opponent": 2
+        }
+      },
+      {
+        "eventId": 99157728,
+        "timestamp": "2026-11-23T19:36:08+00:00",
+        "seconds": 351,
+        "clock": "05:51",
+        "side": "opponent",
+        "playerId": "1o6prhc",
+        "playerName": "Lisa Meier",
+        "isSevenMeter": true,
+        "score": {
+          "own": 3,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 99157727,
+        "timestamp": "2026-11-23T19:38:28+00:00",
+        "seconds": 491,
+        "clock": "08:11",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 3
+        }
+      },
+      {
+        "eventId": 99157724,
+        "timestamp": "2026-11-23T19:42:29+00:00",
+        "seconds": 732,
+        "clock": "12:12",
+        "side": "opponent",
+        "playerId": "0qi906s",
+        "playerName": "Jessika Brömme",
+        "isSevenMeter": false,
+        "score": {
+          "own": 4,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 99157723,
+        "timestamp": "2026-11-23T19:43:22+00:00",
+        "seconds": 785,
+        "clock": "13:05",
+        "side": "own",
+        "playerId": "08li1im",
+        "playerName": "Kira Hantzsch",
+        "isSevenMeter": false,
+        "score": {
+          "own": 5,
+          "opponent": 4
+        }
+      },
+      {
+        "eventId": 99157721,
+        "timestamp": "2026-11-23T19:44:18+00:00",
+        "seconds": 841,
+        "clock": "14:01",
+        "side": "opponent",
+        "playerId": "0qi906s",
+        "playerName": "Jessika Brömme",
+        "isSevenMeter": true,
+        "score": {
+          "own": 5,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 99157720,
+        "timestamp": "2026-11-23T19:44:48+00:00",
+        "seconds": 870,
+        "clock": "14:30",
+        "side": "own",
+        "playerId": "12jtqun",
+        "playerName": "Anja Brohm",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 5
+        }
+      },
+      {
+        "eventId": 99157719,
+        "timestamp": "2026-11-23T19:46:10+00:00",
+        "seconds": 952,
+        "clock": "15:52",
+        "side": "opponent",
+        "playerId": "1344y49",
+        "playerName": "Sarah-Celine Stegemann",
+        "isSevenMeter": false,
+        "score": {
+          "own": 6,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 99157717,
+        "timestamp": "2026-11-23T19:49:17+00:00",
+        "seconds": 1046,
+        "clock": "17:26",
+        "side": "own",
+        "playerId": "0p2gnot",
+        "playerName": "Vanessa Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 6
+        }
+      },
+      {
+        "eventId": 99157716,
+        "timestamp": "2026-11-23T19:49:41+00:00",
+        "seconds": 1069,
+        "clock": "17:49",
+        "side": "opponent",
+        "playerId": "0bi4kjy",
+        "playerName": "Sarah Kühne",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 7
+        }
+      },
+      {
+        "eventId": 99157714,
+        "timestamp": "2026-11-23T19:51:24+00:00",
+        "seconds": 1173,
+        "clock": "19:33",
+        "side": "opponent",
+        "playerId": "1344y49",
+        "playerName": "Sarah-Celine Stegemann",
+        "isSevenMeter": false,
+        "score": {
+          "own": 7,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 99157713,
+        "timestamp": "2026-11-23T19:52:15+00:00",
+        "seconds": 1224,
+        "clock": "20:24",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 8,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 99157711,
+        "timestamp": "2026-11-23T19:55:44+00:00",
+        "seconds": 1405,
+        "clock": "23:25",
+        "side": "own",
+        "playerId": "0p2gnot",
+        "playerName": "Vanessa Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 8
+        }
+      },
+      {
+        "eventId": 99157710,
+        "timestamp": "2026-11-23T19:56:49+00:00",
+        "seconds": 1472,
+        "clock": "24:32",
+        "side": "opponent",
+        "playerId": "091ie5x",
+        "playerName": "Male Marie Schleupner",
+        "isSevenMeter": false,
+        "score": {
+          "own": 9,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 99157709,
+        "timestamp": "2026-11-23T19:57:20+00:00",
+        "seconds": 1503,
+        "clock": "25:03",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": true,
+        "score": {
+          "own": 10,
+          "opponent": 9
+        }
+      },
+      {
+        "eventId": 99157708,
+        "timestamp": "2026-11-23T19:57:37+00:00",
+        "seconds": 1520,
+        "clock": "25:20",
+        "side": "opponent",
+        "playerId": "1344y49",
+        "playerName": "Sarah-Celine Stegemann",
+        "isSevenMeter": false,
+        "score": {
+          "own": 10,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 99157706,
+        "timestamp": "2026-11-23T19:59:20+00:00",
+        "seconds": 1611,
+        "clock": "26:51",
+        "side": "own",
+        "playerId": "0ew9aec",
+        "playerName": "Kim Kristin Pohl",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 10
+        }
+      },
+      {
+        "eventId": 99157705,
+        "timestamp": "2026-11-23T19:59:44+00:00",
+        "seconds": 1634,
+        "clock": "27:14",
+        "side": "opponent",
+        "playerId": "091ie5x",
+        "playerName": "Male Marie Schleupner",
+        "isSevenMeter": false,
+        "score": {
+          "own": 11,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 99157704,
+        "timestamp": "2026-11-23T20:00:09+00:00",
+        "seconds": 1659,
+        "clock": "27:39",
+        "side": "own",
+        "playerId": "12jtqun",
+        "playerName": "Anja Brohm",
+        "isSevenMeter": false,
+        "score": {
+          "own": 12,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 99157702,
+        "timestamp": "2026-11-23T20:02:19+00:00",
+        "seconds": 1771,
+        "clock": "29:31",
+        "side": "own",
+        "playerId": "0p2gnot",
+        "playerName": "Vanessa Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 11
+        }
+      },
+      {
+        "eventId": 99157699,
+        "timestamp": "2026-11-23T20:15:42+00:00",
+        "seconds": 1823,
+        "clock": "30:23",
+        "side": "opponent",
+        "playerId": "1o6prhc",
+        "playerName": "Lisa Meier",
+        "isSevenMeter": false,
+        "score": {
+          "own": 13,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 99157698,
+        "timestamp": "2026-11-23T20:16:28+00:00",
+        "seconds": 1869,
+        "clock": "31:09",
+        "side": "own",
+        "playerId": "0p2gnot",
+        "playerName": "Vanessa Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 14,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 99157697,
+        "timestamp": "2026-11-23T20:17:45+00:00",
+        "seconds": 1946,
+        "clock": "32:26",
+        "side": "own",
+        "playerId": "0ew9aec",
+        "playerName": "Kim Kristin Pohl",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 12
+        }
+      },
+      {
+        "eventId": 99157696,
+        "timestamp": "2026-11-23T20:18:18+00:00",
+        "seconds": 1979,
+        "clock": "32:59",
+        "side": "opponent",
+        "playerId": "1o6prhc",
+        "playerName": "Lisa Meier",
+        "isSevenMeter": false,
+        "score": {
+          "own": 15,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 99157695,
+        "timestamp": "2026-11-23T20:19:29+00:00",
+        "seconds": 2050,
+        "clock": "34:10",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": true,
+        "score": {
+          "own": 16,
+          "opponent": 13
+        }
+      },
+      {
+        "eventId": 99157694,
+        "timestamp": "2026-11-23T20:20:09+00:00",
+        "seconds": 2080,
+        "clock": "34:40",
+        "side": "opponent",
+        "playerId": "0bi4kjy",
+        "playerName": "Sarah Kühne",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 14
+        }
+      },
+      {
+        "eventId": 99157693,
+        "timestamp": "2026-11-23T20:21:30+00:00",
+        "seconds": 2132,
+        "clock": "35:32",
+        "side": "opponent",
+        "playerId": "091ie5x",
+        "playerName": "Male Marie Schleupner",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 15
+        }
+      },
+      {
+        "eventId": 99157691,
+        "timestamp": "2026-11-23T20:27:28+00:00",
+        "seconds": 2417,
+        "clock": "40:17",
+        "side": "opponent",
+        "playerId": "1344y49",
+        "playerName": "Sarah-Celine Stegemann",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 16
+        }
+      },
+      {
+        "eventId": 99157690,
+        "timestamp": "2026-11-23T20:28:34+00:00",
+        "seconds": 2483,
+        "clock": "41:23",
+        "side": "opponent",
+        "playerId": "1o6prhc",
+        "playerName": "Lisa Meier",
+        "isSevenMeter": false,
+        "score": {
+          "own": 16,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 99157688,
+        "timestamp": "2026-11-23T20:31:29+00:00",
+        "seconds": 2573,
+        "clock": "42:53",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 17,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 99157686,
+        "timestamp": "2026-11-23T20:36:33+00:00",
+        "seconds": 2855,
+        "clock": "47:35",
+        "side": "own",
+        "playerId": "0p2gnot",
+        "playerName": "Vanessa Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 17
+        }
+      },
+      {
+        "eventId": 99157685,
+        "timestamp": "2026-11-23T20:37:01+00:00",
+        "seconds": 2884,
+        "clock": "48:04",
+        "side": "opponent",
+        "playerId": "1344y49",
+        "playerName": "Sarah-Celine Stegemann",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 18
+        }
+      },
+      {
+        "eventId": 99157684,
+        "timestamp": "2026-11-23T20:37:44+00:00",
+        "seconds": 2927,
+        "clock": "48:47",
+        "side": "opponent",
+        "playerId": "1344y49",
+        "playerName": "Sarah-Celine Stegemann",
+        "isSevenMeter": false,
+        "score": {
+          "own": 18,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 99157683,
+        "timestamp": "2026-11-23T20:39:17+00:00",
+        "seconds": 3020,
+        "clock": "50:20",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 19,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 99157682,
+        "timestamp": "2026-11-23T20:41:01+00:00",
+        "seconds": 3124,
+        "clock": "52:04",
+        "side": "own",
+        "playerId": "0p2gnot",
+        "playerName": "Vanessa Schröder",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 19
+        }
+      },
+      {
+        "eventId": 99157681,
+        "timestamp": "2026-11-23T20:43:05+00:00",
+        "seconds": 3248,
+        "clock": "54:08",
+        "side": "opponent",
+        "playerId": "1o6prhc",
+        "playerName": "Lisa Meier",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 20
+        }
+      },
+      {
+        "eventId": 99157680,
+        "timestamp": "2026-11-23T20:43:34+00:00",
+        "seconds": 3276,
+        "clock": "54:36",
+        "side": "opponent",
+        "playerId": "1uraccl",
+        "playerName": "Paulina Schaefer",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 21
+        }
+      },
+      {
+        "eventId": 99157679,
+        "timestamp": "2026-11-23T20:44:30+00:00",
+        "seconds": 3334,
+        "clock": "55:34",
+        "side": "opponent",
+        "playerId": "1o6prhc",
+        "playerName": "Lisa Meier",
+        "isSevenMeter": false,
+        "score": {
+          "own": 20,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 99157678,
+        "timestamp": "2026-11-23T20:44:57+00:00",
+        "seconds": 3360,
+        "clock": "56:00",
+        "side": "own",
+        "playerId": "1wwy8yb",
+        "playerName": "Luisa Gauger",
+        "isSevenMeter": false,
+        "score": {
+          "own": 21,
+          "opponent": 22
+        }
+      },
+      {
+        "eventId": 99157676,
+        "timestamp": "2026-11-23T20:45:36+00:00",
+        "seconds": 3378,
+        "clock": "56:18",
+        "side": "opponent",
+        "playerId": "18fsmqk",
+        "playerName": "Mareike Dittmer",
+        "isSevenMeter": true,
+        "score": {
+          "own": 21,
+          "opponent": 23
+        }
+      },
+      {
+        "eventId": 99157674,
+        "timestamp": "2026-11-23T20:49:46+00:00",
+        "seconds": 3549,
+        "clock": "59:09",
+        "side": "own",
+        "playerId": "0rvc9qh",
+        "playerName": "Vanessa Sellmer",
+        "isSevenMeter": true,
+        "score": {
+          "own": 22,
+          "opponent": 23
+        }
+      }
+    ],
+    "fiveMinuteSplits": [
+      {
+        "startSeconds": 0,
+        "endSeconds": 300,
+        "label": "0-5",
+        "goals": {
+          "own": 3,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 3,
+          "opponent": 2
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 300,
+        "endSeconds": 600,
+        "label": "5-10",
+        "goals": {
+          "own": 1,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 4,
+          "opponent": 3
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 600,
+        "endSeconds": 900,
+        "label": "10-15",
+        "goals": {
+          "own": 2,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 6,
+          "opponent": 5
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 900,
+        "endSeconds": 1200,
+        "label": "15-20",
+        "goals": {
+          "own": 1,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 7,
+          "opponent": 8
+        },
+        "goalDifference": -2
+      },
+      {
+        "startSeconds": 1200,
+        "endSeconds": 1500,
+        "label": "20-25",
+        "goals": {
+          "own": 2,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 9,
+          "opponent": 9
+        },
+        "goalDifference": 1
+      },
+      {
+        "startSeconds": 1500,
+        "endSeconds": 1800,
+        "label": "25-30",
+        "goals": {
+          "own": 4,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 13,
+          "opponent": 11
+        },
+        "goalDifference": 2
+      },
+      {
+        "startSeconds": 1800,
+        "endSeconds": 2100,
+        "label": "30-35",
+        "goals": {
+          "own": 3,
+          "opponent": 3
+        },
+        "scoreEnd": {
+          "own": 16,
+          "opponent": 14
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 2100,
+        "endSeconds": 2400,
+        "label": "35-40",
+        "goals": {
+          "own": 0,
+          "opponent": 1
+        },
+        "scoreEnd": {
+          "own": 16,
+          "opponent": 15
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 2400,
+        "endSeconds": 2700,
+        "label": "40-45",
+        "goals": {
+          "own": 1,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 17,
+          "opponent": 17
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 2700,
+        "endSeconds": 3000,
+        "label": "45-50",
+        "goals": {
+          "own": 1,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 18,
+          "opponent": 19
+        },
+        "goalDifference": -1
+      },
+      {
+        "startSeconds": 3000,
+        "endSeconds": 3300,
+        "label": "50-55",
+        "goals": {
+          "own": 2,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 20,
+          "opponent": 21
+        },
+        "goalDifference": 0
+      },
+      {
+        "startSeconds": 3300,
+        "endSeconds": 3600,
+        "label": "55-60",
+        "goals": {
+          "own": 2,
+          "opponent": 2
+        },
+        "scoreEnd": {
+          "own": 22,
+          "opponent": 23
+        },
+        "goalDifference": 0
+      }
+    ],
+    "gamePhases": null,
+    "sevenMeters": {
+      "own": {
+        "goals": 5,
+        "misses": 2,
+        "attempts": 7,
+        "percentage": 71.4
+      },
+      "opponent": {
+        "goals": 3,
+        "misses": 3,
+        "attempts": 6,
+        "percentage": 50
+      }
+    },
+    "sanctions": {
+      "own": {
+        "warnings": 2,
+        "twoMinutes": 4,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      },
+      "opponent": {
+        "warnings": 3,
+        "twoMinutes": 1,
+        "disqualifications": 0,
+        "redCards": 0,
+        "blueCards": 0
+      }
+    },
+    "longestRuns": {
+      "own": {
+        "side": "away",
+        "goals": 2,
+        "startSeconds": 47,
+        "endSeconds": 108,
+        "startScore": {
+          "home": 0,
+          "away": 0
+        },
+        "endScore": {
+          "home": 0,
+          "away": 2
+        },
+        "start": "00:47",
+        "end": "01:48"
+      },
+      "opponent": {
+        "side": "home",
+        "goals": 4,
+        "startSeconds": 2080,
+        "endSeconds": 2483,
+        "startScore": {
+          "home": 13,
+          "away": 16
+        },
+        "endScore": {
+          "home": 17,
+          "away": 16
+        },
+        "start": "34:40",
+        "end": "41:23"
+      }
+    },
+    "scoringDroughts": {
+      "own": {
+        "seconds": 523,
+        "startSeconds": 2050,
+        "endSeconds": 2573,
+        "duration": "08:43",
+        "start": "34:10",
+        "end": "42:53"
+      },
+      "opponent": {
+        "seconds": 401,
+        "startSeconds": 2483,
+        "endSeconds": 2884,
+        "duration": "06:41",
+        "start": "41:23",
+        "end": "48:04"
+      }
+    },
+    "timeouts": [
+      {
+        "side": "opponent",
+        "seconds": 1003,
+        "clock": "16:43",
+        "score": {
+          "own": 6,
+          "opponent": 6
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 5,
+          "opponent": 4
+        },
+        "goalsBefore": {
+          "own": 1,
+          "opponent": 2
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 7,
+          "opponent": 8
+        },
+        "goalsAfter": {
+          "own": 1,
+          "opponent": 2
+        }
+      },
+      {
+        "side": "own",
+        "seconds": 2539,
+        "clock": "42:19",
+        "score": {
+          "own": 16,
+          "opponent": 17
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 16,
+          "opponent": 15
+        },
+        "goalsBefore": {
+          "own": 0,
+          "opponent": 2
+        },
+        "windowSeconds": 180,
+        "scoreAfterWindow": {
+          "own": 17,
+          "opponent": 17
+        },
+        "goalsAfter": {
+          "own": 1,
+          "opponent": 0
+        }
+      },
+      {
+        "side": "opponent",
+        "seconds": 3426,
+        "clock": "57:06",
+        "score": {
+          "own": 21,
+          "opponent": 23
+        },
+        "windowBeforeSeconds": 180,
+        "scoreBeforeWindow": {
+          "own": 20,
+          "opponent": 19
+        },
+        "goalsBefore": {
+          "own": 1,
+          "opponent": 4
+        },
+        "windowSeconds": 174,
+        "scoreAfterWindow": {
+          "own": 22,
+          "opponent": 23
+        },
+        "goalsAfter": {
+          "own": 1,
+          "opponent": 0
+        }
+      }
+    ],
+    "numericSituations": {
+      "suspensionsAffectPlayerCount": true,
+      "suspensions": [
+        {
+          "eventId": 99157712,
+          "side": "own",
+          "playerId": "0p2gnot",
+          "playerName": "Vanessa Schröder",
+          "startSeconds": 1253,
+          "endSeconds": 1373,
+          "start": "20:53",
+          "end": "22:53"
+        },
+        {
+          "eventId": 99157707,
+          "side": "opponent",
+          "playerId": "1344y49",
+          "playerName": "Sarah-Celine Stegemann",
+          "startSeconds": 1548,
+          "endSeconds": 1668,
+          "start": "25:48",
+          "end": "27:48"
+        },
+        {
+          "eventId": 99157687,
+          "side": "own",
+          "playerId": "01cgnxp",
+          "playerName": "Nele Marie Steen",
+          "startSeconds": 2748,
+          "endSeconds": 2868,
+          "start": "45:48",
+          "end": "47:48"
+        },
+        {
+          "eventId": 99157677,
+          "side": "own",
+          "playerId": "0ew9aec",
+          "playerName": "Kim Kristin Pohl",
+          "startSeconds": 3376,
+          "endSeconds": 3496,
+          "start": "56:16",
+          "end": "58:16"
+        },
+        {
+          "eventId": 99157673,
+          "side": "own",
+          "playerId": "01cgnxp",
+          "playerName": "Nele Marie Steen",
+          "startSeconds": 3566,
+          "endSeconds": 3600,
+          "start": "59:26",
+          "end": "60:00"
+        }
+      ],
+      "even": {
+        "seconds": 3086,
+        "goals": {
+          "own": 19,
+          "opponent": 21
+        }
+      },
+      "powerPlay": {
+        "seconds": 120,
+        "goals": {
+          "own": 2,
+          "opponent": 1
+        }
+      },
+      "shortHanded": {
+        "seconds": 394,
+        "goals": {
+          "own": 1,
+          "opponent": 1
+        }
+      }
+    },
+    "players": {
+      "own": [
+        {
+          "playerId": "0rvc9qh",
+          "name": "Vanessa Sellmer",
+          "number": null,
+          "inLineup": false,
+          "goals": 10,
+          "sevenMeters": {
+            "goals": 5,
+            "misses": 1,
+            "attempts": 6,
+            "percentage": 83.3
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0p2gnot",
+          "name": "Vanessa Schröder",
+          "number": null,
+          "inLineup": false,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "12jtqun",
+          "name": "Anja Brohm",
+          "number": null,
+          "inLineup": false,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 1,
+            "attempts": 1,
+            "percentage": 0
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0ew9aec",
+          "name": "Kim Kristin Pohl",
+          "number": null,
+          "inLineup": false,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "08li1im",
+          "name": "Kira Hantzsch",
+          "number": null,
+          "inLineup": false,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1wwy8yb",
+          "name": "Luisa Gauger",
+          "number": null,
+          "inLineup": false,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "01cgnxp",
+          "name": "Nele Marie Steen",
+          "number": null,
+          "inLineup": false,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 2,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ],
+      "opponent": [
+        {
+          "playerId": "1o6prhc",
+          "name": "Lisa Meier",
+          "number": null,
+          "inLineup": false,
+          "goals": 7,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 2,
+            "attempts": 3,
+            "percentage": 33.3
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1344y49",
+          "name": "Sarah-Celine Stegemann",
+          "number": null,
+          "inLineup": false,
+          "goals": 6,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 1,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0qi906s",
+          "name": "Jessika Brömme",
+          "number": null,
+          "inLineup": false,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "091ie5x",
+          "name": "Male Marie Schleupner",
+          "number": null,
+          "inLineup": false,
+          "goals": 3,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 1,
+            "attempts": 1,
+            "percentage": 0
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "0bi4kjy",
+          "name": "Sarah Kühne",
+          "number": null,
+          "inLineup": false,
+          "goals": 2,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "18fsmqk",
+          "name": "Mareike Dittmer",
+          "number": null,
+          "inLineup": false,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 1,
+            "misses": 0,
+            "attempts": 1,
+            "percentage": 100
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1uraccl",
+          "name": "Paulina Schaefer",
+          "number": null,
+          "inLineup": false,
+          "goals": 1,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 0,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        },
+        {
+          "playerId": "1h8stlc",
+          "name": "Vanessa Armandt",
+          "number": null,
+          "inLineup": false,
+          "goals": 0,
+          "sevenMeters": {
+            "goals": 0,
+            "misses": 0,
+            "attempts": 0,
+            "percentage": null
+          },
+          "warnings": 1,
+          "twoMinutes": 0,
+          "disqualifications": 0,
+          "redCards": 0,
+          "blueCards": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,54 +1,59 @@
 {
-  "generatedAt": "2026-11-23T03:27:13.155Z",
-  "finishedMatches": 156,
-  "analysesAvailable": 156,
+  "generatedAt": "2026-11-24T06:41:08.863Z",
+  "finishedMatches": 158,
+  "analysesAvailable": 158,
   "endpointCoverage": {
-    "eventsAvailable": 156,
+    "eventsAvailable": 158,
     "eventsPercent": 100,
-    "lineupsAvailable": 156,
+    "lineupsAvailable": 158,
     "lineupsPercent": 100,
-    "bothAvailable": 156,
+    "bothAvailable": 158,
     "bothPercent": 100
   },
   "verifiedAnalytics": {
-    "eligibleMatches": 152,
-    "excludedMatches": 4,
-    "percent": 97.4
+    "eligibleMatches": 153,
+    "excludedMatches": 5,
+    "percent": 96.8
   },
   "verification": {
-    "eventScoreMatchesOfficial": 152,
+    "eventScoreMatchesOfficial": 153,
     "lineupScoreMatchesOfficial": 152,
-    "halftimeAvailable": 154,
-    "halftimeEvent": 125,
+    "halftimeAvailable": 155,
+    "halftimeEvent": 126,
     "halftimeDerived": 29,
-    "durationMatchesExpected": 147,
-    "scorerLineupCoverage100": 156,
-    "eventScorePercent": 97.4,
-    "lineupScorePercent": 97.4,
-    "halftimePercent": 98.7,
-    "durationPercent": 94.2,
-    "scorerLineupCoverage100Percent": 100
+    "durationMatchesExpected": 148,
+    "scorerLineupCoverage100": 157,
+    "eventScorePercent": 96.8,
+    "lineupScorePercent": 96.2,
+    "halftimePercent": 98.1,
+    "durationPercent": 93.7,
+    "scorerLineupCoverage100Percent": 99.4
   },
   "warningSummary": [
     {
       "code": "DURATION_MISMATCH",
       "severity": "warning",
-      "count": 9
-    },
-    {
-      "code": "EVENT_SCORE_MISMATCH",
-      "severity": "critical",
-      "count": 4
+      "count": 10
     },
     {
       "code": "LINEUP_SCORE_MISMATCH",
       "severity": "warning",
-      "count": 4
+      "count": 6
+    },
+    {
+      "code": "EVENT_SCORE_MISMATCH",
+      "severity": "critical",
+      "count": 5
     },
     {
       "code": "HALFTIME_MISSING",
       "severity": "warning",
-      "count": 2
+      "count": 3
+    },
+    {
+      "code": "SCORER_LINEUP_MISMATCH",
+      "severity": "warning",
+      "count": 1
     }
   ],
   "teams": [
@@ -329,14 +334,14 @@
       "ageGroup": "youth",
       "gender": "male",
       "matchMinutes": 50,
-      "finishedMatches": 6,
-      "eventsAvailable": 6,
-      "lineupsAvailable": 6,
-      "bothAvailable": 6,
+      "finishedMatches": 7,
+      "eventsAvailable": 7,
+      "lineupsAvailable": 7,
+      "bothAvailable": 7,
       "analyticsEligible": 6,
-      "analyticsExcluded": 0,
-      "analyticsPercent": 100,
-      "warnings": 1
+      "analyticsExcluded": 1,
+      "analyticsPercent": 85.7,
+      "warnings": 5
     },
     {
       "id": "87277",
@@ -393,14 +398,14 @@
       "ageGroup": "senior",
       "gender": "female",
       "matchMinutes": 60,
-      "finishedMatches": 5,
-      "eventsAvailable": 5,
-      "lineupsAvailable": 5,
-      "bothAvailable": 5,
-      "analyticsEligible": 3,
+      "finishedMatches": 6,
+      "eventsAvailable": 6,
+      "lineupsAvailable": 6,
+      "bothAvailable": 6,
+      "analyticsEligible": 4,
       "analyticsExcluded": 2,
-      "analyticsPercent": 60,
-      "warnings": 6
+      "analyticsPercent": 66.7,
+      "warnings": 8
     },
     {
       "id": "94483",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T03:27:13.664Z",
+  "generatedAt": "2026-11-24T06:41:09.169Z",
   "teams": [
     {
       "teamId": "86801",
@@ -9391,8 +9391,8 @@
           "teamCount": 10,
           "current": {
             "round": 11,
-            "position": 2,
-            "played": 6,
+            "position": 3,
+            "played": 7,
             "won": 2,
             "drawn": 0,
             "lost": 1,
@@ -9510,7 +9510,7 @@
             {
               "round": 9,
               "position": 1,
-              "played": 5,
+              "played": 6,
               "won": 2,
               "drawn": 0,
               "lost": 0,
@@ -9522,8 +9522,8 @@
             },
             {
               "round": 10,
-              "position": 1,
-              "played": 6,
+              "position": 2,
+              "played": 7,
               "won": 2,
               "drawn": 0,
               "lost": 1,
@@ -9535,8 +9535,8 @@
             },
             {
               "round": 11,
-              "position": 2,
-              "played": 6,
+              "position": 3,
+              "played": 7,
               "won": 2,
               "drawn": 0,
               "lost": 1,
@@ -9598,53 +9598,6 @@
             {
               "position": 2,
               "team": {
-                "id": 87276,
-                "name": "SG Handball Neumünster II",
-                "club": {
-                  "id": "1yrb3n9",
-                  "name": "SG Handball Neumünster",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 6,
-              "won": 2,
-              "drawn": 0,
-              "lost": 1,
-              "goalsFor": 91,
-              "goalsAgainst": 82,
-              "goalDifference": 9,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 677900,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677910,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677918,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677923,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677929,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 3,
-              "team": {
                 "id": 94455,
                 "name": "SG BORDESHOLM/BRÜGGE II",
                 "club": {
@@ -9686,6 +9639,53 @@
                 {
                   "matchId": 677925,
                   "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 3,
+              "team": {
+                "id": 87276,
+                "name": "SG Handball Neumünster II",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 7,
+              "won": 2,
+              "drawn": 0,
+              "lost": 1,
+              "goalsFor": 91,
+              "goalsAgainst": 82,
+              "goalDifference": 9,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 677910,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677918,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677923,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677924,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677929,
+                  "result": "L"
                 }
               ]
             },
@@ -9833,53 +9833,6 @@
             {
               "position": 7,
               "team": {
-                "id": 82194,
-                "name": "TSV BÜSUM",
-                "club": {
-                  "id": "0g678x7",
-                  "name": "TSV Büsum",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5832/square_6c756e7663306b613235.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 7,
-              "won": 0,
-              "drawn": 0,
-              "lost": 0,
-              "goalsFor": 0,
-              "goalsAgainst": 0,
-              "goalDifference": 0,
-              "points": 0,
-              "qualifies": false,
-              "form": [
-                {
-                  "matchId": 677901,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677912,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677914,
-                  "result": "W"
-                },
-                {
-                  "matchId": 677921,
-                  "result": "L"
-                },
-                {
-                  "matchId": 677936,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 8,
-              "team": {
                 "id": 82195,
                 "name": "TURA MELDORF II",
                 "club": {
@@ -9925,7 +9878,7 @@
               ]
             },
             {
-              "position": 9,
+              "position": 8,
               "team": {
                 "id": 82205,
                 "name": "HSG HOHE GEEST",
@@ -9967,6 +9920,53 @@
                 },
                 {
                   "matchId": 677935,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 9,
+              "team": {
+                "id": 82194,
+                "name": "TSV BÜSUM",
+                "club": {
+                  "id": "0g678x7",
+                  "name": "TSV Büsum",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5832/square_6c756e7663306b613235.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 8,
+              "won": 0,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 0,
+              "goalsAgainst": 0,
+              "goalDifference": 0,
+              "points": 0,
+              "qualifies": false,
+              "form": [
+                {
+                  "matchId": 677912,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677914,
+                  "result": "W"
+                },
+                {
+                  "matchId": 677921,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677924,
+                  "result": "L"
+                },
+                {
+                  "matchId": 677936,
                   "result": "L"
                 }
               ]
@@ -11750,6 +11750,53 @@
             {
               "position": 7,
               "team": {
+                "id": 81932,
+                "name": "SC KIELER FÖRDE II",
+                "club": {
+                  "id": "00xfnlm",
+                  "name": "SC Kieler Förde",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5908/square_353232626b796c346175.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 7,
+              "won": 2,
+              "drawn": 0,
+              "lost": 5,
+              "goalsFor": 159,
+              "goalsAgainst": 195,
+              "goalDifference": -36,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 506417,
+                  "result": "W"
+                },
+                {
+                  "matchId": 506422,
+                  "result": "L"
+                },
+                {
+                  "matchId": 506428,
+                  "result": "L"
+                },
+                {
+                  "matchId": 506433,
+                  "result": "L"
+                },
+                {
+                  "matchId": 506438,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 8,
+              "team": {
                 "id": 81928,
                 "name": "FT ADLER KIEL",
                 "club": {
@@ -11795,7 +11842,7 @@
               ]
             },
             {
-              "position": 8,
+              "position": 9,
               "team": {
                 "id": 81931,
                 "name": "SG HANDBALL EIDERTAL",
@@ -11842,53 +11889,6 @@
               ]
             },
             {
-              "position": 9,
-              "team": {
-                "id": 81932,
-                "name": "SC KIELER FÖRDE II",
-                "club": {
-                  "id": "00xfnlm",
-                  "name": "SC Kieler Förde",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5908/square_353232626b796c346175.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 6,
-              "won": 1,
-              "drawn": 0,
-              "lost": 5,
-              "goalsFor": 128,
-              "goalsAgainst": 169,
-              "goalDifference": -41,
-              "points": 2,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 506417,
-                  "result": "W"
-                },
-                {
-                  "matchId": 506422,
-                  "result": "L"
-                },
-                {
-                  "matchId": 506428,
-                  "result": "L"
-                },
-                {
-                  "matchId": 506433,
-                  "result": "L"
-                },
-                {
-                  "matchId": 506438,
-                  "result": "L"
-                }
-              ]
-            },
-            {
               "position": 10,
               "team": {
                 "id": 81926,
@@ -11903,13 +11903,13 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 1,
-              "lost": 5,
-              "goalsFor": 140,
-              "goalsAgainst": 159,
-              "goalDifference": -19,
+              "lost": 6,
+              "goalsFor": 166,
+              "goalsAgainst": 190,
+              "goalDifference": -24,
               "points": 1,
               "qualifies": true,
               "form": [
@@ -11963,14 +11963,14 @@
           "teamCount": 10,
           "current": {
             "round": 7,
-            "position": 8,
-            "played": 5,
+            "position": 9,
+            "played": 6,
             "won": 2,
             "drawn": 0,
-            "lost": 3,
-            "goalsFor": 87,
-            "goalsAgainst": 97,
-            "goalDifference": -10,
+            "lost": 4,
+            "goalsFor": 109,
+            "goalsAgainst": 120,
+            "goalDifference": -11,
             "points": 4,
             "qualifies": true
           },
@@ -12043,26 +12043,26 @@
             {
               "round": 6,
               "position": 6,
-              "played": 4,
+              "played": 5,
               "won": 2,
               "drawn": 0,
-              "lost": 2,
-              "goalsFor": 70,
-              "goalsAgainst": 67,
-              "goalDifference": 3,
+              "lost": 3,
+              "goalsFor": 92,
+              "goalsAgainst": 90,
+              "goalDifference": 2,
               "points": 4,
               "qualifies": true
             },
             {
               "round": 7,
-              "position": 8,
-              "played": 5,
+              "position": 9,
+              "played": 6,
               "won": 2,
               "drawn": 0,
-              "lost": 3,
-              "goalsFor": 87,
-              "goalsAgainst": 97,
-              "goalDifference": -10,
+              "lost": 4,
+              "goalsFor": 109,
+              "goalsAgainst": 120,
+              "goalDifference": -11,
               "points": 4,
               "qualifies": true
             }
@@ -12070,6 +12070,53 @@
           "table": [
             {
               "position": 1,
+              "team": {
+                "id": 81936,
+                "name": "HSG 24109 II",
+                "club": {
+                  "id": "083hx46",
+                  "name": "HSG 24109",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5882/square_6169396d696369387531.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 6,
+              "won": 6,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 147,
+              "goalsAgainst": 119,
+              "goalDifference": 28,
+              "points": 12,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514268,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514271,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514277,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514283,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514289,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 2,
               "team": {
                 "id": 81933,
                 "name": "WELLINGDORFER TV II",
@@ -12111,53 +12158,6 @@
                 },
                 {
                   "matchId": 514291,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 2,
-              "team": {
-                "id": 81936,
-                "name": "HSG 24109 II",
-                "club": {
-                  "id": "083hx46",
-                  "name": "HSG 24109",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5882/square_6169396d696369387531.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 5,
-              "won": 5,
-              "drawn": 0,
-              "lost": 0,
-              "goalsFor": 124,
-              "goalsAgainst": 97,
-              "goalDifference": 27,
-              "points": 10,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514264,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514268,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514271,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514277,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514283,
                   "result": "W"
                 }
               ]
@@ -12400,53 +12400,6 @@
             {
               "position": 8,
               "team": {
-                "id": 94482,
-                "name": "SG Handball Neumünster IV",
-                "club": {
-                  "id": "1yrb3n9",
-                  "name": "SG Handball Neumünster",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 5,
-              "won": 2,
-              "drawn": 0,
-              "lost": 3,
-              "goalsFor": 87,
-              "goalsAgainst": 97,
-              "goalDifference": -10,
-              "points": 4,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 514262,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514267,
-                  "result": "W"
-                },
-                {
-                  "matchId": 514273,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514284,
-                  "result": "L"
-                },
-                {
-                  "matchId": 514295,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 9,
-              "team": {
                 "id": 81934,
                 "name": "SC FORTUNA WELLSEE",
                 "club": {
@@ -12487,6 +12440,53 @@
                 },
                 {
                   "matchId": 514291,
+                  "result": "L"
+                }
+              ]
+            },
+            {
+              "position": 9,
+              "team": {
+                "id": 94482,
+                "name": "SG Handball Neumünster IV",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 109,
+              "goalsAgainst": 120,
+              "goalDifference": -11,
+              "points": 4,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 514267,
+                  "result": "W"
+                },
+                {
+                  "matchId": 514273,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514284,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514289,
+                  "result": "L"
+                },
+                {
+                  "matchId": 514295,
                   "result": "L"
                 }
               ]
