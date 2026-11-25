@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:57:26.358Z",
+  "generatedAt": "2026-11-25T05:13:52.259Z",
   "matches": [
     {
       "id": 504541,
@@ -1884,6 +1884,18 @@
       "competitionScope": "league",
       "qualityStatus": "warning",
       "path": "match-analytics/514289.json"
+    },
+    {
+      "id": 450762,
+      "date": "2026-11-24",
+      "time": "17:30",
+      "ownTeamId": "87187",
+      "opponent": "VFL Lübeck-SCHWARTAU",
+      "analyticsEligible": true,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "verified",
+      "path": "match-analytics/450762.json"
     },
     {
       "id": 509824,

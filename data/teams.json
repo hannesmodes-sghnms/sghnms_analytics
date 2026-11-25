@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:57:25.865Z",
+  "generatedAt": "2026-11-25T05:13:51.550Z",
   "teams": [
     {
       "id": "86801",
@@ -182,14 +182,14 @@
       "ageGroup": "youth",
       "gender": "male",
       "matchMinutes": 50,
-      "games": 7,
-      "wins": 2,
+      "games": 8,
+      "wins": 3,
       "draws": 0,
       "losses": 5,
-      "goalsFor": 202,
-      "goalsAgainst": 222,
-      "goalDifference": -20,
-      "winRate": 28.6
+      "goalsFor": 232,
+      "goalsAgainst": 251,
+      "goalDifference": -19,
+      "winRate": 37.5
     },
     {
       "id": "87265",

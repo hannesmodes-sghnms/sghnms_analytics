@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:57:26.124Z",
+  "generatedAt": "2026-11-25T05:13:51.940Z",
   "teams": [
     {
       "teamId": "86801",
@@ -6019,14 +6019,14 @@
           "current": {
             "round": 9,
             "position": 5,
-            "played": 7,
-            "won": 2,
+            "played": 8,
+            "won": 3,
             "drawn": 0,
             "lost": 5,
-            "goalsFor": 202,
-            "goalsAgainst": 222,
-            "goalDifference": -20,
-            "points": 4,
+            "goalsFor": 232,
+            "goalsAgainst": 251,
+            "goalDifference": -19,
+            "points": 6,
             "qualifies": true
           },
           "history": [
@@ -6098,53 +6098,53 @@
             {
               "round": 6,
               "position": 6,
-              "played": 4,
-              "won": 0,
-              "drawn": 0,
-              "lost": 4,
-              "goalsFor": 109,
-              "goalsAgainst": 135,
-              "goalDifference": -26,
-              "points": 0,
-              "qualifies": true
-            },
-            {
-              "round": 7,
-              "position": 6,
               "played": 5,
               "won": 1,
               "drawn": 0,
               "lost": 4,
-              "goalsFor": 144,
-              "goalsAgainst": 168,
-              "goalDifference": -24,
+              "goalsFor": 139,
+              "goalsAgainst": 164,
+              "goalDifference": -25,
               "points": 2,
+              "qualifies": true
+            },
+            {
+              "round": 7,
+              "position": 5,
+              "played": 6,
+              "won": 2,
+              "drawn": 0,
+              "lost": 4,
+              "goalsFor": 174,
+              "goalsAgainst": 197,
+              "goalDifference": -23,
+              "points": 4,
               "qualifies": true
             },
             {
               "round": 8,
               "position": 6,
-              "played": 6,
-              "won": 1,
-              "drawn": 0,
-              "lost": 5,
-              "goalsFor": 172,
-              "goalsAgainst": 202,
-              "goalDifference": -30,
-              "points": 2,
-              "qualifies": true
-            },
-            {
-              "round": 9,
-              "position": 5,
               "played": 7,
               "won": 2,
               "drawn": 0,
               "lost": 5,
               "goalsFor": 202,
-              "goalsAgainst": 222,
-              "goalDifference": -20,
+              "goalsAgainst": 231,
+              "goalDifference": -29,
               "points": 4,
+              "qualifies": true
+            },
+            {
+              "round": 9,
+              "position": 5,
+              "played": 8,
+              "won": 3,
+              "drawn": 0,
+              "lost": 5,
+              "goalsFor": 232,
+              "goalsAgainst": 251,
+              "goalDifference": -19,
+              "points": 6,
               "qualifies": true
             }
           ],
@@ -6164,23 +6164,23 @@
                   "name": "Male"
                 }
               },
-              "played": 8,
+              "played": 9,
               "won": 6,
               "drawn": 1,
-              "lost": 1,
-              "goalsFor": 256,
-              "goalsAgainst": 195,
-              "goalDifference": 61,
+              "lost": 2,
+              "goalsFor": 285,
+              "goalsAgainst": 225,
+              "goalDifference": 60,
               "points": 13,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 450757,
-                  "result": "L"
-                },
-                {
                   "matchId": 450760,
                   "result": "W"
+                },
+                {
+                  "matchId": 450762,
+                  "result": "L"
                 },
                 {
                   "matchId": 450766,
@@ -6352,23 +6352,23 @@
                   "name": "Male"
                 }
               },
-              "played": 7,
-              "won": 2,
+              "played": 8,
+              "won": 3,
               "drawn": 0,
               "lost": 5,
-              "goalsFor": 202,
-              "goalsAgainst": 222,
-              "goalDifference": -20,
-              "points": 4,
+              "goalsFor": 232,
+              "goalsAgainst": 251,
+              "goalDifference": -19,
+              "points": 6,
               "qualifies": true,
               "form": [
                 {
-                  "matchId": 450753,
+                  "matchId": 450759,
                   "result": "L"
                 },
                 {
-                  "matchId": 450759,
-                  "result": "L"
+                  "matchId": 450762,
+                  "result": "W"
                 },
                 {
                   "matchId": 450765,

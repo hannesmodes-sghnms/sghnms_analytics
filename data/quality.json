@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:57:25.865Z",
+  "generatedAt": "2026-11-25T05:13:51.551Z",
   "matches": [
     {
       "id": 504541,
@@ -7430,6 +7430,52 @@
             "message": "0/45 goal events with a player match the corresponding lineup."
           }
         ]
+      }
+    },
+    {
+      "id": 450762,
+      "date": "2026-11-24",
+      "ownTeamId": "87187",
+      "ownTeam": {
+        "label": "MJC 1",
+        "name": "mJC 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 29,
+          "away": 30
+        },
+        "eventFinalScore": {
+          "home": 29,
+          "away": 30
+        },
+        "lineupGoalTotals": {
+          "home": 29,
+          "away": 30
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 59,
+          "goalEventsWithPlayer": 59,
+          "matchedGoalEvents": 59,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
       }
     },
     {

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-24T15:57:25.864Z",
+  "generatedAt": "2026-11-25T05:13:51.549Z",
   "scopes": {
     "overall": {
-      "games": 155,
-      "wins": 83,
+      "games": 156,
+      "wins": 84,
       "draws": 3,
       "losses": 69,
-      "goalsFor": 3906,
-      "goalsAgainst": 3562,
-      "goalDifference": 344,
-      "winRate": 53.5
+      "goalsFor": 3936,
+      "goalsAgainst": 3591,
+      "goalDifference": 345,
+      "winRate": 53.8
     },
     "seniors": {
       "games": 48,
@@ -22,24 +22,24 @@
       "winRate": 45.8
     },
     "juniors": {
-      "games": 107,
-      "wins": 61,
+      "games": 108,
+      "wins": 62,
       "draws": 1,
       "losses": 45,
-      "goalsFor": 2603,
-      "goalsAgainst": 2301,
-      "goalDifference": 302,
-      "winRate": 57
+      "goalsFor": 2633,
+      "goalsAgainst": 2330,
+      "goalDifference": 303,
+      "winRate": 57.4
     },
     "male": {
-      "games": 69,
-      "wins": 38,
+      "games": 70,
+      "wins": 39,
       "draws": 2,
       "losses": 29,
-      "goalsFor": 1843,
-      "goalsAgainst": 1681,
-      "goalDifference": 162,
-      "winRate": 55.1
+      "goalsFor": 1873,
+      "goalsAgainst": 1710,
+      "goalDifference": 163,
+      "winRate": 55.7
     },
     "female": {
       "games": 86,

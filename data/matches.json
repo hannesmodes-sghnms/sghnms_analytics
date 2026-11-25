@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:57:25.866Z",
+  "generatedAt": "2026-11-25T05:13:51.552Z",
   "matches": [
     {
       "id": 504541,
@@ -12612,6 +12612,85 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/514289.json"
+    },
+    {
+      "id": 450762,
+      "date": "2026-11-24",
+      "time": "17:30",
+      "home": {
+        "id": 87188,
+        "name": "VFL Lübeck-SCHWARTAU",
+        "clubId": "0gll3ig"
+      },
+      "away": {
+        "id": 87187,
+        "name": "SG Handball Neumünster",
+        "clubId": "1yrb3n9"
+      },
+      "result": {
+        "home": 29,
+        "away": 30
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 9529,
+      "competition": "Oberliga Schleswig-Holstein männliche C-Jugend",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14076,
+        "name": "Vorrunde B"
+      },
+      "venue": {
+        "name": "SZ JAHNSTRAßE SPORTHALLE 1",
+        "address": "LUDWIG-JAHN-STRAßE, 23611 BAD SCHWARTAU"
+      },
+      "ownTeamId": "87187",
+      "ownTeam": {
+        "label": "MJC 1",
+        "name": "mJC 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "verified",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 29,
+          "away": 30
+        },
+        "eventFinalScore": {
+          "home": 29,
+          "away": 30
+        },
+        "lineupGoalTotals": {
+          "home": 29,
+          "away": 30
+        },
+        "eventScoreMatchesOfficial": true,
+        "lineupScoreMatchesOfficial": true,
+        "scorerLineupCoverage": {
+          "goalEvents": 59,
+          "goalEventsWithPlayer": 59,
+          "matchedGoalEvents": 59,
+          "percentage": 100
+        },
+        "halftimeAvailable": true,
+        "halftimeSource": "event",
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 3000,
+        "durationDeltaSeconds": 0,
+        "durationMatchesExpected": true,
+        "analyticsEligible": true,
+        "lineupEligible": true,
+        "warnings": []
+      },
+      "analyticsAvailable": true,
+      "analyticsPath": "match-analytics/450762.json"
     },
     {
       "id": 509824,
