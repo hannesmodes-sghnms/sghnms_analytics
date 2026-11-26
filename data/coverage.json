@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-26T04:40:57.185Z",
-  "finishedMatches": 159,
-  "analysesAvailable": 159,
+  "generatedAt": "2026-11-26T15:19:59.562Z",
+  "finishedMatches": 160,
+  "analysesAvailable": 160,
   "endpointCoverage": {
-    "eventsAvailable": 159,
+    "eventsAvailable": 160,
     "eventsPercent": 100,
-    "lineupsAvailable": 159,
+    "lineupsAvailable": 160,
     "lineupsPercent": 100,
-    "bothAvailable": 159,
+    "bothAvailable": 160,
     "bothPercent": 100
   },
   "verifiedAnalytics": {
     "eligibleMatches": 154,
-    "excludedMatches": 5,
-    "percent": 96.9
+    "excludedMatches": 6,
+    "percent": 96.3
   },
   "verification": {
     "eventScoreMatchesOfficial": 154,
@@ -22,33 +22,33 @@
     "halftimeEvent": 127,
     "halftimeDerived": 29,
     "durationMatchesExpected": 149,
-    "scorerLineupCoverage100": 158,
-    "eventScorePercent": 96.9,
-    "lineupScorePercent": 96.2,
-    "halftimePercent": 98.1,
-    "durationPercent": 93.7,
+    "scorerLineupCoverage100": 159,
+    "eventScorePercent": 96.3,
+    "lineupScorePercent": 95.6,
+    "halftimePercent": 97.5,
+    "durationPercent": 93.1,
     "scorerLineupCoverage100Percent": 99.4
   },
   "warningSummary": [
     {
       "code": "DURATION_MISMATCH",
       "severity": "warning",
-      "count": 10
+      "count": 11
     },
     {
       "code": "LINEUP_SCORE_MISMATCH",
       "severity": "warning",
-      "count": 6
+      "count": 7
     },
     {
       "code": "EVENT_SCORE_MISMATCH",
       "severity": "critical",
-      "count": 5
+      "count": 6
     },
     {
       "code": "HALFTIME_MISSING",
       "severity": "warning",
-      "count": 3
+      "count": 4
     },
     {
       "code": "SCORER_LINEUP_MISMATCH",
@@ -350,14 +350,14 @@
       "ageGroup": "youth",
       "gender": "female",
       "matchMinutes": 50,
-      "finishedMatches": 6,
-      "eventsAvailable": 6,
-      "lineupsAvailable": 6,
-      "bothAvailable": 6,
+      "finishedMatches": 7,
+      "eventsAvailable": 7,
+      "lineupsAvailable": 7,
+      "bothAvailable": 7,
       "analyticsEligible": 6,
-      "analyticsExcluded": 0,
-      "analyticsPercent": 100,
-      "warnings": 1
+      "analyticsExcluded": 1,
+      "analyticsPercent": 85.7,
+      "warnings": 5
     },
     {
       "id": "94480",

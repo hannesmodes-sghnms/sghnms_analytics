@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:40:57.188Z",
+  "generatedAt": "2026-11-26T15:19:59.565Z",
   "matches": [
     {
       "id": 504541,
@@ -12691,6 +12691,106 @@
       },
       "analyticsAvailable": true,
       "analyticsPath": "match-analytics/450762.json"
+    },
+    {
+      "id": 553540,
+      "date": "2026-12-06",
+      "time": "12:00",
+      "home": {
+        "id": 87277,
+        "name": "SG Handball Neumünster II",
+        "clubId": "1yrb3n9"
+      },
+      "away": {
+        "id": 82148,
+        "name": "SG HÖRNERKIRCHEN/HOHENFELDE",
+        "clubId": "0c4lr57"
+      },
+      "result": {
+        "home": 1,
+        "away": 0
+      },
+      "status": {
+        "finished": true,
+        "live": false
+      },
+      "competitionId": 7196,
+      "competition": "Regionsliga WEIBLICH",
+      "competitionScope": "league",
+      "statsRelevant": true,
+      "phase": {
+        "id": 14626,
+        "name": "WJC-RL-4"
+      },
+      "venue": {
+        "name": "KSV-HALLE NMS",
+        "address": "HANSARING 130, 24534 NEUMüNSTER"
+      },
+      "ownTeamId": "87277",
+      "ownTeam": {
+        "label": "WJC 2",
+        "name": "wJC 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 1,
+          "away": 0
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -3000,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 1:0."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 1:0."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 3000s by -3000s."
+          }
+        ]
+      },
+      "analyticsAvailable": false,
+      "analyticsPath": "match-analytics/553540.json"
     },
     {
       "id": 509824,

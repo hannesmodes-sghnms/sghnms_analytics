@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:40:58.104Z",
+  "generatedAt": "2026-11-26T15:20:00.292Z",
   "matches": [
     {
       "id": 504541,
@@ -1896,6 +1896,18 @@
       "competitionScope": "league",
       "qualityStatus": "verified",
       "path": "match-analytics/450762.json"
+    },
+    {
+      "id": 553540,
+      "date": "2026-12-06",
+      "time": "12:00",
+      "ownTeamId": "87277",
+      "opponent": "SG HÖRNERKIRCHEN/HOHENFELDE",
+      "analyticsEligible": false,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "invalid",
+      "path": "match-analytics/553540.json"
     },
     {
       "id": 509824,

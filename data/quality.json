@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:40:57.187Z",
+  "generatedAt": "2026-11-26T15:19:59.564Z",
   "matches": [
     {
       "id": 504541,
@@ -7476,6 +7476,73 @@
         "analyticsEligible": true,
         "lineupEligible": true,
         "warnings": []
+      }
+    },
+    {
+      "id": 553540,
+      "date": "2026-12-06",
+      "ownTeamId": "87277",
+      "ownTeam": {
+        "label": "WJC 2",
+        "name": "wJC 2",
+        "ageGroup": "youth",
+        "gender": "female",
+        "matchMinutes": 50
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 1,
+          "away": 0
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 3000,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -3000,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 1:0."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 1:0."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 3000s by -3000s."
+          }
+        ]
       }
     },
     {

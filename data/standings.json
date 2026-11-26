@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:40:57.697Z",
+  "generatedAt": "2026-11-26T15:19:59.932Z",
   "teams": [
     {
       "teamId": "86801",
@@ -10046,8 +10046,8 @@
           "teamCount": 10,
           "current": {
             "round": 8,
-            "position": 8,
-            "played": 6,
+            "position": 9,
+            "played": 7,
             "won": 0,
             "drawn": 0,
             "lost": 6,
@@ -10138,8 +10138,8 @@
             },
             {
               "round": 8,
-              "position": 8,
-              "played": 6,
+              "position": 9,
+              "played": 7,
               "won": 0,
               "drawn": 0,
               "lost": 6,
@@ -10483,53 +10483,6 @@
             {
               "position": 8,
               "team": {
-                "id": 87277,
-                "name": "SG Handball Neumünster II",
-                "club": {
-                  "id": "1yrb3n9",
-                  "name": "SG Handball Neumünster",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
-                },
-                "gender": {
-                  "id": "F",
-                  "name": "Female"
-                }
-              },
-              "played": 6,
-              "won": 0,
-              "drawn": 0,
-              "lost": 6,
-              "goalsFor": 94,
-              "goalsAgainst": 150,
-              "goalDifference": -56,
-              "points": 0,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 553512,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553518,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553523,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553527,
-                  "result": "L"
-                },
-                {
-                  "matchId": 553533,
-                  "result": "L"
-                }
-              ]
-            },
-            {
-              "position": 9,
-              "team": {
                 "id": 82149,
                 "name": "HSG STÖRTAL HUMMELN",
                 "club": {
@@ -10575,6 +10528,53 @@
               ]
             },
             {
+              "position": 9,
+              "team": {
+                "id": 87277,
+                "name": "SG Handball Neumünster II",
+                "club": {
+                  "id": "1yrb3n9",
+                  "name": "SG Handball Neumünster",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/14289/square_356162776b653033796a.jpg"
+                },
+                "gender": {
+                  "id": "F",
+                  "name": "Female"
+                }
+              },
+              "played": 7,
+              "won": 0,
+              "drawn": 0,
+              "lost": 6,
+              "goalsFor": 94,
+              "goalsAgainst": 150,
+              "goalDifference": -56,
+              "points": 0,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 553518,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553523,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553527,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553533,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553540,
+                  "result": "W"
+                }
+              ]
+            },
+            {
               "position": 10,
               "team": {
                 "id": 82148,
@@ -10589,7 +10589,7 @@
                   "name": "Female"
                 }
               },
-              "played": 6,
+              "played": 7,
               "won": 0,
               "drawn": 0,
               "lost": 0,
@@ -10599,10 +10599,6 @@
               "points": 0,
               "qualifies": false,
               "form": [
-                {
-                  "matchId": 553510,
-                  "result": "L"
-                },
                 {
                   "matchId": 553515,
                   "result": "W"
@@ -10617,6 +10613,10 @@
                 },
                 {
                   "matchId": 553530,
+                  "result": "L"
+                },
+                {
+                  "matchId": 553540,
                   "result": "L"
                 }
               ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T04:40:57.186Z",
+  "generatedAt": "2026-11-26T15:19:59.563Z",
   "teams": [
     {
       "id": "86801",
@@ -294,14 +294,14 @@
       "ageGroup": "youth",
       "gender": "female",
       "matchMinutes": 50,
-      "games": 6,
-      "wins": 0,
+      "games": 7,
+      "wins": 1,
       "draws": 0,
       "losses": 6,
-      "goalsFor": 94,
+      "goalsFor": 95,
       "goalsAgainst": 150,
-      "goalDifference": -56,
-      "winRate": 0
+      "goalDifference": -55,
+      "winRate": 14.3
     },
     {
       "id": "94480",
