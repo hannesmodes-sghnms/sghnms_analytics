@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:08:24.919Z",
+  "generatedAt": "2026-11-28T04:29:36.568Z",
   "matches": [
     {
       "id": 504541,
@@ -1908,6 +1908,18 @@
       "competitionScope": "league",
       "qualityStatus": "invalid",
       "path": "match-analytics/553540.json"
+    },
+    {
+      "id": 518624,
+      "date": "2026-12-13",
+      "time": "15:30",
+      "ownTeamId": "87107",
+      "opponent": "SG TODESFELDE/LEEZEN",
+      "analyticsEligible": false,
+      "statsRelevant": true,
+      "competitionScope": "league",
+      "qualityStatus": "invalid",
+      "path": "match-analytics/518624.json"
     },
     {
       "id": 509824,

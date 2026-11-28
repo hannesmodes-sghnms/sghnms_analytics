@@ -1,0 +1,106 @@
+{
+  "generatedAt": "2026-11-28T04:29:36.558Z",
+  "match": {
+    "id": 518624,
+    "date": "2026-12-13",
+    "time": "15:30",
+    "competitionId": 7241,
+    "competition": "Kreisoberliga mE Neumünster",
+    "competitionScope": "league",
+    "statsRelevant": true,
+    "phase": {
+      "id": 15496,
+      "name": "mE-KL-West"
+    },
+    "venue": {
+      "name": "ASH TODESFELDE",
+      "address": "DORFSTRASSE, 23826 TODESFELDE"
+    },
+    "home": {
+      "id": 94067,
+      "name": "SG TODESFELDE/LEEZEN",
+      "clubId": "0wkml89"
+    },
+    "away": {
+      "id": 87107,
+      "name": "SG Handball Neumünster",
+      "clubId": "1yrb3n9"
+    },
+    "result": {
+      "home": 0,
+      "away": 2
+    },
+    "ownTeamId": "87107",
+    "ownTeam": {
+      "label": "MJE 1",
+      "name": "mJE 1",
+      "ageGroup": "youth",
+      "gender": "male",
+      "youthClass": "E",
+      "matchMinutes": 40,
+      "twoMinutePlayerReduction": false
+    },
+    "isHome": false,
+    "opponent": {
+      "id": 94067,
+      "name": "SG TODESFELDE/LEEZEN",
+      "clubId": "0wkml89"
+    }
+  },
+  "quality": {
+    "status": "invalid",
+    "eventsAvailable": true,
+    "lineupsAvailable": true,
+    "officialScore": {
+      "home": 0,
+      "away": 2
+    },
+    "eventFinalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "lineupGoalTotals": {
+      "home": 0,
+      "away": 0
+    },
+    "eventScoreMatchesOfficial": false,
+    "lineupScoreMatchesOfficial": false,
+    "scorerLineupCoverage": {
+      "goalEvents": 0,
+      "goalEventsWithPlayer": 0,
+      "matchedGoalEvents": 0,
+      "percentage": 100
+    },
+    "halftimeAvailable": false,
+    "halftimeSource": null,
+    "expectedDurationSeconds": 2400,
+    "eventDurationSeconds": 0,
+    "durationDeltaSeconds": -2400,
+    "durationMatchesExpected": false,
+    "analyticsEligible": false,
+    "lineupEligible": true,
+    "warnings": [
+      {
+        "code": "EVENT_SCORE_MISMATCH",
+        "severity": "critical",
+        "message": "Event score 0:0 differs from official result 0:2."
+      },
+      {
+        "code": "LINEUP_SCORE_MISMATCH",
+        "severity": "warning",
+        "message": "Lineup goal totals 0:0 differ from official result 0:2."
+      },
+      {
+        "code": "HALFTIME_MISSING",
+        "severity": "warning",
+        "message": "No halftime score could be determined from the event stream."
+      },
+      {
+        "code": "DURATION_MISMATCH",
+        "severity": "warning",
+        "message": "Event duration 0s differs from expected duration 2400s by -2400s."
+      }
+    ]
+  },
+  "analytics": null
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:08:24.407Z",
+  "generatedAt": "2026-11-28T04:29:35.730Z",
   "matches": [
     {
       "id": 504541,
@@ -7541,6 +7541,75 @@
             "code": "DURATION_MISMATCH",
             "severity": "warning",
             "message": "Event duration 0s differs from expected duration 3000s by -3000s."
+          }
+        ]
+      }
+    },
+    {
+      "id": 518624,
+      "date": "2026-12-13",
+      "ownTeamId": "87107",
+      "ownTeam": {
+        "label": "MJE 1",
+        "name": "mJE 1",
+        "ageGroup": "youth",
+        "gender": "male",
+        "youthClass": "E",
+        "matchMinutes": 40,
+        "twoMinutePlayerReduction": false
+      },
+      "quality": {
+        "status": "invalid",
+        "eventsAvailable": true,
+        "lineupsAvailable": true,
+        "officialScore": {
+          "home": 0,
+          "away": 2
+        },
+        "eventFinalScore": {
+          "home": 0,
+          "away": 0
+        },
+        "lineupGoalTotals": {
+          "home": 0,
+          "away": 0
+        },
+        "eventScoreMatchesOfficial": false,
+        "lineupScoreMatchesOfficial": false,
+        "scorerLineupCoverage": {
+          "goalEvents": 0,
+          "goalEventsWithPlayer": 0,
+          "matchedGoalEvents": 0,
+          "percentage": 100
+        },
+        "halftimeAvailable": false,
+        "halftimeSource": null,
+        "expectedDurationSeconds": 2400,
+        "eventDurationSeconds": 0,
+        "durationDeltaSeconds": -2400,
+        "durationMatchesExpected": false,
+        "analyticsEligible": false,
+        "lineupEligible": true,
+        "warnings": [
+          {
+            "code": "EVENT_SCORE_MISMATCH",
+            "severity": "critical",
+            "message": "Event score 0:0 differs from official result 0:2."
+          },
+          {
+            "code": "LINEUP_SCORE_MISMATCH",
+            "severity": "warning",
+            "message": "Lineup goal totals 0:0 differ from official result 0:2."
+          },
+          {
+            "code": "HALFTIME_MISSING",
+            "severity": "warning",
+            "message": "No halftime score could be determined from the event stream."
+          },
+          {
+            "code": "DURATION_MISMATCH",
+            "severity": "warning",
+            "message": "Event duration 0s differs from expected duration 2400s by -2400s."
           }
         ]
       }

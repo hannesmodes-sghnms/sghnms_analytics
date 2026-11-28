@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T15:08:24.669Z",
+  "generatedAt": "2026-11-28T04:29:36.175Z",
   "teams": [
     {
       "teamId": "86801",
@@ -1035,20 +1035,16 @@
                   "name": "Male"
                 }
               },
-              "played": 9,
+              "played": 10,
               "won": 5,
               "drawn": 0,
-              "lost": 4,
-              "goalsFor": 287,
-              "goalsAgainst": 287,
-              "goalDifference": 0,
+              "lost": 5,
+              "goalsFor": 318,
+              "goalsAgainst": 320,
+              "goalDifference": -2,
               "points": 10,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 504568,
-                  "result": "W"
-                },
                 {
                   "matchId": 504574,
                   "result": "L"
@@ -1060,6 +1056,10 @@
                 {
                   "matchId": 504587,
                   "result": "W"
+                },
+                {
+                  "matchId": 504593,
+                  "result": "L"
                 },
                 {
                   "matchId": 504601,
@@ -1305,6 +1305,53 @@
             {
               "position": 10,
               "team": {
+                "id": 81694,
+                "name": "TuRa Meldorf",
+                "club": {
+                  "id": "1gz2zvt",
+                  "name": "TuRa Meldorf",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5587/square_6c366633696d34633937.jpg"
+                },
+                "gender": {
+                  "id": "M",
+                  "name": "Male"
+                }
+              },
+              "played": 8,
+              "won": 2,
+              "drawn": 1,
+              "lost": 5,
+              "goalsFor": 239,
+              "goalsAgainst": 258,
+              "goalDifference": -19,
+              "points": 5,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 504567,
+                  "result": "W"
+                },
+                {
+                  "matchId": 504573,
+                  "result": "L"
+                },
+                {
+                  "matchId": 504580,
+                  "result": "L"
+                },
+                {
+                  "matchId": 504586,
+                  "result": "D"
+                },
+                {
+                  "matchId": 504593,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 11,
+              "team": {
                 "id": 81685,
                 "name": "HSG STÖRTAL HUMMELN",
                 "club": {
@@ -1346,53 +1393,6 @@
                 {
                   "matchId": 504582,
                   "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 11,
-              "team": {
-                "id": 81694,
-                "name": "TuRa Meldorf",
-                "club": {
-                  "id": "1gz2zvt",
-                  "name": "TuRa Meldorf",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/5587/square_6c366633696d34633937.jpg"
-                },
-                "gender": {
-                  "id": "M",
-                  "name": "Male"
-                }
-              },
-              "played": 7,
-              "won": 1,
-              "drawn": 1,
-              "lost": 5,
-              "goalsFor": 206,
-              "goalsAgainst": 227,
-              "goalDifference": -21,
-              "points": 3,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 504560,
-                  "result": "L"
-                },
-                {
-                  "matchId": 504567,
-                  "result": "W"
-                },
-                {
-                  "matchId": 504573,
-                  "result": "L"
-                },
-                {
-                  "matchId": 504580,
-                  "result": "L"
-                },
-                {
-                  "matchId": 504586,
-                  "result": "D"
                 }
               ]
             },
@@ -3359,20 +3359,20 @@
           "competitionScope": "league",
           "statsRelevant": true,
           "firstDate": "2026-09-06",
-          "lastDate": "2026-12-05",
-          "currentRound": 7,
+          "lastDate": "2026-12-13",
+          "currentRound": 8,
           "teamCount": 9,
           "current": {
-            "round": 7,
+            "round": 8,
             "position": 1,
-            "played": 6,
-            "won": 6,
+            "played": 7,
+            "won": 7,
             "drawn": 0,
             "lost": 0,
-            "goalsFor": 194,
+            "goalsFor": 196,
             "goalsAgainst": 103,
-            "goalDifference": 91,
-            "points": 12,
+            "goalDifference": 93,
+            "points": 14,
             "qualifies": true
           },
           "history": [
@@ -3466,6 +3466,19 @@
               "goalDifference": 91,
               "points": 12,
               "qualifies": true
+            },
+            {
+              "round": 8,
+              "position": 1,
+              "played": 7,
+              "won": 7,
+              "drawn": 0,
+              "lost": 0,
+              "goalsFor": 196,
+              "goalsAgainst": 103,
+              "goalDifference": 93,
+              "points": 14,
+              "qualifies": true
             }
           ],
           "table": [
@@ -3484,20 +3497,16 @@
                   "name": "Mixed"
                 }
               },
-              "played": 6,
-              "won": 6,
+              "played": 7,
+              "won": 7,
               "drawn": 0,
               "lost": 0,
-              "goalsFor": 194,
+              "goalsFor": 196,
               "goalsAgainst": 103,
-              "goalDifference": 91,
-              "points": 12,
+              "goalDifference": 93,
+              "points": 14,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 518598,
-                  "result": "W"
-                },
                 {
                   "matchId": 518603,
                   "result": "W"
@@ -3512,6 +3521,10 @@
                 },
                 {
                   "matchId": 518620,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518624,
                   "result": "W"
                 }
               ]
@@ -3566,53 +3579,6 @@
             {
               "position": 3,
               "team": {
-                "id": 87096,
-                "name": "SG BORDESHOLM/BRÜGGE",
-                "club": {
-                  "id": "0mjcjfn",
-                  "name": "SG Bordesholm/Brügge",
-                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6038/square_357938366d7733773135.jpg"
-                },
-                "gender": {
-                  "id": "X",
-                  "name": "Mixed"
-                }
-              },
-              "played": 6,
-              "won": 4,
-              "drawn": 0,
-              "lost": 2,
-              "goalsFor": 146,
-              "goalsAgainst": 124,
-              "goalDifference": 22,
-              "points": 8,
-              "qualifies": true,
-              "form": [
-                {
-                  "matchId": 518603,
-                  "result": "L"
-                },
-                {
-                  "matchId": 518607,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518611,
-                  "result": "L"
-                },
-                {
-                  "matchId": 518615,
-                  "result": "W"
-                },
-                {
-                  "matchId": 518619,
-                  "result": "W"
-                }
-              ]
-            },
-            {
-              "position": 4,
-              "team": {
                 "id": 94507,
                 "name": "SV Weede v. 1949 e.V. II",
                 "club": {
@@ -3653,6 +3619,53 @@
                 },
                 {
                   "matchId": 518617,
+                  "result": "W"
+                }
+              ]
+            },
+            {
+              "position": 4,
+              "team": {
+                "id": 87096,
+                "name": "SG BORDESHOLM/BRÜGGE",
+                "club": {
+                  "id": "0mjcjfn",
+                  "name": "SG Bordesholm/Brügge",
+                  "logo": "https://handball360.isquad.de/images/afiliacion_clubs/6038/square_357938366d7733773135.jpg"
+                },
+                "gender": {
+                  "id": "X",
+                  "name": "Mixed"
+                }
+              },
+              "played": 6,
+              "won": 4,
+              "drawn": 0,
+              "lost": 2,
+              "goalsFor": 146,
+              "goalsAgainst": 124,
+              "goalDifference": 22,
+              "points": 8,
+              "qualifies": true,
+              "form": [
+                {
+                  "matchId": 518603,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518607,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518611,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518615,
+                  "result": "W"
+                },
+                {
+                  "matchId": 518619,
                   "result": "W"
                 }
               ]
@@ -3813,20 +3826,16 @@
                   "name": "Mixed"
                 }
               },
-              "played": 6,
+              "played": 7,
               "won": 1,
               "drawn": 0,
-              "lost": 5,
+              "lost": 6,
               "goalsFor": 62,
-              "goalsAgainst": 170,
-              "goalDifference": -108,
+              "goalsAgainst": 172,
+              "goalDifference": -110,
               "points": 2,
               "qualifies": true,
               "form": [
-                {
-                  "matchId": 518601,
-                  "result": "L"
-                },
                 {
                   "matchId": 518609,
                   "result": "W"
@@ -3841,6 +3850,10 @@
                 },
                 {
                   "matchId": 518619,
+                  "result": "L"
+                },
+                {
+                  "matchId": 518624,
                   "result": "L"
                 }
               ]
